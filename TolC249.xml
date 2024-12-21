@@ -39,7 +39,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <head>Iḷampūraṇar</head>
-        <p>ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
       <div xml:id="TolC249-Ilam1">
           <p type="edition">
 eṉpatu cūttiram.
@@ -72,15 +72,25 @@ ic cūttiram iṭaic coṟkellām potuvāyatōr ilakkaṇam uṇarttutal nutali�
       </div>
       <div xml:id="TolC249-Ilam6">
           <p type="edition">
-varalāṟu: uṇṭāṉ eṉṉuṅ toṭakkattaṉ. (1)
+varalāṟu: 
           </p>
+      </div>
+      <div xml:id="TolC249-Ilam6-q1">
+        <lg type="edition">
+            <l>uṇṭāṉ</l>
+        </lg>
+      </div>
+      <div xml:id="TolC249-Ilam7">
+        <p>
+eṉṉuṅ toṭakkattaṉ. (1)
+        </p>
       </div>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
         <head>Cēṉāvaraiyar</head>
-        <p>ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n205/mode/1up">202</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n206/mode/1up">203</ref>.</p>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n205/mode/1up">202</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n206/mode/1up">203</ref>.</p>
       <div xml:id="TolC249-Cena1">
           <p type="edition">
 niṟutta muṟaiyāṉē iṭaiccoluṇarttiya veṭuttukkoṇṭār. ataṉāṉ ivvōttu iṭaiyiyaleṉṉum peyarttāyiṟṟu. moḻikku muṉṉum piṉṉum varumāyiṉum perumpāṉmaiyum iṭai varutaliṉ iṭaiccol lāyiṟṟu.
@@ -122,20 +132,56 @@ cārntu varutal uriccoṟkumottaliṉ, tamakkeṉap poruḷiṉmai iṭaiccoṟk
       </div>
       <div xml:id="TolC249-Cena8">
           <p type="edition">
-peyaroṭum viṉayoṭunaṭaipeṟṟiyaluntamakkiyalpila veṉap potuppaṭak kūṟiyavataṉāl, cārappaṭuñcolliṉ vērāy varutalēyaṉṟi, uṇṭaṉaṉ, uṇṭāṉ. e-m. eṉmaṉār, eṉṟiciṉōr. e-m. aruṅkuraittu. e-m. avaṟṟiṟkuṟuppāy varukaluṅkoḷka.
+peyaroṭum viṉayoṭunaṭaipeṟṟiyaluntamakkiyalpila veṉap potuppaṭak kūṟiyavataṉāl, cārappaṭuñcolliṉ vērāy varutalēyaṉṟi,
           </p>
       </div>
-      <div xml:id="TolC249-Cena9">
-          <p type="edition">
+      <div xml:id="TolC249-Cena8-q1">
+        <lg type="edition">
+          <l>uṇṭaṉaṉ,</l>
+        </lg>
+      </div>
+      <div xml:id="TolC249-Cena8-q2">
+        <lg type="edition">
+          <l>uṇṭāṉ.</l>
+        </lg>
+      </div>
+      <div xml:id="TolC49-Cena9">
+          <p>e-m.</p>
+      </div>
+      <div xml:id="TolC49-Cena9-q1">
+        <lg type="edition">
+          <l>eṉmaṉār,</l>
+        </lg>
+      </div>
+      <div xml:id="TolC49-Cena9-q2">
+        <lg type="edition">
+          <l>eṉṟiciṉōr.</l>
+        </lg>
+      </div>
+      <div xml:id="TolC49-Cena10">
+        <p>e-m.</p>
+      </div>
+      <div xml:id="TolC49-Cena10-q1">
+        <lg type="edition">
+          <l>aruṅkuraittu.</l>
+        </lg>
+      </div>
+      <div xml:id="TolC49-Cena11">
+        <p>
+e-m. avaṟṟiṟkuṟuppāy varukaluṅkoḷka.
+        </p>
+      </div>
+      <div xml:id="TolC249-Cena12">
+        <p type="edition">
 iṉi orurai:― “iṭaiccoṟkiḷaviyum uriccoṟkiḷaviyum avaṟṟuvaḻimaruṅkiṟṟōṉṟum” eṉpataṟku, cārntu varukalāṉ iṭaiccollum uriccolluñ ciṟappila ivaiyuṭpaṭac coṉṉāṉkāmeṉpatu karuttākaliṉ, iṭaiccoṟ peyarum viṉaiyuñcārntu varumeṉṉum vēṟupāṭu ataṉāṟpeṟappaṭātu. eṉṉai? iṭaiccoṟ peyar cārntum uriccol viṉai cārntum variṉum avaṟṟatu iṟappiṉmaiyuñ coṉṉāṉkātalum uṇarttutal citaiyātā kalāṉ. ataṉāṉ iṭaiccoṟpeyarum viṇaiyuñcārntu varumeṉpatu iccūttirattāṟ kūṟalvēṇṭumeṉpa. avvuraiyuraippār “peyariṉum viṉaiyiṉu meytaṭu māṟi” eṉpataṟkum peyarum viṉaiyuñcārnteṉṟu poruḷuraippa.
-</p>
+        </p>
       </div>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p>ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
       <div xml:id="TolC249-Nacc1">
           <p type="edition">
 eṉpatu cūttiram itu, niṟutta muṟaiyāṉē yiṭaic col luṇarttu kiṉṟamaiyi ṉivvōttiṭaiccol lōtteṉṉum peyarttāyiṟṟu. iccūttiram, iṭaic coṟkellām potu vilakkaṇaṅ kūṟukiṉṟatu.
@@ -173,15 +219,35 @@ eṉap peyarum viṉaiyuñ cārntu niṉṟu avaṟṟiṉ poruḷai viḷakki�
       </div>
       <div xml:id="TolC249-Nacc6">
           <p type="edition">
-‘tamakkiyalpu’ ilaveṉap potuppaṭak kūṟiya vataṉāṟ cārappaṭuñ colliṉ vēṟāy niṟṟalē yaṉṟi, ‘uṇṭāṉ, eṉṟici ṉōrē’ aruṅkuraittu eṉpaṉavaṟṟiṟ kuṟuppāy varutaluṅ koḷka.
+‘tamakkiyalpu’ ilaveṉap potuppaṭak kūṟiya vataṉāṟ cārappaṭuñ colliṉ vēṟāy niṟṟalē yaṉṟi,
           </p>
+      </div>
+      <div xml:id="TolC249-Nacc6-q1">
+          <lg type="edition">
+            <l>‘uṇṭāṉ,</l>
+          </lg>
+      </div>
+      <div xml:id="TolC249-Nacc6-q2">
+        <lg type="edition">
+          <l>eṉṟici ṉōrē’</l>
+        </lg>
+      </div>
+      <div xml:id="TolC249-Nacc6-q3">
+        <lg type="edition">
+          <l>aruṅkuraittu</l>
+        </lg>
+      </div>
+      <div xml:id="TolC249-Nacc7">
+        <p>
+eṉpaṉavaṟṟiṟ kuṟuppāy varutaluṅ koḷka.
+        </p>
       </div>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
-      <p>1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
       <div xml:id="TolC249-Tey1">
           <p type="edition">
 ivvōttu eṉṉa peyarttō eṉiṉ, iṭaiccol ōttu eṉṉum peyarttu: iṭaiccol uṇarttiṉamai yāṟ peṟṟa peyar. itu peyaraiyum viṉaiyaiyum cārntu tōṉṟutaliṉ avaṟṟiṉ piṉ kūṟappaṭṭatu.
@@ -212,7 +278,7 @@ peyarum viṉaiyum iṭamāka niṉṟu poruḷ uṇarttu taliṉ iṭaiccollāy
   <text xml:lang="ta" type="edition">
     <body>
       <head>Kallāṭaṉār</head>
-      <p>ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, 193.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, 193.</p>
       <div xml:id="TolC249-Kal1">
           <p type="edition">
 ivvōttu eṉṉai peyarttō eṉiṉ, iṭaiccollilakkaṇam uṇarttutalāṉ iṭaiccollōttu eṉṉum peyarttu.
@@ -619,6 +685,103 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
 <entry>
 <form>maṟṟaiyatu</form>
 <def>other</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Ilam6-q1" type="wordsplit">
+<interp type="alignment" select="0">5M,5M</interp>
+<entry>
+<form>uṇṭāṉ</form>
+<def>he ate</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Cena8-q1" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>uṇṭaṉaṉ</form>
+<def>he ate</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Cena8-q2" type="wordsplit">
+<interp type="alignment" select="0">6M,5MG</interp>
+<entry>
+<form>uṇṭāṉ</form>
+<def>he ate</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC49-Cena9-q1" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC49-Cena9-q2" type="wordsplit">
+<interp type="alignment" select="0">10M,9MG</interp>
+<entry>
+<form>eṉṟiciṉōr</form>
+<def>said-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC49-Cena10-q1" type="wordsplit">
+<interp type="alignment" select="0">13M,12MG</interp>
+<entry>
+<form>aruṅkuraittu</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Nacc6-q1" type="wordsplit">
+<interp type="alignment" select="0">7M,G5MG</interp>
+<entry>
+<form>uṇṭāṉ</form>
+<def>he ate</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Nacc6-q2" type="wordsplit">
+<interp type="alignment" select="0">9MG2M,11MG</interp>
+<entry>
+<form>eṉṟiciṉōr-ē</form>
+<def>said-he</def>
+<form type="simple">eṉṟiciṉōr</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC249-Nacc6-q3" type="wordsplit">
+<interp type="alignment" select="0">12M,12M</interp>
+<entry>
+<form>aruṅkuraittu</form>
+<def>difficult</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
