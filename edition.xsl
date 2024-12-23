@@ -9,5 +9,6 @@
 <xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes" indent="no"/>
 
 <xsl:param name="root">./lib/</xsl:param>
+<xsl:param name="debugging">false</xsl:param>
 
 </xsl:stylesheet>
