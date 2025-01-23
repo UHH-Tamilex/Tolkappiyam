@@ -63,7 +63,7 @@ varalāṟu:
             <l>uṇṭāṉ</l>
       </lg>
       <p xml:id="TolC249-Ilam7">
-eṉṉuṅ toṭakkattaṉ. (1)
+eṉṉun toṭakkattaṉ. (1)
       </p>
     </body>
   </text>
@@ -242,7 +242,7 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
     </body>
   </text>
 <standOff corresp="#TolC249" type="wordsplit">
-<interp type="alignment" select="0">22M2G10M2GMR9MG4MG8MG5MG3MG2M,74M</interp>
+<interp type="alignment" select="0">22M2G10M2GMR9MG12MG5MG3MG2M,73M</interp>
 <entry>
 <form>iṭai</form>
 <def>grammatical particle</def>
@@ -301,13 +301,12 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
 </gramGrp>
 </entry>
 <entry>
-<form>iyal-um</form>
-<def>nature</def>
-<form type="simple">iyal</form>
+<form>iyalum</form>
+<def>are possible</def>
+<form type="sandhi">iyalun</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tamakk<c type="elided">u</c></form>
