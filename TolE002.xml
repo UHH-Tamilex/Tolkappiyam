@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -39,7 +36,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE002"><interp type="alignment" select="0">11MG14MG30MG8MG6M,73M</interp>
+<standOff type="wordsplit" corresp="#TolE002">
+<interp type="alignment" select="0">11MG14MG30MG8MG6M,73M</interp>
 <entry>
 <form>avai</form>
 <def>those</def>
@@ -74,7 +72,7 @@
 </entry>
 <entry>
 <form>ikaram</form>
-<def>syllable 'i' </def>
+<def>syllable 'i'</def>
 <form type="sandhi">ikaraṅ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -104,7 +102,7 @@
 </entry>
 <entry>
 <form>āytam</form>
-<def>letter 'k' </def>
+<def>letter 'ḵ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -120,8 +118,6 @@
 <entry>
 <form>mu<c type="geminated">p</c></form>
 <def>three</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāl</form>
@@ -151,13 +147,10 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-<gramGrp>
-</gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
