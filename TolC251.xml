@@ -203,10 +203,9 @@ ivai piṉṉaṭuttaṉa.
         <l>‘varukatil lammavem cēri cēra’</l>
       </lg>
       <lg xml:id="TolC251-Nacc-cit5">
-        <l>‘paṇṭaṟiyā tīrpōṟ paṭarkiṟpīr’</l>
+        <l>‘paṇṭaṟiyā tīrpōṟ paṭarkiṟpīr’ maṟkoḷō!</l>
       </lg>
       <p>
-maṟkoḷō!
       </p>
       <p>
 ivai piṟituniṉṟaṉa.
@@ -845,7 +844,7 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC251-Nacc-cit5" type="wordsplit">
-<interp type="alignment" select="0">5MG23M,G27MG</interp>
+<interp type="alignment" select="0">5MG29MG2M,G36MG</interp>
 <entry>
 <form>paṇṭ<c type="elided">u</c></form>
 <def>formerly</def>
@@ -854,18 +853,12 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 </gramGrp>
 </entry>
 <entry>
-<form>aṟiyā</form>
-<def>know-not</def>
+<form>aṟiyātīr</form>
+<def>you don't know</def>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
   <gram type="role">negative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tīr</form>
-<def>end</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -877,14 +870,71 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 </gramGrp>
 </entry>
 <entry>
-<form>paṭarkiṉ</form>
-<form type="sandhi">paṭarkiṟ</form>
-</entry>
-<entry>
-<form>pīr</form>
-<def>sponge gourd</def>
+<form>paṭar</form>
+<def>affliction</def>
 <gramGrp>
   <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiṟpīr-maṟkollō</form>
+<def>you can</def>
+<form type="simple">kiṟpīr</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṟkollō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Nacc-cit6" type="wordsplit">
+<interp type="alignment" select="0">11MG3M,G13MG</interp>
+<entry>
+<form>maṉṉai<c type="geminated">c</c></form>
+<def>the word maṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col-<c type="geminated">l</c>ē</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Nacc-cit7" type="wordsplit">
+<interp type="alignment" select="0">11MG3M,G13MG</interp>
+<entry>
+<form>koṉṉai<c type="geminated">c</c></form>
+<def>the word koṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col-<c type="geminated">l</c>ē</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Nacc-cit8" type="wordsplit">
+<interp type="alignment" select="0">15M,G13MG</interp>
+<entry>
+<form>ṉakārai</form>
+<def>the letter ṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉṉar</form>
+<def>before</def>
+<gramGrp>
 </gramGrp>
 </entry>
 </standOff></TEI>
