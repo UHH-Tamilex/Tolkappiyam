@@ -586,6 +586,11 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 <interp type="alignment" select="0">11M,G9MG</interp>
 <entry>
 <form>makaviṉai</form>
+<def>young one</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC251-Cena-cit1" type="wordsplit">
 <interp type="alignment" select="0">4MG5M,G7M2G</interp>
@@ -935,6 +940,231 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 <form>muṉṉar</form>
 <def>before</def>
 <gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">3MG3M,7M</interp>
+<entry>
+<form>atu-maṉ</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉ</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">7M,7M</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit3" type="wordsplit">
+<interp type="alignment" select="0">6M,6M</interp>
+<entry>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit4" type="wordsplit">
+<interp type="alignment" select="0">9M,9M</interp>
+<entry>
+<form>ōo</form>
+<def>oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭiyai</form>
+<def>cruel-you</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit5" type="wordsplit">
+<interp type="alignment" select="0">10M,10M</interp>
+<entry>
+<form>maṉṉai<c type="geminated">c</c></form>
+<def>the word maṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Tey-cit6" type="wordsplit">
+<interp type="alignment" select="0">18M,4MG5MGMG5M</interp>
+<entry>
+<form>varuka-tillamma</form>
+<def>may-come</def>
+<form type="simple">varuka</form>
+<form type="sandhi">varu(k</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">tillamma</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit1" type="wordsplit">
+<interp type="alignment" select="0">3MG4M,7MG</interp>
+<entry>
+<form>atu-maṉ</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉ</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit2" type="wordsplit">
+<interp type="alignment" select="0">7M,7M</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit3" type="wordsplit">
+<interp type="alignment" select="0">7M,6MG</interp>
+<entry>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit4" type="wordsplit">
+<interp type="alignment" select="0">8M,8M</interp>
+<entry>
+<form>ōo</form>
+<def>oh</def>
+<form type="sandhi">ōō</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tantār</form>
+<def>he gave</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit5" type="wordsplit">
+<interp type="alignment" select="0">13M,12MG</interp>
+<entry>
+<form>maṉṉai<c type="geminated">k</c></form>
+<def>the word maṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Kāñci tiṇai</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit6" type="wordsplit">
+<interp type="alignment" select="0">3MG5M,9M</interp>
+<entry>
+<form>iḵt<c type="elided">u</c></form>
+<def>this</def>
+<form type="sandhi">iḵt</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ottaṉ</form>
+<def>equalled-he</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit7" type="wordsplit">
+<interp type="alignment" select="0">10M,9MG</interp>
+<entry>
+<form>makaviṉai</form>
+<def>young one</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit8" type="wordsplit">
+<interp type="alignment" select="0">7MG8M,16M</interp>
+<entry>
+<form>maṭavai-maṉṟamma</form>
+<def>inexperienced-you</def>
+<form type="simple">maṭavai</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟamma</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit9" type="wordsplit">
+<interp type="alignment" select="0">11M,10MG</interp>
+<entry>
+<form>maṉṉai<c type="geminated">c</c></form>
+<def>the word maṉ</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC251-Kal-cit10" type="wordsplit">
+<interp type="alignment" select="0">10M,9MG</interp>
+<entry>
+<form>tillai</form>
+<def>the word til</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
