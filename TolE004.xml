@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"/> XX.
-            <persName xml:lang="ta"/>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -13,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -24,10 +27,10 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE003">
-<l>avaṟṟuḷ a i u</l>
-<l>e o eṉṉu mappā laintu</l>
-<l>mōraḷa picaikkuṅ kuṟṟeḻut teṉpa</l>
+      <lg xml:id="TolE004">
+<l>ā ī ū ē ai</l>
+<l>ō au eṉṉu mappā lēḻu</l>
+<l>mīraḷa picaikku neṭṭeḻut teṉpa</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -35,61 +38,59 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE003">
-<interp type="alignment" select="0">5MG21M2G8MG12MG5MG4M,61M</interp>
+<standOff type="wordsplit" corresp="#TolE004"><interp type="alignment" select="0">21M2G8MG7MR4MG5MG4M,55M</interp>
 <entry>
-<form>avaṟṟ<c type="elided">u</c></form>
-<def>them</def>
-<form type="sandhi">avaṟṟ</form>
-<gramGrp>
-  <gram type="role">oblique</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uḷ</form>
-<def>in</def>
-<gramGrp>
-  <gram type="role">postposition</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>a</form>
-<def>syllable 'a'</def>
+<form>ā</form>
+<def>syllable 'ā'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>i</form>
-<def>syllable 'i'</def>
+<form>ī</form>
+<def>syllable 'ī'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>u</form>
-<def>syllable 'u'</def>
+<form>ū</form>
+<def>syllable 'ū'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>e</form>
-<def>syllable 'e'</def>
+<form>ē</form>
+<def>syllable 'ē'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>o</form>
-<def>syllable 'o'</def>
+<form>ai</form>
+<def>syllable 'ai'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ō</form>
+<def>syllable 'ō'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>au</form>
+<def>syllable 'au'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>eṉṉum</form>
-<def>saying</def>
+<def>saying-</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -109,18 +110,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aint<c type="elided">u</c>-um</form>
-<def>five</def>
-<form type="simple">aintu</form>
-<form type="sandhi">aint</form>
+<form>ēḻ<c type="elided">u</c>-um</form>
+<def>seven</def>
+<form type="simple">ēḻu</form>
+<form type="sandhi">ēḻ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ōr</form>
-<def>one</def>
+<form>īr</form>
+<def>two</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aḷap<c type="elided">u</c></form>
@@ -131,24 +135,24 @@
 </gramGrp>
 </entry>
 <entry>
-<form>icaikkum</form>
-<def>sounding</def>
-<form type="sandhi">icaikkuṅ</form>
+<form>icaikku<c type="uncertain">m</c></form>
+<def>sounding-</def>
+<form type="sandhi">icaikkun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟṟ<c type="elided">u</c></form>
-<def>shorten</def>
-<form type="sandhi">kuṟṟ</form>
+<form>neṭṭ<c type="elided">u</c></form>
+<def>long</def>
+<form type="sandhi">neṭṭ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>eḻutt<c type="elided">u</c></form>
-<def>letter</def>
+<def>written character</def>
 <form type="sandhi">eḻutt</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -161,6 +165,5 @@
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-</entry>
-</standOff>
+</entry></standOff>
 </TEI>
