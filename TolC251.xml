@@ -329,7 +329,7 @@ eṉpaṉa.
         <l>maṉṉaic col,</l>
       </lg>
       <lg xml:id="TolC251-Kal-cit10">
-        <l>tillai col,</l>
+        <l>tillaic col,</l>
       </lg>
       <p>
 eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavākalāṉ īṇṭaikku ākā eṉpatu. maṟṟeṉṉai tiripu peṟumāṟu eṉiṉ, uṭampoṭu puṇarttal eṉpataṉāṉ avaṟṟai ivvāṟu ōtiya cūttiraṅkaḷāl peṟutum eṉpatu. (3)
@@ -1151,9 +1151,9 @@ eṉpaṉavō eṉiṉ, avai poruḷuṇarttātu col tammai uṇara niṉṟavā
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC251-Kal-cit10" type="wordsplit">
-<interp type="alignment" select="0">10M,9MG</interp>
+<interp type="alignment" select="0">11M,10MG</interp>
 <entry>
-<form>tillai</form>
+<form>tillai<c type="geminated">c</c></form>
 <def>the word til</def>
 <gramGrp>
   <gram type="role">accusative</gram>
