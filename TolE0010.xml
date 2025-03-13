@@ -28,7 +28,7 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE0010">
-<l>meyyi ṉaḷavē yaraiyeṉa moḻipa</l>
+<l>meyyō ṭiyaiyiṉu muyiriya ṟiriyā</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,45 +36,43 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0010"><interp type="alignment" select="0">10M2G16M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0010"><interp type="alignment" select="0">6MG17ML5M,30M</interp>
 <entry>
-<form>meyyiṉ</form>
-<def>consonant</def>
+<form>meyyōṭ<c type="elided">u</c></form>
+<def>with consonant</def>
+<form type="sandhi">meyyōṭ</form>
 <gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">instrumental</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyaiyiṉum</form>
+<def>joining</def>
+<gramGrp>
+  <gram type="role">concessive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uyir</form>
+<def>vowel</def>
+<gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aḷav<c type="elided">u</c>-ē</form>
-<def>measure</def>
-<form type="simple">aḷavu</form>
-<form type="sandhi">aḷav</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>arai</form>
-<def>half</def>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>eṉa</form>
-<def>to say</def>
+<form>tiriyā</form>
+<def>they did not changed</def>
+<form type="sandhi">ṟiriyā</form>
 <gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>moḻipa</form>
-<def>they will say</def>
-<gramGrp>
-  <gram type="role">plural</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>
