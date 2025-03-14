@@ -6,8 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> 17.
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -27,7 +26,7 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0017">
+      <lg xml:id="TolE017">
 <l>puḷḷi yillā vellā meyyu</l>
 <l>muruvuru vāki yakaramō ṭuyirttalu</l>
 <l>mēṉai yuyirō ṭuruvutirin tuyirttalu</l>
@@ -39,7 +38,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0017"><interp type="alignment" select="0">18MG23MG8MG13MG11MG8MG22M2GM,112M</interp>
+<standOff type="wordsplit" corresp="#TolE017"><interp type="alignment" select="0">18MG23MG8MG13MG11MG8MG22M2GM,112M</interp>
 <entry>
 <form>puḷḷi</form>
 <def>dot</def>
