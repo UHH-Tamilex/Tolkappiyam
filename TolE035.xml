@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,12 +34,13 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE035"><interp type="alignment" select="0">9ML17MG7M2G26M,63M</interp>
+<standOff type="wordsplit" corresp="#TolE035">
+<interp type="alignment" select="0">9ML17MG7M2G26M,63M</interp>
 <entry>
 <form>puṇar</form>
 <def>unite</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -112,5 +110,6 @@
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
