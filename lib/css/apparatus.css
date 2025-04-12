@@ -11,6 +11,15 @@ section div.wide {
     font-size: 1.4rem;
     position: sticky;
 }
+.text-block.nolemmata .lem-inline {
+    text-decoration: none;
+}
+
+.text-block.nolemmata .lem-inline:hover, 
+.text-block.nolemmata .lem-inline:hover * {
+    background: none;
+}
+
 .apparatus-block {
     top: 0;
     padding-top: 1rem;
@@ -20,7 +29,9 @@ section div.wide {
     line-height: 1.3rem;
     position: sticky;
 }
-
+.hidden {
+    display: none;
+}
 .apparatus-block span.note::after,
 .apparatus-block span.note::before {
     content: '';
@@ -30,7 +41,9 @@ section div.wide {
     font-size: 90%;
     white-space: normal;
 }
-
+.ignoredtags {
+    display: none;
+}
 .app {
     margin-right: 2em;
     white-space: nowrap;
@@ -45,7 +58,9 @@ section div.wide {
 .lem-anchor {
     font-variant: super;
 }
-
+.lem .caesura {
+    display: none;
+}
 .lem-inline:hover, .lem-inline:hover *, .lem:hover, .highlit, .highlit * {
     text-decoration: none;
     background: rgba(255,255,128,1);
@@ -71,18 +86,27 @@ section div.wide {
     content: ']';
 }
 
-.rdgs {
-    white-space: normal;
-}
 .rdg-text {
     white-space: normal;
 }
 
+.rdgs {
+    white-space: normal;
+}
+
 .rdg {
+    white-space: nowrap;
 }
 
 .rdg-alt {
     display: none;
+    font-variant: normal;
+    margin-left: 0.2rem;
+    white-space: normal;
+}
+
+.rdg-alt:before {
+    content: ': ';
 }
 
 .mshover {
@@ -212,6 +236,10 @@ a.alignment-pointer:link, a.alignment-pointer:active {
     cursor: default;
 }
 
+.apparatus-block .anchored-note {
+    display: inline-block;
+}
+
 .anchor.highlit::after {
     background: rgba(255,255,128,1);
 }
@@ -230,14 +258,6 @@ a.alignment-pointer:link, a.alignment-pointer:active {
 
 .parallel .text-block {
     width: unset;
-}
-
-.ignoredtags {
-    display: none;
-}
-
-.hidden {
-    display: none;
 }
 
 @media (max-width: 600px) {
