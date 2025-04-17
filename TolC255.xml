@@ -1259,11 +1259,59 @@ maṟṟum itaṉakattu vikaṟpamellām aṟintukoḷka. (7)
 </entry>
 <entry>
 <form><c type="glide">y</c>iṉṟ<c type="elided">u</c>-ē</form>
-<def>without</def>
+<def>today</def>
 <form type="simple">iṉṟu</form>
 <form type="sandhi"><c type="glide">y</c>iṉṟ</form>
 <gramGrp>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC255-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG8M,G18MG</interp>
+<entry>
+<form>iṉṟu</form>
+<def>today</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>cāttaṉ-um</form>
+<def>Cāttaṉ</def>
+<form type="simple">cāttaṉ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC255-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">12MG9M,20M2G</interp>
+<entry>
+<form>nāḷai<c type="geminated">k</c></form>
+<def>tomorrow</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>koṟṟaṉ-um</form>
+<def>Koṟṟaṉ</def>
+<form type="simple">koṟṟaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 </standOff></TEI>
