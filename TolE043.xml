@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,7 +33,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE043"><interp type="alignment" select="0">4MG5MG2M2G9MG7M,32M</interp>
+<standOff type="wordsplit" corresp="#TolE043">
+<interp type="alignment" select="0">4MG5MG2M2G9MG7M,32M</interp>
 <entry>
 <form>neṭṭ<c type="elided">u</c></form>
 <def>long</def>
@@ -47,23 +45,21 @@
 </entry>
 <entry>
 <form>eḻutt<c type="elided">u</c></form>
-<def>letter</def>
+<def>letters</def>
 <form type="sandhi">eḻutt</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ēḻ<c type="elided">u</c></form>
+<form>ēḻ<c type="elided">u</c>-ē</form>
 <def>seven</def>
+<form type="simple">ēḻu</form>
 <form type="sandhi">ēḻ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-ē</form>
-<form type="sandhi">ē</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>ōr</form>
@@ -93,5 +89,6 @@
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
