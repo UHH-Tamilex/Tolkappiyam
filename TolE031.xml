@@ -37,21 +37,21 @@
 <interp type="alignment" select="0">9M2G7M,18M</interp>
 <entry>
 <form>a</form>
-<def>letter 'a'</def>
+<def>syllable 'a'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>i</form>
-<def>letter 'i'</def>
+<def>syllable 'i'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>u</form>
-<def>letter 'u'</def>
+<def>syllable 'u'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -60,24 +60,22 @@
 <form>a<c type="geminated">m</c></form>
 <def>that</def>
 <gramGrp>
-  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mūṉṟ<c type="elided">u</c></form>
+<form>mūṉṟ<c type="elided">u</c>-um</form>
 <def>three</def>
+<form type="simple">mūṉṟu</form>
 <form type="sandhi">mūṉṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">uñ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>cuṭṭu</form>
-<def>demonstrate</def>
+<def>demonstratives</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
