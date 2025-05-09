@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -38,7 +35,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE040"><interp type="alignment" select="0">6MG9MGMG12ML10MG37M,80M</interp>
+<standOff type="wordsplit" corresp="#TolE040">
+<interp type="alignment" select="0">6MG9MGMG12ML10MG37M,80M</interp>
 <entry>
 <form>uruviṉ-um</form>
 <def>shape</def>
@@ -102,6 +100,12 @@
 </entry>
 <entry>
 <form>iyalā</form>
+<def>they will not happen</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>āytam</form>
@@ -112,7 +116,7 @@
 </entry>
 <entry>
 <form>aḵkā<c type="geminated">k</c></form>
-<def>that which is not shrunk </def>
+<def>that which is not shrunk</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -130,5 +134,6 @@
 <gramGrp>
   <gram type="role">postposition</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
