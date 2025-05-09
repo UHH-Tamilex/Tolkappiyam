@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,7 +34,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE024"><interp type="alignment" select="0">25MG9M,35M</interp>
+<standOff type="wordsplit" corresp="#TolE024">
+<interp type="alignment" select="0">25MG9M,35M</interp>
 <entry>
 <form>avaṟṟuḷ</form>
 <def>among</def>
@@ -47,14 +45,14 @@
 </entry>
 <entry>
 <form>la</form>
-<def>letter 'la'</def>
+<def>consonant 'l'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ḷaḵkāṉ</form>
-<def>letter 'ḷa'</def>
+<def>consonant 'ḷ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -68,21 +66,19 @@
 </entry>
 <entry>
 <form>ya</form>
-<def>letter 'ya'</def>
+<def>consonant 'y'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>va</form>
-<def>letter 'va'</def>
+<form>va-<c type="glide">v</c>um</form>
+<def>consonant 'v'</def>
+<form type="simple">va</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-<c type="glide">v</c>um</form>
-<form type="sandhi"><c type="glide">v</c>un</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tōṉṟum</form>
@@ -90,5 +86,6 @@
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
