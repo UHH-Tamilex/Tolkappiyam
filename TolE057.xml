@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,7 +34,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE057"><interp type="alignment" select="0">6MG8MG2MG5M2G20MG3M,50M</interp>
+<standOff type="wordsplit" corresp="#TolE057">
+<interp type="alignment" select="0">6MG8MG2MG5M2G23M,49M</interp>
 <entry>
 <form>ōr</form>
 <def>one</def>
@@ -61,38 +59,31 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iṭaṉ</form>
+<form>iṭaṉ-um</form>
 <def>place</def>
+<form type="simple">iṭaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">um</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>-ār</form>
 <form type="sandhi">ār</form>
 </entry>
 <entry>
-<form>uṇṭ<c type="elided">u</c></form>
+<form>uṇṭ<c type="elided">u</c>-ē</form>
 <def>is</def>
+<form type="simple">uṇṭu</form>
 <form type="sandhi">uṇṭ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-ē</form>
-<form type="sandhi">ē</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>tērum</form>
-<def>investigating</def>
+<def>investigating-</def>
 <form type="sandhi">tēruṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -100,7 +91,7 @@
 </entry>
 <entry>
 <form>kālai</form>
-<def>at the time</def>
+<def>in the time</def>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
@@ -113,10 +104,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>-āṉa</form>
+<form>āṉa</form>
 <def>in the place</def>
-<form type="sandhi">āṉa</form>
 <gramGrp>
+  <gram type="role">locative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
