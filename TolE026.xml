@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,7 +34,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE026"><interp type="alignment" select="0">40MG7M,48M</interp>
+<standOff type="wordsplit" corresp="#TolE026">
+<interp type="alignment" select="0">40MG7M,48M</interp>
 <entry>
 <form>avaṟṟuḷ</form>
 <def>among</def>
@@ -47,14 +45,14 @@
 </entry>
 <entry>
 <form>ṇa</form>
-<def>letter 'ṇa' </def>
+<def>consonant 'ṇ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ṉaḵkāṉ</form>
-<def>letter 'ṉa'</def>
+<def>consonant 'ṉ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -68,49 +66,49 @@
 </entry>
 <entry>
 <form>ka</form>
-<def>letter 'ka'</def>
+<def>consonant 'k'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ca</form>
-<def>letter 'ca'</def>
+<def>consonant 'c'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ña</form>
-<def>letter 'ña'</def>
+<def>consonant 'ñ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>pa</form>
-<def>letter 'pa'</def>
+<def>consonant 'p'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ma</form>
-<def>letter 'ma'</def>
+<def>consonant 'm'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ya</form>
-<def>letter 'ya'</def>
+<def>consonant 'y'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>va<c type="geminated">v</c></form>
-<def>letter 'va'</def>
+<def>consonant 'v'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -132,5 +130,6 @@
   <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
