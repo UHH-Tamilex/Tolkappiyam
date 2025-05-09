@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,7 +33,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE044"><interp type="alignment" select="0">4MG5MG4M2G2ML9MG5M,35M</interp>
+<standOff type="wordsplit" corresp="#TolE044">
+<interp type="alignment" select="0">4MG5MG4M2G2ML9MG3MG2M,36M</interp>
 <entry>
 <form>kuṟṟ<c type="elided">u</c></form>
 <def>shortened</def>
@@ -47,23 +45,21 @@
 </entry>
 <entry>
 <form>eḻutt<c type="elided">u</c></form>
-<def>letter</def>
+<def>letters</def>
 <form type="sandhi">eḻutt</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aint<c type="elided">u</c></form>
+<form>aint<c type="elided">u</c>-um</form>
 <def>five</def>
+<form type="simple">aintu</form>
 <form type="sandhi">aint</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">um</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>moḻi</form>
@@ -81,17 +77,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ila</form>
+<form>ila-<c type="glide">v</c>ē</form>
 <def>not-they</def>
+<form type="simple">ila</form>
 <gramGrp>
-  <gram type="role">neuter plural</gram>
+  <gram type="role">plural</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
-<form><c type="glide">v</c>ē</form>
-<def>arrow</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry></standOff>
+</standOff>
 </TEI>
