@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,17 +34,18 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE042"><interp type="alignment" select="0">22MG22MG4M,50M</interp>
+<standOff type="wordsplit" corresp="#TolE042">
+<interp type="alignment" select="0">22MG22MG4M,50M</interp>
 <entry>
 <form>ai</form>
-<def>letter 'ai'</def>
+<def>syllable 'ai'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>au</form>
-<def>letter 'au'</def>
+<def>syllable 'au'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -63,12 +61,15 @@
 <form>ā</form>
 <def>that</def>
 <gramGrp>
-  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>īr</form>
-<def>twoadj</def>
+<def>two</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>eḻuttiṟk<c type="elided">u</c></form>
@@ -80,14 +81,14 @@
 </entry>
 <entry>
 <form>ikara</form>
-<def>letter 'i'</def>
+<def>syllable 'i'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>ukaram</form>
-<def>letter 'u'</def>
+<def>syllable 'u'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -106,5 +107,6 @@
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
