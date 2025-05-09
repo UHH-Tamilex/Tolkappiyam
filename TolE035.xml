@@ -40,7 +40,7 @@
 <form>puṇar</form>
 <def>unite</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -60,32 +60,28 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟukal</form>
+<form>kuṟukal-um</form>
 <def>coming near</def>
+<form type="simple">kuṟukal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>-um</form>
-<form type="sandhi">um</form>
-</entry>
-<entry>
-<form>uritt<c type="elided">u</c></form>
+<form>uritt<c type="elided">u</c>-ē</form>
 <def>right-it</def>
+<form type="simple">urittu</form>
 <form type="sandhi">uritt</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-ē</form>
-<form type="sandhi">ē</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>uṇara<c type="geminated">k</c></form>
-<def>to realize</def>
+<def>realise</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
