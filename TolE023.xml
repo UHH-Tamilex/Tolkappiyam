@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,31 +34,32 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE023"><interp type="alignment" select="0">38ML7MG5M,52M</interp>
+<standOff type="wordsplit" corresp="#TolE023">
+<interp type="alignment" select="0">38ML7MG5M,52M</interp>
 <entry>
 <form>ṭa</form>
-<def>letter 'ṭa'</def>
+<def>consonant 'ṭ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ṟa</form>
-<def>letter 'ṟa'</def>
+<def>consonant 'ṟ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>la</form>
-<def>letter 'la'</def>
+<def>consonant 'l'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ḷa</form>
-<def>letter 'ḷa'</def>
+<def>consonant 'ḷ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -89,21 +87,21 @@
 </entry>
 <entry>
 <form>ka</form>
-<def>letter 'ka'</def>
+<def>consonant 'k'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ca</form>
-<def>letter 'ca'</def>
+<def>consonant 'c'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>pa</form>
-<def>letter 'pa'</def>
+<def>consonant 'p'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -137,5 +135,6 @@
   <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
