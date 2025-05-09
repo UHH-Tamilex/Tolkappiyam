@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,24 +33,25 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE032"><interp type="alignment" select="0">9M2G6M,17M</interp>
+<standOff type="wordsplit" corresp="#TolE032">
+<interp type="alignment" select="0">9M2G6M,17M</interp>
 <entry>
 <form>ā</form>
-<def>letter 'ā'</def>
+<def>syllable 'ā'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ē</form>
-<def>letter 'ē'</def>
+<def>syllable 'ē'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ō</form>
-<def>letter 'ō'</def>
+<def>syllable 'ō'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -62,20 +60,18 @@
 <form>a<c type="geminated">m</c></form>
 <def>that</def>
 <gramGrp>
-  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mūṉṟ<c type="elided">u</c></form>
+<form>mūṉṟ<c type="elided">u</c>-um</form>
 <def>three</def>
+<form type="simple">mūṉṟu</form>
 <form type="sandhi">mūṉṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">um</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>viṉā</form>
@@ -83,5 +79,6 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
