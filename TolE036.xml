@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -37,7 +34,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE036"><interp type="alignment" select="0">4MG5MG5MG15M2G6MG16MG4M2GM,65M</interp>
+<standOff type="wordsplit" corresp="#TolE036">
+<interp type="alignment" select="0">4MG5MG5MG15M2G6MG16MG4M2GM,65M</interp>
 <entry>
 <form>neṭṭ<c type="elided">u</c></form>
 <def>long</def>
@@ -48,22 +46,20 @@
 </entry>
 <entry>
 <form>eḻutt<c type="elided">u</c></form>
-<def>letter</def>
+<def>letters</def>
 <form type="sandhi">eḻutt</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>impar</form>
-<def>next</def>
+<form>impar-um</form>
+<def>here</def>
+<form type="simple">impar</form>
 <gramGrp>
-  <gram type="role">adverb</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">um</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>toṭar</form>
@@ -80,20 +76,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>īṟṟ<c type="elided">u</c></form>
+<form><c type="glide">y</c>īṟṟ<c type="elided">u</c>-um</form>
 <def>ending</def>
+<form type="simple">īṟṟu</form>
 <form type="sandhi"><c type="glide">y</c>īṟṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-um</form>
-<form type="sandhi">uṅ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kuṟṟ<c type="elided">u</c></form>
-<def>shorten</def>
+<def>shortened</def>
 <form type="sandhi">kuṟṟ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -122,22 +116,21 @@
 </entry>
 <entry>
 <form><c type="geminated">l</c>āṟ<c type="elided">u</c></form>
-<def>six letters</def>
+<def>six</def>
 <form type="sandhi"><c type="geminated">l</c>āṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ūrnt<c type="elided">u</c></form>
-<def>having mounted</def>
+<form>ūrnt<c type="elided">u</c>-ē</form>
+<def>mounted</def>
+<form type="simple">ūrntu</form>
 <form type="sandhi">ūrnt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
-<form>-ē</form>
-<form type="sandhi">ē</form>
-</entry></standOff>
+</standOff>
 </TEI>
