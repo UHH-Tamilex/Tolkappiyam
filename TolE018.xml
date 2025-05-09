@@ -34,7 +34,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#TolE018">
-<interp type="alignment" select="0">13MG9MR7M,31M</interp>
+<interp type="alignment" select="0">13MG9MR5MG2M,32M</interp>
 <entry>
 <form>meyyiṉ</form>
 <def>consonant</def>
@@ -53,9 +53,9 @@
 </entry>
 <entry>
 <form>uyir</form>
-<def>vowel</def>
+<def>life</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -67,18 +67,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nilai</form>
-<def>nature</def>
+<form>nilai-<c type="glide">y</c>ē</form>
+<def>standing</def>
+<form type="simple">nilai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>ē</form>
-<def>arrow</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
