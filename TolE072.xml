@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,29 +33,27 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE072"><interp type="alignment" select="0">2MG6M2G14MG2M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE072">
+<interp type="alignment" select="0">2MG6M2G14MG2M,28M</interp>
 <entry>
-<form>o<c type="geminated">v</c></form>
+<form>o<c type="geminated">v</c>-<c type="glide">v</c>um</form>
 <def>syllable 'o'</def>
+<form type="simple">o</form>
+<form type="sandhi">o<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>-<c type="glide">v</c>um</form>
-<form type="sandhi"><c type="glide">v</c>um</form>
-</entry>
-<entry>
-<form>aṟṟ<c type="elided">u</c></form>
+<form>aṟṟ<c type="elided">u</c>-ē</form>
 <def>thus-it</def>
+<form type="simple">aṟṟu</form>
 <form type="sandhi">aṟṟ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>-ē</form>
-<form type="sandhi">ē</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>na<c type="geminated">v</c></form>
@@ -76,14 +71,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṭai</form>
-<def>place</def>
+<form>kaṭai-<c type="glide">y</c>ē</form>
+<def>in the place</def>
+<form type="simple">kaṭai</form>
 <gramGrp>
   <gram type="role">postposition</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
-<form>-<c type="glide">y</c>ē</form>
-<form type="sandhi"><c type="glide">y</c>ē</form>
-</entry></standOff>
+</standOff>
 </TEI>
