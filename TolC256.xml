@@ -844,21 +844,15 @@ eṉpatu. (8)
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC256-Tey-cit4" type="wordsplit">
-<interp type="alignment" select="0">3MG2MG2M,8MG</interp>
+<interp type="alignment" select="0">5MG2M,7MG</interp>
 <entry>
-<form>uṇṭ<c type="elided">u</c></form>
-<def>is</def>
-<form type="sandhi">uṇṭ</form>
+<form>uṇṭāy-ō</form>
+<def>you are</def>
+<form type="simple">uṇṭāy</form>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āy-ō</form>
-<def>become</def>
-<form type="simple">āy</form>
-<gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
