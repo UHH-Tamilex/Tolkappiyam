@@ -29,7 +29,7 @@
   <text xml:lang="ta" type="edition">
     <body>
         <lg xml:id="TolC257">
-          <l>tēṟṟam viṉāvē pirinilai eṇṇē</l>
+          <l>tēṟṟam viṉāvē pirinilai yeṇṇē</l>
           <l>yīṟṟacai yivvain tēkā rammē.</l>
         </lg>
     </body>
@@ -282,7 +282,7 @@ iṉi īṟṟacai -
     </body>
   </text>
 <standOff corresp="#TolC257" type="wordsplit">
-<interp type="alignment" select="0">10MG13MG18MG6MG3M,53MG</interp>
+<interp type="alignment" select="0">10MG14MG6MG12MG6MG3M,55MG</interp>
 <entry>
 <form>tēṟṟam</form>
 <def>clarity</def>
@@ -314,17 +314,27 @@ iṉi īṟṟacai -
 </gramGrp>
 </entry>
 <entry>
-<form>eṇ-<c type="geminated">ṇ</c>ē</form>
+<form><c type="glide">y</c>eṇ-<c type="geminated">ṇ</c>ē</form>
 <def>enumeration</def>
 <form type="simple">eṇ</form>
+<form type="sandhi"><c type="glide">y</c>eṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>īṟṟacai</form>
-<def>expletive</def>
+<form><c type="glide">y</c>īṟṟ<c type="elided">u</c></form>
+<def>end</def>
+<form type="sandhi"><c type="glide">y</c>īṟṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>acai</form>
+<def>sound</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
