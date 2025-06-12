@@ -303,7 +303,7 @@ iṉi īṟṟacai -
 <form>piri</form>
 <def>separate</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">verbal root as adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -372,6 +372,7 @@ iṉi īṟṟacai -
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -415,6 +416,7 @@ iṉi īṟṟacai -
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -496,7 +498,9 @@ iṉi īṟṟacai -
 <def>appearance-they</def>
 <form type="sandhi">ṟōṉṟala</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -585,6 +589,7 @@ iṉi īṟṟacai -
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -764,6 +769,7 @@ iṉi īṟṟacai -
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -780,6 +786,7 @@ iṉi īṟṟacai -
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -788,6 +795,7 @@ iṉi īṟṟacai -
 <def>thief</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC257-Nacc-cit4" type="wordsplit">
@@ -915,6 +923,7 @@ iṉi īṟṟacai -
 <form type="simple">yāṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -936,6 +945,7 @@ iṉi īṟṟacai -
 <form type="simple">avaṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">masculine</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ēe</m></gramGrp>
@@ -947,6 +957,7 @@ iṉi īṟṟacai -
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC257-Tey-cit2" type="wordsplit">
@@ -957,6 +968,7 @@ iṉi īṟṟacai -
 <form type="simple">yāṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -1003,6 +1015,7 @@ iṉi īṟṟacai -
 <def>two-it</def>
 <form type="sandhi">iraṇṭ</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1034,7 +1047,9 @@ iṉi īṟṟacai -
 <def>appearance-they</def>
 <form type="sandhi">ṟōṉṟala</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1063,6 +1078,7 @@ iṉi īṟṟacai -
 <def>I</def>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
@@ -1085,6 +1101,7 @@ iṉi īṟṟacai -
 <form type="simple">avaṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">masculine</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -1128,6 +1145,7 @@ iṉi īṟṟacai -
 <form type="simple">avaṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">masculine</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -1199,7 +1217,9 @@ iṉi īṟṟacai -
 <form>tōṉṟala</form>
 <def>appearance-they</def>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
