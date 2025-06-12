@@ -230,17 +230,17 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 <interp type="alignment" select="0">3MG8MG12M2G2M,28MG</interp>
 <entry>
 <form>eṉṟ<c type="elided">u</c></form>
-<def>said</def>
+<def>the word eṉṟu</def>
 <form type="sandhi">eṉṟ</form>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>eṉ</form>
-<def>the word eṉ</def>
+<def>said</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -263,8 +263,6 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aṟṟ<c type="elided">u</c>-ē</form>
