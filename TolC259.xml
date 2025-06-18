@@ -190,7 +190,7 @@ eṉavarum.	(<term xml:lang="en">11</term>)
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
-      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n179/mode/1up">172</ref>.</p>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n179/mode/1up">172</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n180/mode/1up">173</ref>.</p>
       <p>
 ituvum atu.
       </p>
@@ -255,8 +255,8 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 <entry>
 <form>ataṉ</form>
 <def>that</def>
-<form type="sandhi">atiṉ</form>
 <gramGrp>
+  <gram type="role">pronoun</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
@@ -456,6 +456,8 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 <form>pāri</form>
 <def>Pāri</def>
 <gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -757,8 +759,9 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 </entry>
 <entry>
 <form>olikkum</form>
-<def>sounding-</def>
+<def>sounding</def>
 <gramGrp>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -924,7 +927,7 @@ itu māṭṭēṟṟu vakaiyāṉ ecca vāypāṭṭateṉṟu koḷka. iccoṟ
 <form>vantatu</form>
 <def>coming</def>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
