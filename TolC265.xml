@@ -1,0 +1,366 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 265.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC265">
+          <l>maṉṟaveṉ kiḷavi tēṟṟañ ceyyum</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/164/mode/1up">164</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC265-Ilam-cit1">
+        <l>‘kārmaṉṟa eṉpavaḷ kaṇṇuḷḷē kātalar</l>
+      </lg>
+      <lg xml:id="TolC265-Ilam-cit2">
+        <l>tērmaṉṟat tōṉṟiya’</l>
+      </lg>
+      <p>
+eṉṟakkāl, teḷintaḷ avaḷ eṉṟavāṟu.   (17)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n214/mode/1up">211</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n215/mode/1up">212</ref>.</p>
+      <p>
+i – ḷ. maṉṟaveṉṉuñcol, teḷivup poruṇmaiyai yuṇarttum e–ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC265-Cena-cit1">
+       <l>‘kaṭavu ḷāyiṉu māka ―</l>
+       <l>maṭavai maṉṟa vāḻiya murukē’<app><note>naṟ. 34</note></app></l>
+      </lg>
+      <p>
+eṉa varum. maṭavaiyēyeṉṟavāṟām.	(17)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/294/mode/1up">294</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/295/mode/1up">295</ref>.</p>
+      <p>
+ituvumatu
+      </p>
+      <p>
+(i–ḷ) maṉṟa eṉ kiḷavi tēṟṟañ ceyyum ― am maṉṟaveṉṉuñ coṟ ṟeḷivup poruṇmaiyai yuṇarttu meṉṟavāṟu.
+      </p>
+      <p>
+(u–m)
+      </p>
+      <lg xml:id="TolC265-Nacc-cit1">
+        <l>maṭavai maṉṟa vāḻiya murukē!</l>
+      </lg>
+      <p>
+eṉa maṉṟa vaṟiyāmaiyaiyē teḷivittatu.  <term xml:lang="en">(17)</term>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n181/mode/1up">174</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n182/mode/1up">175</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+i–ḷ.: ― maṉṟa eṉṉuñ col tēṟṟap poruṇmaiyai uṇarttum. e–ṟu.
+      </p>
+      <p>
+u–m ―
+      </p>
+      <lg xml:id="TolC265-Tey-cit1">
+        <l>kaṭavu ḷāyiṉu māka ―</l>
+        <l>maṭavai maṉṟa vāḻiya murukē<note place="foot">naṟṟiṉai. 34.</note></l>
+      </lg>
+      <p>
+eṉṟa vaḻik, kaṭavuḷāyiṉum maṭavai eṉat tēṟṟap poruṇmai kāṭṭiṟṟu.	[17]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC265" type="wordsplit">
+<interp type="alignment" select="0">26M,26M</interp>
+<entry>
+<form>maṉṟa</form>
+<def>indeed</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root as infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēṟṟam</form>
+<def>clarity</def>
+<form type="sandhi">tēṟṟañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyyum</form>
+<def>makes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC265-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">4MG8MG10MG9M,G33M</interp>
+<entry>
+<form>kār-maṉṟa</form>
+<def>rainy season</def>
+<form type="simple">kār</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>eṉp<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉp</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaḷ</form>
+<def>she</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṇ</c>uḷ-<c type="geminated">ḷ</c>ē</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<form type="sandhi"><c type="geminated">ṇ</c>uḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kātalar</form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC265-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">3MG14M,17MG</interp>
+<entry>
+<form>tēr-maṉṟa<c type="geminated">t</c></form>
+<def>chariot</def>
+<form type="simple">tēr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>tōṉṟiya</form>
+<def>appeared</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC265-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">12MG13MG16M2G2M,G17MG27MG</interp>
+<entry>
+<form>kaṭavuḷ</form>
+<def>god</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>even if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭavai-maṉṟa</form>
+<def>inexperienced-you</def>
+<form type="simple">maṭavai</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>vāḻiya</form>
+<def>may-live</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muruk<c type="elided">u</c>-ē</form>
+<def>Murukaṉ</def>
+<form type="simple">muruku</form>
+<form type="sandhi">muruk</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC265-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">7MG16M2G2M,27MG</interp>
+<entry>
+<form>maṭavai-maṉṟa</form>
+<def>inexperienced-you</def>
+<form type="simple">maṭavai</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>vāḻiya</form>
+<def>may-live</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muruk<c type="elided">u</c>-ē</form>
+<def>Murukaṉ</def>
+<form type="simple">muruku</form>
+<form type="sandhi">muruk</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC265-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG13MG16M2GM,17MG27M</interp>
+<entry>
+<form>kaṭavuḷ</form>
+<def>god</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>even if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭavai-maṉṟa</form>
+<def>inexperienced-you</def>
+<form type="simple">maṭavai</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṟa</m></gramGrp>
+</entry>
+<entry>
+<form>vāḻiya</form>
+<def>may-live</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muruk<c type="elided">u</c>-ē</form>
+<def>Murukaṉ</def>
+<form type="simple">muruku</form>
+<form type="sandhi">muruk</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
