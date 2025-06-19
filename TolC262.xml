@@ -72,7 +72,7 @@ i–ḷ. maṟṟeṉṉuñcol viṉaimāṟṟum acainilaiyumeṉa iraṇṭām
 u–m.
       </p>
       <lg xml:id="TolC262-Cena-cit1">
-        <l>‘maṟṟaṟivā nalviṉai yāmiḷaiyam’<app><note>(nālaṭi. 19)</note></app></l>
+        <l>‘maṟṟaṟivā nalviṉai yāmiḷaiyam’<app><note>(nālaṭi. 9)</note></app></l>
       </lg>
       <p>
 eṉṟavaḻi aṟañceytal piṉṉaṟivāmeṉa akkālattu viṉaimāṟṟutalāṉ maṟṟeṉpatu viṉaimāṟṟiṉkaṇ vantatu.
@@ -163,7 +163,7 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 <form>eṉ</form>
 <def>saying</def>
 <gramGrp>
-  <gram type="role">verbal root as infinitive</gram>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -580,9 +580,9 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 </entry>
 <entry>
 <form>uṇ</form>
-<def>food</def>
+<def>eat</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as imperative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -597,14 +597,12 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 <entry>
 <form>iḵtu</form>
 <def>this</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>uṇ</form>
-<def>food</def>
+<def>eat</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as imperative</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
