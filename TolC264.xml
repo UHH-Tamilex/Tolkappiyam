@@ -66,7 +66,22 @@ i – ḷ. maṟṟaiyateṉap peyarkku mutaṉilaiyāy varum maṟṟaiyeṉṉ
 veṉṉum. aḵtu accuṭṭiyavāṭaiyoḻittu ataṟkiṉa mākiya piṟavāṭai kuṟittu niṉṟavāṟu kaṇṭukoḷka.
       </p>
       <p>
-perumpāṉmaiyum mutaṉilaiyāy niṉṟallatu avviṭaiccoṟporuḷ viḷakkāmaiyiṉ, ‘maṟṟaiyateṉṉuṅkiḷavi’ yeṉṟār. ciṟupāṉmai maṟṟaiyāṭai eṉat tāṉēyum varum. maṟṟaiyaḵtu, maṟṟaiyavaṉ eṉṉuntoṭakkattaṉavum avviṭaiccoṉmutaṉilaiyāya peyar.  (16)
+perumpāṉmaiyum mutaṉilaiyāy niṉṟallatu avviṭaiccoṟporuḷ viḷakkāmaiyiṉ, ‘maṟṟaiyateṉṉuṅkiḷavi’ yeṉṟār. ciṟupāṉmai
+      </p>
+      <lg xml:id="TolC264-Cena-cit2">
+        <l>maṟṟaiyāṭai</l>
+      </lg>
+      <p>
+eṉat tāṉēyum varum.
+      </p>
+      <lg xml:id="TolC264-Cena-cit3">
+        <l>maṟṟaiyaḵtu,</l>
+      </lg>
+      <lg xml:id="TolC264-Cena-cit4">
+        <l>maṟṟaiyavaṉ</l>
+      </lg>
+      <p>
+eṉṉuntoṭakkattaṉavum avviṭaiccoṉmutaṉilaiyāya peyar.  (16)
       </p>
     </body>
   </text>
@@ -303,5 +318,77 @@ eṉṟavaḻi, atuvum iṉaṅkuṟittatu. piṟavumaṉṉa.	[16]
   <gram type="role">masculine singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">11M,6MG4M</interp>
+<entry>
+<form>maṟṟai</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭai</form>
+<def>garment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>maṟṟaiyaḵtu</form>
+<def>other-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">11M,11M</interp>
+<entry>
+<form>maṟṟaiyavaṉ</form>
+<def>other-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">12M,G10MG</interp>
+<entry>
+<form>maṟṟai</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭai</form>
+<def>garment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>maṟṟaiyaḵtu</form>
+<def>other-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit4" type="wordsplit">
+<interp type="alignment" select="0">13M,G11MG</interp>
+<entry>
+<form>maṟṟaiyavaṉ</form>
+<def>other-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
 </entry>
 </standOff></TEI>
