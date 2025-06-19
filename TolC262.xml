@@ -57,13 +57,7 @@ eṉṟāṟku,
 eṉa viṉaimāṟṟu āyiṟṟu.
       </p>
       <p>
-yāvarōṭāyiṉuñ collāṭāniṉṟu
-      </p>
-      <lg xml:id="TolC262-Ilam-cit3">
-        <l>‘maṟṟōmaṟṟu’</l>
-      </lg>
-      <p>
-eṉṉum iṭaiyē; aḵtu acainilaik kaṭṭurai. (14)
+yāvarōṭāyiṉuñ collāṭāniṉṟu ‘maṟṟōmaṟṟu’ eṉṉum iṭaiyē; aḵtu acainilaik kaṭṭurai. (14)
       </p>
     </body>
   </text>
@@ -167,11 +161,9 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 </entry>
 <entry>
 <form>eṉ</form>
-<def>my-</def>
+<def>saying</def>
 <gramGrp>
-  <gram type="role">singular</gram>
-  <gram type="role">oblique</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">verbal root as infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -183,7 +175,7 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 </entry>
 <entry>
 <form>viṉai</form>
-<def>work</def>
+<def>action</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -213,8 +205,6 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 <entry>
 <form><c type="glide">y</c>a<c type="geminated">p</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāl</form>
@@ -227,8 +217,6 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 <form>iraṇṭ<c type="elided">u</c></form>
 <def>two-it</def>
 <form type="sandhi">iraṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>eṉa</form>
@@ -252,30 +240,11 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC262-Ilam-cit3" type="wordsplit">
-<interp type="alignment" select="0">5M2G7M,G12MG</interp>
-<entry>
-<form>maṟṟ<c type="elided">u</c>-ō</form>
-<def>besides</def>
-<form type="simple">maṟṟu</form>
-<form type="sandhi">maṟṟ</form>
-<gramGrp>
-  <gram type="role">interjection</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
-</entry>
-<entry>
-<form>maṟṟu</form>
-<def>besides</def>
-<gramGrp>
-  <gram type="role">interjection</gram>
-</gramGrp>
-</entry>
 </standOff><standOff corresp="#TolC262-Cena-cit1" type="wordsplit">
 <interp type="alignment" select="0">5MG5MR19M,G29MG</interp>
 <entry>
 <form>maṟṟ<c type="elided">u</c></form>
-<def>of course</def>
+<def>although</def>
 <form type="sandhi">maṟṟ</form>
 <gramGrp>
   <gram type="role">interjection</gram>
@@ -598,6 +567,44 @@ eṉṟavaḻi acainilai yāyiṟṟu.	[14]
 <def>below</def>
 <gramGrp>
   <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC262-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">12M,G10MG</interp>
+<entry>
+<form>maṟṟu</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>food</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC262-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">8M,G6MG</interp>
+<entry>
+<form>iḵtu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>food</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
