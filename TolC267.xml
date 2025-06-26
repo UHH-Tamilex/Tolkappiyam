@@ -232,14 +232,14 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>cēy</form>
-<def>crafted</def>
+<form>cē</form>
+<def>red</def>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iḻai</form>
+<form><c type="glide">y</c>iḻai</form>
 <def>jewel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -249,6 +249,8 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
@@ -304,14 +306,14 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>cēy</form>
-<def>crafted</def>
+<form>cē</form>
+<def>red</def>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iḻai</form>
+<form><c type="glide">y</c>iḻai</form>
 <def>jewel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -321,6 +323,8 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
@@ -377,14 +381,14 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>cēy</form>
-<def>crafted</def>
+<form>cē</form>
+<def>red</def>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iḻai</form>
+<form><c type="glide">y</c>iḻai</form>
 <def>jewel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -393,6 +397,8 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <entry>
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
+<gramGrp>
+</gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC267-Nacc-cit2" type="wordsplit">
 <interp type="alignment" select="0">24M,G22MG</interp>
@@ -431,14 +437,14 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>cēy</form>
-<def>v.r.adj.</def>
+<form>cē</form>
+<def>red</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iḻai</form>
+<form><c type="glide">y</c>iḻai</form>
 <def>jewel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -448,6 +454,8 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
