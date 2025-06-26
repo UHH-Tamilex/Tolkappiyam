@@ -233,9 +233,9 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 </entry>
 <entry>
 <form>cēy</form>
-<def>distance</def>
+<def>crafted</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -249,8 +249,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
@@ -307,9 +305,9 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 </entry>
 <entry>
 <form>cēy</form>
-<def>distance</def>
+<def>crafted</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -323,8 +321,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
@@ -382,9 +378,9 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 </entry>
 <entry>
 <form>cēy</form>
-<def>distance</def>
+<def>crafted</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root as adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -397,8 +393,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <entry>
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
-<gramGrp>
-</gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC267-Nacc-cit2" type="wordsplit">
 <interp type="alignment" select="0">24M,G22MG</interp>
@@ -438,7 +432,7 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 </entry>
 <entry>
 <form>cēy</form>
-<def>distance</def>
+<def>v.r.adj.</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -454,8 +448,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
