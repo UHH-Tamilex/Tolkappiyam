@@ -1,0 +1,506 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 267.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC267">
+          <l>anti lāṅka vacainilaik kiḷaviyeṉ</l>
+          <l>ṟāyira ṇṭāku miyaṟkait teṉpa.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/165/mode/1up">165</ref>.</p>
+      <p>
+ituvum tattaṅ kuṟippiṟ poruḷ ceykuvaṉavaṟṟaiyum acainilaiyaiyum uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+varalāṟu:
+      </p>
+      <p>
+iṭañcuṭṭi vantatu:
+      </p>
+      <lg xml:id="TolC267-Ilam-cit1">
+        <l>‘varumē, cēyiḻai yantiṟ koḻunaṟ kāṇiya’</l>
+        <trailer>[kuṟun – 293]</trailer>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+      <p>
+acainilai:
+      </p>
+      <lg xml:id="TolC267-Ilam-cit2">
+        <l>‘antil kacciṉaṉ kaḻaliṉaṉ’</l>
+        <trailer>[akam – 76]</trailer>
+      </lg>
+      <p>
+eṉa varum.  (19)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n215/mode/1up">212</ref>.</p>
+      <p>
+i – ḷ. antileṉṉuñcol, āṅkeṉṉum iṭapporu ḷuṇarttuvatum, acainilaiyumeṉa iraṇṭām. e–ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC267-Cena-cit1">
+        <l>‘varumē ― cēyiḻai yantiṟ koḻunaṟ kāṇiya’<app><note>kuṟun. 293</note></app></l>
+      </lg>
+      <p>
+eṉpuḻi āṅku varumeṉṟavāṟām.
+      </p>
+      <lg xml:id="TolC267-Cena-cit2">
+        <l>‘antiṟ kacciṉaṉ kaḻaliṉaṉ’<app><note>(akam. 76)</note></app></l>
+      </lg>
+      <p>
+eṉa vāḷātē acaittu niṉṟatu.	(19)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/296/mode/1up">296</ref>.</p>
+      <p>
+itu, poruḷpaṭumāṟum acainilaiyuṅ kūṟukiṉṟatu.
+      </p>
+      <p>
+(i–ḷ) antilāṅkavacainilaik kiḷaviyeṉ ṟāyiraṇṭāku miyaṟkkait teṉpa ― anti leṉṉuñcol lāṅka veṉṉu miṭapporuḷuṇarttutalu macainilaic collātalumeṉṉumav viraṇṭu kūṟā miyaṟkaiyai yuṭaitteṉṟu kūṟuvar pulavareṉṟavāṟu.
+      </p>
+      <p>
+(u–m)
+      </p>
+      <lg xml:id="TolC267-Nacc-cit1">
+        <l>‘varumē cēyiḻai yantil’</l>
+      </lg>
+      <lg xml:id="TolC267-Nacc-cit2">
+        <l>‘antil kacciṉaṉ kaḻaliṉaṉ’</l>
+      </lg>
+      <p>
+eṉa iṭamu macainilaiyumāy niṉṟatu.  <num xml:lang="en">(19)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n182/mode/1up">175</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+i–ḷ.: ― antil eṉpatu āṅku eṉṉum poruṇmai peṟṟum, acainilaiyākiyum varum. e–ṟu.
+      </p>
+      <p>
+u–m ―
+      </p>
+      <lg xml:id="TolC267-Tey-cit1">
+        <l>varumē cēyiḻai yantiṟ-koḻunaṟ kāṇiya<note place="foot">kuṟuṅ. 293.</note></l>
+      </lg>
+      <p>
+eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
+      </p>
+      <lg xml:id="TolC267-Tey-cit2">
+        <l>antiṟ kacciṉaṉ kaḻaliṉaṉ</l>
+      </lg>
+      <p>
+(akam. 76) eṉpuḻi, acainilaiyāyiṟṟu.	[19]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC267" type="wordsplit">
+<interp type="alignment" select="0">30MG7MG13MG5M,57MG</interp>
+<entry>
+<form>antil</form>
+<def>the word antil</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṅka</form>
+<def>thus</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>acai</form>
+<def>acai</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai<c type="geminated">k</c></form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi"><c type="glide">y</c>eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṇṭ<c type="elided">u</c></form>
+<def>two-it</def>
+<form type="sandhi">iraṇṭ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ākum</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyaṟkaitt<c type="elided">u</c></form>
+<def>nature</def>
+<form type="sandhi">iyaṟkaitt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG29M,G7MG26MG</interp>
+<entry>
+<form>varum-ē</form>
+<def>comes</def>
+<form type="simple">varum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cēy</form>
+<def>distance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>antil</form>
+<def>there</def>
+<form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaṉ</form>
+<def>husband</def>
+<form type="sandhi">koḻunaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">24M,G22MG</interp>
+<entry>
+<form>antil</form>
+<def>there</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kacciṉaṉ</form>
+<def>girdle-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaliṉaṉ</form>
+<def>anklet-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG29M,G7MG26MG</interp>
+<entry>
+<form>varum-ē</form>
+<def>coming</def>
+<form type="simple">varum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cēy</form>
+<def>distance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>antil</form>
+<def>there</def>
+<form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaṉ</form>
+<def>husband</def>
+<form type="sandhi">koḻunaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">24M,G22MG</interp>
+<entry>
+<form>antil</form>
+<def>there</def>
+<form type="sandhi">antiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kacciṉaṉ</form>
+<def>girdle-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaliṉaṉ</form>
+<def>anklet-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG15M,G20MG</interp>
+<entry>
+<form>varum-ē</form>
+<def>coming</def>
+<form type="simple">varum</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cēy</form>
+<def>distance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>antil</form>
+<def>there</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">24M,G22MG</interp>
+<entry>
+<form>antil</form>
+<def>there</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kacciṉaṉ</form>
+<def>girdle-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaliṉaṉ</form>
+<def>anklet-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">5MG28M,20MG13M</interp>
+<entry>
+<form>varum-ē</form>
+<def>coming</def>
+<form type="simple">varum</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cēy</form>
+<def>distance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>antil</form>
+<def>there</def>
+<form type="sandhi"><c type="glide">y</c>antiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaṉ</form>
+<def>husband</def>
+<form type="sandhi">koḻunaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC267-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">22M,22M</interp>
+<entry>
+<form>antil</form>
+<def>there</def>
+<form type="sandhi">antiṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kacciṉaṉ</form>
+<def>girdle-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaliṉaṉ</form>
+<def>anklet-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

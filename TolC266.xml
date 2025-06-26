@@ -1,0 +1,315 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 266.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC266">
+          <l>tañcak kiḷavi yeṇmaip poruṭṭē.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/164/mode/1up">164</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC266-Ilam-cit1">
+        <l>‘ēṉōrō tañcam irupiṟappi ṉōrkkum</l>
+        <l>vāḻtal aritu’</l>
+      </lg>
+      <p>
+(18)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n215/mode/1up">212</ref>.</p>
+      <lg xml:id="TolC266-Cena-cit1">
+        <l>‘muracukeḻu tāyat taracē tañcam’<app><note>(puṟam. 73)</note></app></l>
+      </lg>
+      <p>
+eṉat tañcakkiḷavi aracu koṭuttaleḷiteṉa eṇmaipporuḷuṇarttiyavāṟu kaṇṭukoḷka.	(18)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/295/mode/1up">295</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+(i–ḷ) tañcak kiḷavi yeṇmaip poruṭṭē ― tañca meṉṉuñcol leḷiteṉṉum poruṇmaiyai yuṭait teṉṟavāṟu      </p>
+      <lg xml:id="TolC266-Nacc-cit1">
+        <l>‘muracukeḻu tāyat taracō tañcam’</l>
+      </lg>
+      <p>
+eṉat tañca maracu koṭutta leḷiteṉa niṉṟatu. <num xml:lang="en">(18)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n182/mode/1up">175</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+i–ḷ.: ― tañcam eṉpatu eḷimai eṉṉum poruṇmaiyai uṭaittu.
+      </p>
+      <p>
+u–m ―  
+      </p>
+      <lg xml:id="TolC266-Tey-cit1">
+        <l>muracukeḻu tāyat taracō tañcam<app><note>puṟam. 73.</note></app></l>
+      </lg>
+      <p>
+eṉpatu eḷiteṉpatu kuṟittu niṉṟatu.	[18]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC266" type="wordsplit">
+<interp type="alignment" select="0">25M2G2M,28MG</interp>
+<entry>
+<form>tañca<c type="geminated">k</c></form>
+<def>the word tañcam</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṇmai<c type="geminated">p</c></form>
+<def>ease</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruṭṭ<c type="elided">u</c>-ē</form>
+<def>has the meaning</def>
+<form type="simple">poruṭṭu</form>
+<form type="sandhi">poruṭṭ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC266-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">5MG36M,G40MG</interp>
+<entry>
+<form>ēṉ</form>
+<def>why</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr-ō</form>
+<def>one</def>
+<form type="simple">ōr</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tañcam</form>
+<def>negligible matter</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iru</form>
+<def>two</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟappiṉ</form>
+<def>if born</def>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōrkkum</form>
+<def>listening</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻtal</form>
+<def>living</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aritu</form>
+<def>difficult-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC266-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">17MG4M2G8M,G30MG</interp>
+<entry>
+<form>muracu</form>
+<def>drum</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>tāyatt<c type="elided">u</c></form>
+<def>inheritance</def>
+<form type="sandhi">tāyatt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arac<c type="elided">u</c>-ē</form>
+<def>king</def>
+<form type="simple">aracu</form>
+<form type="sandhi">arac</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>tañcam</form>
+<def>negligible matter</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC266-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">17MG4M2G8M,G30MG</interp>
+<entry>
+<form>muracu</form>
+<def>drum</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>tāyatt<c type="elided">u</c></form>
+<def>inheritance</def>
+<form type="sandhi">tāyatt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arac<c type="elided">u</c>-ō</form>
+<def>king</def>
+<form type="simple">aracu</form>
+<form type="sandhi">arac</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tañcam</form>
+<def>negligible matter</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC266-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">16MG4M2G7M,30M</interp>
+<entry>
+<form>muracu</form>
+<def>drum</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>tāyatt<c type="elided">u</c></form>
+<def>inheritance</def>
+<form type="sandhi">tāyatt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arac<c type="elided">u</c>-ō</form>
+<def>king</def>
+<form type="simple">aracu</form>
+<form type="sandhi">arac</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>tañcam</form>
+<def>negligible matter</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
