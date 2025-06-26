@@ -320,7 +320,7 @@ eṉṟavaḻi, atuvum iṉaṅkuṟittatu. piṟavumaṉṉa.	[16]
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC264-Cena-cit2" type="wordsplit">
-<interp type="alignment" select="0">11M,6MG4M</interp>
+<interp type="alignment" select="0">11M,11M</interp>
 <entry>
 <form>maṟṟai</form>
 <def>other</def>
@@ -329,7 +329,7 @@ eṉṟavaḻi, atuvum iṉaṅkuṟittatu. piṟavumaṉṉa.	[16]
 </gramGrp>
 </entry>
 <entry>
-<form>āṭai</form>
+<form><c type="glide">y</c>āṭai</form>
 <def>garment</def>
 <gramGrp>
   <gram type="role">noun</gram>
