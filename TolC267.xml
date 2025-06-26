@@ -153,8 +153,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <entry>
 <form>āṅka</form>
 <def>thus</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>acai</form>
@@ -196,8 +194,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form>iraṇṭ<c type="elided">u</c></form>
 <def>two-it</def>
 <form type="sandhi">iraṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ākum</form>
@@ -208,11 +204,12 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 </entry>
 <entry>
 <form>iyaṟkaitt<c type="elided">u</c></form>
-<def>nature</def>
+<def>has the nature</def>
 <form type="sandhi">iyaṟkaitt</form>
 <gramGrp>
   <gram type="role">oblique</gram>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
