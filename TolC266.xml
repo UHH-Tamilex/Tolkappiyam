@@ -134,25 +134,21 @@ eṉpatu eḷiteṉpatu kuṟittu niṉṟatu.	[18]
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC266-Ilam-cit1" type="wordsplit">
-<interp type="alignment" select="0">5MG36M,G40MG</interp>
+<interp type="alignment" select="0">5MG22M2G14M,G42MG</interp>
 <entry>
-<form>ēṉ</form>
-<def>why</def>
+<form>ēṉōr-ō</form>
+<def>others</def>
+<form type="simple">ēṉōr</form>
 <gramGrp>
-  <gram type="role">pronoun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>ōr-ō</form>
-<def>one</def>
-<form type="simple">ōr</form>
-<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>tañcam</form>
-<def>negligible matter</def>
+<def>easy</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -160,22 +156,19 @@ eṉpatu eḷiteṉpatu kuṟittu niṉṟatu.	[18]
 <entry>
 <form>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
-<form>piṟappiṉ</form>
-<def>if born</def>
+<form>piṟappiṉōrkk<c type="elided">u</c>-um</form>
+<def>those who are born</def>
+<form type="simple">piṟappiṉōrkku</form>
+<form type="sandhi">piṟappiṉōrkk</form>
 <gramGrp>
-  <gram type="role">conditional</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>ōrkkum</form>
-<def>listening</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻtal</form>
