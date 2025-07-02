@@ -376,7 +376,7 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <def>coming</def>
 <form type="simple">varum</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -397,8 +397,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <entry>
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
-<gramGrp>
-</gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC267-Nacc-cit2" type="wordsplit">
 <interp type="alignment" select="0">24M,G22MG</interp>
@@ -432,7 +430,7 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <def>coming</def>
 <form type="simple">varum</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -454,8 +452,6 @@ eṉpatu āṅkeṉṉum poruḷuṇarttiṟṟu.
 <form><c type="glide">y</c>antil</form>
 <def>there</def>
 <form type="sandhi"><c type="glide">y</c>antiṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>koḻunaṉ</form>
