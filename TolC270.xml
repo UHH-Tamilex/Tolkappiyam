@@ -333,36 +333,37 @@ ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. 
 <interp type="alignment" select="0">16M,G14MG</interp>
 <entry>
 <form>aracaṉār</form>
-<def>kings</def>
+<def>king</def>
 <gramGrp>
-  <gram type="role">masculine plural</gram>
+  <gram type="role">masculine singular</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vantār</form>
-<def>they came</def>
+<def>he came</def>
 <gramGrp>
   <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC270-Ilam-cit2" type="wordsplit">
 <interp type="alignment" select="0">14M,13MG</interp>
 <entry>
 <form>pārppār</form>
-<def>brahmins</def>
+<def>brahmin</def>
 <gramGrp>
-  <gram type="role">plural</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vantār</form>
-<def>they came</def>
+<def>he came</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -370,18 +371,18 @@ ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. 
 <interp type="alignment" select="0">16M,G14MG</interp>
 <entry>
 <form>yāṉaiyār</form>
-<def>elephants</def>
+<def>elephant</def>
 <gramGrp>
-  <gram type="role">plural</gram>
+  <gram type="role">singular</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vantār</form>
-<def>they came</def>
+<def>came</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -389,19 +390,167 @@ ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. 
 <interp type="alignment" select="0">12M,11MG</interp>
 <entry>
 <form>nāyār</form>
-<def>dogs</def>
+<def>dog</def>
 <gramGrp>
-  <gram type="role">plural</gram>
+  <gram type="role">singular</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>vantār</form>
-<def>they came</def>
+<def>came</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">plural</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">20M,19MG</interp>
+<entry>
+<form>peruñcēntaṉār</form>
+<def>the great Cēntaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>muṭavaṉār</form>
+<def>disabled person</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">25M,24MG</interp>
+<entry>
+<form>muṭa<c type="geminated">t</c></form>
+<def>bend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāma<c type="geminated">k</c></form>
+<def>wreath</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇiyār</form>
+<def>Kaṇṇi</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>tantaiyār</form>
+<def>father</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit5" type="wordsplit">
+<interp type="alignment" select="0">13M,13M</interp>
+<entry>
+<form>nariyār</form>
+<def>jackal</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit6" type="wordsplit">
+<interp type="alignment" select="0">15M,14MG</interp>
+<entry>
+<form>nampiyār</form>
+<def>gentleman</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit7" type="wordsplit">
+<interp type="alignment" select="0">15M,15M</interp>
+<entry>
+<form>naṅkaiyār</form>
+<def>lady</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>she came</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
