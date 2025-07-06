@@ -374,7 +374,7 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
 <interp type="alignment" select="0">6MG20M,26MG</interp>
 <entry>
 <form>varuka-tillamma</form>
-<def>may-come</def>
+<def>may come</def>
 <form type="simple">varuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
@@ -441,15 +441,15 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC249-Nacc-cit2" type="wordsplit">
-<interp type="alignment" select="0">7MG3MG16M,G26MG</interp>
+<interp type="alignment" select="0">7MG19M,G25MG</interp>
 <entry>
-<form>varuka-tillamma</form>
-<def>may-come</def>
+<form>varuka-tilamma</form>
+<def>may come</def>
 <form type="simple">varuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">tillamma</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">tilamma</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>em</form>
@@ -502,26 +502,19 @@ iṉi avvilēcu niraṉiṟaic cūttirattatākalāṟ puṟattuvaḻivarutal i�
 </standOff><standOff corresp="#TolC249-Kal-cit2" type="wordsplit">
 <interp type="alignment" select="0">6MG7M,14M</interp>
 <entry>
-<form>varuka-til</form>
-<def>may-come</def>
+<form>varuka-tilamma</form>
+<def>may come</def>
 <form type="simple">varuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">til</m></gramGrp>
-</entry>
-<entry>
-<form>amma</form>
-<def>alas</def>
-<gramGrp>
-  <gram type="role">interjection</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">tilamma</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC249-Kal-cit3" type="wordsplit">
 <interp type="alignment" select="0">6MG3M,10M</interp>
 <entry>
 <form>varuka-til</form>
-<def>may-come</def>
+<def>may come</def>
 <form type="simple">varuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
