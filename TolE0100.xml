@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="TolE0100">
+<l>melleḻut tāṟum piṟappi ṉākkañ</l>
+<l>colliya paḷḷi nilaiyiṉa vāyiṉu</l>
+<l>mūkkiṉ vaḷiyicai yāppuṟat tōṉṟum</l>
+      </lg>
+      <lg xml:lang="en">
+<!--put your translation here-->
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#TolE0100"><interp type="alignment" select="0">9MG2M2G43ML28M,86M</interp>
+<entry>
+<form>mel</form>
+<def>soft</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>eḻutt<c type="elided">u</c></form>
+<def>letter</def>
+<form type="sandhi"><c type="geminated">l</c>eḻutt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c>-um</form>
+<def>six</def>
+<form type="simple">āṟu</form>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piṟappiṉ</form>
+<def>production</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākkam</form>
+<def>coming into existence</def>
+<form type="sandhi">ākkañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliya</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḷḷi</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilaiyiṉa</form>
+<def>they are of standardized</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āyiṉum</form>
+<def>if-even</def>
+<gramGrp>
+  <gram type="role">conjunction</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mūkkiṉ</form>
+<def>nose</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷi</form>
+<def>wind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>icai</form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāppuṟa<c type="geminated">t</c></form>
+<def>to be appropriate</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟum</form>
+<def>they will be produced</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry></standOff>
+</TEI>
