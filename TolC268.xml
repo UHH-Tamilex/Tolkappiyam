@@ -1,0 +1,304 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 268.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC268">
+          <l>kollē yaiyam.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/165/mode/1up">165</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      <p>
+itu,
+      </p>
+      <lg xml:id="TolC268-Ilam-cit1">
+        <l>‘kuṟṟi kollō, makaṉ kollō, nāy kollō, nari kollō’</l>
+      </lg>
+      <p>
+eṉa varum.  (20)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n215/mode/1up">212</ref>.</p>
+      <lg xml:id="TolC268-Cena-cit1">
+        <l>kuṟṟikollō makaṉkollō</l>
+      </lg>
+      <p>
+eṉak kol aiyattukkaṇ vantavāṟu.	(20)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/296/mode/1up">296</ref>.</p>
+      <p>
+itu, poruḷ paṭumāṟu kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ) kollē yaiyam ― kol leṉṉuñ col laiyapporuṇmaiyai yuṇarttumeṉṟavāṟu.
+      </p>
+      <p>
+(u–m)
+      </p>
+      <lg xml:id="TolC268-Nacc-cit1">
+        <l>yātukol maṟṟavar nilaiyē.<app><note xml:lang="en"><title xml:lang="ta">Akanāṉūṟu</title> <ref target="../Akananuru/AN139.1.xml">139</ref></note></app></l>
+      </lg>
+      <lg xml:id="TolC268-Nacc-cit2">
+        <l>‘itaṉaḷa vuṇṭu koṉ matival lōrkkē’<app><note xml:lang="en"><title xml:lang="ta">Akanāṉūṟu</title> 48</note></app></l>
+      </lg>
+      <p>
+eṉat tuṇiviṉka ṇaiyañ ciṟitu niṉaittalu moṉṟeṉamuṭittalāṟ koḷka.    <num xml:lang="en">(20)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n182/mode/1up">175</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+i–ḷ.: ― kol eṉpatu aiyaṅ kuṟittu varum. e-ṟu.
+      </p>
+      <p>
+u–m ―
+      </p>
+      <p>
+      </p>
+      <lg xml:id="TolC268-Tey-cit1">
+        <l>atukol tōḻi kāma nōyē<app><note>kuṟuṅ. 5.</note></app></l>
+      </lg>
+      <p>
+eṉṟavaḻi, aiyaṅ kāṭṭiṟṟu. 	[20]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC268" type="wordsplit">
+<interp type="alignment" select="0">3MG9M,12MG</interp>
+<entry>
+<form>kol-<c type="geminated">l</c>ē</form>
+<def>the word kol</def>
+<form type="simple">kol</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aiyam</form>
+<def>doubt</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC268-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG11MG9MG10MG6M,G11MG11MG9MG10MG</interp>
+<entry>
+<form>kuṟṟi-kollō</form>
+<def>stump</def>
+<form type="simple">kuṟṟi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>makaṉ-kollō</form>
+<def>boy</def>
+<form type="simple">makaṉ</form>
+<gramGrp>
+  <gram type="role">masculine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>nāy-kollō</form>
+<def>dog</def>
+<form type="simple">nāy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>nari-kollō</form>
+<def>jackal</def>
+<form type="simple">nari</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC268-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">5MG10MG5M,22M</interp>
+<entry>
+<form>kuṟṟi-kollō</form>
+<def>stump</def>
+<form type="simple">kuṟṟi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+<entry>
+<form>makaṉ-kollō</form>
+<def>boy</def>
+<form type="simple">makaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC268-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">4MG7MG9MG3M,25MG</interp>
+<entry>
+<form>yātu-kol</form>
+<def>what</def>
+<form type="simple">yātu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avar</form>
+<def>that-one</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai-<c type="glide">y</c>ē</form>
+<def>standing</def>
+<form type="simple">nilai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC268-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">9MG4MG15M2G2M,G32MG</interp>
+<entry>
+<form>itaṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷav<c type="elided">u</c></form>
+<def>measure</def>
+<form type="sandhi">aḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇṭu-kol</form>
+<def>is</def>
+<form type="simple">uṇṭu</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>mati</form>
+<def>mind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vallōrkk<c type="elided">u</c>-ē</form>
+<def>strong-they</def>
+<form type="simple">vallōrkku</form>
+<form type="sandhi">vallōrkk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC268-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">3MG11MR3MGM,21M</interp>
+<entry>
+<form>atu-kol</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāma<c type="uncertain">m</c></form>
+<def>desire</def>
+<form type="sandhi">kāman</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōy-ē</form>
+<def>pain</def>
+<form type="simple">nōy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

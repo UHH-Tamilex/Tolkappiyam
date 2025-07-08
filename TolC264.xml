@@ -1,0 +1,394 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 264.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC264">
+          <l>maṟṟaiya teṉṉuṅ kiḷavi tāṉē</l>
+          <l>cuṭṭunilai yoḻiya viṉaṅkuṟit taṉṟē.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/164/mode/1up">164</ref>.</p>
+      <p>
+pala pottakam kiṭantavaḻi, oruvaṉ ēvalāḷaṉaip pārttup, ‘pottakaṅ koṇṭuvā’ eṉṟāl, avaṉ oru pottakaṅ koṇṭuvantaviṭattut tāṉ karutiya pottakam aṉṟeṉil,
+      </p>
+      <lg xml:id="TolC264-Ilam-cit1">
+        <l>‘maṟṟaiyatu koṇā’</l>
+      </lg>
+      <p>
+eṉṉum; eṉṟakkāl, ikkoṇarntataṉai yoḻikkuñ col ik koṇarnta pottakam cuṭṭiṟṟākalāṉ, koṇarntataṉai oḻikkuñ cuṭṭunilai ataṉai yoḻittu oḻintateṉṟu avviṉattallatu piṟitoṉṟu kuṟittatu kollō eṉiṟ kuṟiyā; maṟṟu ap pottakattuḷ piṉṉuṅ kuṟittatu eṉappaṭum.    (16)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n214/mode/1up">211</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n215/mode/1up">212</ref>.</p>
+      <p>
+i – ḷ. maṟṟaiyateṉap peyarkku mutaṉilaiyāy varum maṟṟaiyeṉṉum aikāravīṟ ṟiṭaiccol, cuṭṭappaṭṭataṉai oḻittu, ataṉiṉaṅkuṟittu niṟkum. e–ṟu.
+      </p>
+      <p>
+āṭai koṇarntavaḻi avvāṭai vēṇṭātāṉ
+      </p>
+      <lg xml:id="TolC264-Cena-cit1">
+        <l>maṟṟaiyatu koṇā</l>
+      </lg>
+      <p>
+veṉṉum. aḵtu accuṭṭiyavāṭaiyoḻittu ataṟkiṉa mākiya piṟavāṭai kuṟittu niṉṟavāṟu kaṇṭukoḷka.
+      </p>
+      <p>
+perumpāṉmaiyum mutaṉilaiyāy niṉṟallatu avviṭaiccoṟporuḷ viḷakkāmaiyiṉ, ‘maṟṟaiyateṉṉuṅkiḷavi’ yeṉṟār. ciṟupāṉmai
+      </p>
+      <lg xml:id="TolC264-Cena-cit2">
+        <l>maṟṟaiyāṭai</l>
+      </lg>
+      <p>
+eṉat tāṉēyum varum.
+      </p>
+      <lg xml:id="TolC264-Cena-cit3">
+        <l>maṟṟaiyaḵtu,</l>
+      </lg>
+      <lg xml:id="TolC264-Cena-cit4">
+        <l>maṟṟaiyavaṉ</l>
+      </lg>
+      <p>
+eṉṉuntoṭakkattaṉavum avviṭaiccoṉmutaṉilaiyāya peyar.  (16)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/294/mode/1up">294</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/295/mode/1up">295</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+(i–ḷ) maṟṟaiya teṉṉuṅ kiḷavitāṉē – maṟṟaiyateṉap peyarkku mutaṉilaiyāy varum maṟṟaiyeṉṉumai kāra vīṟṟiṭaiccol, cuṭṭunilai yoḻiya viṉaṅkuṟit taṉṟē ― oruvaṉ muṉṉark karutappaṭṭa poruḷoḻiya vataṉiṉap poruḷaik karuti niṟku meṉṟavāṟu.
+      </p>
+      <p>
+(u–m) āṭai koṇarntavaḻi, yavvāṭai vēṇṭātār,
+      </p>
+      <lg xml:id="TolC264-Nacc-cit1">
+        <l>‘maṟṟaiyatu koṇṭu vā’</l>
+      </lg>
+      <p>
+veṉṟāl, ataṟkiṉamākiya piṟavāṭai kuṟittu niṟkum iṉic ciṟupāṉmai
+      </p>
+      <lg xml:id="TolC264-Nacc-cit2">
+        <l>‘maṟṟai āṭai’</l>
+      </lg>
+      <p>
+yeṉat tāṉēyum varum.
+      </p>
+      <p>
+aḵtu, avaṉeṉṉun toṭakkattaṉa vaṟṟiṟku
+      </p>
+      <lg xml:id="TolC264-Nacc-cit3">
+        <l>maṟṟai yaḵtu,</l>
+      </lg>
+      <lg xml:id="TolC264-Nacc-cit4">
+        <l>‘maṟṟaiyavaṉ’</l>
+      </lg>
+      <p>
+eṉa avviṭaiccol mutal nilaiyāy varutaliṉ maṟṟaiyeṉa iṭaiccollaip pirittu ōtātu maṟṟaiyatu eṉa oṉṟāka ōtiṉār.
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n181/mode/1up">174</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+i–ḷ: ― maṟṟaiyatu eṉṉuñ col cuṭṭi niṉṟa poruḷ oḻiya ataṟkiṉamākiya poruḷaikkuṟittu niṟkum. e–ṟu.
+      </p>
+      <p>
+atu eṉpatu evvāṟu vantatu eṉiṉ, mēl viṉaimāṟṟu eṉṟār, itu poruṇmai māṟṟu eṉpataṉai viḷakkutaṟku atu eṉpataṉaik kūṭṭiyuraittār. atu eṉpatu peyarātaliṉ
+      </p>
+      <lg xml:id="TolC264-Tey-cit1">
+        <l>orupāṟkiḷavi eṉaippāṟ kaṇṇum–varuvatāmē vaḻakkeṉa moḻipa<note place="foot">poruḷiyal. 28</note></l>
+      </lg>
+      <p>
+eṉpataṉāṉ aintupāṟkaṇṇum koḷka. avvāṟu koḷḷavē, maṟṟai eṉpatu iṭaiccollāki niṉṟu piṟaporuḷuṇarttiyavāṟu kaṇṭukoḷka.
+      </p>
+      <p>
+iṉaṅkuṟittu eṉṟamaiyāṟ, cuṭṭappaṭṭa poruṭku iṉamākiya poruḷaiyē kuṟikkum. āṭai koṇarntavaḻi,
+      </p>
+      <lg xml:id="TolC264-Tey-cit2">
+        <l>maṟṟaiyatō</l>
+      </lg>
+      <p>
+eṉiṟ, koṇarntatoḻiyap piṟitumōrāṭaiyaic cuṭṭiyavāṟu kaṇṭu koḷka. oru viṉaiceyvār iruvaruḷvaḻi, oruvaṉaikkaṇṭavaṉ
+      </p>
+      <lg xml:id="TolC264-Tey-cit3">
+        <l>maṟṟaiyavaṉō</l>
+      </lg>
+      <p>
+eṉṟavaḻi, atuvum iṉaṅkuṟittatu. piṟavumaṉṉa.	[16]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC264" type="wordsplit">
+<interp type="alignment" select="0">9MG14MG31M2G2M,59MG</interp>
+<entry>
+<form>maṟṟaiyat<c type="elided">u</c></form>
+<def>other</def>
+<form type="sandhi">maṟṟaiyat</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<form type="sandhi">eṉṉuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cuṭṭu</form>
+<def>point out</def>
+<gramGrp>
+  <gram type="role">verbal root as adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oḻiya</form>
+<def>leaving out</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉam</form>
+<def>category</def>
+<form type="sandhi"><c type="glide">v</c>iṉaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟittaṉṟ<c type="elided">u</c>-ē</form>
+<def>intended-it</def>
+<form type="simple">kuṟittaṉṟu</form>
+<form type="sandhi">kuṟittaṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">14MG2M,G15MG</interp>
+<entry>
+<form>maṟṟaiyatu</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇ-ā</form>
+<def>take</def>
+<form type="simple">koṇ</form>
+<gramGrp>
+  <gram type="role">verbal root as imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ā</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">13MGM,15M</interp>
+<entry>
+<form>maṟṟaiyatu</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇ-ā</form>
+<def>take</def>
+<form type="simple">koṇ</form>
+<gramGrp>
+  <gram type="role">verbal root as imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ā</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">16MG3M,G18MG</interp>
+<entry>
+<form>maṟṟaiyatu</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭu-<c type="glide">v</c>ā</form>
+<def>taken</def>
+<form type="simple">koṇṭu</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ā</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">9M2GM,12M</interp>
+<entry>
+<form>maṟṟaiyat<c type="elided">u</c>-ō</form>
+<def>other</def>
+<form type="simple">maṟṟaiyatu</form>
+<form type="sandhi">maṟṟaiyat</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Tey-cit3" type="wordsplit">
+<interp type="alignment" select="0">11MGM,13M</interp>
+<entry>
+<form>maṟṟaiyavaṉ-ō</form>
+<def>other-he</def>
+<form type="simple">maṟṟaiyavaṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">11M,11M</interp>
+<entry>
+<form>maṟṟai</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṭai</form>
+<def>garment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>maṟṟaiyaḵtu</form>
+<def>other-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">11M,11M</interp>
+<entry>
+<form>maṟṟaiyavaṉ</form>
+<def>other-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">12M,G10MG</interp>
+<entry>
+<form>maṟṟai</form>
+<def>other</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭai</form>
+<def>garment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>maṟṟaiyaḵtu</form>
+<def>other-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC264-Nacc-cit4" type="wordsplit">
+<interp type="alignment" select="0">13M,G11MG</interp>
+<entry>
+<form>maṟṟaiyavaṉ</form>
+<def>other-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

@@ -1,0 +1,553 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 270.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC270">
+          <l>iyaṟpeyar muṉṉa rāraik kiḷavi</l>
+          <l>palarkkuri yeḻuttiṉ viṉaiyoṭu muṭimē.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/165/mode/1up">165</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/166/mode/1up">166</ref>.</p>
+      <p>
+urai: itu, ār eṉṉum iṭaiccol peyarmuṉ allatu vārā eṉpatu.
+      </p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC270-Ilam-cit1">
+        <l>‘aracaṉār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Ilam-cit2">
+        <l>pārppār vantār’</l>
+      </lg>
+      <p>
+eṉavarum.
+      </p>
+      <p>
+iṉi vilaṅkiṉmēlum,
+      </p>
+      <lg xml:id="TolC270-Ilam-cit3">
+        <l>‘yāṉaiyār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Ilam-cit4">
+        <l>nāyār vantār’</l>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+      <p>
+‘peyarmuṉ āraik kiḷavi palarkkuri eḻuttiṉ viṉaiyoṭu muṭittal iyalpila’ eṉa ellāp peyarum aṭaṅka moḻimāṟṟi uraikka.  (22)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n216/mode/1up">213</ref>.</p>
+      <p>
+i – ḷ. iyaṟpeyarmuṉṉar varum āreṉṉumiṭaiccoṟ palaraṟicollāṉ muṭiyum. e–ṟu.
+      </p>
+      <p>
+īṇṭiyaṟpeyareṉṟatu irutiṇaikkum aḵṟiṇaiyirupāṟkumuriya peyarai.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC270-Cena-cit1">
+        <l>peruñ cēntaṉār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Cena-cit2">
+        <l>muṭavaṉār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Cena-cit3">
+        <l>muṭattāmakkaṇṇiyār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Cena-cit4">
+        <l>tantaiyār vantār.</l>
+      </lg>
+      <p>
+e–m.
+      </p>
+      <lg xml:id="TolC270-Cena-cit5">
+        <l>nariyār vantār</l>
+      </lg>
+      <p>
+e–m. varum.
+      </p>
+      <p>
+tām, tāṉ, ellām, nīyir, nī eṉṉum aintumoḻittu allāviyaṟpeyarellāvaṟṟumuṉṉarum aḵṟiṇaiyiyaṟpeyarellāvaṟṟu muṉṉarum āraikkiḷavi varutaliṉ, perumpāṉmai kuṟittu iyaṟpeyar muṉṉareṉṟār.
+      </p>
+      <lg xml:id="TolC270-Cena-cit6">
+        <l>nampiyār vantār;</l>
+      </lg>
+      <lg xml:id="TolC270-Cena-cit7">
+        <l>naṅkaiyār vantār</l>
+      </lg>
+      <p>
+eṉac ciṟupāṉmai uyartiṇaippeyarmuṉṉar varutal oṉṟeṉamuṭittaleṉpataṉāṟkoḷka.
+      </p>
+      <p>
+āraikkiḷavi kaḷḷeṉpatupōla oṟṟumaippaṭṭup peyarīṟāy niṟṟaliṉ, āraikkiḷavi palaraṟicollāṉmuṭiyumeṉṟatu ataṉaiyīṟākavuṭaiya peyar palaraṟicollā<sic>ṉa</sic>muṭiyumeṉṟavāṟām.
+      </p>
+      <p>
+palarkkuri yeḻuttiṉ viṉaiyoṭu muṭimē eṉa āraikkiḷaviyatiyalpuṇarttavē, aḵtu uyarttaṟporuṭṭātalum, tiṇaivaḻuvum pālvaḻuvum amaittalum peṟṟām.
+      </p>
+      <p>
+orumaippeyarmuṉṉar orumai citaiyāmal āraikkiḷavi vantu palaraṟicollāṉ muṭitaliṉ, oruvaraik kūṟum paṉmaikkiḷaviyiṉ vēṟātalaṟika.     (22)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/297/mode/1up">297</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/298/mode/1up">298</ref>.</p>
+      <p>
+itu, āreṉṉu miṭaiccol muṭipu kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ) iyaṟpeyar muṉṉa rāraik kiḷavi ― iru tiṇaikkum iyalum peyarkkum aḵṟiṇai yirupāṟkumiyalum peyarkkum muṉṉar varu māreṉṉumiṭaiccol, palarkkuriyeḻuttiṉ viṉaiyoṭu muṭimē — raḵkā ṉoṟṟiṉai yīṟākavuṭaiya viṉaiccollāṉ muṭiyu meṉṟavāṟu.
+      </p>
+      <p>
+(u–m)
+      </p>
+      <lg xml:id="TolC270-Nacc-cit1">
+        <l>peruñ cēntaṉār vantār.</l>
+      </lg>
+      <lg xml:id="TolC270-Nacc-cit2">
+        <l>muṭavaṉār vantār.</l>
+      </lg>
+      <lg xml:id="TolC270-Nacc-cit3">
+        <l>muṭattāmak kaṇṇiyār vantār.</l>
+      </lg>
+      <lg xml:id="TolC270-Nacc-cit4">
+        <l>tantaiyār vantār.</l>
+      </lg>
+      <lg xml:id="TolC270-Nacc-cit5">
+        <l>kiḷiyār vantār.</l>
+      </lg>
+      <p>
+eṉavum varum.
+      </p>
+      <p>
+perumpāṉmai yiyaṟ peyarkūṟavē,
+      </p>
+      <lg xml:id="TolC270-Nacc-cit6">
+        <l>nampiyār vantār</l>
+      </lg>
+      <lg xml:id="TolC270-Nacc-cit7">
+        <l>naṅkaiyār vantār</l>
+      </lg>
+      <p>
+eṉac ciṟupāṉmai yuyartiṇaippeyar muṉṉarum varut aloṉṟeṉa muṭittalāṟ koḷka. ivaitām rakara vīṟṟup peya raṉmaiyiṉ viḷi yēṟkumiṭattikaravīṟu maikāra vīṟumāy niṉṟē viḷiyēṟku meṉṟuṇarka. orumaip peyar niṉṟu āraik kiḷaviyai yēṟṟali, ṉivai yoruvaraik kūṟum paṉmaikkiḷaviyiṉ vēṟāyiṉa.    <num xml:lang="en">(21)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n183/mode/1up">176</ref>.</p>
+      <note>
+iccūttirattai irucūttiramākakkoḷvar ēṉai uraiyāḷarkaḷ.
+      </note>
+      <p>
+acainilai yāmāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+i–ḷ.: ― iyaṟpeyar muṉṉar varum ār eṉṉum iṭaiccol orumaip poruṇmēl variṉum, palarkkurittākiya eḻuttiṉaiyuṭaiya viṉaiyoṭu muṟṟup peṟum : atu acainilaikkiḷavi ākumiṭaṉaṟintu koḷka. e–ṟu.
+      </p>
+      <p>
+vantatu kaṇṭu vārātatu muṭittal eṉpataṉāl, piṟapeyark kaṇṇum ēṟpaṉa koḷka.
+      </p>
+      <p>
+“palarkkuri yeḻuttiṉ viṉaiyoṭu muṭimē” eṉṟa ummai eccamākalāṉ, orumaiyāṉ varavum peṟum eṉṟavāṟu.
+      </p>
+      <p>
+itaṉāṉē, iṭaiccoṟpaṟṟivarum pāl vaḻuvum, tiṇai vaḻuvum amaittavāṟāyiṟṟu.
+      </p>
+      <p>
+u–m: ―
+      </p>
+      <lg xml:id="TolC270-Tey-cit1">
+        <l>cāttaṉār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit2">
+        <l>cāttiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit3">
+        <l>nampiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit4">
+        <l>naṅkaiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit5">
+        <l>muṭavaṉār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit6">
+        <l>muṭattiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit7">
+        <l>tāyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit8">
+        <l>tantaiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit9">
+        <l>kiḷiyār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit10">
+        <l>mayilār</l>
+      </lg>
+      <p>
+eṉpaṉa orumaiyuṇara niṉṟaṉavāyiṉum, viṉaiyoṭu varuṅkāl vantār eṉavarum.
+      </p>
+      <lg xml:id="TolC270-Tey-cit11">
+        <l>nampiyār vantār,</l>
+      </lg>
+      <lg xml:id="TolC270-Tey-cit12">
+        <l>naṅkaiyār vantār</l>
+      </lg>
+      <p>
+eṉa ivvāṟu varutaṟkēṟpaṉavuṅkoḷka. oruvaraik kūṟum paṉmaik kiḷaviyuḷ aṭaṅkātō eṉiṉ, āṇṭu uraitta viṭaiyē īṇṭum uraikka.
+      </p>
+      <p>
+ār eṉpatu iṭaiccollāyiṉ, ippeyaruṭaiyār palar vantuḻik kūṟumāṟu eṉṉai yeṉiṉ, ataṉāṉē yaṉṟē mār eṉpatu vēṟu eṭuttōtal vēṇṭiyatu.     “ellā uyiroṭuñ cellumār mutalē”<note place="foot">moḻimarapu. 28.</note> eṉpuḻi, ār acainilaiyāyiṟṟu.	[22]
+      </p>
+      <p>
+u–m ―
+      </p>
+      <p>
+      </p>
+      <p>
+ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. itu kuṟaiyiṉṟi niṟṟaliṉ, iṭaiccollāyiṟṟu.     [21]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC270" type="wordsplit">
+<interp type="alignment" select="0">33MG25MG2M,61MG</interp>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>noun</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉṉar</form>
+<def>before</def>
+</entry>
+<entry>
+<form>ārai<c type="geminated">k</c></form>
+<def>the morpheme ‘ār’</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>palarkk<c type="elided">u</c></form>
+<def>many</def>
+<form type="sandhi">palarkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uri</form>
+<def>suitability</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eḻuttiṉ</form>
+<def>letter</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉaiyoṭu</form>
+<def>verb</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṭim-ē</form>
+<def>is completed</def>
+<form type="simple">muṭim</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">16M,G14MG</interp>
+<entry>
+<form>aracaṉār</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>pārppār</form>
+<def>brahmin</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Ilam-cit3" type="wordsplit">
+<interp type="alignment" select="0">16M,G14MG</interp>
+<entry>
+<form>yāṉaiyār</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Ilam-cit4" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>nāyār</form>
+<def>dog</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">20M,19MG</interp>
+<entry>
+<form>peruñcēntaṉār</form>
+<def>the great Cēntaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>muṭavaṉār</form>
+<def>disabled person</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">25M,24MG</interp>
+<entry>
+<form>muṭa<c type="geminated">t</c></form>
+<def>bend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāma<c type="geminated">k</c></form>
+<def>wreath</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇiyār</form>
+<def>Kaṇṇi</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>tantaiyār</form>
+<def>father</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit5" type="wordsplit">
+<interp type="alignment" select="0">13M,13M</interp>
+<entry>
+<form>nariyār</form>
+<def>jackal</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit6" type="wordsplit">
+<interp type="alignment" select="0">15M,14MG</interp>
+<entry>
+<form>nampiyār</form>
+<def>gentleman</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Cena-cit7" type="wordsplit">
+<interp type="alignment" select="0">15M,15M</interp>
+<entry>
+<form>naṅkaiyār</form>
+<def>lady</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>she came</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
