@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="TolE0119">
+<l>avaitām</l>
+<l>iṉṉē vaṟṟē yattē yamme</l>
+<l>yoṉṉē yāṉē yakkē yikkē</l>
+<l>yaṉṉeṉ kiḷavi yuḷappaṭap piṟavu</l>
+<l>maṉṉa veṉpa cāriyai moḻiyē</l>
+      </lg>
+      <lg xml:lang="en">
+<!--put your translation here-->
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#TolE0119"><interp type="alignment" select="0">9MG6M2G5M2G4MG5MG5MG5M2G5M2G27MG23MG2M,110M</interp>
+<entry>
+<form>avai</form>
+<def>those</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tām</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ-<c type="geminated">ṉ</c>ē</form>
+<def>increment 'iṉ'</def>
+<form type="simple">iṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vaṟṟ<c type="elided">u</c>-ē</form>
+<def>increment 'varru'</def>
+<form type="simple">vaṟṟu</form>
+<form type="sandhi">vaṟṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>att<c type="elided">u</c>-ē</form>
+<def>increment 'attu'</def>
+<form type="simple">attu</form>
+<form type="sandhi"><c type="glide">y</c>att</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>am-<c type="geminated">m</c>ē</form>
+<def>increment 'am'</def>
+<form type="simple">am</form>
+<form type="sandhi"><c type="glide">y</c>am</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oṉ-<c type="geminated">ṉ</c>ē</form>
+<def>increment 'oṉ'</def>
+<form type="simple">oṉ</form>
+<form type="sandhi"><c type="glide">y</c>oṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṉ-ē</form>
+<def>increment 'āṉ'</def>
+<form type="simple">āṉ</form>
+<form type="sandhi"><c type="glide">y</c>āṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>akk<c type="elided">u</c>-ē</form>
+<def>increment 'akku'</def>
+<form type="simple">akku</form>
+<form type="sandhi"><c type="glide">y</c>akk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ikk<c type="elided">u</c>-ē</form>
+<def>increment 'ikku'</def>
+<form type="simple">ikku</form>
+<form type="sandhi"><c type="glide">y</c>ikk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉ</form>
+<def>increment 'an'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uḷappaṭa<c type="geminated">p</c></form>
+<def>to be included</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟa-<c type="glide">v</c>um</form>
+<def>other</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉpa</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāriyai</form>
+<def>increment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi-<c type="glide">y</c>ē</form>
+<def>word</def>
+<form type="simple">moḻi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
