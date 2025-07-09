@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="TolE0144">
+<l>ñanama yavaveṉu mutalāku moḻiyu</l>
+<l>muyirmuta lākiya moḻiyu muḷappaṭa</l>
+<l>vaṉṟi yaṉaittu mellā vaḻiyu</l>
+<l>niṉṟa coṉmu ṉiyalpā kummē</l>
+      </lg>
+      <lg xml:lang="en">
+<!--put your translation here-->
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#TolE0144"><interp type="alignment" select="0">15ML11MG21MG33MG2MR16MG4MG2M,111M</interp>
+<entry>
+<form>ña</form>
+<def>consonant 'ñ'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>na</form>
+<def>consonant 'n'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ma</form>
+<def>consonant 'm'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ya</form>
+<def>consonant 'y'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>va</form>
+<def>consonant 'v'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉum</form>
+<def>what</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>initial</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āku</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi-<c type="glide">y</c>um</form>
+<def>word</def>
+<form type="simple">moḻi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uyir</form>
+<def>vowel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>initial</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi-<c type="glide">y</c>um</form>
+<def>word</def>
+<form type="simple">moḻi</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uḷappaṭa</form>
+<def>to be included</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṉṟi</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">conjunction</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉaittum</form>
+<def>the whole</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ellā</form>
+<def>all</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi-<c type="glide">y</c>um</form>
+<def>place</def>
+<form type="simple">vaḻi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>niṉṟa</form>
+<def>stood</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyalp<c type="elided">u</c></form>
+<def>nature</def>
+<form type="sandhi">iyalp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākum-<c type="geminated">m</c>ē</form>
+<def>becomes</def>
+<form type="simple">ākum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
