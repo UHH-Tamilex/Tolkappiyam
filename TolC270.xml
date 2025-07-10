@@ -239,17 +239,6 @@ eṉpaṉa orumaiyuṇara niṉṟaṉavāyiṉum, viṉaiyoṭu varuṅkāl van
       <p>
 eṉa ivvāṟu varutaṟkēṟpaṉavuṅkoḷka. oruvaraik kūṟum paṉmaik kiḷaviyuḷ aṭaṅkātō eṉiṉ, āṇṭu uraitta viṭaiyē īṇṭum uraikka.
       </p>
-      <p>
-ār eṉpatu iṭaiccollāyiṉ, ippeyaruṭaiyār palar vantuḻik kūṟumāṟu eṉṉai yeṉiṉ, ataṉāṉē yaṉṟē mār eṉpatu vēṟu eṭuttōtal vēṇṭiyatu.     “ellā uyiroṭuñ cellumār mutalē”<note place="foot">moḻimarapu. 28.</note> eṉpuḻi, ār acainilaiyāyiṟṟu.	[22]
-      </p>
-      <p>
-u–m ―
-      </p>
-      <p>
-      </p>
-      <p>
-ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. itu kuṟaiyiṉṟi niṟṟaliṉ, iṭaiccollāyiṟṟu.     [21]
-      </p>
     </body>
   </text>
 <standOff corresp="#TolC270" type="wordsplit">
@@ -548,6 +537,161 @@ ilaṅkuvaḷai. itu uriccollaṉṟō eṉiṉ, atu kuṟaiccollāki niṟkum. 
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">20M,19MG</interp>
+<entry>
+<form>peruñcēntaṉār</form>
+<def>the great Cēntaṉ</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came-they</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>muṭavaṉār</form>
+<def>disabled person</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">25M,24MG</interp>
+<entry>
+<form>muṭa<c type="geminated">t</c></form>
+<def>bend</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāma<c type="geminated">k</c></form>
+<def>wreath</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇiyār</form>
+<def>Kaṇṇi</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he come</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit4" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>tantaiyār</form>
+<def>father</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit5" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>kiḷiyār</form>
+<def>parakeet</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came-they</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit6" type="wordsplit">
+<interp type="alignment" select="0">14M,14M</interp>
+<entry>
+<form>nampiyār</form>
+<def>gentleman</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>they came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC270-Nacc-cit7" type="wordsplit">
+<interp type="alignment" select="0">15M,15M</interp>
+<entry>
+<form>naṅkaiyār</form>
+<def>lady</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>she came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
