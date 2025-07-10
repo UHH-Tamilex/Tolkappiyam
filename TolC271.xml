@@ -1,0 +1,312 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 271.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC271">
+          <l>acainilaik kiḷavi yākuvaḻi yaṟital.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/166/mode/1up">166</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      <p>
+itu,
+      </p>
+      <lg xml:id="TolC271-Ilam-cit1">
+        <l>‘cella maṉṉār neṭuntakai’</l>
+      </lg>
+      <p>
+eṉavarum.   (23)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n217/mode/1up">214</ref>.</p>
+      <p>
+i – ḷ. āraikkiḷavi acainilaiyāmiṭamaṟika. e–ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC271-Cena-cit1">
+        <l>‘peyari ṉākiya tokaiyumā ruḷavē<app><note>(col. 67)</note></app></l>
+      </lg>
+      <p>
+e–m.
+      </p>
+      <lg xml:id="TolC271-Cena-cit2">
+        <l>ellā vuyiroṭuñ cellumār mutalē<app><note>(eḻut. 61)</note></app></l>
+      </lg>
+      <p>
+e–m. varum.
+      </p>
+      <p>
+ākuvaḻiyaṟitaleṉṟataṉāl, acainilaiyāṅkāl ummai muṉṉarum ummīṟṟuviṉaimuṉṉarumallatu vārāmaiyaṟika. ciṟupāṉmai piṟāṇṭu varumēṉuṅkoḷka.	(23)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/298/mode/1up">298</ref>.</p>
+      <p>
+itu, mēlataṟkōr puṟaṉaṭai
+      </p>
+      <p>
+(i–ḷ) acainilaik kiḷavi yākuvaḻiyaṟital ― avvāreṉṉuñ col lacainilaiccollā miṭamaṟikaveṉṟavāṟu.
+      </p>
+      <p>
+‘ākuvaḻi’ yaṟitaleṉṟataṉāṉummai muṉṉarum ‘um’ īṟṟu viṉai muṉṉarum varutalkoḷka.
+      </p>
+      <p>
+(u–m)
+      </p>
+      <lg xml:id="TolC271-Nacc-cit1">
+        <l>‘peyari ṉākiya tokaiyumā ruḷavē’</l>
+      </lg>
+      <lg xml:id="TolC271-Nacc-cit2">
+        <l>‘ellā vuyiroṭuñ cellumār mutalē’</l>
+      </lg>
+      <p>
+eṉavarum.
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC271" type="wordsplit">
+<interp type="alignment" select="0">32M,31MG</interp>
+<entry>
+<form>acai</form>
+<def>syllable</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai<c type="geminated">k</c></form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>term</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āku</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟital</form>
+<def>knowing</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC271-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG17M,G22MG</interp>
+<entry>
+<form>cella-maṉṉār</form>
+<def>go</def>
+<form type="simple">cella</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṉār</m></gramGrp>
+</entry>
+<entry>
+<form>neṭuntakai</form>
+<def>paragon</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC271-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">18MG8MG2M,G29M</interp>
+<entry>
+<form>peyariṉ</form>
+<def>noun</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokai-<c type="glide">y</c>umār</form>
+<def>collection</def>
+<form type="simple">tokai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
+</entry>
+<entry>
+<form>uḷa-<c type="glide">v</c>ē</form>
+<def>they-are</def>
+<form type="simple">uḷa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC271-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">11M2G8MG7MGM,31M</interp>
+<entry>
+<form>ellā</form>
+<def>all</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>uyiroṭ<c type="elided">u</c>-um</form>
+<def>vowel</def>
+<form type="simple">uyiroṭu</form>
+<form type="sandhi"><c type="glide">v</c>uyiroṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cellum-ār</form>
+<def>going</def>
+<form type="simple">cellum</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+</entry>
+<entry>
+<form>mutal-ē</form>
+<def>base</def>
+<form type="simple">mutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC271-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">18MG8MG3M,G29MG</interp>
+<entry>
+<form>peyariṉ</form>
+<def>noun</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokai-<c type="glide">y</c>umār</form>
+<def>collection</def>
+<form type="simple">tokai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
+</entry>
+<entry>
+<form>uḷa-<c type="glide">v</c>ē</form>
+<def>they are</def>
+<form type="simple">uḷa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC271-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">12M2G8MG7MG2M,G31MG</interp>
+<entry>
+<form>ellā</form>
+<def>all</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>uyiroṭ<c type="elided">u</c>-um</form>
+<def>life</def>
+<form type="simple">uyiroṭu</form>
+<form type="sandhi"><c type="glide">v</c>uyiroṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cellum-ār</form>
+<def>going</def>
+<form type="simple">cellum</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+</entry>
+<entry>
+<form>mutal-ē</form>
+<def>base</def>
+<form type="simple">mutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
