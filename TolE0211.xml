@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="TolE0211">
+<l>vāḻiya veṉṉuñ ceyaveṉ kiḷavi</l>
+<l>yiṟuti yakaraṅ keṭutalu murittē</l>
+      </lg>
+      <lg xml:lang="en">
+<!--put your translation here-->
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#TolE0211"><interp type="alignment" select="0">45MG7M2GM,56M</interp>
+<entry>
+<form>vāḻiya</form>
+<def>the word 'vāḻiya'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṉum</form>
+<def>saying-</def>
+<form type="sandhi"><c type="glide">v</c>eṉṉuñ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceya</form>
+<def>to word 'ceya'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṟuti</form>
+<def>end</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yakaram</form>
+<def>letter 'ya'</def>
+<form type="sandhi">yakaraṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keṭutal-um</form>
+<def>perishing</def>
+<form type="simple">keṭutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uritt<c type="elided">u</c>-ē</form>
+<def>right-it</def>
+<form type="simple">urittu</form>
+<form type="sandhi">uritt</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry></standOff>
+</TEI>
