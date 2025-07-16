@@ -28,8 +28,7 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE0214">
-<l>toṭara liṟutit tammuṟ ṟāmvariṉ</l>
-<l>lakaram ṟakaravoṟ ṟākalu  murittē</l>
+<l></l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -37,10 +36,11 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0214"><interp type="alignment" select="0">16MG28MG4MG7M2GM,61M</interp>
+<standOff type="wordsplit" corresp="#TolE0214"><interp type="alignment" select="0">60G,60M</interp>
 <entry>
 <form>toṭar</form>
 <def>link</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -48,13 +48,15 @@
 <entry>
 <form>al</form>
 <def>not</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṟuti<c type="geminated">t</c></form>
+<form>iṟuti<c type="geminated"></c></form>
 <def>end</def>
+<form type="sandhi"><c type="geminated"></c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -62,6 +64,7 @@
 <entry>
 <form>tam</form>
 <def>self</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">oblique</gram>
@@ -69,9 +72,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated"></c>muṉ</form>
+<form>muṉ</form>
 <def>before</def>
-<form type="sandhi"><c type="geminated"></c>muṟ</form>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
@@ -79,7 +82,7 @@
 <entry>
 <form>tām</form>
 <def>self</def>
-<form type="sandhi">ṟām</form>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
@@ -88,6 +91,7 @@
 <entry>
 <form>variṉ</form>
 <def>come-if-even</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
@@ -95,6 +99,7 @@
 <entry>
 <form>lakaram</form>
 <def>consonant 'l'</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -102,14 +107,15 @@
 <entry>
 <form>ṟakara</form>
 <def>consonant 'r'</def>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>oṟṟ<c type="elided">u</c></form>
+<form><c type="glide"></c>oṟṟ<c type="elided">u</c></form>
 <def>consonant</def>
-<form type="sandhi"><c type="glide">v</c>oṟṟ</form>
+<form type="sandhi"><c type="glide"></c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -118,6 +124,7 @@
 <form>ākal-um</form>
 <def>becoming</def>
 <form type="simple">ākal</form>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -127,7 +134,7 @@
 <form>uritt<c type="elided">u</c>-ē</form>
 <def>right-it</def>
 <form type="simple">urittu</form>
-<form type="sandhi">uritt</form>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
