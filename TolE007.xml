@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>7</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>7</num>.</title>  
+        <editor role="translator">Kamil Zvelebil</editor>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,15 @@
 <l>nuṇṇiti ṉuṇarntōr kaṇṭa vāṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>According to the view of those who have</l>
+<l>understood accurately,</l>
+<l>one <foreign xml:lang="ta">māttirai</foreign><note place="foot">
+              <foreign xml:lang="ta">māttirai</foreign> &gt; Skt <foreign xml:lang="sa">mātrā</foreign>
+            </note>
+          is the time taken by a wink of the eyes<note place="foot">
+              <foreign xml:lang="ta">kaṇṇimai.</foreign>
+            </note></l>
+<l>[or] a snap of the fingers.<note place="foot"><foreign xml:lang="ta">noṭi.</foreign> This is considered, with some justice, a later, interpolated verse. If so, however, some of the following verses, e.g. 11, should also be considered interpolated.</note></l>
       </lg>
     </div>
   </body>
