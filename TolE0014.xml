@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>14</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>14</num>.</title>   
+        <editor role="translator">Kamil Zvelebil</editor>        
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,7 @@
 <l>uṭpeṟu puḷḷi yuruvā kummē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>[Its] shape<note place="foot"><foreign xml:lang="ta">uruvu</foreign> : graphic shape.</note> will be a dot, obtaining within.</l>
       </lg>
     </div>
   </body>
