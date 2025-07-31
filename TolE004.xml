@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>4</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>4</num>.</title>    
+        <editor role="translator">Kamil Zvelebil</editor>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,10 @@
 <l>mīraḷa picaikku neṭṭeḻut teṉpa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The seven sounds</l>
+<l><foreign xml:lang="ta">ā, ī, ū, ē, ai, ō, au</foreign></l>
+<l>have two measures each</l>
+<l>[and] are called long sounds.<note place="foot"><foreign xml:lang="ta">neṭṭeḻuttu.</foreign></note></l>
       </lg>
     </div>
   </body>
