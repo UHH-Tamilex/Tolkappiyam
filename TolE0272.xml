@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -38,7 +35,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0272"><interp type="alignment" select="0">19MG2MG38MG8M2G12M,84M</interp>
+<standOff type="wordsplit" corresp="#TolE0272">
+<interp type="alignment" select="0">19MG2MG38MG8M2G12M,84M</interp>
 <entry>
 <form>ekara</form>
 <def>syllable 'e'</def>
@@ -108,7 +106,7 @@
 </entry>
 <entry>
 <form>tēṟṟam-um</form>
-<def>clarity</def>
+<def>certainty</def>
 <form type="simple">tēṟṟam</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -139,5 +137,6 @@
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
