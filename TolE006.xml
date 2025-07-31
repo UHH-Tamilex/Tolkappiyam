@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>6</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>6</num>.</title>   
+        <editor role="translator">Kamil Zvelebil</editor>       
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,8 +27,9 @@
 <l>kūṭṭi yeḻūuta leṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
-      </lg>
+<l>Learned men<note place="foot"><foreign xml:lang="ta">pulavar.</foreign></note> say that, if lengthening<note place="foot"><foreign xml:lang="ta">nīṭṭam.</foreign></note> is needed,</l>
+<l>the [sound] of that measure should be produced and added.</l>
+</lg>
     </div>
   </body>
 </text>
