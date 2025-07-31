@@ -22,13 +22,18 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE001">
-<l>eḻutteṉap paṭupa</l>
-<l>vakaramuta ṉakara viṟuvāy</l>
-<l>muppaḵ teṉpa</l>
-<l>cārntuvaraṉ marapiṉ mūṉṟalaṅ kaṭaiyē</l>
+        <l>eḻutteṉap paṭupa</l>
+        <l>vakaramuta ṉakara viṟuvāy</l>
+        <l>muppaḵ teṉpa</l>
+        <l>cārntuvaraṉ marapiṉ mūṉṟalaṅ kaṭaiyē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+        <l>Those which are termed the eḻuttu are said to be</l>
+        <l>thirty in number</l>
+        <l>beginning with a</l>
+        <l>[and] ending with ṉ</l>
+        <l>except the three the occurence of which</l>
+        <l>depends upon others</l>
       </lg>
     </div>
   </body>
