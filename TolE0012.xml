@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>12</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>        
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>avviya ṉilaiyu mēṉai mūṉṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The other three also remain</l>
+<l>of that nature.<note place="foot">i.e. the ' other ' three sounds, i.e. shortened <foreign
+                xml:lang="ta">i</foreign>, shortened <foreign xml:lang="ta">u</foreign>, and <foreign xml:lang="ta">āytam</foreign>, are also half (a <foreign xml:lang="ta">māttirai</foreign>?) each.</note></l>
       </lg>
     </div>
   </body>
