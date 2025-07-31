@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>1</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>1</num>.</title>   
+        <editor role="translator">Kamil Zvelebil</editor>  
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,12 @@
         <l>cārntuvaraṉ marapiṉ mūṉṟalaṅ kaṭaiyē</l>
       </lg>
       <lg xml:lang="en">
-        <l>Those which are termed the eḻuttu are said to be</l>
+          <l>Those which are termed the <foreign xml:lang="ta">eḻuttu</foreign><note place="foot">The
+            term <foreign xml:lang="ta">eḻuttu</foreign> means : (1) sound (phone, <foreign
+                xml:lang="de">Laut</foreign>), (2) phoneme, (3) letter (graphic symbol, grapheme).
+            In the 1st line, obviously, <foreign xml:lang="ta">eḻuttu</foreign> stands for graphic
+            representation of the phoneme (since the ' secondary ' sounds are excluded from the term <foreign
+                xml:lang="ta">eḻuttu</foreign>).</note> are said to be</l>
         <l>thirty in number</l>
         <l>beginning with a</l>
         <l>[and] ending with ṉ</l>
