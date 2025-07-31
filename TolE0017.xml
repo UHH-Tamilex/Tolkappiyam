@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>17</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,10 @@
 <l>māyī riyala vuyirtta lāṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>All consonant-shapes without dots</l>
+<l>represent consonant-sounds with <foreign xml:lang="ta">a</foreign></l>
+<l>and change their forms when joined by other vowels.</l>
+<l>These are the two ways to vocalize [consonants].</l>
       </lg>
     </div>
   </body>
