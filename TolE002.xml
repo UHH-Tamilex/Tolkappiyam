@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>2</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>2</num>.</title>   
+        <editor role="translator">Kamil Zvelebil</editor>    
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,10 @@
 <l>muppāṟ puḷḷiyu meḻuttō raṉṉa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>They [the three] are</l>
+<l>the over-short <foreign xml:lang="ta">i</foreign>, the over-short <foreign xml:lang="ta">u</foreign>,</l>
+<l>and the three dots</l>
+<l>called <foreign xml:lang="ta">āytam</foreign>, similar to a <foreign xml:lang="ta">eḻuttu</foreign> (' letter ').</l>
       </lg>
     </div>
   </body>
