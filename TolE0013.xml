@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>13</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>13</num>.</title>    
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>yicaiyiṭa ṉarukun teriyuṅ kālai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The sound <foreign xml:lang="ta">m</foreign> has [its] half measure shortened</l>
+<l>when pronounced with [another consonant].</l>
+<l>Considered carefully, it is rare.</l>
       </lg>
     </div>
   </body>
