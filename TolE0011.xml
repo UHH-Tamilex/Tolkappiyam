@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>11</num>.</title>     
+                <editor role="translator">Kamil Zvelebil</editor>        
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,8 @@
 <l>meyyi ṉaḷavē yaraiyeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The measure of a consonant is said</l>
+<l>to be half [a <foreign xml:lang="ta">māttirai</foreign> ?].</l>
       </lg>
     </div>
   </body>
