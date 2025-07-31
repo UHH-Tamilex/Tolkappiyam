@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>8</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,8 @@
 <l>paṉṉī reḻuttu muyireṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The twelve phonemes ending with <foreign xml:lang="ta">au</foreign></l>
+<l>are called vowels.<note place="foot"><foreign xml:lang="ta">uyir,</foreign> lit. ' life, breath '.</note></l>
       </lg>
     </div>
   </body>
