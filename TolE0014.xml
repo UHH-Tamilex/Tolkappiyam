@@ -34,7 +34,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#TolE014">
-<interp type="alignment" select="0">20MG2M,23M</interp>
+<interp type="alignment" select="0">16MG4MG2M,24M</interp>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
@@ -58,10 +58,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uruvākum-<c type="geminated">m</c>ē</form>
+<form><c type="glide">y</c>uruv<c type="elided">u</c></form>
+<def>form</def>
+<form type="sandhi"><c type="glide">y</c>uruv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākum-<c type="geminated">m</c>ē</form>
 <def>it will become</def>
-<form type="simple">uruvākum</form>
-<form type="sandhi"><c type="glide">y</c>uruvākum</form>
+<form type="simple">ākum</form>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
