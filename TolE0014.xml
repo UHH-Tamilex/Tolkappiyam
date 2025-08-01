@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +33,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE014"><interp type="alignment" select="0">20MG2M,23M</interp>
+<standOff type="wordsplit" corresp="#TolE014">
+<interp type="alignment" select="0">20MG2M,23M</interp>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
@@ -55,14 +58,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uruvākum</form>
+<form><c type="glide">y</c>uruvākum-<c type="geminated">m</c>ē</form>
 <def>it will become</def>
+<form type="simple">uruvākum</form>
+<form type="sandhi"><c type="glide">y</c>uruvākum</form>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
-<form>-<c type="geminated">m</c>ē</form>
-<form type="sandhi"><c type="geminated">m</c>ē</form>
-</entry></standOff>
+</standOff>
 </TEI>
