@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>26</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>ka ca ña pa ma ya vav vēḻu muriya</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Among those,</l>
+<l><foreign xml:lang="ta">ṇ</foreign> [and] <foreign xml:lang="ta">ṉ</foreign> are also properly followed</l>
+<l>by the seven [sounds] <foreign xml:lang="ta">k, c, ñ, p, m, y</foreign> [and] <foreign xml:lang="ta">v.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">veṇkalam, puṉkaṇ, veṇcāntu, puṉcey, veṇñāṇ poṉñaṇ, veṇpali, poṉperitu, veṇmālai, poṉmālai, maṇyātu, poṉyātu, maṇvalitu, poṉvalitu.</foreign></note></l>
       </lg>
     </div>
   </body>
