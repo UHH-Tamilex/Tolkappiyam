@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>23</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>23</num>.</title>    
+        <editor role="translator">Kamil Zvelebil</editor>       
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,11 @@
 <l>ka ca pa veṉṉu mūveḻut turiya</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+          <l>The single consonants<note place="foot"><foreign xml:lang="ta">puḷḷi</foreign> is translated here as ' single (i.e. un-vocalised) consonant ' ; ' consonant ' is simply <foreign
+                xml:lang="ta">mey</foreign> ; vocalised consonant is <foreign xml:lang="ta">uyirmey.</foreign></note> <foreign xml:lang="ta">ṭ, ṟ, l, ḷ</foreign></l>
+          <l>are properly followed by the three sounds
+          <foreign xml:lang="ta">k, c, p.</foreign><note place="foot">E.g. <foreign xml:lang="ta">kaṭka, kaṭci, kaṭpa</foreign> ; <foreign
+              xml:lang="ta">kaṟka, muyaṟci, kaṟpa</foreign> ; <foreign xml:lang="ta"> celka, valci, celpa, koḷka, nīḷcinai, koḷpa.</foreign></note></l>
       </lg>
     </div>
   </body>
