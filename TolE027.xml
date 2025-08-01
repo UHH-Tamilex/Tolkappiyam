@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>27</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>yaḵkā ṉiṟṟaṉ meypeṟ ṟaṉṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The single consonants <foreign xml:lang="ta">ñ, n, m, v</foreign></l>
+<l>may indeed be followed by the consonant <foreign xml:lang="ta">y.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">uriñyātu, porunyātu, tirumyātu, tevyātu</foreign></note></l>
       </lg>
     </div>
   </body>
