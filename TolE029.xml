@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>29</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>mutalā keḻuttu ṅakaramoṭu tōṉṟum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>After the single consonants <foreign xml:lang="ta">y, r, ḻ,</foreign></l>
+<l>the initial sounds and <foreign xml:lang="ta">ṅ</foreign> also appear.<note
+              place="foot">The ' initial sounds ' <foreign xml:lang="ta">(mutalākeḻuttu)</foreign> are the 9 consonants which may occur initially in the language of <foreign xml:lang="ta">Tolk.</foreign>,
+          i.e. <foreign xml:lang="ta">k, c, ñ, t, n, p, m, y, v.</foreign></note></l>
       </lg>
     </div>
   </body>

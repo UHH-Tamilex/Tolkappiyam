@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>25</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>tatta micaika ḷottaṉa nilaiyē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The single consonants <foreign xml:lang="ta">ṅ, ñ, ṇ, n, m, ṉ</foreign></l>
+<l>are followed by their respective stops.<note
+              place="foot">E.g. <foreign xml:lang="ta">teṅku, mañcu, vaṇṭu, pantu, kampu, kaṉṟu.</foreign></note></l>
       </lg>
     </div>
   </body>
