@@ -26,7 +26,7 @@
 <l>akara ukara maukāra mākum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">a</foreign> and <foreign xml:lang="ta">u</foreign> becomes <foreign xml:lang="ta">au</foreign></l>
       </lg>
     </div>
   </body>
