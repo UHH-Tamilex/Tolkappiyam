@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>53</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>53</num>.</title>  
+        <editor role="translator">Kamil Zvelebil</editor>         
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>meḻuttiya ṟiriyā veṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Learned men say that the nature of a sound</l>
+<l>will not be altered</l>
+<l>whether it is pronounced occurring in a word,</l>
+<l>or appears pronounced otherwise.</l>
       </lg>
     </div>
   </body>

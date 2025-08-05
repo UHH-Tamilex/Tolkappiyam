@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>34</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,11 @@
 <l>kāvayiṉ varūu makara mūrntē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The overshort <foreign xml:lang="ta">i</foreign> will stand before the component <foreign xml:lang="ta">yā</foreign></l>
+<l>after <foreign xml:lang="ta">m</foreign>, occurring in that position with</l>
+<l>the expletive word used in inviting attention.<note place="foot">i.e. with - <foreign xml:lang="ta">miyā</foreign> in imperatives like <foreign xml:lang="ta">kēṇmiyā</foreign> ' listen ! '</note></l>
+
+
       </lg>
     </div>
   </body>

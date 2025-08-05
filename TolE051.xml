@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>51</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>51</num>.</title> 
+        <editor role="translator">Kamil Zvelebil</editor>          
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>ṉakāra makāra mīroṟ ṟākum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>At the end of a metrical composition, in the word</l>
+<l>[denoting] likeness, <foreign xml:lang="ta">ṉ</foreign> and <foreign xml:lang="ta">m</foreign> will form a two-consonant</l>
+<l>cluster.<note place="foot">E.g. <foreign xml:lang="ta">Parip.</foreign> 10.55 <foreign xml:lang="ta">ticaiyaṟi mīkaṉum pōṉm.</foreign></note></l>
       </lg>
     </div>
   </body>

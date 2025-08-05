@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>47</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,11 @@
 <l>meynnilai mayakka māṉa millai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>It is not a mistake that, when any [consonant]</l>
+<l>phoneme denotes itself, it [occurs according to]</l>
+<l>the disturbance in the nature of the distribution</l>
+<l>of consonants.<note place="foot">E.g. <foreign xml:lang="ta">ṭ</foreign> does never occur
+          initially in standard Tamil : however, in the word <foreign xml:lang="ta">ṭakāram</foreign> ' the letter (or phoneme) <foreign xml:lang="ta">ṭ</foreign> ', it does occur in Anlaut.</note></l>
       </lg>
     </div>
   </body>

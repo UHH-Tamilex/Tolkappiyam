@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>37</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>kaṭappā ṭaṟinta puṇariya lāṉa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>There is also place for the shortening [of <foreign xml:lang="ta">u</foreign>]</l>
+<l>in word combination ; it will be properly explained</l>
+<l>in the section on conjunction.<note place="foot">It occurs e.g. in <foreign xml:lang="ta">cukkukkōṭu</foreign> or <foreign xml:lang="ta">cekkukkaṇai.</foreign></note></l>
       </lg>
     </div>
   </body>

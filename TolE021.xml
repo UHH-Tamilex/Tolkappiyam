@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>21</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>21</num>.</title>    
+        <editor role="translator">Kamil Zvelebil</editor>         
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,7 @@
 <l>iṭaiyeḻut teṉpa ya ra la va ḻa ḷa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">y, r, l, v, ḻ, ḷ</foreign> are called ' medial ' sounds.<note place="foot"><foreign xml:lang="ta">iṭaiyeḻuttu</foreign> : liquids.</note></l>
       </lg>
     </div>
   </body>

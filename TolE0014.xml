@@ -1,8 +1,11 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>14</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>14</num>.</title>   
+        <editor role="translator">Kamil Zvelebil</editor>        
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,12 +28,13 @@
 <l>uṭpeṟu puḷḷi yuruvā kummē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>[Its] shape<note place="foot"><foreign xml:lang="ta">uruvu</foreign> : graphic shape.</note> will be a dot, obtaining within.</l>
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE014"><interp type="alignment" select="0">20MG2M,23M</interp>
+<standOff type="wordsplit" corresp="#TolE014">
+<interp type="alignment" select="0">16MG4MG2M,24M</interp>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
@@ -54,14 +58,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uruvākum</form>
-<def>it will become</def>
+<form><c type="glide">y</c>uruv<c type="elided">u</c></form>
+<def>form</def>
+<form type="sandhi"><c type="glide">y</c>uruv</form>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>-<c type="geminated">m</c>ē</form>
-<form type="sandhi"><c type="geminated">m</c>ē</form>
-</entry></standOff>
+<form>ākum-<c type="geminated">m</c>ē</form>
+<def>it will become</def>
+<form type="simple">ākum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>
