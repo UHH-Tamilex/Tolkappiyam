@@ -26,7 +26,8 @@
 <l>āvō ṭallatu yakara mutalātu</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">y</foreign> does not occur initially except</l>
+<l>when followed by <foreign xml:lang="ta">ā</foreign></l>
       </lg>
     </div>
   </body>
