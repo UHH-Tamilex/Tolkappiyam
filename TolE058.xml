@@ -26,7 +26,9 @@
 <l>ikara yakara miṟuti viravum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+          <l><foreign xml:lang="ta">i</foreign> and <foreign xml:lang="ta">y</foreign> alternate in
+          the final position.<note place="foot">The commentary quotes <foreign xml:lang="ta">nāy</foreign>
+          and <foreign xml:lang="ta">nāi</foreign> ' dog '. Cf. the colloquial form <foreign xml:lang="ta">nāyi.</foreign></note></l>
       </lg>
     </div>
   </body>
