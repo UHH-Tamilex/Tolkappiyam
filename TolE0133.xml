@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>133</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,15 @@
 <l>yavaṟṟumuṉ varūum valleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>When a noun is followed by a verb</l>
+<l>it is the nature of the empty morph to be inserted,</l>
+<l>according to the rules of sandhi, between the base</l>
+<l>and the case-marker, or after the base</l>
+<l>when the case-marker is dropped,</l>
+<l>though when the two words are pronounced separately,</l>
+<l>the empty-morph disappears.</l>
+<l>Between the base and the marker - <foreign xml:lang="ta">oṭu,</foreign></l>
+<l>it both appears and disappears.</l>
       </lg>
     </div>
   </body>

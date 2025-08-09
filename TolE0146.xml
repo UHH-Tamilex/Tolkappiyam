@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>146</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>viṉaiyō raṉaiya veṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Among those,</l>
+<l>none prevents the optionaal insertion of a nasal</l>
+<l>after the final member of a <foreign xml:lang="ta">toṭarmoḻi.</foreign></l>
       </lg>
     </div>
   </body>

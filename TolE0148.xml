@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>148</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>mēṟkū ṟiyaṟkai yāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Those two non-vocalized consonants [i.e. <foreign xml:lang="ta">ṅ</foreign> and <foreign xml:lang="ta">ṉ</foreign>]</l>
+<l>standing [as final members] do not manifest</l>
+<l>any change in non-case relation, whatever sound</l>
+<l>appears initially.</l>
       </lg>
     </div>
   </body>

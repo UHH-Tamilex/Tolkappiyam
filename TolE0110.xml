@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>110</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>maṭaiyoṭu tōṉṟiṉum puṇarnilaik kuriya</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>And they,</l>
+<l>according to what they say,</l>
+<l>are : one sound changing into another,</l>
+<l>addition, and loss.</l>
       </lg>
     </div>
   </body>

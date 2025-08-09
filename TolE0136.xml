@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>136</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>varaṉmuṟai mūṉṟuṅ kuṟṟeḻut tuṭaiya</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Among them,</l>
+<l><foreign xml:lang="ta">karam</foreign> and <foreign xml:lang="ta">kāṉ</foreign> are not [used along with]</l>
+<l>the long sounds.</l>
       </lg>
     </div>
   </body>
