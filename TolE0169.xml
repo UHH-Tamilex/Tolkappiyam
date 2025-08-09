@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>169</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,7 @@
 <l>niṉaiyuṅ kālai yiṉṉoṭu civaṇum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">attu</foreign> comes between the measure-word <foreign xml:lang="ta">kalam</foreign> [and <foreign xml:lang="ta">kuṟai].</foreign></l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>170</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -29,7 +30,10 @@
 <l>vakara vukaramō ṭavaiyeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>On careful consideration,</l>
+<l>the word <foreign xml:lang="ta">paṉai</foreign> denoting measure,</l>
+<l>and the word <foreign xml:lang="ta">kā</foreign> denoting weight,</l>
+<l>will combine with <foreign xml:lang="ta">iṉ.</foreign></l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>164</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -30,7 +31,10 @@
 <l>ṉotta teṉpa vēyeṉ cāriyai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Consonantal endings [capable of] joining</l>
+<l>with [a following] <foreign xml:lang="ta">u-</foreign> sound</l>
+<l>do remain [without the <foreign xml:lang="ta">u</foreign>] when</l>
+<l>words beginning with <foreign xml:lang="ta">y-</foreign> or with vowels follow.</l>
       </lg>
     </div>
   </body>
