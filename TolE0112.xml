@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>112</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,9 @@
 <l>ṉoḻukkal valiya puṇaruṅ kālai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Words whose fusion and accumulation</l>
+<l>is sanctioned as <foreign xml:lang="ta">marūu</foreign> do also occur</l>
+<l>in the situation of juxtaposition.</l>
       </lg>
     </div>
   </body>
