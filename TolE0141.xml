@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>141</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>yicaiyiṟ ṟirita ṉilaiiya paṇpē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>It is not forbidden to give shape</l>
+<l>to a suitable consonant between any words</l>
+<l>which end and begin with vowels.</l>
       </lg>
     </div>
   </body>
