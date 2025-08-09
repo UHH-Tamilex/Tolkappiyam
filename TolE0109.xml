@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>109</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,16 @@
 <l>ṟivveṉa moḻipa tiriyu māṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Among those,</l>
+<l>as the initial sound of the coming word unites</l>
+<l>with the final sound of the standing word,</l>
+<l>[and] as a noun joins a noun,</l>
+<l>[or] a noun joins a verb</l>
+<l>[or] a verb joins a noun</l>
+<l>[or] a verb joins a verb,</l>
+<l>there are four methods of word-sandhi</l>
+<l>in three [of which] change takes place</l>
+<l>and in one [of which] there is a no-change.</l>
       </lg>
     </div>
   </body>
