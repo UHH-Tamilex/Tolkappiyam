@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>166</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>niṟaiyat tōṉṟum vēṟṟumai yiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The insertion of the empty-morph [<foreign xml:lang="ta">ē</foreign>]</l>
+<l>is not realized with a word</l>
+<l>which means a portion [of a thing],</l>
+<l>namely <foreign xml:lang="ta">arai.</foreign></l>
       </lg>
     </div>
   </body>
