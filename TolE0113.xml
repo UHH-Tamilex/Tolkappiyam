@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>113</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,11 @@
 <l>mavvā ṟeṉpa vēṟṟumai yurupē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Words, juxtaposed in case-relation,</l>
+<l>as well as words juxtaposed in non-case relation,</l>
+<l>have either a sound or an empty-morph,</l>
+<l>one of the two, inserted,</l>
+<l>when sandhi takes place.</l>
       </lg>
     </div>
   </body>
