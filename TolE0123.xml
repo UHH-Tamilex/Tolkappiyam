@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>123</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>ṉaḵkāṉ ṟaḵkāṉ nāṉka ṉurupiṟku</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>After the words in <foreign xml:lang="ta">-ai</foreign> which begin with the demonstrative</l>
+<l>[vowels] it is the usage to drop the consonant <foreign xml:lang="ta">v</foreign></l>
+<l>[of vaṟṟu] and let the <foreign xml:lang="ta">a</foreign> remain.</l>
       </lg>
     </div>
   </body>
