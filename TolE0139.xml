@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>139</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>meyyuyir nīṅkiṟ ṟaṉṉuru vākum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>A vowel-symbol following a consonant-symbol</l>
+<l>cannot exist by itself ; it merges with the consonant,</l>
+<l>destroying thus its nature.</l>
       </lg>
     </div>
   </body>
