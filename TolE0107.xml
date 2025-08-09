@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>107</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -31,7 +32,8 @@
 <l>ṟāyī riyal puṇarnilaic cuṭṭē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The final vocalized consonant</l>
+<l>is of the same nature as the final vowel.</l>
       </lg>
     </div>
   </body>
