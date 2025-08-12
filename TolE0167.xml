@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>167</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,10 @@
 <l>kuṟṟiya lukarak kiṉṉē cāriyai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>When the word <foreign xml:lang="ta">kuṟai</foreign> follows</l>
+<l>[words denoting measure, weight and number],</l>
+<l>[the rule of sandhi] which functions fully</l>
+<l>[is] that which is appropriate to case-relationship.</l>
       </lg>
     </div>
   </body>

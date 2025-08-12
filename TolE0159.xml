@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>159</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -30,7 +31,13 @@
 <l>colliyaṉ maruṅki ṉuḷaveṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>In non-case relationship,</l>
+<l>the nouns which end in <foreign xml:lang="ta">-i</foreign> [or] <foreign xml:lang="ta">-ai</foreign></l>
+<l>have three [possible] rules :</l>
+<l>they are,</l>
+<l>absence of any change, [obligatory] insertion of plosive,</l>
+<l>and optional insertion of plosive ;</l>
+<l>so say the scholars.</l>
       </lg>
     </div>
   </body>

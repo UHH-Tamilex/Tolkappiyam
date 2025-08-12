@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>105</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,8 @@
 <l>kuṟṟiya lukaramu maṟṟeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Among them,</l>
+<l>all final consonants will be provided with dots.</l>
       </lg>
     </div>
   </body>

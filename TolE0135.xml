@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>135</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,8 @@
 <l>karamuṅ kāṉu neṭṭeḻut tilavē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">kāram, karam,</foreign> and <foreign xml:lang="ta">kāṉ</foreign> are the empty-morphs</l>
+<l>which correctly appear joining sounds.</l>
       </lg>
     </div>
   </body>

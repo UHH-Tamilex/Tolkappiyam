@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>143</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,9 @@
 <l>yaṉṉa marapiṉ moḻi vayiṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>And they</l>
+<l>since [their] meaning is determined from the context,</l>
+<l>are not bound by a particular rule of writing.</l>
       </lg>
     </div>
   </body>

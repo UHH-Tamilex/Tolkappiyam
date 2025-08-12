@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>165</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,11 @@
 <l>puraiva taṉṟāṟ cāriyai yiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>After all the words which end in vowels and non-vocalised consonants</l>
+<l>and point to measures, weights, and numbers,</l>
+<l>if they are followed by analogical words denoting</l>
+<l>lesser [measure, weight, or number],</l>
+<l>the proper empty-morph is said to be <foreign xml:lang="ta">-ē.</foreign></l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>104</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,11 @@
 <l>meyyī ṟellām puḷḷiyoṭu nilaiyal</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Of the three and thirty sounds</l>
+<l>two and twenty occur initially</l>
+<l>and six times four occur finally ;</l>
+<l>all words end and begin</l>
+<l>only with the two, consonants or vowels.</l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>125</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>atti ṉakara makaramuṉai yillai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The <foreign xml:lang="ta">ṉ</foreign> of <foreign xml:lang="ta">āṉ</foreign> is changed identically when it comes</l>
+<l>between [a noun denoting] lunar constellation</l>
+<l>and a verb beginning with plosive.</l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>120</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,11 @@
 <l>muṉṉark keṭuta lurittu mākum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>And those indeed [like]</l>
+<l><foreign xml:lang="ta">iṉ, vaṟṟu, attu, am,</foreign></l>
+<l><foreign xml:lang="ta">oṉ, āṉ, akku, ikku</foreign> [and]</l>
+<l><foreign xml:lang="ta">aṉ</foreign> including yet other words</l>
+<l>are said to be such empty words.</l>
       </lg>
     </div>
   </body>

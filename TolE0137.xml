@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>137</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,8 @@
 <l>aikāra aukāraṅ kāṉoṭun tōṉṟum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The short sounds as they follow [each other] in succession</l>
+<l>have all the three [above-quoted morphs].</l>
       </lg>
     </div>
   </body>

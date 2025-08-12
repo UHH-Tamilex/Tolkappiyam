@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>147</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,9 @@
 <l>vēṟṟumai yalvaḻit tiripiṭa ṉilavē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Scholars say that <foreign xml:lang="ta">y-</foreign> and <foreign xml:lang="ta">ñ-</foreign> may stand</l>
+<l>as initials of verbs after [words ending]</l>
+<l>in the non-vocalized consonants <foreign xml:lang="ta">-ṇ</foreign> and <foreign xml:lang="ta">-ṉ</foreign>.</l>
       </lg>
     </div>
   </body>

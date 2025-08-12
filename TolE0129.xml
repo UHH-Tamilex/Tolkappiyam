@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>129</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>taṉmey tirintu ṅañana vākum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The final consonant of <foreign xml:lang="ta">akku</foreign> disappears when</l>
+<l>[<foreign xml:lang="ta">akku</foreign>] is inserted between any noun and</l>
+<l>[a word beginning] with plosive, [and]</l>
+<l>the over-short <foreign xml:lang="ta">-u</foreign> [of <foreign xml:lang="ta">akku</foreign>] disappears completely.</l>
       </lg>
     </div>
   </body>
