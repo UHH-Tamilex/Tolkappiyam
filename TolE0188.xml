@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>188</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -29,7 +30,7 @@
 <l>mēṉai yiraṇṭu neṭumutal kuṟukum</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The ending of <foreign xml:lang="ta">num</foreign> has no change.</l>
       </lg>
     </div>
   </body>
