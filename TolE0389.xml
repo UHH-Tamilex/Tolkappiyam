@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+    <div rend="parallel">
+      <lg xml:id="TolE0389">
+<l>aḷavu niṟaiyu meṇṇum varuvaḻi</l>
+<l>neṭumutal kuṟukalu mukaram varutaluṅ</l>
+<l>kaṭinilai yiṉṟē yāciri yaṟka</l>
+      </lg>
+      <lg xml:lang="en">
+<!--put your translation here-->
+      </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#TolE0389"><interp type="alignment" select="0">4M2GMR5MG5MG27MG15MG15M2G12M,93M</interp>
+<entry>
+<form>aḷav<c type="elided">u</c>-um</form>
+<def>measure</def>
+<form type="simple">aḷavu</form>
+<form type="sandhi">aḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>niṟai-<c type="glide">y</c>um</form>
+<def>weight/weighing</def>
+<form type="simple">niṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṇ-<c type="geminated">ṇ</c>um</form>
+<def>number</def>
+<form type="simple">eṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>in the time</def>
+<gramGrp>
+  <gram type="role">suffix</gram>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>initial</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟukal-um</form>
+<def>shortening</def>
+<form type="simple">kuṟukal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ukaram</form>
+<def>syllable 'u'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal-um</form>
+<def>coming</def>
+<form type="simple">varutal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭi</form>
+<def>remove</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṉṟ<c type="elided">u</c>-ē</form>
+<def>not-it</def>
+<form type="simple">iṉṟu</form>
+<form type="sandhi"><c type="glide">y</c>iṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āciriyaṟka</form>
+<def>to the author</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry></standOff>
+</TEI>
