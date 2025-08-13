@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>191</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -31,7 +32,8 @@
 <l>nummiṭai varūu muṉṉilai moḻikkē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>If [<foreign xml:lang="ta">ellām</foreign> refers to] the personal class,</l>
+<l><foreign xml:lang="ta">nam</foreign> is inserted in between.</l>
       </lg>
     </div>
   </body>
