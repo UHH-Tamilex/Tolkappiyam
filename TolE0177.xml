@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>177</num>.</title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>177</num>.</title>    
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>vaṟṟoṭu civaṇi niṟṟalu murittē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>[Words which] begin with a demonstrative</l>
+<l>[and end in] the sound <foreign xml:lang="ta">u</foreign> take <foreign xml:lang="ta">aṉ</foreign></l>
+<l>[before the case-marker], remove (or transform ?)</l>
+<l>the appropriate consonant and lose the <foreign xml:lang="ta">u.</foreign></l>
       </lg>
     </div>
   </body>
