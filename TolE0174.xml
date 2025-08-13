@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>174</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,9 @@
 <l>vaṟṟoṭu civaṇa lecca miṉṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The empty morph <foreign xml:lang="ta">iṉ</foreign> is inserted between case-markers</l>
+<l>and the six final [phonemes] of the standing word,</l>
+<l>namely <foreign xml:lang="ta">a, ā, u, ū, ē, au.</foreign></l>
       </lg>
     </div>
   </body>
