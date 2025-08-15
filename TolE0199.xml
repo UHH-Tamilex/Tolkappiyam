@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>199</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -29,7 +30,8 @@
 <l>yuytal vēṇṭum paḵkāṉ meyyē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The ending of [words denoting] numbers</l>
+<l>combines with <foreign xml:lang="ta">aṉ.</foreign></l>
       </lg>
     </div>
   </body>

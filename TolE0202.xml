@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>202</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,7 +29,10 @@
 <l>cāriyai nilaiyuṅ kaṭappā ṭilavē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Words [denoting] direction,</l>
+<l>when followed by the seventh-case marker,</l>
+<l>will not optionally take the empty-morph [<foreign xml:lang="ta">iṉ</foreign>] ;</l>
+<l>there, the ending with the consonant is dropped.</l>
       </lg>
     </div>
   </body>

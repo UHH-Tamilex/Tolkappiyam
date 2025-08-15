@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>190</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>uyartiṇai yāyi ṉammiṭai varumē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>After the ending of <foreign xml:lang="ta">ellām</foreign></l>
+<l>the empty-morph <foreign xml:lang="ta">vaṟṟu</foreign> appears fully</l>
+<l>and <foreign xml:lang="ta">um</foreign> has the final position.</l>
       </lg>
     </div>
   </body>

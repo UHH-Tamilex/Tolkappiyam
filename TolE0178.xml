@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>178</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,8 @@
 <l>rāvayiṉ vakara maiyoṭuṅ keṭumē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>[Words which] begin with a demonstrative and end in <foreign xml:lang="ta">-ai</foreign></l>
+<l>will approximately appear having combined with <foreign xml:lang="ta">vaṟṟu.</foreign></l>
       </lg>
     </div>
   </body>

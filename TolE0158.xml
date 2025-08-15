@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>158</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -29,7 +30,7 @@
 <l>muṟaḻā kunavu meṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l></l>
       </lg>
     </div>
   </body>

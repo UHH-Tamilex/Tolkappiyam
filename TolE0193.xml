@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>193</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,7 +28,8 @@
 <l>lotta teṉpa vuṇaru mōrē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The two endings of <foreign xml:lang="ta">tāṉ</foreign> and <foreign xml:lang="ta">yāṉ</foreign></l>
+<l>are not different from the three nouns [mentioned] above.</l>
       </lg>
     </div>
   </body>

@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>197</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,8 @@
 <l>iyaṟkaiya vākuñ ceyaṟkaiya veṉpa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The consonant is doubled after a long vowel ;</l>
+<l>[but] not in words of that type.</l>
       </lg>
     </div>
   </body>
