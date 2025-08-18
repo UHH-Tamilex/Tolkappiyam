@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>180</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,8 @@
 <l>ōkāra viṟutik koṉṉē cāriyai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The one noun <foreign xml:lang="ta">ni</foreign> shortens its long base [-vowel]</l>
+<l>[and] the consonant sound <foreign xml:lang="ta">ṉ</foreign> appears there.</l>
       </lg>
     </div>
   </body>

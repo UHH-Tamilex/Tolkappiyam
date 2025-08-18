@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>192</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,14 @@
 <l>mēṉmup peyaroṭum vēṟupā ṭilavē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>In the endings of <foreign xml:lang="ta">ellārum</foreign> which denotes the third person,</l>
+<l>and of <foreign xml:lang="ta">ellīrum</foreign> which denotes the second person,</l>
+<l>the consonant and the sound <foreign xml:lang="ta">u</foreign> disappear ;</l>
+<l>so it is said ;</l>
+<l>the non-vocalized consonant <foreign xml:lang="ta">r</foreign> must remain ;</l>
+<l>and <foreign xml:lang="ta">um</foreign> stands as final ;</l>
+<l><foreign xml:lang="ta">tam</foreign> comes in between in the third person</l>
+<l>and <foreign xml:lang="ta">num</foreign> comes in between with the words of the second person.</l>
       </lg>
     </div>
   </body>

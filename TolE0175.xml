@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>175</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,8 @@
 <l>yāveṉ viṉāvu māyiya ṟiriyātu</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>Nouns ending in <foreign xml:lang="ta">-a</foreign> and denoting ' many '</l>
+<l>will not fail having [the empty-morph] <foreign xml:lang="ta">vaṟṟu.</foreign></l>
       </lg>
     </div>
   </body>

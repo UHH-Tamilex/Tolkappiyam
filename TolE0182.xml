@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>182</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -25,7 +26,9 @@
 <l>ñana veṉ puḷḷik kiṉṉē cāriyai</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l><foreign xml:lang="ta">attu</foreign> is also inserted between the words</l>
+<l>denoting trees [ending] in <foreign xml:lang="ta">a, ā,</foreign></l>
+<l>and the seventh-case morph.</l>
       </lg>
     </div>
   </body>

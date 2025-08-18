@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>183</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,8 @@
 <l>keṭṭa viṟuti yiyaṟṟiri piṉṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The non-vocalized consonants <foreign xml:lang="ta">ñ</foreign> and <foreign xml:lang="ta">n</foreign></l>
+<l>have the empty-morph <foreign xml:lang="ta">iṉ.</foreign></l>
       </lg>
     </div>
   </body>

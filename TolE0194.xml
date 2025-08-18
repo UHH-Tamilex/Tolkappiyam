@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>194</num>.</title>     
+        <editor role="translator">Kamil Zvelebil</editor>      
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -26,7 +27,10 @@
 <l>muṉṉart tōṉṟu miyaṟkait teṉpa</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The occurrence of <foreign xml:lang="ta">attu</foreign> and <foreign xml:lang="ta">iṉ</foreign> is optional</l>
+<l>with the two words <foreign xml:lang="ta">aḷaṉ</foreign> and <foreign xml:lang="ta">puḻaṉ</foreign></l>
+<l>the wise ones say that it is in agreement</l>
+<l>[with the rules or usage].</l>
       </lg>
     </div>
   </body>
