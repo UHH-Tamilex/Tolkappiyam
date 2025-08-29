@@ -27,8 +27,9 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0450">
+<l>namava veṉṉu mūṉṟoṭu civaṇi</l>
+<l>yakaram variṉu meṭṭaṉmu ṉiyalpē</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,10 +37,52 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0450"><interp type="alignment" select="0">12ML24MG15M2GM,56M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>na</form>
+<def>consonant 'n'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ma</form>
+<def>consonant 'm'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>va</form>
+<def>consonant 'v'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṉum</form>
+<def>saying-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mūṉṟoṭu</form>
+<def>with three</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>civaṇi</form>
+<def>associated with</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>akaram</form>
+<def>the syllable 'a'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -54,27 +97,28 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ā</form>
-<def>that</def>
+<form>eṭṭaṉ</form>
+<def>of eight</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iyal</form>
+<form>muṉ</form>
+<def>before</def>
+<gramGrp>
+  <gram type="role">suffix</gram>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyalp<c type="elided">u</c>-ē</form>
 <def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
+<form type="simple">iyalpu</form>
+<form type="sandhi">iyalp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>tiriyātu</form>
-<def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">negative</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 </TEI>

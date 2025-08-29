@@ -27,8 +27,9 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0439">
+<l>iṭainilai rakara miraṇṭe ṉeṇṇiṟku</l>
+<l>naṭaimaruṅ kiṉṟē poruḷvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,45 +37,81 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0439"><interp type="alignment" select="0">21MG20MG3M2G14M,62M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>iṭai</form>
+<def>middle</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>variṉ-um</form>
-<def>come-if-even</def>
-<form type="simple">variṉ</form>
-<gramGrp>
-  <gram type="role">conditional</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>ā</form>
-<def>that</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>iyal</form>
-<def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
+<form>nilai</form>
+<def>standing</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tiriyātu</form>
-<def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
+<form>rakaram</form>
+<def>consonant 'r'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṇṭ<c type="elided">u</c></form>
+<def>two</def>
+<form type="sandhi">iraṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṇṇiṟku</form>
+<def>to number</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai</form>
+<def>usage/custom</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṅk<c type="elided">u</c></form>
+<def>place</def>
+<form type="sandhi">maruṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟ<c type="elided">u</c>-ē</form>
+<def>not-it</def>
+<form type="simple">iṉṟu</form>
+<form type="sandhi">iṉṟ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>poruḷvayiṉāṉa</form>
+<def>in the meaning</def>
+<gramGrp>
+  <gram type="role">locative</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>

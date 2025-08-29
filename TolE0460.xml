@@ -27,8 +27,8 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0460">
+<l>nūṟumuṉ variṉuṅ kūṟiya viyalpē</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,12 +36,20 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0460"><interp type="alignment" select="0">12MG14M2GM,30M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>nūṟu</form>
+<def>the word 'nūṟu' - hundred</def>
 <gramGrp>
   <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+<gramGrp>
+  <gram type="role">suffix</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -54,27 +62,21 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ā</form>
-<def>that</def>
+<form>kūṟiya</form>
+<def>spoken</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iyal</form>
+<form><c type="glide">v</c>iyalp<c type="elided">u</c>-ē</form>
 <def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
+<form type="simple">iyalpu</form>
+<form type="sandhi"><c type="glide">v</c>iyalp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>tiriyātu</form>
-<def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">negative</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 </TEI>

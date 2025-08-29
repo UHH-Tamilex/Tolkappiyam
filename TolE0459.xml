@@ -27,8 +27,9 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0459">
+<l>oṉpā ṉiṟuti yurupunilai tiriyā</l>
+<l>tiṉpeṟal vēṇṭuñ cāriyai moḻiyē</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,45 +37,80 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0459"><interp type="alignment" select="0">28MG24MG2M,56M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>oṉpāṉ</form>
+<def>the word 'oṉpān' - nine</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>variṉ-um</form>
-<def>come-if-even</def>
-<form type="simple">variṉ</form>
-<gramGrp>
-  <gram type="role">conditional</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>ā</form>
-<def>that</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>iyal</form>
-<def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
+<form>iṟuti</form>
+<def>end</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tiriyātu</form>
+<form><c type="glide">y</c>urupu</form>
+<def>morpheme</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiriyāt<c type="elided">u</c></form>
 <def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
+<form type="sandhi">tiriyāt</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">negative</gram>
 </gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>increment 'in'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟal</form>
+<def>obtaining</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭum</form>
+<def>is necessary</def>
+<form type="sandhi">vēṇṭuñ</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cāriyai</form>
+<def>increment</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi-<c type="glide">y</c>ē</form>
+<def>word</def>
+<form type="simple">moḻi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 </TEI>

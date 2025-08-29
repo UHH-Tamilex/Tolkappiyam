@@ -27,8 +27,8 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0444">
+<l>eṭṭa ṉoṟṟē ṇakāra mākum</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,45 +36,36 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0444"><interp type="alignment" select="0">8M2G12M,22M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>eṭṭaṉ</form>
+<def>of the word 'eṭṭu' - eight</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṟṟ<c type="elided">u</c>-ē</form>
+<def>consonant</def>
+<form type="simple">oṟṟu</form>
+<form type="sandhi">oṟṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ṇakāram</form>
+<def>consonant 'ṇ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>variṉ-um</form>
-<def>come-if-even</def>
-<form type="simple">variṉ</form>
+<form>ākum</form>
+<def>becomes</def>
 <gramGrp>
-  <gram type="role">conditional</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>ā</form>
-<def>that</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>iyal</form>
-<def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tiriyātu</form>
-<def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">negative</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>

@@ -27,8 +27,9 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0435">
-<l>āyiram variṉu māyiya ṟiriyātu</l>
+      <lg xml:id="TolE0469">
+<l>āṟaṉ maruṅkiṟ kuṟṟiya lukara</l>
+<l>mīṟumey yoḻiyak keṭutal vēṇṭum</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,45 +37,77 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0435"><interp type="alignment" select="0">11MG8ML7M,28M</interp>
+<standOff type="wordsplit" corresp="#TolE0469"><interp type="alignment" select="0">16MG36M,53M</interp>
 <entry>
-<form>āyiram</form>
-<def>the word 'āyiram' - thousand</def>
+<form>āṟaṉ</form>
+<def>of the word 'āṟu' - six</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>variṉ-um</form>
-<def>come-if-even</def>
-<form type="simple">variṉ</form>
+<form>maruṅkiṉ</form>
+<def>of side</def>
+<form type="sandhi">maruṅkiṟ</form>
 <gramGrp>
-  <gram type="role">conditional</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>ā</form>
-<def>that</def>
+<form>kuṟṟ<c type="elided">u</c></form>
+<def>shortened</def>
+<form type="sandhi">kuṟṟ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iyal</form>
+<form>iyal</form>
 <def>nature</def>
-<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tiriyātu</form>
-<def>it will not change</def>
-<form type="sandhi">ṟiriyātu</form>
+<form>ukaram</form>
+<def>syllable 'u'</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">negative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īṟu</form>
+<def>end</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mey</form>
+<def>consonant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">y</c>oḻiya<c type="geminated">k</c></form>
+<def>to stay-behind</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keṭutal</form>
+<def>eliding</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭum</form>
+<def>is necessary</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>
