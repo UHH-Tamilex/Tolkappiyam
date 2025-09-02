@@ -28,7 +28,9 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE0474">
-<l>avaiyūr pattiṉu mattoḻiṟ ṟākum</l>
+<l>aḷavu niṟaiyu māyiya ṟiriyātu</l>
+<l>kuṟṟiya lukaramum valleḻut tiyaṟkaiyu</l>
+<l>muṟkiḷan taṉṉa veṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
 <!--put your translation here-->
@@ -36,51 +38,133 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0474"><interp type="alignment" select="0">13MG10MG4M,29M</interp>
+<standOff type="wordsplit" corresp="#TolE0474"><interp type="alignment" select="0">4M2GMR5MG9ML11MG10MG11MG7MG3ML8MG19M,99M</interp>
 <entry>
-<form>avai</form>
-<def>those</def>
+<form>aḷav<c type="elided">u</c>-um</form>
+<def>measure</def>
+<form type="simple">aḷavu</form>
+<form type="sandhi">aḷav</form>
 <gramGrp>
-  <gram type="role">plural</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>ūr</form>
-<def>mount</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>pattiṉ-um</form>
-<def>of ten</def>
-<form type="simple">pattiṉ</form>
-<gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>a<c type="geminated">t</c></form>
+<form>niṟai-<c type="glide">y</c>um</form>
+<def>weight/weighing</def>
+<form type="simple">niṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ā</form>
 <def>that</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>toḻiṟṟ<c type="elided">u</c></form>
-<def>of the action</def>
-<form type="sandhi">toḻiṟṟ</form>
+<form><c type="glide">y</c>iyal</form>
+<def>nature</def>
+<form type="sandhi"><c type="glide">y</c>iyaṟ</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ākum</form>
-<def>becomes</def>
+<form>tiriyātu</form>
+<def>it will not change</def>
+<form type="sandhi">ṟiriyātu</form>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟṟ<c type="elided">u</c></form>
+<def>shortened</def>
+<form type="sandhi">kuṟṟ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ukaram-um</form>
+<def>syllable 'u'</def>
+<form type="simple">ukaram</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>eḻutt<c type="elided">u</c></form>
+<def>letter</def>
+<form type="sandhi"><c type="geminated">l</c>eḻutt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyaṟkai-<c type="glide">y</c>um</form>
+<def>nature</def>
+<form type="simple">iyaṟkai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+<form type="sandhi">muṟ</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷant<c type="elided">u</c></form>
+<def>expressed clearly</def>
+<form type="sandhi">kiḷant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet-scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>
