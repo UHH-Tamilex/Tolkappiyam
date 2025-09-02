@@ -26,8 +26,10 @@
 <l>meyyuyir nīṅkiṟ ṟaṉṉuru vākum</l>
       </lg>
       <lg xml:lang="en">
-<l>A vowel-symbol following a consonant-symbol</l>
-<l>cannot exist by itself ; it merges with the consonant,</l>
+<l>A vowel-symbol following a consonant-symbol<note
+              place="foot"><foreign xml:lang="ta">puḷḷi.</foreign></note></l>
+<l>cannot exist by itself ; it merges with the consonant,<note
+              place="foot"><foreign xml:lang="ta">mey.</foreign> E.g. <foreign xml:lang="ta">āl + aṭai &gt; ālaṭai ; maram + atu &gt; maramatu.</foreign></note></l>
 <l>destroying thus its nature.</l>
       </lg>
     </div>

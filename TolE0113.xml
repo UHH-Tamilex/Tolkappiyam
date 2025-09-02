@@ -27,9 +27,13 @@
 <l>mavvā ṟeṉpa vēṟṟumai yurupē</l>
       </lg>
       <lg xml:lang="en">
-<l>Words, juxtaposed in case-relation,</l>
-<l>as well as words juxtaposed in non-case relation,</l>
-<l>have either a sound or an empty-morph,</l>
+<l>Words, juxtaposed in case-relation,<note
+              place="foot"><foreign xml:lang="ta">vēṟṟumai kuṟitta</foreign></note> ' relation designed as case '</l>
+<l>as well as words juxtaposed in non-case relation,<note
+              place="foot"><foreign xml:lang="ta">vēṟṟumai yalvaḻi</foreign></note> ' non-case relation '.</l>
+<l>have either a sound<note
+              place="foot"><foreign xml:lang="ta">eḻuttu.</foreign></note> or an empty-morph,<note
+              place="foot"><foreign xml:lang="ta">cāriyai.</foreign></note></l>
 <l>one of the two, inserted,</l>
 <l>when sandhi takes place.</l>
       </lg>
