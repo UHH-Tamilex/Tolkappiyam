@@ -27,92 +27,103 @@
 <text xml:lang="ta" type="edition">
   <body>
     <div rend="parallel">
-      <lg xml:id="TolE0413">
-<l>iṭaiyoṟṟut toṭaru māytat toṭaru</l>
-<l>naṭaiyā yiyala veṉmaṉār pulavar</l>
+      <lg xml:id="TolE0472">
+<l>nūṟeṉ kiḷavi yoṉṟumuta loṉpāṟ</l>
+<l>kīṟuciṉai yoḻiya viṉavoṟṟu mikumē</l>
       </lg>
       <lg xml:lang="en">
-<l>There are indeed words in which the consonant will not double</l>
-<l>in the middle ; nor does the voiceless plosive appear in those</l>
-<l>cases.</l>
+<!--put your translation here-->
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0413"><interp type="alignment" select="0">15MG12MGMR28M,59M</interp>
+<standOff type="wordsplit" corresp="#TolE0472"><interp type="alignment" select="0">3MG24MG28MGM,59M</interp>
 <entry>
-<form>iṭai</form>
-<def>middle</def>
+<form>nūṟ<c type="elided">u</c></form>
+<def>the word 'nūṟu' - hundred</def>
+<form type="sandhi">nūṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>oṟṟu<c type="geminated">t</c></form>
+<form>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oṉṟu</form>
+<def>one</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>beginning with</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṉpāṟk<c type="elided">u</c></form>
+<def>to nine</def>
+<form type="sandhi">oṉpāṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īṟu</form>
+<def>end</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>limb</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oḻiya</form>
+<def>to stay-behind</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉa</form>
+<def>group</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>oṟṟu</form>
 <def>consonant</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>toṭar-um</form>
-<def>link</def>
-<form type="simple">toṭar</form>
+<form>mikum-ē</form>
+<def>increases</def>
+<form type="simple">mikum</form>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>āyta<c type="geminated">t</c></form>
-<def>letter 'k'</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>toṭar-um</form>
-<def>link</def>
-<form type="simple">toṭar</form>
-<gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>naṭai</form>
-<def>custom/usage</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>ā</form>
-<def>that</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>iyala</form>
-<def>they are of nature</def>
-<gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">plural</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">v</c>eṉmaṉār</form>
-<def>they say</def>
-<gramGrp>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>pulavar</form>
-<def>poet-scholar</def>
-<gramGrp>
-  <gram type="role">third person</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 </TEI>
