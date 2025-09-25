@@ -34,7 +34,10 @@
       </lg>
       <lg xml:lang="en">
 <l>There are names of trees which do not have the nasal converted</l>
-<l>into the plosive.</l>
+<l>into the plosive.<note
+              place="foot">E.g. <foreign xml:lang="ta">kuruntu + tōl &gt; kuruntantōl</foreign> (and
+          not <foreign xml:lang="ta">*kuruttantōl)</foreign> or <foreign xml:lang="ta">puṅku + pū
+          &gt; puṉkampū</foreign> (but not <foreign xml:lang="ta">*pukkampū).</foreign></note></l>
       </lg>
     </div>
   </body>
