@@ -31,7 +31,8 @@
 <l>alvaḻi yellā muṟaḻeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<l>If nasals occur, it will be changed to <foreign xml:lang="ta">ṇ.</foreign></l>
+<l>If nasals occur, it will be changed to <foreign xml:lang="ta">ṇ.</foreign><note
+              place="foot">e.g. <foreign xml:lang="ta">muḻ + maram &gt; muṇmaram.</foreign></note></l>
       </lg>
     </div>
   </body>
