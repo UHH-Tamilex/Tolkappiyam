@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>261</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,8 +29,7 @@
 <l>When one examines the pertinent cases, then</l>
 <l><foreign xml:lang="ta">eru</foreign> ' manure ' and <foreign xml:lang="ta">ceru</foreign> ' battle ' having <foreign xml:lang="ta">am</foreign> are liable to change.</l>
 <l>The <foreign xml:lang="ta">-m</foreign> of <foreign xml:lang="ta">-am</foreign> disappears in <foreign xml:lang="ta">ceru</foreign></l>
-<l>and the plosive doubles.<note
-              place="foot">E.g. <foreign xml:lang="ta">eru + kuḻi &gt; eru-v-aṅ-kuḻi ; eru + cēṟu &gt; eruvañcēṟu</foreign> etc. ; <foreign xml:lang="ta">ceṟu + kaḷam &gt; ceruv-ak-kaḷam ; ceru + cēṉai &gt; ceruvaccēṉai.</foreign></note></l>
+<l>and the plosive doubles.<note place="foot">E.g. <foreign xml:lang="ta">eru + kuḻi &gt; eru-v-aṅ-kuḻi ; eru + cēṟu &gt; eruvañcēṟu</foreign> etc. ; <foreign xml:lang="ta">ceṟu + kaḷam &gt; ceruv-ak-kaḷam ; ceru + cēṉai &gt; ceruvaccēṉai.</foreign></note></l>
       </lg>
     </div>
   </body>

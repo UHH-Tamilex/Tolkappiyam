@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>337</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,8 +26,7 @@
 <l>valleḻut tiyaṟkai mikutal vēṇṭum</l>
       </lg>
       <lg xml:lang="en">
-<l>When <foreign xml:lang="ta">ekiṉ</foreign> denotes a tree, it is of the same nature of <foreign xml:lang="ta">āṇ</foreign> a tree.<note
-              place="foot"><foreign xml:lang="ta">Ekiṉ</foreign> means either ' the tamarind tree ',
+<l>When <foreign xml:lang="ta">ekiṉ</foreign> denotes a tree, it is of the same nature of <foreign xml:lang="ta">āṇ</foreign> a tree.<note place="foot"><foreign xml:lang="ta">Ekiṉ</foreign> means either ' the tamarind tree ',
           or ' swan ' ; when glossed ' swan ', it gets <foreign xml:lang="ta">a</foreign> and the
           doubling of the following plosive, cf. 338.</note></l>
       </lg>

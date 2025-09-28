@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>251</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,12 +26,10 @@
 <l>muṭaṉilai moḻiyu muḷaveṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<l>The [pro] noun <foreign xml:lang="ta">nī,</foreign> the indecent noun,<note
-              place="foot"><foreign xml:lang="ta">iṭakkar,</foreign> cf. <foreign xml:lang="ta">iṭakku
+<l>The [pro] noun <foreign xml:lang="ta">nī,</foreign> the indecent noun,<note place="foot"><foreign xml:lang="ta">iṭakkar,</foreign> cf. <foreign xml:lang="ta">iṭakku
           (iṭa</foreign> v. ?) ' indecent, rude, vulgar, obscene speech or word ' ; accord. to commentators, <foreign xml:lang="ta">pi</foreign> ' dung '.</note></l>
 <l>and the word <foreign xml:lang="ta">mī</foreign> denoting place-relationship -</l>
-<l>they have no additional plosive inserted.<note
-              place="foot">i,e., eg. <foreign xml:lang="ta">ni periyai ; mī kaṇ ; pī ciṟitu.</foreign></note></l>
+<l>they have no additional plosive inserted.<note place="foot">i,e., eg. <foreign xml:lang="ta">ni periyai ; mī kaṇ ; pī ciṟitu.</foreign></note></l>
       </lg>
     </div>
   </body>

@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>248</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,9 +26,7 @@
       </lg>
       <lg xml:lang="en">
 <l>There is no doubt that <foreign xml:lang="ta">āṉ</foreign> occurs between a verb</l>
-<l>and any noun denoting a day [ending in <foreign xml:lang="ta">-i</foreign>].<note
-              place="foot">Days were denoted after the constellations ; they seem to have ended in <foreign
-                xml:lang="ta">-i, -ai (287) </foreign>and <foreign xml:lang="ta">-m (332).</foreign> Iḷampūraṇar gives as example for this aphorism <foreign xml:lang="ta">paraṇiyār ceṉṟāṉ</foreign> etc.,i.e. <foreign xml:lang="ta">paraṇi</foreign> (in <foreign xml:lang="ta">Paripāṭal</foreign>
+<l>and any noun denoting a day [ending in <foreign xml:lang="ta">-i</foreign>].<note place="foot">Days were denoted after the constellations ; they seem to have ended in <foreign xml:lang="ta">-i, -ai (287) </foreign>and <foreign xml:lang="ta">-m (332).</foreign> Iḷampūraṇar gives as example for this aphorism <foreign xml:lang="ta">paraṇiyār ceṉṟāṉ</foreign> etc.,i.e. <foreign xml:lang="ta">paraṇi</foreign> (in <foreign xml:lang="ta">Paripāṭal</foreign>
           XI. 2 we have a native Tamil word <foreign xml:lang="ta">vēḻam</foreign> ' elephant ') ' the second lunar asterism ', and Nacciṉārkkiṉiyar adds <foreign xml:lang="ta">cōti</foreign> ' fifteenth asterism '.</note></l>
       </lg>
     </div>
