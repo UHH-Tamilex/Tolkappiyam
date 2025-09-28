@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"/> <num/>.
-            <persName xml:lang="ta"/>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>443</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -28,8 +25,7 @@
 <l>ainta ṉoṟṟē makāra mākum</l>
       </lg>
       <lg xml:lang="en">
-<l>The consonant of <foreign xml:lang="ta">aintu</foreign> ' five ' will be replaced by the sound <foreign xml:lang="ta">m.</foreign><note
-              place="foot">Eg. <foreign xml:lang="ta">aintu + pattu &gt; ain + pahtu &gt; aimpahtu.</foreign></note></l>
+<l>The consonant of <foreign xml:lang="ta">aintu</foreign> ' five ' will be replaced by the sound <foreign xml:lang="ta">m.</foreign><note place="foot">Eg. <foreign xml:lang="ta">aintu + pattu &gt; ain + pahtu &gt; aimpahtu.</foreign></note></l>
       </lg>
     </div>
   </body>

@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>239</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,8 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>The nature of the demonstrative [<foreign xml:lang="ta">i</foreign>]</l>
-<l>is the same as that mentioned before.<note
-              place="foot">In other words : the demonstrative <foreign xml:lang="ta">i</foreign> behaves like the demonstrative <foreign xml:lang="ta">a :</foreign> e.g. <foreign xml:lang="ta">i +
+<l>is the same as that mentioned before.<note place="foot">In other words : the demonstrative <foreign xml:lang="ta">i</foreign> behaves like the demonstrative <foreign xml:lang="ta">a :</foreign> e.g. <foreign xml:lang="ta">i +
           nūl &gt; innūl, i + yāḻ &gt; ivyāl</foreign> etc., cf. aphorisms 206-9.</note></l>
       </lg>
     </div>
