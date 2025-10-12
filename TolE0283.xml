@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>283</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,10 +34,13 @@
 <l>meyyava ṇoḻiya veṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<l>The words <foreign xml:lang="ta">vicai, ñemai</foreign> and <foreign xml:lang="ta">namai</foreign> [denoting] trees,</l>
-<l>those three nouns behave like the word <foreign xml:lang="ta">cē</foreign> [denoting] a tree.<note place="foot">For <foreign xml:lang="ta">ñemai</foreign> and <foreign xml:lang="ta">
-          namai</foreign> (Anogeissus latifolia) cf. DED 2974. Exx. : <foreign xml:lang="ta">vicaiṅkōṭu,
-          ñemaiñceṭil, namaimpū.</foreign></note></l>
+<l>When one thinks [about it] the words <foreign xml:lang="ta">paṉai, arai</foreign> and <foreign xml:lang="ta">āvirai</foreign></l>
+<l>join with <foreign xml:lang="ta">am</foreign> ; scholars maintain that the final <foreign xml:lang="ta">ai</foreign></l>
+<l>disappears-except in <foreign xml:lang="ta">arai-</foreign></l>
+<l>and the consonant is preserved there.<note
+              place="foot">See comment. Exx. : <foreign xml:lang="ta">paṉai + kāy &gt; paṉaṅkāy ;
+                arai + kōṭu &gt; araiyaṅkōṭu ; āvirai + tōl &gt; āvirantōl. paṉai,</foreign> ' palmyra ' ; <foreign xml:lang="ta">arai</foreign> is unspecified, but may refer to aracu ' pipal
+          ' ; <foreign xml:lang="ta">āvirai</foreign> Cassia auriculata, tanner's senna.</note></l>
       </lg>
     </div>
   </body>

@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>343</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,9 +31,7 @@
 <l>iṟāaṟ ṟōṟṟa miyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
-<l>When a nasal occurs, it will optionally disappear.<note place="foot">i.e. when, after <foreign xml:lang="ta">tēn,</foreign> a word beginning
-          with a nasal occurs, the <foreign xml:lang="ta">-ṉ,</foreign> of <foreign xml:lang="ta">
-          tēṉ</foreign> may be dropped, e.g. <foreign xml:lang="ta">tēṉ + ñeri &gt; tēñeri.</foreign></note></l>
+<l>If <foreign xml:lang="ta">iṟāal</foreign> ' honey-comb ' follows [<foreign xml:lang="ta">tēṉ</foreign>] there is no change.</l>
       </lg>
     </div>
   </body>

@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>373</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,11 +31,8 @@
 <l>valleṉ kiḷavi toḻiṟpeya riyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>If the word <foreign xml:lang="ta">il</foreign> denotes the negative,<note place="foot"><foreign xml:lang="ta">Iṉmai.</foreign></note></l>
-<l>the doubling of plosives, or the occurence of <foreign xml:lang="ta">ai,</foreign></l>
-<l>or standing without change, or the occurence of the sound <foreign xml:lang="ta">ā -</foreign></l>
-<l>[these] are in agreement with the tradition of endings.<note place="foot">The following four choices are possible : <foreign xml:lang="ta">illaikkal,
-          illai kal, ilkal, illākkal.</foreign></note></l>
+<l>The word <foreign xml:lang="ta">val</foreign> ' dice ' behaves like the verbal nouns.<note
+              place="foot">i.e. <foreign xml:lang="ta">val-l-u-k--kaṭitu</foreign> etc.</note></l>
       </lg>
     </div>
   </body>

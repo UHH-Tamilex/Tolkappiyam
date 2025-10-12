@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>241</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,10 +32,9 @@
 <l>kattu miṉṉuñ cāriyai yākum</l>
       </lg>
       <lg xml:lang="en">
-<l>If the word <foreign xml:lang="ta">nāḻi</foreign> ' a corn-measure '</l>
-<l>is followed by the word <foreign xml:lang="ta">uri</foreign> ' a corn-measure '</l>
-<l>the final <foreign xml:lang="ta">i</foreign> and the consonant are dropped and <foreign xml:lang="ta">ṭ</foreign> takes their place.<note place="foot"><foreign xml:lang="ta">nāḻi + uri &gt; nāṭuri ; nāḻi </foreign>is the
-          eighth part of a marcal ; <foreign xml:lang="ta">uri</foreign> is the sixteenth part of a marcal.</note></l>
+<l>The word <foreign xml:lang="ta">paṉi</foreign> denoting [dewy] season takes</l>
+<l>the empty-morphs <foreign xml:lang="ta">attu</foreign> and <foreign xml:lang="ta">iṉ</foreign> in case-relationship.<note
+              place="foot">i.e., e.g. <foreign xml:lang="ta">paṉiyattucceṉṟāṉ</foreign> or <foreign xml:lang="ta">paṉiyirceṉṟāṉ</foreign> ' he went in the dewy season '.</note></l>
       </lg>
     </div>
   </body>

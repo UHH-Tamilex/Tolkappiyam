@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>418</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,11 +32,19 @@
 <l>makkiḷai moḻiyu muḷaveṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<l>[There are some] ' two-letter words ' and ' voiceless stop-se-</l>
-<l>quence words '</l>
-<l>which may legitimately take <foreign xml:lang="ta">am</foreign> after them ;</l>
-<l>such cases have to be ascertained from traditional usage.<note place="foot"><foreign xml:lang="ta">marap/u oḻuku</foreign> E.g. <foreign xml:lang="ta">ēṟu + kōḷ &gt; ēṟaṅkōḷ</foreign> capture of the bull ' (also <foreign xml:lang="ta">ēṟukōḷ); puṟṟu + cōṟu &gt; puṟṟañcōṟu &lt;</foreign> terminates in an
-          ' anthill '.</note></l>
+<l>It is said that there are words of that group</l>
+<l>which do not have the consonant [ =nasal] changed [ = into</l>
+<l>voiceless stop] but take the [empty morph] <foreign xml:lang="ta">akku.</foreign><note
+              place="foot">E.g., <foreign xml:lang="ta">kuṉṟu + kūkai &gt; kuṉṟu + akku + kūkai &gt;
+          kuṉṟakkūkai</foreign> ' owl of the mountain '; or <foreign xml:lang="ta">maṉṟappeṇṇai'</foreign>
+          'palmyra in the meeting place '. Accord. to some commentators, <foreign xml:lang="ta">
+          a-k--kiḷai-moḻi</foreign> in this aphorism does not mean &lt; words of that group but '
+          words of that (?) class (community, caste ?)' and refers to such cases as <foreign
+                xml:lang="ta">pārppaṉakkaṉṉi</foreign> ' Brahmin virgin '. Highly improbable. Also,
+          the cases quoted as examples should be rather analysed as <foreign xml:lang="ta">kuṉṟam +
+          kūkai</foreign> (cf. <foreign xml:lang="ta">Puram 109.8, 156-1</foreign> etc.) and <foreign
+                xml:lang="ta">maṉṟam + peṇṇai</foreign> (e.g. <foreign xml:lang="ta">Puṟ. 76.4,
+          371.1</foreign> etc.).</note></l>
       </lg>
     </div>
   </body>

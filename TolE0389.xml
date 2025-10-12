@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>389</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,8 +33,10 @@
 <l>kaṭinilai yiṉṟē yāciri yaṟka</l>
       </lg>
       <lg xml:lang="en">
-<l>The word <foreign xml:lang="ta">ēḻ</foreign> ' seven ' behaves as when it takes case-markers.<note place="foot">Cf. No. 195. It will take the empty morph <foreign xml:lang="ta">aṉ,</foreign>
-          e.g. <foreign xml:lang="ta">ēḻaṉkāyam.</foreign></note></l>
+<l>It is not against the opinion of scholars</l>
+<l>that the initial long [vowel] is shortened and <foreign xml:lang="ta">u</foreign> is inserted</l>
+<l>when measure, weight and number occur.<note
+              place="foot">e.g. <foreign xml:lang="ta">eḻukalam, eḻupalam, eḻumūṉṟu</foreign> etc.</note></l>
       </lg>
     </div>
   </body>

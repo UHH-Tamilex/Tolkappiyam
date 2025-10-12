@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>360</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,12 +31,9 @@
 <l>melleḻut tuṟaḻu moḻiyumā ruḷavē</l>
       </lg>
       <lg xml:lang="en">
-<l>If the action of <foreign xml:lang="ta">makaṉ</foreign> ' son ' is mentioned,</l>
-<l>the change is as stated first.<note place="foot">Interpretation : if the word <foreign xml:lang="ta">tāy</foreign> '
-          mother is preceded by <foreign xml:lang="ta">makaṉ</foreign> ' son ' and followed by a
-          word denoting the action of the ' son ', the change is according to the previous aphorism
-          358, e.g. <foreign xml:lang="ta">makāṉṟāykkalām</foreign> ' the quarrel [warred by] the
-          son with [his] nother '.</note></l>
+<l>There exist words in which nasals may be inserted instead of plosives.<note
+              place="foot">e.g. <foreign xml:lang="ta">vēykkuṟai</foreign> alternates with <foreign
+                xml:lang="ta">vēyṅkuṟai.</foreign></note></l>
       </lg>
     </div>
   </body>

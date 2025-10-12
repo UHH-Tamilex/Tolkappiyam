@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>410</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,10 +32,9 @@
 <l>mukarak kiḷavi tuvarat tōṉṟātu</l>
       </lg>
       <lg xml:lang="en">
-<l>The original nature of the ' voiceless stop-sequence word '</l>
-<l>may remain as such if the coming word begins with a voiceless</l>
-<l>stop.<note place="foot">I.e, the overshort <foreign xml:lang="ta">u</foreign> at the end of the <foreign xml:lang="ta">valloṟṟuttoṭarmoḻi</foreign> remains when followed by a voiceless
-          occlusive, e.g. <foreign xml:lang="ta">kokkuk kaṭitu</foreign> (non-case) or <foreign xml:lang="ta">kokkuk kaṭumai</foreign> (case).</note></l>
+<l>When followed by the sound <foreign xml:lang="ta">y,</foreign></l>
+<l><foreign xml:lang="ta">i</foreign> is shortened, and the [shortened] <foreign xml:lang="ta">u</foreign> disappears completely.<note
+              place="foot">E.g., <foreign xml:lang="ta">nāku + yātu &gt; nākiyātu ; kokku + yātu &gt; kokkiyātu ; kuraṅku + yātu &gt; kuraṅkiyātu.</foreign></note></l>
       </lg>
     </div>
   </body>

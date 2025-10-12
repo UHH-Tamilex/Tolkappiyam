@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>482</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -34,7 +40,8 @@
       </lg>
       <lg xml:lang="en">
 <l>The ' defective ' words [and] expressions ending in vowel or con-</l>
-<l>sonant [and] denoting suggestion, quality [or] sound<note place="foot">The term is <foreign xml:lang="ta">kuṟaiccol ;</foreign> it is
+<l>sonant [and] denoting suggestion, quality [or] sound<note
+              place="foot">The term is <foreign xml:lang="ta">kuṟaiccol ;</foreign> it is
           interpreted by <foreign xml:lang="ta">Iḷampūraṇar</foreign> and <foreign xml:lang="ta">
           Nacciṉārkkiṉiyar</foreign> as <foreign xml:lang="ta">uriccol</foreign> ' words of quality
           ', corresponding roughly to our category of adjectives; but the instances given in the
@@ -45,22 +52,26 @@
           alterations.</note>, the ex-</l>
 <l>pressions denoting the five genders under [the more general dis-</l>
 <l>tinction into] high gender and no-gender, [and forming the first</l>
-<l>member of] <foreign xml:lang="ta">paṇputtokai</foreign><note place="foot"><foreign xml:lang="ta">Paṇputtokai</foreign> is an attribute-head
+<l>member of] <foreign xml:lang="ta">paṇputtokai</foreign><note
+              place="foot"><foreign xml:lang="ta">Paṇputtokai</foreign> is an attribute-head
           construction of compound-like nature ; it is stated here that the first part is supposed
           to be a noun ' agreeing ' in gender with the second part; such is the case in various
           Indo-European languages, including Sanskrit, but not in Dravidian as a rule; it is not
           clear why it is mentioned in this aphorism.</note>, the adjective participles [of the
           type]</l>
-<l><foreign xml:lang="ta">ceyyum</foreign> and <foreign xml:lang="ta">ceyta</foreign> when they form the first member of a <foreign xml:lang="ta">viṇaittokai</foreign><note place="foot"><foreign xml:lang="ta">Viṉaittokai</foreign> is a compound-like
+<l><foreign xml:lang="ta">ceyyum</foreign> and <foreign xml:lang="ta">ceyta</foreign> when they form the first member of a <foreign xml:lang="ta">viṇaittokai</foreign><note
+              place="foot"><foreign xml:lang="ta">Viṉaittokai</foreign> is a compound-like
           construction involving a verb-root and a noun, wherein the verb-root functions as a
-          relative or adjectival participle; according to this aphorism, the compound-like e.g. <foreign xml:lang="ta">kolyānai</foreign> ' killing-elephant ' - can in fact be interpreted
+          relative or adjectival participle; according to this aphorism, the compound-like e.g. <foreign
+                xml:lang="ta">kolyānai</foreign> ' killing-elephant ' - can in fact be interpreted
           either as <foreign xml:lang="ta">kollumyāṉai</foreign> ' the elephant which kills
           (habitually) ', or as <foreign xml:lang="ta">koṉṟayāṉai</foreign> ' the elephant which did
           kill '; hence the specific meaning depends on the context.</note>,</l>
 <l>and words denoting number preceding the same words - these</l>
 <l>and all similar words have to be determined from usage and cannot</l>
 <l>be clearly discussed as to their formation in the chapter on joining</l>
-<l>words.<note place="foot">The fourth category concerns compounds of numerals preceding other
+<l>words.<note
+              place="foot">The fourth category concerns compounds of numerals preceding other
           numerals, which are so transformed that it is difficult to recognize the basic forms, as
           e.g. <foreign xml:lang="ta">pattu+pattu&gt;pappattu.</foreign> There may be other such
           difficult combinations; they are all considered as <foreign xml:lang="ta">marū</foreign>

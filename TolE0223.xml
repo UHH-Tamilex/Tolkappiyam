@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>223</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,10 @@
 <l>meymmai yāka vakara mikumē</l>
       </lg>
       <lg xml:lang="en">
-<l>Scholars maintain that even the gerund<note place="foot"><foreign xml:lang="ta">viṉaiyeñcu kiḷavi.</foreign></note> of the type <foreign xml:lang="ta">ceyyā</foreign></l>
-<l>will not deviate from the rule.<note place="foot">E.g. <foreign xml:lang="ta">uṇṇākkoṇṭāṉ, uṇṇāppōyiṉāṉ.</foreign></note></l>
+<l>[In] the compounds of two words<note
+              place="foot"><foreign xml:lang="ta">irupeyarttokaimoḻi,</foreign> corresp. to Skt. <foreign xml:lang="sk">dvandva.</foreign></note> [with] <foreign xml:lang="ta">um</foreign> removed,</l>
+<l><foreign xml:lang="ta">a</foreign> is in fact inserted.<note
+              place="foot">E.g. <foreign xml:lang="ta">arāapāmpu</foreign> ' snake [and] serpent ', <foreign xml:lang="ta">irāapakal</foreign> ' day [and] night '.</note></l>
       </lg>
     </div>
   </body>

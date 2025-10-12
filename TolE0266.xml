@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>266</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,10 +31,8 @@
 <l>vēṟṟumaik kaṇṇu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>When one thinks [of it], the gerund and the second</l>
-<l>person finite verb are not prevented from that change.<note place="foot">E.g. <foreign xml:lang="ta">uṇṇū + koṇṭān &gt; unnūkkoṇṭān</foreign>
-          (gerund) ; <foreign xml:lang="ta">kaitū + tēvā &gt; kattūttēvā</foreign> (2nd. p. finite
-          verb : imperative ?).</note></l>
+<l>In case-relationship, too, it is the same like that.<note
+              place="foot">i.e., the Auslaut <foreign xml:lang="ta">-ū</foreign> behaves like the ending <foreign xml:lang="ta">-ā : koṇmū + kuḻām &gt; koṇmūkkuḻām</foreign> etc.</note></l>
       </lg>
     </div>
   </body>

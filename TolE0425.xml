@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>425</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,13 +32,9 @@
 <l>colliya paṇpi ṉiyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
-          <l>If followed by other [sounds], it [ = i.e. the <foreign xml:lang="ta">āytam</foreign>]
-          disappears.<note place="foot">I.e. when followed by words beginning with non-vowels, e.g. <foreign xml:lang="ta">ahtu + ciṟitu &gt; atu ciṟitu</foreign> ' That is small '. The reason for these rules is not clear. According to
-            T.P.Meenakshisundaram (A History of Tamil Language, 1965, p. 137) these two rules
-            contradict the rule in aphorism 39, and hence he thinks they may be interpolated.
-            However, the author in question is, I am afraid, mistaken, for these rules concern
-            entirely different morphophonemic changes, cf. my translation of aphorism 39, and note
-            35, on pp. 48 and 59 resp. of the first issue of this journal (Sept. 1972).<foreign xml:lang="ta"/></note></l>
+          <l>In non-case relation, all the words [ending in overshort-u] will</l>
+<l>follow the rules mentioned before.<note
+              place="foot">Eg. <foreign xml:lang="ta">varaku ciṟitu, teḷku peritu</foreign> etc.</note></l>
       </lg>
     </div>
   </body>

@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>206</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,8 @@
 <l>yavamuṉ variṉē vakara moṟṟum</l>
       </lg>
       <lg xml:lang="en">
-<l>If <foreign xml:lang="ta">ñ, n</foreign> [and] <foreign xml:lang="ta">m</foreign> appear after the demonstrative,</l>
-<l>the respective consonant must be doubled.<note place="foot">Exx. : <foreign xml:lang="ta">aññālam, innūl, ammaṇi.</foreign></note></l>
+<l>If <foreign xml:lang="ta">y</foreign> and <foreign xml:lang="ta">v</foreign> follow, <foreign xml:lang="ta">v</foreign> is inserted.<note
+              place="foot">Exx. : <foreign xml:lang="ta">a + yāḻ &gt; avyāḻ ; a + vaḷai &gt; avvaḷai.</foreign></note></l>
       </lg>
     </div>
   </body>

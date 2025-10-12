@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>271</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,9 @@
 <l>miṉṉiṭai variṉu māṉa millai</l>
       </lg>
       <lg xml:lang="en">
-<l>Know that in usage, in the proper place,</l>
-<l>it should take the empty-morph <foreign xml:lang="ta">akku.</foreign><note place="foot">i.e., <foreign xml:lang="ta">ū + kuṟai &gt; ūṉ -ak-kuṟai.</foreign></note></l>
+<l>There is no harm if the particle <foreign xml:lang="ta">iṉ</foreign> occurs</l>
+<l>with the two words <foreign xml:lang="ta">āṭūu</foreign> ' man ' and <foreign xml:lang="ta">makaṭūu</foreign> ' woman '.<note
+              place="foot">Ex. : <foreign xml:lang="ta">āṭūuviṉkai, makaṭūuviṉpuṟam.</foreign></note></l>
       </lg>
     </div>
   </body>

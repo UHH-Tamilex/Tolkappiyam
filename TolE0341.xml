@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>341</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,10 +31,8 @@
 <l>melleḻuttu mikiṉu māṉa millai</l>
       </lg>
       <lg xml:lang="en">
-<l>When the word <foreign xml:lang="ta">tēṉ</foreign> ' honey ' is followed by a plosive,</l>
-<l>it will either have the above-described change or the doubling</l>
-<l>of the plosive ; the two rules are both appropriate ;</l>
-<l>when the plosive doubles, there is no final [<foreign xml:lang="ta">ṉ</foreign>].<note place="foot">i.e. <foreign xml:lang="ta">tēṉ + kuṭam &gt; tēṉkuṭam / tēṟkuṭam | tēkkuṭam.</foreign></note></l>
+<l>It is no error even when the nasal appears.<note
+              place="foot">Accord. to an additional rule, <foreign xml:lang="ta">tēṉ + kuṭam &gt; tēṅkuṭam.</foreign> Cf. comment.</note></l>
       </lg>
     </div>
   </body>

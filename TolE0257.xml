@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>257</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,9 @@
 <l>cuṭṭumuta liṟuti yiyalpā kummē</l>
       </lg>
       <lg xml:lang="en">
-<l>If other [sounds than plosives] occur, the above-said</l>
-<l>situation applies.<note place="foot">Examples : <foreign xml:lang="ta">uññāṇ, unnūl, ummaṇi, uvyāl, uvvaṭai.</foreign></note></l>
+<l>The final [<foreign xml:lang="ta">u</foreign>] with demonstratives as initials will remain</l>
+<l>unchanged.<note
+              place="foot">E.g. <foreign xml:lang="ta">atu kuṟitu.</foreign></note></l>
       </lg>
     </div>
   </body>

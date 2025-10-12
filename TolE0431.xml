@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>431</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,10 +31,9 @@
 <l>iruticai puṇari ṉēyiṭai varumē</l>
       </lg>
       <lg xml:lang="en">
-<l>If the word <foreign xml:lang="ta">uṇṭu</foreign> denotes existence, the disappearance of the pre-</l>
-<l>ceding final [vowel] with [its] consonant, and the change into the</l>
-<l>sound <foreign xml:lang="ta">ḷ</foreign> of the preceding consonant - these two alterations may</l>
-<l>occur when a plosive occurs as initial of the following word.<note place="foot">Eg. <foreign xml:lang="ta">uṇṭu + poruḷ &gt; uḷporuḷ | uṇṭuporuḷ.</foreign></note></l>
+<l>If [words denoting] two [different] directions are combined, <foreign xml:lang="ta">ē</foreign> is</l>
+<l>inserted between them.<note
+              place="foot">Eg. <foreign xml:lang="ta">vaṭakkē teṟku, kiḷakkē meṟku.</foreign> Cf. also the Comment on this chapter.</note></l>
       </lg>
     </div>
   </body>

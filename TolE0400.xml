@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>400</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,7 +33,10 @@
 <l>pōṟṟal vēṇṭum moḻiyumā ruḷavē</l>
       </lg>
       <lg xml:lang="en">
-<l>When the sound <foreign xml:lang="ta">t</foreign> occurs, the appearance of <foreign xml:lang="ta">āytam</foreign> is not forbidden.<note place="foot">e.g. <foreign xml:lang="ta">mul + tītu &gt; muṭṭītu</foreign> or <foreign xml:lang="ta">muḵṟītu.</foreign></note></l>
+<l>There exist words in which the final [<foreign xml:lang="ta">ḷ</foreign>].</l>
+<l>[following] long vowel has no change, and which also behave</l>
+<l>in non-case-relationship as they do in case relationship.<note
+              place="foot">e.g. <foreign xml:lang="ta">vāḻkaṭitu</foreign> ' the sword is cruel '.</note></l>
       </lg>
     </div>
   </body>

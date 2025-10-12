@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>350</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,7 +33,12 @@
 <l>makkaṇ muṟaitokūu maruṅki ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>If preceded by qualifiers,<note place="foot"><foreign xml:lang="ta">Ciṟappu.</foreign></note> there is no change.<note place="foot">Cf. <foreign xml:lang="ta">peruñcāttaṉtantai</foreign> ' big Cāttaṉ's father '.</note></l>
+<l><foreign xml:lang="ta">Aṉ</foreign> is dropped in those nouns and the empty morph <foreign xml:lang="ta">am</foreign></l>
+<l>takes its place appropriately</l>
+<l>when the noun of relationship denoting children joins in ellipsis.<note
+              place="foot"><foreign xml:lang="ta">Makkaḷ muṟaitokūum.</foreign> i.e. <foreign
+                xml:lang="ta">koṟṟaṉ + cāttaṉ</foreign> ' Cāttaṉ, son of Koṟṟaṉ ' &gt; <foreign
+                xml:lang="ta">koṟṟam + cāttaṉ &gt; koṟṟañcāttaṉ.</foreign></note></l>
       </lg>
     </div>
   </body>

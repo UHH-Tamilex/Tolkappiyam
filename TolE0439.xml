@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>439</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,11 +32,9 @@
 <l>naṭaimaruṅ kiṉṟē poruḷvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>The consonant of the first two numbers changes into <foreign xml:lang="ta">ṟ</foreign> ; and the</l>
-<l>sound <foreign xml:lang="ta">u</foreign> joins [it] at that place.<note place="foot">I.e. the <foreign xml:lang="ta">ṉ</foreign> and <foreign xml:lang="ta">ṇ</foreign>
-          of <foreign xml:lang="ta">oṉṟu</foreign> and <foreign xml:lang="ta">iraṇṯu</foreign> are
-          respectively replaced by <foreign xml:lang="ta">r</foreign> and followed by <foreign xml:lang="ta">u,</foreign> eg. <foreign xml:lang="ta">oṉṟu + pattu &gt; oṉ + pahtu
-          &gt; orupahtu.</foreign></note></l>
+<l>The middle sound <foreign xml:lang="ta">ra</foreign> in the number <foreign xml:lang="ta">iraṇṭu</foreign> ' two ' will not remain</l>
+<l>there in combination.<note
+              place="foot">Eg. <foreign xml:lang="ta">iraṇṭu + pattu &gt; iraṇ + pahtu &gt; * irarupahtu irupahtu.</foreign></note></l>
       </lg>
     </div>
   </body>

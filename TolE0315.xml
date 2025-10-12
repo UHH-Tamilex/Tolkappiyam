@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>315</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,9 +34,15 @@
 <l>melleḻuttu mikuta lāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>In non-case-relation <foreign xml:lang="ta">sandhi,</foreign> it will all become nasal.<note place="foot">i.e. <foreign xml:lang="ta">maram + kuṟitu &gt; maraṅkuṟitu</foreign> '
-          the tree is short ' ; <foreign xml:lang="ta">marañci<corr>ṟi</corr>tu</foreign> ' the tree is small ',
-          etc.</note></l>
+<l>When <foreign xml:lang="ta">kai</foreign> ' hand ' comes after the word <foreign xml:lang="ta">akam</foreign> ' inside ',</l>
+<l>leaving the first portion to remain, the disappearance</l>
+<l>of those which stand before [<foreign xml:lang="ta">kai</foreign>] is not forbidden in the usage</l>
+<l>of writers ;<note
+              place="foot"><foreign xml:lang="ta">Āciriyar</foreign> (cf. Skt. <foreign
+                xml:lang="sa">ācārya,</foreign> DBIA 30) ' teacher, author, scholar '.</note> in
+          that environment, the nasal is inserted.<note place="foot">Both <foreign xml:lang="ta">akaṅkai</foreign> and <foreign xml:lang="ta">
+          aṅkai</foreign> ' palm ' are possible for <foreign xml:lang="ta">akam + kai</foreign> '
+          inside ' + ' hand '. Iḻampūraṇar takes it rightly as <foreign xml:lang="ta">marūu</foreign> ' contraction '.</note></l>
       </lg>
     </div>
   </body>

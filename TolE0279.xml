@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>279</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,10 @@
 <l>peṟṟa māyiṉ muṟṟaviṉ vēṇṭum</l>
       </lg>
       <lg xml:lang="en">
-<l>The noun <foreign xml:lang="ta">cē</foreign> [denoting] a tree is of the same nature as <foreign xml:lang="ta">oṭu</foreign></l>
-<l>[denoting] a tree.<note place="foot">E.g. <foreign xml:lang="ta">cēṅkōṭu.</foreign></note></l>
+<l>If it means <foreign xml:lang="ta">peṟṟam</foreign> ' bull ', it is necessary [that it is</l>
+<l>followed] by full <foreign xml:lang="ta">iṉ.</foreign><note
+              place="foot"><foreign xml:lang="ta">cē</foreign> has two meanings ; if it refers to a
+          tree, it follows the rule of the nasal, if it refers to a bull, it receives the empty-morph <foreign xml:lang="ta">-in : cē-v-iṉ-kōṭu.</foreign></note></l>
       </lg>
     </div>
   </body>

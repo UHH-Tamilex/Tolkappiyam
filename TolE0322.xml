@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>322</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,7 +33,13 @@
 <l>vēṟṟumai yalvaḻic cāriyai nilaiyātu</l>
       </lg>
       <lg xml:lang="en">
-<l>If uttered in non [case-relationship], there will be no change.<note place="foot">e.g. <foreign xml:lang="ta">ellāṟuñ ciṟiyar</foreign> ' They are all small '.</note></l>
+<l>If uttered in non [case-relationship] and/or in case-relationship,</l>
+<l>the pronoun <foreign xml:lang="ta">ellām</foreign> behaves in the same way as when followed</l>
+<l>by case-suffixes ; the empty morph is not inserted in non-case-relationship.<note
+              place="foot">e.g. <foreign xml:lang="ta">ellāvaṟuṭtalaiyum,</foreign> the head(s) of
+          all things ' : case-relationship ; <foreign xml:lang="ta">ellāpperiyavum</foreign> ' all
+          things are great ' : non-case relationship, hence without the <foreign xml:lang="ta">cāriyai
+          vāṟṟu.</foreign></note></l>
       </lg>
     </div>
   </body>

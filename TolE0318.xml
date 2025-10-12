@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>318</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,9 @@
 <l>aṭaiyoṭu tōṉṟiṉu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>The final of <foreign xml:lang="ta">āyiram</foreign> ' thousand ' joins with <foreign xml:lang="ta">attu</foreign> when followed</l>
-<l>by a suitable number.<note place="foot"><foreign xml:lang="ta">Āyiram</foreign> ' thousand ', very probably &lt; Skt. <foreign xml:lang="sa">sahasra,</foreign> Cf. DED. 309.</note></l>
+<l>The same is the case even if it appears with a qualifier.<note
+              place="foot"><foreign xml:lang="ta">Aṭai</foreign> ' qualifier ' ; ' attribute '. Cf. <foreign
+                xml:lang="ta">patiṉāyirattoṉṟu</foreign> ' ten thousand and one '.</note></l>
       </lg>
     </div>
   </body>

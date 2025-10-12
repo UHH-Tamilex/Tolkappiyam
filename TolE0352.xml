@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>352</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,9 @@
 <l>tāṉyā ṉeṉumpeya rurupiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
-<l><foreign xml:lang="ta">Tāṉ, pēṉ, kōṉ - these are without change</foreign></l>
-<l>when followed by those words of relationship.<note place="foot">i.e. <foreign xml:lang="ta">kōṉ + tantai &gt; kōṉrantai ; kōṉ + koṟṟan &gt; kōṉkoṟṟaṉ.</foreign></note></l>
+<l><foreign xml:lang="ta">Tāṉ,</foreign> ' he, she, it ' and <foreign xml:lang="ta">yāṉ</foreign> ' I ' have the same change</l>
+<l>as when they are followed by case-signs.<note
+              place="foot"><foreign xml:lang="ta">Yāṉ + kai &gt; eṉkai</foreign> ' my hand ' ; <foreign xml:lang="ta">tāṉ + kai &gt; taṉkai</foreign> ' his, her, its hand.</note></l>
       </lg>
     </div>
   </body>

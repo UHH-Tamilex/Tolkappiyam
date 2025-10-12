@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>416</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,11 @@
 <l>melloṟṟu valiyā marappeyaru muḷavē</l>
       </lg>
       <lg xml:lang="en">
-<l>Words denoting trees have the empty-morph <foreign xml:lang="ta">am.</foreign><note place="foot">E.g.,<foreign xml:lang="ta"> tēkku + tōl &gt; tēkk-am-tōl &gt; tēnkantōl</foreign>
-          ' the bark of the teak '; <foreign xml:lang="ta">vēmpu + pū &gt; vēppampū.</foreign></note></l>
+<l>There are names of trees which do not have the nasal converted</l>
+<l>into the plosive.<note
+              place="foot">E.g. <foreign xml:lang="ta">kuruntu + tōl &gt; kuruntantōl</foreign> (and
+          not <foreign xml:lang="ta">*kuruttantōl)</foreign> or <foreign xml:lang="ta">puṅku + pū
+          &gt; puṉkampū</foreign> (but not <foreign xml:lang="ta">*pukkampū).</foreign></note></l>
       </lg>
     </div>
   </body>

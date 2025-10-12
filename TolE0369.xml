@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>369</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,10 @@
 <l>pukariṉ ṟeṉmaṉār pulamai yōrē</l>
       </lg>
       <lg xml:lang="en">
-<l>In all [cases of] non-case-relationship, it is said to optionally change.<note place="foot">e.g. <foreign xml:lang="ta">kal + kuṟitu </foreign>' the stone is small '
-          &gt; <foreign xml:lang="ta">kal kuṟitu</foreign> or <foreign xml:lang="ta">kaṟ kuṟitu.</foreign></note></l>
+<l>Learned men say that it is no error</l>
+<l>if <foreign xml:lang="ta">āytam</foreign> occurs when the sound <foreign xml:lang="ta">t</foreign> comes initially.<note
+              place="foot"><foreign xml:lang="ta">Kal + tītu</foreign> ' the stone is bad ' &gt; <foreign
+                xml:lang="ta">kaṟṟītu</foreign> or <foreign xml:lang="ta">kaḵṟītu.</foreign></note></l>
       </lg>
     </div>
   </body>

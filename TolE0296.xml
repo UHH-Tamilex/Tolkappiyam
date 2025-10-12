@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>296</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,12 +34,12 @@
 <l>yukaram varuta lāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>After nouns ending in <foreign xml:lang="ta">au</foreign></l>
-<l>the appearance of plosives is not forbidden</l>
-<l>either in case-relationship or in non-case relationship.</l>
-<l>Great scholars opine that it is preferable</l>
-<l>to insert <foreign xml:lang="ta">u</foreign> in both cases.<note place="foot">i.e., after the two words <foreign xml:lang="ta">kau</foreign> ' seizing ' and <foreign xml:lang="ta">vau</foreign> ' snatching ', one may either double the
-          plosive or insert <foreign xml:lang="ta">u,</foreign> but the second alternative is preferable : <foreign xml:lang="ta">kau + kaṭitu &gt; kauvukkaṭitu.</foreign></note></l>
+<l>When an occlusive occurs, in case-relationship or otherwise,</l>
+<l>after a verbal<note
+              place="foot"><foreign xml:lang="ta">toḻirpeyar.</foreign></note> ending in <foreign xml:lang="ta">-ñ</foreign>,</l>
+<l>that (occlusive) consonant doubles</l>
+<l>and <foreign xml:lang="ta">u</foreign> is inserted there.<note
+              place="foot">e.g. <foreign xml:lang="ta">uriñ + peritu &gt; uriñ-u-p-peritu.</foreign></note></l>
       </lg>
     </div>
   </body>

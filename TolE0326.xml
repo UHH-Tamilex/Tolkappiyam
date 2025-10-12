@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>326</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -29,7 +35,16 @@
 <l>yappāṉ moḻivayi ṉiyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
-<l> The pronoun <foreign xml:lang="ta">num</foreign> gets a nasal inserted.<note place="foot">e.g. <foreign xml:lang="ta">num + kai &gt; nuṅkai </foreign>' your hand '.</note></l>
+<l>If <foreign xml:lang="ta">num</foreign> is uttered in non-case-relationship,</l>
+<l><foreign xml:lang="ta">u</foreign> [of <foreign xml:lang="ta">num</foreign>] is replaced by <foreign xml:lang="ta">ī</foreign> which joins the consonant,</l>
+<l><foreign xml:lang="ta">i</foreign> stands in the middle, and the final [<foreign xml:lang="ta">-m</foreign>] is replaced</l>
+<l>by [<foreign xml:lang="ta">-r</foreign>] without a vowel ;<note
+              place="foot">Lit. ' <foreign xml:lang="ta">r</foreign> with the dot <foreign xml:lang="ta">(puḻḻi) '.</foreign></note> then the following word</l>
+<l>[joins] without change.<note
+              place="foot">This aphorism which is a splendid example of an ordered rule, explains
+          the form <foreign xml:lang="ta">nīyir</foreign> (i.e. <foreign xml:lang="ta">nī-y--i-r)</foreign>
+          as derived from <foreign xml:lang="ta">num</foreign> (i.e. <foreign xml:lang="ta">n-u-m).</foreign>
+          There are many implications, cf. Comment.</note></l>
       </lg>
     </div>
   </body>
@@ -113,7 +128,7 @@
 <entry>
 <form>i</form>
 <def>syllable 'i'</def>
-<form type="sandhi"/>
+<form type="sandhi"></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>

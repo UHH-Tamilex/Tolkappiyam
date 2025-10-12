@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>399</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,8 @@
 <l>takaram varūuṅ kālai yāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>It is said that in all [cases of] non-case-relationship</l>
-<l>it behaves in either way.<note place="foot">i.e. it is optionally changed to <foreign xml:lang="ta">ṭ : muḻ + ciṟitu &gt; muṭciṟitu.</foreign></note></l>
+<l>When the sound <foreign xml:lang="ta">t</foreign> occurs, the appearance of <foreign xml:lang="ta">āytam</foreign> is not forbidden.<note
+              place="foot">e.g. <foreign xml:lang="ta">mul + tītu &gt; muṭṭītu</foreign> or <foreign xml:lang="ta">muḵṟītu.</foreign></note></l>
       </lg>
     </div>
   </body>

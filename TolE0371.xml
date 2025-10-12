@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>371</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,10 @@
 <l>mallatu kiḷappiṉum vēṟṟumai yiyala</l>
       </lg>
       <lg xml:lang="en">
-<l>There exist cases where there is no change with the vowel</l>
-<l>preceding final [<foreign xml:lang="ta">-l</foreign>] being long.<note place="foot"><foreign xml:lang="ta">Pāl + tītu &gt; pāl tītu</foreign> ' the milk is bad '.</note></l>
+<l>Even in non-case-relationship, <foreign xml:lang="ta">nel</foreign> ' paddy ', <foreign xml:lang="ta">cel</foreign> ' white ant ',</l>
+<l><foreign xml:lang="ta">kol</foreign> ' killing ' and <foreign xml:lang="ta">col</foreign> ' word ' follow the rules of case-relationship.<note
+              place="foot">e.g. <foreign xml:lang="ta">nel + tītu &gt; neṟṟītu</foreign> ' paddy is
+          bad ', <foreign xml:lang="ta">col + kaṭitu &gt; coṟkaṭitu</foreign> ' the word is heavy '.</note></l>
       </lg>
     </div>
   </body>

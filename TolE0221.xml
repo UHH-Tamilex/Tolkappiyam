@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>221</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,8 @@
 <l>ākāra viṟuti yakara viyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>The ending of the [words] <foreign xml:lang="ta">pala</foreign> [etc.] maintains [the</l>
-<l>same] manner [in] case-relationship.<note place="foot">E.g. <foreign xml:lang="ta">palavaṟṟukkōṭu, palavaṟṟuppuṟam.</foreign></note></l>
+<l>The ending <foreign xml:lang="ta">ā</foreign> is of the same nature as <foreign xml:lang="ta">a.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">tārā + ciṟitu &gt; tārācciṟitu.</foreign></note></l>
       </lg>
     </div>
   </body>

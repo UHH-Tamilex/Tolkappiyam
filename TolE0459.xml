@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>459</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,7 +34,8 @@
       <lg xml:lang="en">
 <l>The final [part] of <foreign xml:lang="ta">oṉpāṉ</foreign> ' nine ' will not undergo any modification</l>
 <l>[before words denoting measure and weight] ; it is necessary that</l>
-<l>the empty word <foreign xml:lang="ta">iṉ</foreign> is added.<note place="foot">Eg. <foreign xml:lang="ta">oṉpatiṉkalam.</foreign></note></l>
+<l>the empty word <foreign xml:lang="ta">iṉ</foreign> is added.<note
+              place="foot">Eg. <foreign xml:lang="ta">oṉpatiṉkalam.</foreign></note></l>
       </lg>
     </div>
   </body>

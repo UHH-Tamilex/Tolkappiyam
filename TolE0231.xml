@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>231</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,8 +34,12 @@
 <l>ṉakara moṟṟu māvu māvum</l>
       </lg>
       <lg xml:lang="en">
-<l>There is no harm even if a plosive is inserted.<note place="foot">That is, instead of e.g. <foreign xml:lang="ta">piṭāantōl,</foreign> it
-          is a admissible to say <foreign xml:lang="ta">piṭāattōl.</foreign></note></l>
+<l>The word <foreign xml:lang="ta">mā</foreign> [denoting] a tree, and [the words] <foreign xml:lang="ta">ā</foreign> and <foreign xml:lang="ta">mā,</foreign></l>
+<l>these three nouns are like those [above in behaviour] ;</l>
+<l>the phoneme <foreign xml:lang="ta">a</foreign> and the plosive, they do not remain in that position,</l>
+<l>[and] the phoneme <foreign xml:lang="ta">ṉ</foreign> combines with <foreign xml:lang="ta">ā</foreign> and <foreign xml:lang="ta">mā.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">mā + tōl &gt; māantōl</foreign> (i.e. ,the
+          respective nasal is inserted, accord. to rule 230) ; besides, <foreign xml:lang="ta">mā + tōl &gt; māṉtōl ; ā + taḻai &gt; āṉtalai.</foreign></note></l>
       </lg>
     </div>
   </body>

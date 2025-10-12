@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>243</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,8 @@
 <l>utimarak kiḷavi melleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
-<l>They say that it is most appropriate that the word</l>
-<l><foreign xml:lang="ta">vaḷi</foreign> when denoting an element<note place="foot"><foreign xml:lang="ta">pūtakkiḷavi ; pūtam</foreign> ' one of the five elements ' ; <foreign xml:lang="ta">vaḷi = kāṟṟu.</foreign></note> is of the same nature.<note place="foot">E.g. <foreign xml:lang="ta">vaḷiyattuppōyiṉāṉ' / vaḷiyiṟpōyiṉāṉ.</foreign></note></l>
+<l>The word <foreign xml:lang="ta">uti</foreign> denoting a tree has the nasal inserted.<note
+              place="foot">Cf. DED 525 <foreign xml:lang="ta">uti, oti </foreign>' Indian ash tree, Odina wodier '. <foreign xml:lang="ta">uti + kōṭu &gt; utiṅkōṭu.</foreign></note></l>
       </lg>
     </div>
   </body>

@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>375</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,8 +32,11 @@
 <l>ṭāmup peyarkku mammiṭai varumē</l>
       </lg>
       <lg xml:lang="en">
-<l>When <foreign xml:lang="ta">nāy</foreign> ' dog '<note place="foot">The word 'dog' also means gambling coins. e.g. <foreign xml:lang="ta-Taml">நாயிடக் குழிந்த வல்லி னல்லகம் (புறநா. 52)</foreign> Ed.</note> and <foreign xml:lang="ta">palakai</foreign> ' board ' come [after <foreign xml:lang="ta">val</foreign>],</l>
-<l><foreign xml:lang="ta">u</foreign> may disappear in such position, [and] when <foreign xml:lang="ta">u</foreign> disappears, <foreign xml:lang="ta">a</foreign> will occur.<note place="foot">i.e. <foreign xml:lang="ta">vallanāv </foreign>' a piece ' (' dog ') in dice '; <foreign xml:lang="ta">vallappalakai</foreign> ' gambling board '.</note></l>
+<l><foreign xml:lang="ta">Pūl, vēl, āl -</foreign> with those three words, <foreign xml:lang="ta">am</foreign> occurs medially.<note
+              place="foot"><foreign xml:lang="ta">pūl</foreign> ' black-berried ' feather foil,
+          Phyllanthus reticulatus ' ; or red silk-cotton tree, Bombax malabaricum ; <foreign
+                xml:lang="ta">vēl</foreign> ' babul tree ', <foreign xml:lang="ta">āl</foreign> '
+          banyan tree ' ; exx. : <foreign xml:lang="ta">pūl + kōṭu &gt; pūlaṅkōṭu ; vēlañceṭil.</foreign></note></l>
       </lg>
     </div>
   </body>

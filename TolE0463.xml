@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>463</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -34,12 +40,15 @@
 <l>the preceding consonant becomes <foreign xml:lang="ta">ḷ</foreign> [and is] doubled, the word</l>
 <l><foreign xml:lang="ta">nūṟu</foreign> will lose the consonant <foreign xml:lang="ta">n, ū</foreign> changes into <foreign xml:lang="ta">ā</foreign> -thus it is said ;</l>
 <l><foreign xml:lang="ta">ī</foreign> and <foreign xml:lang="ta">ra</foreign> occurs in the middle at that place, and the final [part of</l>
-<l><foreign xml:lang="ta">nūṟu</foreign>] disappears, replaced by <foreign xml:lang="ta">m.</foreign><note place="foot">i.e. <foreign xml:lang="ta">oṉpatu</foreign> ' nine '+<foreign xml:lang="ta">nūṟu</foreign> ' hundred ' &gt; <foreign xml:lang="ta">
+<l><foreign xml:lang="ta">nūṟu</foreign>] disappears, replaced by <foreign xml:lang="ta">m.</foreign><note
+              place="foot">i.e. <foreign xml:lang="ta">oṉpatu</foreign> ' nine '+<foreign
+                xml:lang="ta">nūṟu</foreign> ' hundred ' &gt; <foreign xml:lang="ta">
           toṉ+nūṟu&gt;toḷḷ+nūṟu&gt;*toḷḷūṟu&gt;*toḷḷāṟu&gt;*toḷḷāira&gt;toḷḷāyiram.</foreign>
           Another beautiful example of a series of rules ordered in a structural synchronic
           dimension; however, there is no specific rule for the loss of <foreign xml:lang="ta">patu</foreign>
           unless we accept that the first component behaves as in <foreign xml:lang="ta">toṇṇūṟu</foreign>
-          except for the replacement of <foreign xml:lang="ta">ṇṇ</foreign> by <foreign xml:lang="ta">ḷḷ.</foreign></note></l>
+          except for the replacement of <foreign xml:lang="ta">ṇṇ</foreign> by <foreign
+                xml:lang="ta">ḷḷ.</foreign></note></l>
       </lg>
     </div>
   </body>

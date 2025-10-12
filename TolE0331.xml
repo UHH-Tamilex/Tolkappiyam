@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>331</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> <num></num>.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,7 +33,13 @@
 <l>yoṟṟumey keṭuta leṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<l>The sound <foreign xml:lang="ta">m</foreign> followed by the sound <foreign xml:lang="ta">v</foreign> is shortened.<note place="foot">i.e to quarter of a <foreign xml:lang="ta">mātrā,</foreign> e.g. in <foreign xml:lang="ta">nilam valitu.</foreign> Interpolation ? Cf. Comment.</note></l>
+<l>Scholars say that - as mentioned above -<note
+              place="foot"><foreign xml:lang="ta">Mēr kiḷant(u)aṉṉa ;</foreign> cf. 248, accord. to
+          which these nouns take the empty morph <foreign xml:lang="ta">āṉ.</foreign></note></l>
+<l>words [ending in <foreign xml:lang="ta">-m</foreign> and] denoting days</l>
+<l>take the [empty morph] <foreign xml:lang="ta">attu</foreign> before <foreign xml:lang="ta">āṉ</foreign></l>
+<l>and the consonant [<foreign xml:lang="ta">m</foreign>] disappears.<note
+              place="foot">e.g. <foreign xml:lang="ta">makam + pōyiṉāṉ &gt; makat-tārpōyiṉāṉ</foreign> (i.e. <foreign xml:lang="ta"> maka + attu + āṉ)</foreign> ' he went on the day of the 10th lunar asterism '.</note></l>
       </lg>
     </div>
   </body>

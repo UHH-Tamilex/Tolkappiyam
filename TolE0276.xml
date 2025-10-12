@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>276</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,9 +31,8 @@
 <l>vēṟṟumaik kaṇṇu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>[The sound <foreign xml:lang="ta">ē</foreign>] denoting contradiction,<note place="foot"><foreign xml:lang="ta">māṟukoleccam : </foreign>e.g. <foreign xml:lang="ta">yāṉē ceṉṟēṉ</foreign> ' But I went '.</note> question<note place="foot"><foreign xml:lang="ta">viṉā :</foreign> e.g. <foreign xml:lang="ta">niyē ceṉṟay</foreign> ' You went, didn't you ? '</note> and</l>
-<l>enumeration<note place="foot"><foreign xml:lang="ta">eṇ :</foreign> e.g. <foreign xml:lang="ta">nīrē tīyē</foreign> ' water, fire '.</note></l>
-<l>does not have the occurence of plosives as stated above.</l>
+<l>In case-relationship, too, it is like that.<note
+              place="foot">Ex. : <foreign xml:lang="ta">ē + kaṭumai &gt; ēkkaṭumai.</foreign></note></l>
       </lg>
     </div>
   </body>

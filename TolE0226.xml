@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>226</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,7 +31,11 @@
 <l>kuṟiyataṉ muṉṉaru mōreḻuttu moḻikku maṟiyat tōṉṟu makarak kiḷavi</l>
       </lg>
       <lg xml:lang="en">
-<l>In case-relationship, too, the same rule applies.<note place="foot">E.g. <foreign xml:lang="ta">tārā + kāl &gt; tārākkāl.</foreign></note></l>
+<l>[After the standing word] <foreign xml:lang="ta">a</foreign> appears [after <foreign xml:lang="ta">ā</foreign>] when</l>
+<l>a short vowel precedes, or with a one-letter word.<note
+              place="foot">E.g.<foreign xml:lang="ta">palā+pū&gt;palāapū ;</foreign> a ' single-letter word ' (<foreign xml:lang="ta">ōreḻuttu moḻi)</foreign> is e.g. <foreign
+                xml:lang="ta">kā</foreign> ' grove ' ; hence <foreign xml:lang="ta">kā + puṟam &gt;
+          kāapuṟam.</foreign></note></l>
       </lg>
     </div>
   </body>

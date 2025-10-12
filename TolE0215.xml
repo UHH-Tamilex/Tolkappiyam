@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>215</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,9 +31,10 @@
 <l>valleḻut tiyaṟkai yuṟaḻat tōṉṟum</l>
       </lg>
       <lg xml:lang="en">
-<l><foreign xml:lang="ta">La</foreign> of the standing words may be changed to <foreign xml:lang="ta">ṟ,</foreign></l>
-<l>if they are not <foreign xml:lang="ta">toṭar</foreign> and are followed by the same [words].<note place="foot">That is, <foreign xml:lang="ta">pal</foreign> followed by <foreign xml:lang="ta">pala,</foreign> and <foreign xml:lang="ta">cil</foreign> by <foreign xml:lang="ta">cila,</foreign> will result in <foreign xml:lang="ta">paṟpala</foreign>
-          and <foreign xml:lang="ta">ciṟcila ;</foreign> in this case, they are <foreign xml:lang="ta">toṭar al,</foreign> i.e. ' not <foreign xml:lang="ta">toṭar '.</foreign></note></l>
+<l>The quality [of <foreign xml:lang="ta">p</foreign> and <foreign xml:lang="ta">c</foreign> after <foreign xml:lang="ta">pala</foreign> and <foreign xml:lang="ta">cila</foreign> when</l>
+<l>followed by identical words] is optionally changed</l>
+<l>into a [long] plosive.<note
+              place="foot">The optional nature of the change is implied by the term <foreign xml:lang="ta">uṟaḻa</foreign> (cf. TL I, p. 482), i.e. <foreign xml:lang="ta">palapala ~ palappala, cilacila ~ cilaccila.</foreign></note></l>
       </lg>
     </div>
   </body>

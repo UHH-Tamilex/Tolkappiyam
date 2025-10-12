@@ -1,8 +1,14 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>217</num>.</title>     
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -10,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary><p></p>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,8 +31,10 @@
 <l>marappeyark kiḷavi melleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
-<l>In case-relationship, too, the same rule applies.<note place="foot">i.e, if the standing word is a noun ending in<foreign xml:lang="ta">-a,</foreign>
-          and is followed by <foreign xml:lang="ta">k, c, t, p, </foreign>the same rule applies as in non-case relationship (aphorism 204), e.g. <foreign xml:lang="ta">iruviḷakkoṟṟaṉ (Iḷam.).</foreign></note></l>
+<l>In the words denoting trees,<note
+              place="foot"><foreign xml:lang="ta">marappeyarkkiḷavi.</foreign></note> a nasal is inserted.<note
+              place="foot">E.g. <foreign xml:lang="ta">viḷa + kōṭu &gt; viḷa-ṅ-kōṭu ; viḷa-ñ-cetil ;
+          viḷa-n-tōl ; viḷa-m-pū. </foreign>For further discussion, cf. Comment.</note></l>
       </lg>
     </div>
   </body>
