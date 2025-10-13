@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>258</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,8 +29,7 @@
       <lg xml:lang="en">
 <l>It is said to be proper that in poetry</l>
 <l>[it = the final <foreign xml:lang="ta">u</foreign>] is changed to <foreign xml:lang="ta">ā</foreign> when <foreign xml:lang="ta">aṉṟu</foreign> follows,</l>
-<l>and disappears leaving the consonant when <foreign xml:lang="ta">ai</foreign> follows.<note
-              place="foot">i.e., <foreign xml:lang="ta">atu + aṉṟu &gt; atāaṉṟu ; atu + ai &gt; atai.</foreign></note></l>
+<l>and disappears leaving the consonant when <foreign xml:lang="ta">ai</foreign> follows.<note place="foot">i.e., <foreign xml:lang="ta">atu + aṉṟu &gt; atāaṉṟu ; atu + ai &gt; atai.</foreign></note></l>
       </lg>
     </div>
   </body>
