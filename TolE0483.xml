@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"/> <num/>.
-            <persName xml:lang="ta"/>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>483</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -32,14 +29,11 @@
 <l>ṉaṉmati nāṭṭat teṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
-<l>If changes not mentioned here occur in literary compositions<note
-              place="foot"><foreign xml:lang="ta">Ceyyul.</foreign></note></l>
-<l>and in colloquial usage<note
-              place="foot"><foreign xml:lang="ta">vaḻaṅkiyal maruṅkiṉ.</foreign></note> so that [their components] which have</l>
+<l>If changes not mentioned here occur in literary compositions<note place="foot"><foreign xml:lang="ta">Ceyyul.</foreign></note></l>
+<l>and in colloquial usage<note place="foot"><foreign xml:lang="ta">vaḻaṅkiyal maruṅkiṉ.</foreign></note> so that [their components] which have</l>
 <l>been uttered cannot be recognized, they follow rules other than</l>
 <l>laid down here, [and] scholars say that they should be understood</l>
-<l>after careful research of [actual] usage.<note
-              place="foot">Observe the modernity of the procedure : there indeed exist rules, both
+<l>after careful research of [actual] usage.<note place="foot">Observe the modernity of the procedure : there indeed exist rules, both
           in poetic and colloquial usage, which may have not been mentioned in the text; scholars
           should extract and discover these rules from a critical examination of actual speech-acts
           and literary usage <foreign xml:lang="ta">(vaḻankiyal maruṅkiṉ...naṉmati nāṭṭam).</foreign></note></l>

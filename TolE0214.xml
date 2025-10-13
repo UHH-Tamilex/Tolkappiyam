@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>214</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,14 +22,11 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE0214">
-<l></l>
+<l/>
       </lg>
       <lg xml:lang="en">
 <l><foreign xml:lang="ta">La</foreign> of the standing words may be changed to <foreign xml:lang="ta">ṟ,</foreign></l>
-<l>if they are not <foreign xml:lang="ta">toṭar</foreign> and are followed by the same [words].<note
-              place="foot">That is, <foreign xml:lang="ta">pal</foreign> followed by <foreign
-                xml:lang="ta">pala,</foreign> and <foreign xml:lang="ta">cil</foreign> by <foreign
-                xml:lang="ta">cila,</foreign> will result in <foreign xml:lang="ta">paṟpala</foreign>
+<l>if they are not <foreign xml:lang="ta">toṭar</foreign> and are followed by the same [words].<note place="foot">That is, <foreign xml:lang="ta">pal</foreign> followed by <foreign xml:lang="ta">pala,</foreign> and <foreign xml:lang="ta">cil</foreign> by <foreign xml:lang="ta">cila,</foreign> will result in <foreign xml:lang="ta">paṟpala</foreign>
           and <foreign xml:lang="ta">ciṟcila ;</foreign> in this case, they are <foreign xml:lang="ta">toṭar al,</foreign> i.e. ' not <foreign xml:lang="ta">toṭar '.</foreign></note></l>
       </lg>
     </div>
@@ -45,7 +36,7 @@
 <entry>
 <form>toṭar</form>
 <def>link</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -53,15 +44,15 @@
 <entry>
 <form>al</form>
 <def>not</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṟuti<c type="geminated"></c></form>
+<form>iṟuti<c type="geminated"/></form>
 <def>end</def>
-<form type="sandhi"><c type="geminated"></c></form>
+<form type="sandhi"><c type="geminated"/></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -69,7 +60,7 @@
 <entry>
 <form>tam</form>
 <def>self</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">oblique</gram>
@@ -79,7 +70,7 @@
 <entry>
 <form>muṉ</form>
 <def>before</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
@@ -87,7 +78,7 @@
 <entry>
 <form>tām</form>
 <def>self</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
@@ -96,7 +87,7 @@
 <entry>
 <form>variṉ</form>
 <def>come-if-even</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
@@ -104,7 +95,7 @@
 <entry>
 <form>lakaram</form>
 <def>consonant 'l'</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -112,15 +103,15 @@
 <entry>
 <form>ṟakara</form>
 <def>consonant 'r'</def>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"></c>oṟṟ<c type="elided">u</c></form>
+<form><c type="glide"/>oṟṟ<c type="elided">u</c></form>
 <def>consonant</def>
-<form type="sandhi"><c type="glide"></c></form>
+<form type="sandhi"><c type="glide"/></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -129,7 +120,7 @@
 <form>ākal-um</form>
 <def>becoming</def>
 <form type="simple">ākal</form>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -139,7 +130,7 @@
 <form>uritt<c type="elided">u</c>-ē</form>
 <def>right-it</def>
 <form type="simple">urittu</form>
-<form type="sandhi"></form>
+<form type="sandhi"/>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>

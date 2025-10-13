@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>422</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,11 +27,8 @@
       </lg>
       <lg xml:lang="en">
 <l>The endings of <foreign xml:lang="ta">yātu</foreign> and the endings of the demonstratives con-</l>
-<l>taining <foreign xml:lang="ta">āytam</foreign> persist in [having the rules applied to] case signs.<note
-              place="foot">i.e. <foreign xml:lang="ta">yātu</foreign> ' which ' and <foreign
-                xml:lang="ta">ahtu</foreign> ' that ', <foreign xml:lang="ta">ihtu</foreign> ' this
-          ', <foreign xml:lang="ta">uhtu</foreign> ' that (intermediate) ' take the empty morph <foreign
-                xml:lang="ta">-aṉ,</foreign> eg. <foreign xml:lang="ta">yātaṉ kōṭu, itaṉkōṭu.</foreign></note></l>
+<l>taining <foreign xml:lang="ta">āytam</foreign> persist in [having the rules applied to] case signs.<note place="foot">i.e. <foreign xml:lang="ta">yātu</foreign> ' which ' and <foreign xml:lang="ta">ahtu</foreign> ' that ', <foreign xml:lang="ta">ihtu</foreign> ' this
+          ', <foreign xml:lang="ta">uhtu</foreign> ' that (intermediate) ' take the empty morph <foreign xml:lang="ta">-aṉ,</foreign> eg. <foreign xml:lang="ta">yātaṉ kōṭu, itaṉkōṭu.</foreign></note></l>
       </lg>
     </div>
   </body>

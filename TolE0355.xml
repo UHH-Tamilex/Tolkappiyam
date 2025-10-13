@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>355</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,9 +29,7 @@
       <lg xml:lang="en">
 <l>It is the traditional way of ' deformed ' usage</l>
 <l>that the sound <foreign xml:lang="ta">ṟ</foreign> is inserted with the word <foreign xml:lang="ta">il</foreign></l>
-<l>when preceded by the word <foreign xml:lang="ta">muṉ.</foreign><note
-              place="foot">e.g. <foreign xml:lang="ta">muṉ</foreign> ' front ' + <foreign
-                xml:lang="ta">il</foreign> ' house ' &gt; <foreign xml:lang="ta">muṉṟil</foreign> '
+<l>when preceded by the word <foreign xml:lang="ta">muṉ.</foreign><note place="foot">e.g. <foreign xml:lang="ta">muṉ</foreign> ' front ' + <foreign xml:lang="ta">il</foreign> ' house ' &gt; <foreign xml:lang="ta">muṉṟil</foreign> '
           courtyard '. The aphorism specifically states that this is a <foreign xml:lang="ta">marūu,</foreign>
           a ' deformed ', ' corrupt ' or contracted form sanctioned by usage ; obviously an old form
           not conforming to the norm and the rules.</note></l>
