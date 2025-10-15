@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>430</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,7 +29,10 @@
 <l>valleḻuttu varūuṅ kālai yāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>The four words do not change their nature.</l>
+<l>If the word <foreign xml:lang="ta">uṇṭu</foreign> denotes existence, the disappearance of the pre-</l>
+<l>ceding final [vowel] with [its] consonant, and the change into the</l>
+<l>sound <foreign xml:lang="ta">ḷ</foreign> of the preceding consonant - these two alterations may</l>
+<l>occur when a plosive occurs as initial of the following word.<note place="foot">Eg. <foreign xml:lang="ta">uṇṭu + poruḷ &gt; uḷporuḷ | uṇṭuporuḷ.</foreign></note></l>
       </lg>
     </div>
   </body>

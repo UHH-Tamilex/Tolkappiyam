@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>387</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,8 +25,7 @@
 <l>pāḻeṉ kiḷavi melleḻut tuṟaḻvē</l>
       </lg>
       <lg xml:lang="en">
-<l>When the word <foreign xml:lang="ta">kumiḻ</foreign> denotes a tree,</l>
-<l>it behaves exactly like the word <foreign xml:lang="ta">pīr.</foreign></l>
+<l>The word <foreign xml:lang="ta">pāḻ</foreign> ' desolation ' may also take a nasal.<note place="foot">e.g. <foreign xml:lang="ta">pāḻkkiṇaru</foreign> or <foreign xml:lang="ta">pāḻṅkiṇaru</foreign> ' waste well '.</note></l>
       </lg>
     </div>
   </body>

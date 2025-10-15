@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>267</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,8 +26,9 @@
 <l>niṟṟal vēṇṭu mukarak kiḷavi</l>
       </lg>
       <lg xml:lang="en">
-<l>In case-relationship, too, it is the same like that.<note
-              place="foot">i.e., the Auslaut <foreign xml:lang="ta">-ū</foreign> behaves like the ending <foreign xml:lang="ta">-ā : koṇmū + kuḻām &gt; koṇmūkkuḻām</foreign> etc.</note></l>
+<l>The sound <foreign xml:lang="ta">u</foreign> must occur [after <foreign xml:lang="ta">ū</foreign>] following after</l>
+<l>the one-letter word and after a short-vowel [-word].<note place="foot">i.e., long monosyllabic open words in <foreign xml:lang="ta">-ū</foreign> and disyllabic words with a preceding short syllable in <foreign xml:lang="ta">-ū</foreign> will
+          obtain the argument <foreign xml:lang="ta">u : tū + kuṟai &gt; tūukkuṟai ; uṭū + kuṟai &gt; uṭūukuṟai.</foreign></note></l>
       </lg>
     </div>
   </body>

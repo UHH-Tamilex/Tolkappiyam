@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>363</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,7 +26,9 @@
 <l>melleḻuttu mikutaṉ meypeṟat tōṉṟum</l>
       </lg>
       <lg xml:lang="en">
-<l>The final sound <foreign xml:lang="ta">r</foreign> behaves like the sound <foreign xml:lang="ta">y.</foreign></l>
+<l>The words <foreign xml:lang="ta">ār</foreign> ' mountain ebony ', <foreign xml:lang="ta">vetir</foreign> ' bamboo ', <foreign xml:lang="ta">cār</foreign> ' a tree '</l>
+<l>and <foreign xml:lang="ta">pīr</foreign> ' a tree ' exhibit the occurence of nasal</l>
+<l>[before a plosive].<note place="foot">e.g. <foreign xml:lang="ta">ārṅkōṭu, vetirñcetiḷ, cārṅtōl, pīrmpū.</foreign></note></l>
       </lg>
     </div>
   </body>

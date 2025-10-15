@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>320</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -34,11 +28,14 @@
 <l>melleḻuttu mikuta lāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>Measures and weights are of the nature of case-relationship.<note
-              place="foot">i.e. if <foreign xml:lang="ta">āyiram</foreign> is followed by words denoting measures <foreign xml:lang="ta">(aḻavu)</foreign> and weights <foreign
-                xml:lang="ta">(niṟai),</foreign> the <foreign xml:lang="ta">sandhi</foreign> change is the same as in case-relationship, e.g. <foreign xml:lang="ta">āyirakkalam'</foreign> 'one
-          thousand <foreign xml:lang="ta">kalams</foreign> (lit. vessels', or <foreign xml:lang="ta">
-          āyirakkaḻañcu</foreign> ' one thousand <foreign xml:lang="ta">kaḻañcus '.</foreign></note></l>
+<l>The pronoun of the third person, the pronoun of the second person,</l>
+<l>and the words denoting pronouns the initial parts of which are shortened,</l>
+<l>when in case-relation, follow the rules of case-signs;</l>
+<l>in such environment, the nasal is inserted.<note place="foot">The third person pronoun refers to <foreign xml:lang="ta">ellārum</foreign>
+          ' they-all ' the second person pronoun to <foreign xml:lang="ta">ellīrum</foreign> '
+          you-all ' ; the ' words denoting pronouns the initial portion of which is shortened '
+          refer to <foreign xml:lang="ta">tām, nām,</foreign> and <foreign xml:lang="ta">yām ;</foreign>
+          e.g. <foreign xml:lang="ta">ellār-taṅ-kai-y-um, ellīr-nuṅ-kai-y-um ; taṅ-kai, naṅ-kai ; eṅ-kai.</foreign></note></l>
       </lg>
     </div>
   </body>

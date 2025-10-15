@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>246</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,7 +26,11 @@
 <l>yolvaḻi yaṟital vaḻakkat tāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>The noun <foreign xml:lang="ta">puḷi</foreign> [denoting] other [things] has the nasal inserted.</l>
+<l>There is no mistake if a stop is inserted ;</l>
+<l>it is in accordance with usage.<note place="foot">To sum up ; <foreign xml:lang="ta">puḷi</foreign> in the sense of '
+          tamarind tree ' has <foreign xml:lang="ta">-am,</foreign> e.g. <foreign xml:lang="ta">
+                puḷiñcōṟu</foreign> or <foreign xml:lang="ta">puliccōṟu</foreign> ' sour rice ' (i.e. rice with tamarind fruits). In other words, <foreign xml:lang="ta">puḷiyam</foreign>
+          ' tamarind tree ' : <foreign xml:lang="ta">puḷim</foreign> ' sour taste (of tamarind fruit) '.</note></l>
       </lg>
     </div>
   </body>

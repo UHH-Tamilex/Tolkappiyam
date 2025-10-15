@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>233</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,8 +26,8 @@
 <l>tāṉmikat tōṉṟik kuṟukalu murittē</l>
       </lg>
       <lg xml:lang="en">
-<l><foreign xml:lang="ta">ā</foreign> with the consonant <foreign xml:lang="ta">ṉ</foreign> will have [its proper] place with the phoneme <foreign xml:lang="ta">a.</foreign><note
-              place="foot">i.e., the word <foreign xml:lang="ta">āṉ</foreign> ' cow ' gets a as in <foreign xml:lang="ta">āṉaney</foreign> ' cow's ghee '.</note></l>
+<l>If the word <foreign xml:lang="ta">ān</foreign> is followed by the word <foreign xml:lang="ta">p</foreign> and <foreign xml:lang="ta">ī,</foreign></l>
+<l>it is proper to shorten [it] after that very [<foreign xml:lang="ta">p</foreign>] has appeared.<note place="foot">The wording of this aphorism is very strange and not clear. It is usually interpreted as follows : <foreign xml:lang="ta">āṉ + pī &gt; ā-p-pi</foreign> ' cow-dung ' cf. DED 283 + DED 3455. Cf. comment.</note></l>
       </lg>
     </div>
   </body>

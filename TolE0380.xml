@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>380</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,7 +25,8 @@
 <l>melleḻut tiyaiyi ṉavveḻut tākum</l>
       </lg>
       <lg xml:lang="en">
-<l>It becomes <foreign xml:lang="ta">āytam</foreign> in non-case relationship.</l>
+<l>When a nasal occurs, it becomes that sound.<note place="foot">i.e. <foreign xml:lang="ta">v</foreign> is changed into the corresponding
+          nasal, e.g. <foreign xml:lang="ta">av + nūl &gt; annūl</foreign> ' that book ', <foreign xml:lang="ta">iv + maṇi ' &gt; immaṇi</foreign> ' this jewel '.</note></l>
       </lg>
     </div>
   </body>

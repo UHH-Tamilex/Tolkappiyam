@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>348</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,10 +26,9 @@
 <l>peyaroṟ ṟakaran tuvarak keṭumē</l>
       </lg>
       <lg xml:lang="en">
-<l>When proper names [ending in <foreign xml:lang="ta">-ṉ</foreign>] are followed by the</l>
-<l>relationship term <foreign xml:lang="ta">tantai</foreign> ' father '.</l>
-<l>the initial [consonant] therein disappears, the sound <foreign xml:lang="ta">a</foreign> remains ;</l>
-<l>that proper name, removing the consonant, loses the <foreign xml:lang="ta">aṉ.</foreign></l>
+<l><foreign xml:lang="ta">Ātaṉ</foreign> and <foreign xml:lang="ta">pūtaṉ,</foreign> besides the above-described changes,</l>
+<l>will also discard [their] consonants and the sound <foreign xml:lang="ta">a</foreign></l>
+<l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
       </lg>
     </div>
   </body>

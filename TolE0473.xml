@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>473</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,7 +25,9 @@
 <l>avaiyūr pattiṉu mattoḻiṟ ṟākum</l>
       </lg>
       <lg xml:lang="en">
-<l>The same change takes place also when they precede <foreign xml:lang="ta">pattu</foreign> ' ten '.</l>
+<l>The same change takes place also when they precede <foreign xml:lang="ta">pattu</foreign> ' ten '.<note place="foot">i.e. when the numeral <foreign xml:lang="ta">nūṟu</foreign> is followed
+          by numerals denoting further denominations of ten like <foreign xml:lang="ta">irupaẖtu</foreign>
+          ' twenty ', e.g. <foreign xml:lang="ta">nūṟṟirupaẖut</foreign> ' 120 '.</note></l>
       </lg>
     </div>
   </body>

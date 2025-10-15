@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>224</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,10 +29,12 @@
 <l>ṭaṉṟi yaṉaittu miyalpeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
-<l>[In] the compounds of two words<note
-              place="foot"><foreign xml:lang="ta">irupeyarttokaimoḻi,</foreign> corresp. to Skt. <foreign xml:lang="sk">dvandva.</foreign></note> [with] <foreign xml:lang="ta">um</foreign> removed,</l>
-<l><foreign xml:lang="ta">a</foreign> is in fact inserted.<note
-              place="foot">E.g. <foreign xml:lang="ta">arāapāmpu</foreign> ' snake [and] serpent ', <foreign xml:lang="ta">irāapakal</foreign> ' day [and] night '.</note></l>
+<l>The words <foreign xml:lang="ta">ā</foreign> ' cow ' and <foreign xml:lang="ta">mā</foreign> ' beast ', nouns in vocative,</l>
+<l>the interrogative <foreign xml:lang="ta">yā,</foreign> the ending [<foreign xml:lang="ta">ā</foreign>] of non-personal [plural finite verbs],</l>
+<l>the expletive particle <foreign xml:lang="ta">miyā</foreign> denoting command,</l>
+<l>[and] interrogative words denoting the action of the speaker</l>
+<l>[have] no [change] ; all such [expressions] [have] the natural joining ; thus it is said.<note place="foot">Exx. : <foreign xml:lang="ta">ā ciṟitu </foreign>' the cow is small ', <foreign xml:lang="ta">mā tītu </foreign>' the beast is evil ', <foreign xml:lang="ta">urā
+                cel </foreign>' go, villager ', <foreign xml:lang="ta">yā ciṟiya</foreign> ' which things are small ? ', <foreign xml:lang="ta">uṇṇā kutirai</foreign> ' horses don't eat ', <foreign xml:lang="ta">kēṇmiyā koṟṟā</foreign> ' listen, koṟṟa ! ', <foreign xml:lang="ta">uṇkā tēvā </foreign>' will I eat, o god ? ' (accord. to Nacc. : <foreign xml:lang="ta">yān uṇpēṉō).</foreign></note></l>
       </lg>
     </div>
   </body>

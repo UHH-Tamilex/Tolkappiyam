@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>227</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,11 +25,7 @@
 <l>irāveṉ kiḷavik kakara millai</l>
       </lg>
       <lg xml:lang="en">
-<l>[After the standing word] <foreign xml:lang="ta">a</foreign> appears [after <foreign xml:lang="ta">ā</foreign>] when</l>
-<l>a short vowel precedes, or with a one-letter word.<note
-              place="foot">E.g.<foreign xml:lang="ta">palā+pū&gt;palāapū ;</foreign> a ' single-letter word ' (<foreign xml:lang="ta">ōreḻuttu moḻi)</foreign> is e.g. <foreign
-                xml:lang="ta">kā</foreign> ' grove ' ; hence <foreign xml:lang="ta">kā + puṟam &gt;
-          kāapuṟam.</foreign></note></l>
+<l>The word <foreign xml:lang="ta">irā</foreign> ' night' has not the phoneme <foreign xml:lang="ta">a.</foreign><note place="foot">i.e., <foreign xml:lang="ta">irā </foreign>' night ' + <foreign xml:lang="ta">kūttu </foreign>' dance ' &gt; <foreign xml:lang="ta">irākkūttu.</foreign></note></l>
       </lg>
     </div>
   </body>

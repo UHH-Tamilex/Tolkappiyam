@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>204</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -34,10 +28,10 @@
 <l>ñāṅkark kiḷanta melleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
-<l>After a noun ending in <foreign xml:lang="ta">-a,</foreign></l>
-<l>if <foreign xml:lang="ta">k, c, t,</foreign> [and] <foreign xml:lang="ta">p</foreign> occurs in non-case relation,</l>
-<l>the respective initial consonant is doubled.<note
-              place="foot">E.g. <foreign xml:lang="ta">maka + kuṟitu &gt; makakkuṟitu.</foreign></note></l>
+<l>Gerunds,<note place="foot"><foreign xml:lang="ta">viṉaiyeñcukiḻavi</foreign> = gerund (alias verbal participle, adverbial participle, absolutive).</note> words of comparison,<note place="foot"><foreign xml:lang="ta">uvamakkiḷavi.</foreign></note></l>
+<l>the elliptical form <foreign xml:lang="ta">eṉa,</foreign> demonstrative endings,<note place="foot"><foreign xml:lang="ta">cuṭṭiṉiṟuti.</foreign></note></l>
+<l>and <foreign xml:lang="ta">āṅka,</foreign> the connective prose-particle, all these have</l>
+<l>the plosives doubled as [in the cases] mentioned above.<note place="foot">Exx. : <foreign xml:lang="ta">uṇa + koṇṭāṉ &gt; uṇakkoṇṭāṉ; pulipōlakkoṉṟāṉ; koḷḷenakkoṇṭāṉ; a + koṟṟaṉ &gt; akkoṟṟaṉ ; āṅkakkoṇṭāṉ.</foreign></note></l>
       </lg>
     </div>
   </body>
@@ -113,7 +107,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iṟuti-<c type="glide"></c>um</form>
+<form>iṟuti-<c type="glide"/>um</form>
 <def>end</def>
 <form type="simple">iṟuti</form>
 <gramGrp>

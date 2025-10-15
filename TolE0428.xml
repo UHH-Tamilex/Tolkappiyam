@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>428</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,10 +25,8 @@
 <l>yāviṉā moḻiyē yiyalpu mākum</l>
       </lg>
       <lg xml:lang="en">
-<l>Such <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign> which begin with the lengthened form of</l>
-<l>demonstrative roots, or such interrogative <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign> [which</l>
-<l>begin] with <foreign xml:lang="ta">yā</foreign> do not deviate from the rules of the plosives [being</l>
-<l>doubled].</l>
+<l>The interrogative word [beginning with] <foreign xml:lang="ta">yā</foreign> may also remain with-</l>
+<l>out change.<note place="foot">Eg. <foreign xml:lang="ta">yāṅku koṇṭāṉ.</foreign></note></l>
       </lg>
     </div>
   </body>

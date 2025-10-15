@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>436</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -32,8 +26,8 @@
 <l>kuṟaiyā tāku miṉṉeṉ cāriyai</l>
       </lg>
       <lg xml:lang="en">
-<l>But if <foreign xml:lang="ta">āyiram</foreign> ' thousand ' occurs, the above-mentioned rule [i.e.</l>
-<l>that of 434] will not change.</l>
+<l>And when [words denoting] weight and measure occur, the empty</l>
+<l>morph <foreign xml:lang="ta">iṉ</foreign> will indeed not disappear.<note place="foot">E.g. <foreign xml:lang="ta">patiṉkaḻañcu</foreign> or <foreign xml:lang="ta">patiṉkalam.</foreign></note></l>
       </lg>
     </div>
   </body>

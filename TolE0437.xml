@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>437</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,8 +29,14 @@
 <l>māṟa ṉiṟuti yalvaḻi yāṉa</l>
       </lg>
       <lg xml:lang="en">
-<l>And when [words denoting] weight and measure occur, the empty</l>
-<l>morph <foreign xml:lang="ta">iṉ</foreign> will indeed not disappear.</l>
+<l>It is said that, if [the words denoting] <foreign xml:lang="ta">oṉṟu</foreign> ' one ' to <foreign xml:lang="ta">oṉpatu</foreign> ' nine '</l>
+<l>[are followed by <foreign xml:lang="ta">pattu</foreign> ' ten '], the consonant of the ' standing '</l>
+<l><foreign xml:lang="ta">pattu</foreign> following the <foreign xml:lang="ta">a</foreign> is replaced by <foreign xml:lang="ta">āytam,</foreign> and the final overshort</l>
+<l><foreign xml:lang="ta">u</foreign> with its preceding consonants is dropped, except with the ending</l>
+<l>of <foreign xml:lang="ta">āṛu</foreign> ' six '.<note place="foot">I.e., if the preceding word is any of the numerals from one to nine (with
+          the exception of six), and the succeeding word is <foreign xml:lang="ta">pattu, pattu &gt;
+          pahtu</foreign> by replacing the <foreign xml:lang="ta">t</foreign> with the <foreign xml:lang="ta">āytam,</foreign> and in the preceding word, the final <foreign xml:lang="ta">u</foreign> and the preceding plosive disappear : eg. <foreign xml:lang="ta">aintu + pattu &gt; aimpahtu.</foreign> Aphorisms 439-445 explain the
+          individual cases.</note></l>
       </lg>
     </div>
   </body>
