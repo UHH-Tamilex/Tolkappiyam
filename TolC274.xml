@@ -1,0 +1,220 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 274.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC274">
+            <l>miyāyika mōmati yikuñci ṉeṉṉu</l>
+            <l>māvayi ṉāṟu muṉṉilai yacaiccol.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/167/mode/1up">167</ref>.</p>
+        <p>
+urai: muṉṉilaikkaṇ acaic collāy varuvaṉa ivai eṉṟavāṟu.
+        </p>
+        <p>
+varalāṟu:
+        </p>
+        <p>
+miyā:
+        </p>
+        <lg xml:id="TolC274-Ilam-cit1">
+            <l>‘kēṇmiyā’</l>
+        </lg>
+        <p>
+ika:
+        </p>
+        <lg xml:id="TolC274-Ilam-cit2">
+            <l>‘taṇṭuṟai yūrayāṅ kaṇṭika’</l>
+        </lg>
+        <p>
+mō:
+        </p>
+        <lg xml:id="TolC274-Ilam-cit3">
+            <l>‘kāmañ ceppātu kaṇṭatu moḻimō’</l>
+            <trailer>[kuṟun - 2]</trailer>
+        </lg>
+        <p>
+                mati:
+        </p>
+        <lg xml:id="TolC274-Ilam-cit4">
+            <l>‘ceṉmati peruma’</l>
+            </lg>
+            <p>
+                ikum:
+            </p>
+        <lg xml:id="TolC274-Ilam-cit5">
+            <l>‘mellam pulampa kaṇṭikum yāmē’</l>
+        </lg>
+        <p>
+ciṉ:
+        </p>
+        <lg xml:id="TolC274-Ilam-cit6">
+            <l>‘kāppum pūṇṭiciṟ kaṭaiyum pōkalai’</l>
+            <trailer>[akam - 7]</trailer>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n218/mode/1up">215</ref>.</p>
+      <p>
+i – ḷ. miyā mutalākiya āṟum muṉṉilaimoḻiyaic cārntu varum acaiccollām. e-ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC274-Cena-cit1">
+        <l>kēṇmiyā,</l>
+      </lg>
+      <lg xml:id="TolC274-Cena-cit2">
+        <l>ceṉmiyā.</l>
+      </lg>
+            <p>
+e-m. 
+      </p>
+      <lg xml:id="TolC274-Cena-cit3">
+                <l>‘kaṇpaṉi yāṉṟika veṉṟi tōḻi.’</l>
+            </lg>
+      <p>
+                e-m.
+      </p>
+      <lg xml:id="TolC274-Cena-cit4">
+        <l><sic>‘kāmañcep pātu</sic> kaṇṭatu moḻimō.’</l>
+      </lg>
+            <p>
+                e-m.
+            </p>
+      <lg xml:id="TolC274-Cena-cit5">
+        <l>‘uraimati vāḻiyō valava.’</l>
+      </lg>
+      <p>
+                e-m.
+      </p>
+      <lg xml:id="TolC274-Cena-cit6">
+        <l>‘mellam pulampa kaṇṭikum.’</l>
+      </lg>
+      <p>
+                e-m.
+      </p>
+      <lg xml:id="TolC274-Cena-cit7">
+        <l>‘kāppum pūṇṭiciṟ kaṭaiyum pōkalai’</l>
+      </lg>
+      <p>
+e-m. varum.     (26)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/299/mode/1up">299</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/300/mode/1up">300</ref>.</p>
+
+      <p>muṉṉilai yacaic coṟkaḷ.</p>
+      <lg>
+        <l>miyāyika mōmati yikuñciṉ ṉeṉṉum</l>
+        <l>āvayi ṉāṟum, muṉṉilai yacaiccol.</l>
+      </lg>
+      <p>ituvum atu.</p>
+      <p>
+(i-ḷ) miyā ika mō mati ikum ciṉ eṉṉum āvayiṉ āṟum - ‘miyā, ika, mō, mati, ikum, ciṉ ṉeṉṟu collappaṭṭa avviṭat tiṭaiccol lāṟum, muṉṉilai yacaic col ― muṉṉilaip poruḷai yuṇarttum acaic collā meṟavāṟu.
+      </p>
+      <p>(u-m.)</p>
+      <lg xml:id="TolC274-Nacc-cit1">
+        <l>kēṇmiyā,</l>
+      </lg>
+      <lg xml:id="TolC274-Nacc-cit2">
+        <l>ceṉmiyā</l>
+      </lg>
+      <p>eṉavum,</p>
+      <lg xml:id="TolC274-Nacc-cit3">
+        <l>‘kaṇpaṉi yāṉṟika veṉṟi tōḻi!’</l>
+      </lg>
+      <p>eṉavum,</p>
+      <lg xml:id="TolC274-Nacc-cit4">
+        <l>‘kāmañ ceppātu kaṇṭatu moḻimō!’</l>
+      </lg>
+      <p>eṉavum,</p>
+      <lg xml:id="TolC274-Nacc-cit5">
+        <l>‘uraimati vāḻiyō valava’</l>
+      </lg>
+      <p>eṉavum,</p>
+      <lg xml:id="TolC274-Nacc-cit6">
+        <l>‘mellam pulampa kaṇṭikum’</l>
+      </lg>
+      <p>eṉavum,</p>
+      <lg xml:id="TolC274-Nacc-cit7">
+        <l>‘kāppum pūṇṭiciṟ kaṭaiyum pōkalai’</l>
+      </lg>
+      <p>eṉavum varum.</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n184/mode/1up">177</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n185/mode/1up">178</ref>.</p>
+      <p>
+      ituvumatu.
+      </p>
+      <p>
+i–ḷ: ― ivai āṟu collum muṉṉilai viṉaiccoṟkaṇ acainilaiyāki varum, e-ṟu.
+      </p>
+      <p>
+u–m: ― 
+      </p>
+      <lg xml:id="TolC274-Tey-cit1">
+        <l>kēṇmiyā.</l>
+      </lg>
+      <lg xml:id="TolC274-Tey-cit2">
+        <l>taṇṭuṟai yūra kaṇṭika.</l>
+      </lg>
+      <lg xml:id="TolC274-Tey-cit3">
+        <l>kāmañ ceppātu kaṇṭatu moḻimō.</l>
+        <trailer>[kuṟu. 2]</trailer>
+      </lg>
+      <lg xml:id="TolC274-Tey-cit4">
+        <l>ceṉmati peruma.</l>
+      </lg>
+      <lg xml:id="TolC274-Tey-cit5">
+        <l>mellam pulampa kaṇṭikum.</l>
+      </lg>
+      <lg xml:id="TolC274-Tey-cit6">
+        <l>kāppum pūṇṭiciṟ kaṭaiyum pōkal</l>
+        <trailer>(akam. 7)</trailer>
+      </lg>
+      <p>
+eṉavarum. ivai kēḷ, kāṇ, moḻi, cel, (kāṇ) pūṇ eṉṉum poruṭkaṇ āy eṉpatu tirintu vantaṉa.	[25]
+      </p>
+    </body>
+  </text>
+</TEI>
