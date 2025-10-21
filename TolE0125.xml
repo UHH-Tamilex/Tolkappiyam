@@ -26,12 +26,23 @@
 <l>atti ṉakara makaramuṉai yillai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">a</foreign> of <foreign xml:lang="ta">attu</foreign> disappears after <foreign xml:lang="ta">a.</foreign><note place="foot">E.g. <foreign xml:lang="ta">maka(m) + attu + kai &gt; makattu kai.</foreign></note></l>
 <l><foreign xml:lang="ta">a</foreign> of <foreign xml:lang="ta">attu</foreign> disappears after <foreign xml:lang="ta">a.</foreign><note
               place="foot">E.g. <foreign xml:lang="ta">maka(m) + attu + kai &gt; makattu kai.</foreign></note></l>
 <l>The <foreign xml:lang="ta">ṉ</foreign> of <foreign xml:lang="ta">āṉ</foreign> is changed identically when it comes</l>
 <l>between [a noun denoting] lunar constellation<note place="foot"><foreign xml:lang="ta">nāḷ.</foreign> Iḷamp. quotes <foreign xml:lang="ta">paraṇiyār koṇṭāṉ</foreign> as illustration : <foreign xml:lang="ta">paraṇi</foreign> ' the second lunar asterism '.</note></l>
 <l>and a verb beginning with plosive.</l>
+=======
+<<<<<<< HEAD
+<l><foreign xml:lang="ta">a</foreign> of <foreign xml:lang="ta">attu</foreign> disappears after <foreign xml:lang="ta">a.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">maka(m) + attu + kai &gt; makattu kai.</foreign></note></l>
+=======
+<l>The <foreign xml:lang="ta">ṉ</foreign> of <foreign xml:lang="ta">āṉ</foreign> is changed identically when it comes</l>
+<l>between [a noun denoting] lunar constellation<note place="foot"><foreign xml:lang="ta">nāḷ.</foreign> Iḷamp. quotes <foreign xml:lang="ta">paraṇiyār koṇṭāṉ</foreign> as illustration : <foreign xml:lang="ta">paraṇi</foreign> ' the second lunar asterism '.</note></l>
+<l>and a verb beginning with plosive.</l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>
