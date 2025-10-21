@@ -27,8 +27,22 @@
 <l>taṉmey tirintu ṅañana vākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the end of <foreign xml:lang="ta">am</foreign> occurs before <foreign xml:lang="ta">k, c, t</foreign></l>
+<<<<<<< Updated upstream
 <l>its consonant changes becoming <foreign xml:lang="ta">ṅ, ñ, n.</foreign><note place="foot">E.g. <foreign xml:lang="ta">puḷiyaṅkōṭu, puḷiyañceṭil, puḷiyantōl.</foreign></note></l>
+=======
+<l>its consonant changes becoming <foreign xml:lang="ta">ṅ, ñ, n.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">puḷiyaṅkōṭu, puḷiyañceṭil, puḷiyantōl.</foreign></note></l>
+=======
+<l>The final consonant of <foreign xml:lang="ta">akku</foreign> disappears when</l>
+<l>[<foreign xml:lang="ta">akku</foreign>] is inserted between any noun and</l>
+<l>[a word beginning] with plosive, [and]</l>
+<l>the over-short <foreign xml:lang="ta">-u</foreign> [of <foreign xml:lang="ta">akku</foreign>] disappears completely.<note place="foot">E.g. <foreign xml:lang="ta">tamiḻ + akku + kūttu &gt; tamiḻakkūttu.</foreign>
+          There are some problems with the interpretation of this aphorism. According to later
+          commentators, this happens not only before stops, but before other consonants, too, e.g. <foreign xml:lang="ta">tamiḻ + akku + nūl &gt; tamiḻanūl., tamiḻ + akku + yāppu &gt; tamiḻayāppu.</foreign> I agree with the interpretation of Iḷamp. The cases quoted by later commentators obviously involve a different matter.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

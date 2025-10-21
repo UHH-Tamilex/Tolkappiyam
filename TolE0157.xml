@@ -38,6 +38,7 @@
 <l>maikāra vēṟṟumait tiripeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said that the different kinds of sandhi</l>
 <l>which take place between the standing and the coming words</l>
 <l>when the former is in the [second] case</l>
@@ -57,7 +58,22 @@
           vaṇṭukoṇarantāṉ</foreign> (for <foreign xml:lang="ta">vaṇṭuṇkoṇarntāṉ) ; 6.
           vaṇṭiṉaikko-ṇarntāṉ</foreign> (for <foreign xml:lang="ta">vaṇṭuṅkoṇarntāṉ) ; 7.
           puḷikuṟaitāṉ ~ puḷikkuṟaittāṉ</foreign> (for <foreign xml:lang="ta">puḷiyaṅkuṟaittāṉ) ; 8.
+<<<<<<< Updated upstream
           nampiyaikkoṇarntāṉ ; 9. koṟṟaṉaikkoṇartāṉ ; 10. maṇkoṇarntāṉ</foreign> (for <foreign xml:lang="ta">maṭkoṇarntāṉ).</foreign></note></l>
+=======
+          nampiyaikkoṇarntāṉ ; 9. koṟṟaṉaikkoṇartāṉ ; 10. maṇkoṇarntāṉ</foreign> (for <foreign
+                xml:lang="ta">maṭkoṇarntāṉ).</foreign></note></l>
+=======
+<l>If a noun [with its third case-marker dropped]</l>
+<l>ends in a vowel or a non-vocalised consonant,</l>
+<l>and is followed by a verb<note place="foot"><foreign xml:lang="ta">toḻiṟcol.</foreign></note> which denotes its action<note place="foot"><foreign xml:lang="ta">tammiṉākiya toḻircol.</foreign></note></l>
+<l>[and] which begins with a plosive that admits</l>
+<l>its doubling,<note place="foot"><foreign xml:lang="ta">valleḻuttu mikuti colliya muṟaiyāṉ.</foreign></note> there exist two proper ways</l>
+<l>[of sandhi] - no change, or the optional</l>
+<l>appearance of consonants ; one should study it</l>
+<l>carefully in the chapter on cases.<note place="foot">E.g.<foreign xml:lang="ta"> vaḷikōṭpaṭṭāṉ ~ vaḷikkōṭpaṭṭāṉ</foreign> ' he was caught in the whirl-wind '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

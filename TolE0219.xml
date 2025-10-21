@@ -25,7 +25,16 @@
 <l>attavaṇ variṉum varainilai yiṉṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>It is not objectionable if <foreign xml:lang="ta">attu</foreign> occurs in that position.<note place="foot">E.g. <foreign xml:lang="ta">makattukai</foreign> or <foreign xml:lang="ta">makattuppuṟam.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>It is not objectionable if <foreign xml:lang="ta">attu</foreign> occurs in that position.<note
+              place="foot">E.g. <foreign xml:lang="ta">makattukai</foreign> or <foreign xml:lang="ta">makattuppuṟam.</foreign></note></l>
+=======
+<l>Thw word denoting child <foreign xml:lang="ta">(maka)</foreign> has the empty morph <foreign xml:lang="ta">-iṉ.</foreign><note place="foot">I.e., <foreign xml:lang="ta">maka-v-iṉ kai ; makaviṉ cevi, makaviṉ talai, makaviṉ puṟam.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

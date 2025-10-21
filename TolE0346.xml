@@ -26,8 +26,20 @@
 <l>tōṟṟa mokkuṅ kaṉṉeṉ kiḷavi</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>In case-relationship, the word <foreign xml:lang="ta">kaṉ</foreign> resembles <foreign xml:lang="ta">ekiṉ</foreign></l>
+<<<<<<< Updated upstream
 <l>denoting other things [than tree].<note place="foot">e.g. <foreign xml:lang="ta">kaṉṉakkuṭam,</foreign> cf. No. 338.</note></l>
+=======
+<l>denoting other things [than tree].<note
+              place="foot">e.g. <foreign xml:lang="ta">kaṉṉakkuṭam,</foreign> cf. No. 338.</note></l>
+=======
+<l><foreign xml:lang="ta">Miṉ, piṉ, paṉ,</foreign> and <foreign xml:lang="ta">kaṉ,</foreign></l>
+<l>these four words are of the nature of verbal nouns.<note place="foot"><foreign xml:lang="ta">Miṉ </foreign>' lightning ', <foreign xml:lang="ta">piṉ</foreign> ' after ', <foreign xml:lang="ta">paṉ</foreign> ' cotton
+          ' ; <foreign xml:lang="ta">Kaṉ</foreign> ' copper work '; e.g. <foreign xml:lang="ta">
+          miṉṉukkaṭitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

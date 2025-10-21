@@ -27,9 +27,19 @@
 <l>kaṭinilai yiṉṟē yāciri yaṟka</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is not against the opinion of scholars</l>
 <l>that the initial long [vowel] is shortened and <foreign xml:lang="ta">u</foreign> is inserted</l>
+<<<<<<< Updated upstream
 <l>when measure, weight and number occur.<note place="foot">e.g. <foreign xml:lang="ta">eḻukalam, eḻupalam, eḻumūṉṟu</foreign> etc.</note></l>
+=======
+<l>when measure, weight and number occur.<note
+              place="foot">e.g. <foreign xml:lang="ta">eḻukalam, eḻupalam, eḻumūṉṟu</foreign> etc.</note></l>
+=======
+<l>The word <foreign xml:lang="ta">ēḻ</foreign> ' seven ' behaves as when it takes case-markers.<note place="foot">Cf. No. 195. It will take the empty morph <foreign xml:lang="ta">aṉ,</foreign>
+          e.g. <foreign xml:lang="ta">ēḻaṉkāyam.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

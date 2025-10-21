@@ -31,12 +31,19 @@
 <l>ṉotta teṉpa vēyeṉ cāriyai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>After all the words which end in vowels and non-vocalised consonants</l>
 <l>and point to measures,<note place="foot"><foreign xml:lang="ta">aḷavu.</foreign></note> weights,<note place="foot"><foreign xml:lang="ta">niṟai.</foreign></note> and numbers,<note place="foot"><foreign xml:lang="ta">eṇ.</foreign></note></l>
 <l>if they are followed by analogical words denoting</l>
 <l>lesser [measure, weight, or number],</l>
 <l>the proper empty-morph is said to be <foreign xml:lang="ta">-ē.</foreign><note place="foot">E.g.<foreign xml:lang="ta"> kalaṉēpatakku</foreign> ' a <foreign xml:lang="ta">kalam</foreign> and a <foreign xml:lang="ta">patakku ',</foreign>
           denoting measure ; <foreign xml:lang="ta">toṭiyēkaḵcu '</foreign> a <foreign xml:lang="ta">toṭi</foreign> and a <foreign xml:lang="ta">kaḵcu ',</foreign> weight ; <foreign xml:lang="ta">kālēkāṇi</foreign> ' one-fourth and one-eightieth' (number).</note></l>
+=======
+<l>Consonantal endings [capable of] joining</l>
+<l>with [a following] <foreign xml:lang="ta">u-</foreign> sound</l>
+<l>do remain [without the <foreign xml:lang="ta">u</foreign>] when</l>
+<l>words beginning with <foreign xml:lang="ta">y-</foreign> or with vowels follow.<note place="foot">E.g.<foreign xml:lang="ta"> uriñyātā &amp; uriñātā.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

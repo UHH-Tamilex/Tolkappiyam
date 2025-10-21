@@ -26,9 +26,21 @@
 <l>varumiṭa ṉuṭaittē melleḻut tiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the final [part] of the word <foreign xml:lang="ta">verin</foreign> disappears entirely,</l>
+<<<<<<< Updated upstream
 <l>the corresponding nasal occurs in its place.<note place="foot">i.e. the <foreign xml:lang="ta">-n</foreign> of <foreign xml:lang="ta">
                 verin</foreign> ' back ' assimilates to the following plosive, e.g. <foreign xml:lang="ta">verin + kuṛai &gt; veriṅkurai.</foreign> Cf. also Akam 37. 10: <foreign xml:lang="ta">veyil verinniṟutta &gt; veyil veri niṟutta.</foreign></note></l>
+=======
+<l>the corresponding nasal occurs in its place.<note
+              place="foot">i.e. the <foreign xml:lang="ta">-n</foreign> of <foreign xml:lang="ta">
+                verin</foreign> ' back ' assimilates to the following plosive, e.g. <foreign
+                xml:lang="ta">verin + kuṛai &gt; veriṅkurai.</foreign> Cf. also Akam 37. 10: <foreign
+                xml:lang="ta">veyil verinniṟutta &gt; veyil veri niṟutta.</foreign></note></l>
+=======
+<l>In case-relationship, <foreign xml:lang="ta">u</foreign> disappears and <foreign xml:lang="ta">a</foreign> stands.<note place="foot">e.g. <foreign xml:lang="ta">porun + kaṭumai &gt; porunakkaṭumai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

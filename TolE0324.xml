@@ -25,8 +25,18 @@
 <l>uyartiṇai yāyi ṉurupiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If [<foreign xml:lang="ta">ellām</foreign>] refers to the personal class,</l>
+<<<<<<< Updated upstream
 <l>it behaves as when followed by case-markers.<note place="foot">That is, it gets the empty-morph <foreign xml:lang="ta">nam,</foreign> e.g. <foreign xml:lang="ta">ellām + kai &gt; ella-naṅ-kai-y-um.</foreign></note></l>
+=======
+<l>it behaves as when followed by case-markers.<note
+              place="foot">That is, it gets the empty-morph <foreign xml:lang="ta">nam,</foreign> e.g. <foreign xml:lang="ta">ellām + kai &gt; ella-naṅ-kai-y-um.</foreign></note></l>
+=======
+<l>Even if a nasal is inserted, this is no error.<note place="foot">e.g. <foreign xml:lang="ta">ellām + ciṟiya &gt; ellāñciṟiyavum</foreign>
+          ' all things are small '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

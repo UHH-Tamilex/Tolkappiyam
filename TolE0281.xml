@@ -25,9 +25,19 @@
 <l>cuṭṭumuta liṟuti yurupiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The final <foreign xml:lang="ta">[ai]</foreign> [of words] beginning with demonstratives</l>
 <l>has [the same] rules [as when it is followed by]</l>
+<<<<<<< Updated upstream
 <l>a case-suffix.<note place="foot">i.e., <foreign xml:lang="ta">avai + kōṭu &gt; avai-y-aṟ ṟu-k-kōṭu.</foreign> Cf. aphorisms 123 and 178.</note></l>
+=======
+<l>a case-suffix.<note
+              place="foot">i.e., <foreign xml:lang="ta">avai + kōṭu &gt; avai-y-aṟ ṟu-k-kōṭu.</foreign> Cf. aphorisms 123 and 178.</note></l>
+=======
+<l>After the standing noun ening in <foreign xml:lang="ta">-ai</foreign></l>
+<l>the plosive will be doubled, if it is in case-relationship.<note place="foot">E.g. <foreign xml:lang="ta">yāṉai + cevi &gt; yāṉaiccevi.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

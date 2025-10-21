@@ -26,8 +26,19 @@
 <l>vēṟṟumai yāyiṉ valleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If the standing word is a noun in case-relationship</l>
+<<<<<<< Updated upstream
 <l>and ends in <foreign xml:lang="ta">i,</foreign> the plosive is inserted.<note place="foot">E.g. <foreign xml:lang="ta">kiḷi + kāl &gt; kiḷikkāl</foreign> etc.</note></l>
+=======
+<l>and ends in <foreign xml:lang="ta">i,</foreign> the plosive is inserted.<note
+              place="foot">E.g. <foreign xml:lang="ta">kiḷi + kāl &gt; kiḷikkāl</foreign> etc.</note></l>
+=======
+<l>In poetry it is proper that the final <foreign xml:lang="ta">ā</foreign> of the preceeding word</l>
+<l>which has a short vowel is shortened to <foreign xml:lang="ta">a</foreign> and <foreign xml:lang="ta">u</foreign> is inserted [after it].<note place="foot">i.e., e.g. <foreign xml:lang="ta">puṟavup puṟattaṉṉa</foreign> ' like the
+          back of a dove ' <foreign xml:lang="ta">(Kuṟuntokai 274)</foreign> when <foreign xml:lang="ta">puṟavu</foreign> alternates with <foreign xml:lang="ta">purā.</foreign> Cf. comment.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

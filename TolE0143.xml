@@ -29,10 +29,21 @@
 <l>yaṉṉa marapiṉ moḻi vayiṉāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The nasal sounds which appear</l>
 <l>preceeding <foreign xml:lang="ta">k, c, t,</foreign> [and] <foreign xml:lang="ta">p</foreign> are,</l>
 <l>respectively, <foreign xml:lang="ta">ṅ, ñ, n</foreign> [and] <foreign xml:lang="ta">m</foreign> ;</l>
+<<<<<<< Updated upstream
 <l>they are realized in utterances of such type.<note place="foot">E.g. <foreign xml:lang="ta">viḷaṅkōṭu, viḷañceṭi, viḷantōl, viḷampū.</foreign></note></l>
+=======
+<l>they are realized in utterances of such type.<note
+              place="foot">E.g. <foreign xml:lang="ta">viḷaṅkōṭu, viḷañceṭi, viḷantōl, viḷampū.</foreign></note></l>
+=======
+<l>And they</l>
+<l>since [their] meaning is determined from the context,<note place="foot"><foreign xml:lang="ta">muṉṉap poruḷa.</foreign></note></l>
+<l>are not bound by a particular rule of writing.</l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

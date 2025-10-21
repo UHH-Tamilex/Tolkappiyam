@@ -25,7 +25,16 @@
 <l>vakāra micaiyu makāraṅ kuṟukum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The sound <foreign xml:lang="ta">m</foreign> followed by the sound <foreign xml:lang="ta">v</foreign> is shortened.<note place="foot">i.e to quarter of a <foreign xml:lang="ta">mātrā,</foreign> e.g. in <foreign xml:lang="ta">nilam valitu.</foreign> Interpolation ? Cf. Comment.</note></l>
+=======
+<<<<<<< HEAD
+<l>The sound <foreign xml:lang="ta">m</foreign> followed by the sound <foreign xml:lang="ta">v</foreign> is shortened.<note
+              place="foot">i.e to quarter of a <foreign xml:lang="ta">mātrā,</foreign> e.g. in <foreign xml:lang="ta">nilam valitu.</foreign> Interpolation ? Cf. Comment.</note></l>
+=======
+<l>When in case-relationship, the first two require the empty morph <foreign xml:lang="ta">akku.</foreign><note place="foot">e.g. <foreign xml:lang="ta">īm + kuṭam &gt; īmakkutam</foreign> ' the pot of the burial ground '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

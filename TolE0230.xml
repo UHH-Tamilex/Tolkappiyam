@@ -25,8 +25,18 @@
 <l>valleḻuttu mikiṉu māṉa millai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>There is no harm even if a plosive is inserted.<note place="foot">That is, instead of e.g. <foreign xml:lang="ta">piṭāantōl,</foreign> it
+=======
+<<<<<<< HEAD
+<l>There is no harm even if a plosive is inserted.<note
+              place="foot">That is, instead of e.g. <foreign xml:lang="ta">piṭāantōl,</foreign> it
+>>>>>>> Stashed changes
           is a admissible to say <foreign xml:lang="ta">piṭāattōl.</foreign></note></l>
+=======
+<l>The three nouns - the word <foreign xml:lang="ta">yā</foreign> [denoting] a tree,</l>
+<l><foreign xml:lang="ta">piṭā</foreign> and <foreign xml:lang="ta">taḷā</foreign> - have the nasals inserted.<note place="foot">E.g. <foreign xml:lang="ta">yāaṅkōṭu, piṭāantōl, taḷāampū.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

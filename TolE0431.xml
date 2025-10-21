@@ -25,8 +25,20 @@
 <l>iruticai puṇari ṉēyiṭai varumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If [words denoting] two [different] directions are combined, <foreign xml:lang="ta">ē</foreign> is</l>
+<<<<<<< Updated upstream
 <l>inserted between them.<note place="foot">Eg. <foreign xml:lang="ta">vaṭakkē teṟku, kiḷakkē meṟku.</foreign> Cf. also the Comment on this chapter.</note></l>
+=======
+<l>inserted between them.<note
+              place="foot">Eg. <foreign xml:lang="ta">vaṭakkē teṟku, kiḷakkē meṟku.</foreign> Cf. also the Comment on this chapter.</note></l>
+=======
+<l>If the word <foreign xml:lang="ta">uṇṭu</foreign> denotes existence, the disappearance of the pre-</l>
+<l>ceding final [vowel] with [its] consonant, and the change into the</l>
+<l>sound <foreign xml:lang="ta">ḷ</foreign> of the preceding consonant - these two alterations may</l>
+<l>occur when a plosive occurs as initial of the following word.<note place="foot">Eg. <foreign xml:lang="ta">uṇṭu + poruḷ &gt; uḷporuḷ | uṇṭuporuḷ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

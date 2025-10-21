@@ -25,7 +25,17 @@
 <l>vēṟṟumaik kaṇṇu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The same is the case even in case-relationship.<note place="foot">E.g. <foreign xml:lang="ta">ī + talai &gt; īttalai</foreign> ' the head of a fly '.</note></l>
+=======
+<<<<<<< HEAD
+<l>The same is the case even in case-relationship.<note
+              place="foot">E.g. <foreign xml:lang="ta">ī + talai &gt; īttalai</foreign> ' the head of a fly '.</note></l>
+=======
+<l>It is said that there are words before which a plosive</l>
+<l>is inserted after the word denoting place-relationship.<note place="foot">E.g. <foreign xml:lang="ta">mī.p-pal. 250-2</foreign> deal with non-case relationship.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

@@ -26,7 +26,20 @@
 <l>ēṉai vakara miṉṉoṭu civaṇum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The remaining sound(s) <foreign xml:lang="ta">v</foreign> will combine with <foreign xml:lang="ta">iṉ.</foreign><note place="foot">E.g. <foreign xml:lang="ta">tev-v-iṉ-ai.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>The remaining sound(s) <foreign xml:lang="ta">v</foreign> will combine with <foreign xml:lang="ta">iṉ.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">tev-v-iṉ-ai.</foreign></note></l>
+=======
+<l>The sound <foreign xml:lang="ta">v</foreign> of the demonstratives as initials</l>
+<l>will not fail to have the nature of [words]</l>
+<l>which dropped the final <foreign xml:lang="ta">ai</foreign> and [its] consonant.<note place="foot">I.e. <foreign xml:lang="ta">av, iv, uv</foreign> behaves in the same way
+          as <foreign xml:lang="ta">yāvai,</foreign> taking <foreign xml:lang="ta">vaṟṟu,</foreign>
+          eg. <foreign xml:lang="ta">av + ai &gt; av-vaṟṟu-ai avaṟṟai.</foreign> </note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

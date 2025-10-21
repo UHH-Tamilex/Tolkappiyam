@@ -25,9 +25,19 @@
 <l>aḷavu niṟaiyum vēṟṟumai yiyala</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>Measures and weights are of the nature of case-relationship.<note place="foot">i.e. if <foreign xml:lang="ta">āyiram</foreign> is followed by words denoting measures <foreign xml:lang="ta">(aḻavu)</foreign> and weights <foreign xml:lang="ta">(niṟai),</foreign> the <foreign xml:lang="ta">sandhi</foreign> change is the same as in case-relationship, e.g. <foreign xml:lang="ta">āyirakkalam'</foreign> 'one
+=======
+<<<<<<< HEAD
+<l>Measures and weights are of the nature of case-relationship.<note
+              place="foot">i.e. if <foreign xml:lang="ta">āyiram</foreign> is followed by words denoting measures <foreign xml:lang="ta">(aḻavu)</foreign> and weights <foreign
+                xml:lang="ta">(niṟai),</foreign> the <foreign xml:lang="ta">sandhi</foreign> change is the same as in case-relationship, e.g. <foreign xml:lang="ta">āyirakkalam'</foreign> 'one
+>>>>>>> Stashed changes
           thousand <foreign xml:lang="ta">kalams</foreign> <corr>(</corr>lit. vessels', or <foreign xml:lang="ta">
           āyirakkaḻañcu</foreign> ' one thousand <foreign xml:lang="ta">kaḻañcus '.</foreign></note></l>
+=======
+<l>The same is the case even if it appears with a qualifier.<note place="foot"><foreign xml:lang="ta">Aṭai</foreign> ' qualifier ' ; ' attribute '. Cf. <foreign xml:lang="ta">patiṉāyirattoṉṟu</foreign> ' ten thousand and one '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

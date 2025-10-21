@@ -26,9 +26,19 @@
 <l>yāvayiṉ valleḻut tiyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>There are words [ending in <foreign xml:lang="ta">ō</foreign>] which behave [in the same ways</l>
 <l>as when they are followed by] case-suffixes. In such cases,</l>
+<<<<<<< Updated upstream
 <l>the plosive becomes unchanged.<note place="foot">This again refers to <foreign xml:lang="ta">kō</foreign> which may have the empty-morph <foreign xml:lang="ta">-oṉ : kō + kai &gt; kōoṉkai.</foreign></note></l>
+=======
+<l>the plosive becomes unchanged.<note
+              place="foot">This again refers to <foreign xml:lang="ta">kō</foreign> which may have the empty-morph <foreign xml:lang="ta">-oṉ : kō + kai &gt; kōoṉkai.</foreign></note></l>
+=======
+<l>If pronounced with <foreign xml:lang="ta">il</foreign> ' place, house ' there is no change.<note place="foot">That is, the word <foreign xml:lang="ta">kō</foreign> ' king ' behaves exceptionally when it occurs with <foreign xml:lang="ta">il</foreign> ' place '
+          since <foreign xml:lang="ta">o</foreign> is not inserted : <foreign xml:lang="ta">kō + il &gt; kōyil|kōvil </foreign>' palace, temple '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

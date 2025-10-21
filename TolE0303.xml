@@ -25,9 +25,19 @@
 <l>āṇum peṇṇu maḵṟiṇai yiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 
 <l>The words <foreign xml:lang="ta">āṇ</foreign> ' male ' and <foreign xml:lang="ta">peṇ</foreign> ' female ' behave like nouns</l>
+<<<<<<< Updated upstream
 <l>of the <foreign xml:lang="ta">aḵṟiṇai</foreign> class.<note place="foot">i.e. there is no change, e.g. <foreign xml:lang="ta">āṇkai, peṇpuṟam.</foreign> Cf. aphorisms 148 and 156.</note></l>
+=======
+<l>of the <foreign xml:lang="ta">aḵṟiṇai</foreign> class.<note
+              place="foot">i.e. there is no change, e.g. <foreign xml:lang="ta">āṇkai, peṇpuṟam.</foreign> Cf. aphorisms 148 and 156.</note></l>
+=======
+<l>When the final <foreign xml:lang="ta">-ṇ</foreign> is followed by a plosive,</l>
+<l>it will change into <foreign xml:lang="ta">-ṭ</foreign> in case-relation <foreign xml:lang="ta">sandhi.</foreign><note place="foot">e.g. <foreign xml:lang="ta">maṇ </foreign>' earth ' + <foreign xml:lang="ta">kuṭam</foreign> ' pot ' &gt; <foreign xml:lang="ta">maṭkuṭam </foreign>' earth pot '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

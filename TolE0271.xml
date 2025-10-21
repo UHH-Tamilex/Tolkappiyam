@@ -26,8 +26,18 @@
 <l>miṉṉiṭai variṉu māṉa millai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>There is no harm if the particle <foreign xml:lang="ta">iṉ</foreign> occurs</l>
+<<<<<<< Updated upstream
 <l>with the two words <foreign xml:lang="ta">āṭūu</foreign> ' man ' and <foreign xml:lang="ta">makaṭūu</foreign> ' woman '.<note place="foot">Ex. : <foreign xml:lang="ta">āṭūuviṉkai, makaṭūuviṉpuṟam.</foreign></note></l>
+=======
+<l>with the two words <foreign xml:lang="ta">āṭūu</foreign> ' man ' and <foreign xml:lang="ta">makaṭūu</foreign> ' woman '.<note
+              place="foot">Ex. : <foreign xml:lang="ta">āṭūuviṉkai, makaṭūuviṉpuṟam.</foreign></note></l>
+=======
+<l>Know that in usage, in the proper place,</l>
+<l>it should take the empty-morph <foreign xml:lang="ta">akku.</foreign><note place="foot">i.e., <foreign xml:lang="ta">ū + kuṟai &gt; ūṉ -ak-kuṟai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

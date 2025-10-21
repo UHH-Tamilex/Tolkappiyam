@@ -25,7 +25,18 @@
 <l>annāṉ moḻiyun tannilai tiriyā</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The four words do not change their nature.<note place="foot">I.e. <foreign xml:lang="ta">āṅku, īṅku, ūṅku</foreign> and <foreign xml:lang="ta">yāṅku</foreign> do not have their nasals replaced by voiceless stops.</note></l>
+=======
+<<<<<<< HEAD
+<l>The four words do not change their nature.<note
+              place="foot">I.e. <foreign xml:lang="ta">āṅku, īṅku, ūṅku</foreign> and <foreign
+                xml:lang="ta">yāṅku</foreign> do not have their nasals replaced by voiceless stops.</note></l>
+=======
+<l>The interrogative word [beginning with] <foreign xml:lang="ta">yā</foreign> may also remain with-</l>
+<l>out change.<note place="foot">Eg. <foreign xml:lang="ta">yāṅku koṇṭāṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

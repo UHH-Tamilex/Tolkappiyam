@@ -25,7 +25,17 @@
 <l>yavamuṉ variṉē vakara moṟṟum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>If <foreign xml:lang="ta">y</foreign> and <foreign xml:lang="ta">v</foreign> follow, <foreign xml:lang="ta">v</foreign> is inserted.<note place="foot">Exx. : <foreign xml:lang="ta">a + yāḻ &gt; avyāḻ ; a + vaḷai &gt; avvaḷai.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>If <foreign xml:lang="ta">y</foreign> and <foreign xml:lang="ta">v</foreign> follow, <foreign xml:lang="ta">v</foreign> is inserted.<note
+              place="foot">Exx. : <foreign xml:lang="ta">a + yāḻ &gt; avyāḻ ; a + vaḷai &gt; avvaḷai.</foreign></note></l>
+=======
+<l>If <foreign xml:lang="ta">ñ, n</foreign> [and] <foreign xml:lang="ta">m</foreign> appear after the demonstrative,</l>
+<l>the respective consonant must be doubled.<note place="foot">Exx. : <foreign xml:lang="ta">aññālam, innūl, ammaṇi.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

@@ -27,12 +27,16 @@
 <l>vēṟṟumai yalvaḻic cāriyai nilaiyātu</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If uttered in non [case-relationship] and/or in case-relationship,</l>
 <l>the pronoun <foreign xml:lang="ta">ellām</foreign> behaves in the same way as when followed</l>
 <l>by case-suffixes ; the empty morph is not inserted in non-case-relationship.<note place="foot">e.g. <foreign xml:lang="ta">ellāvaṟuṭtalaiyum,</foreign> the head(s) of
           all things ' : case-relationship ; <foreign xml:lang="ta">ellāpperiyavum</foreign> ' all
           things are great ' : non-case relationship, hence without the <foreign xml:lang="ta">cāriyai
           vāṟṟu.</foreign></note></l>
+=======
+<l>If uttered in non [case-relationship], there will be no change.<note place="foot">e.g. <foreign xml:lang="ta">ellāṟuñ ciṟiyar</foreign> ' They are all small '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

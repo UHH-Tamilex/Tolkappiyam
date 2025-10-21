@@ -29,6 +29,7 @@
 <l>māṟa ṉiṟuti yalvaḻi yāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said that, if [the words denoting] <foreign xml:lang="ta">oṉṟu</foreign> ' one ' to <foreign xml:lang="ta">oṉpatu</foreign> ' nine '</l>
 <l>[are followed by <foreign xml:lang="ta">pattu</foreign> ' ten '], the consonant of the ' standing '</l>
 <l><foreign xml:lang="ta">pattu</foreign> following the <foreign xml:lang="ta">a</foreign> is replaced by <foreign xml:lang="ta">āytam,</foreign> and the final overshort</l>
@@ -37,6 +38,10 @@
           the exception of six), and the succeeding word is <foreign xml:lang="ta">pattu, pattu &gt;
           pahtu</foreign> by replacing the <foreign xml:lang="ta">t</foreign> with the <foreign xml:lang="ta">āytam,</foreign> and in the preceding word, the final <foreign xml:lang="ta">u</foreign> and the preceding plosive disappear : eg. <foreign xml:lang="ta">aintu + pattu &gt; aimpahtu.</foreign> Aphorisms 439-445 explain the
           individual cases.</note></l>
+=======
+<l>And when [words denoting] weight and measure occur, the empty</l>
+<l>morph <foreign xml:lang="ta">iṉ</foreign> will indeed not disappear.<note place="foot">E.g. <foreign xml:lang="ta">patiṉkaḻañcu</foreign> or <foreign xml:lang="ta">patiṉkalam.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

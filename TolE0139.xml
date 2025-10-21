@@ -26,8 +26,19 @@
 <l>meyyuyir nīṅkiṟ ṟaṉṉuru vākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the consonant separates from the vowel</l>
+<<<<<<< Updated upstream
 <l>it obtains its original form.<note place="foot"><foreign xml:lang="ta">uru.</foreign> E.g. <foreign xml:lang="ta">maramuṇṭu &gt; maram uṇṭu ; ataṉai &gt; ataṉ + ai.</foreign></note></l>
+=======
+<l>it obtains its original form.<note
+              place="foot"><foreign xml:lang="ta">uru.</foreign> E.g. <foreign xml:lang="ta">maramuṇṭu &gt; maram uṇṭu ; ataṉai &gt; ataṉ + ai.</foreign></note></l>
+=======
+<l>A vowel-symbol following a consonant-symbol<note place="foot"><foreign xml:lang="ta">puḷḷi.</foreign></note></l>
+<l>cannot exist by itself ; it merges with the consonant,<note place="foot"><foreign xml:lang="ta">mey.</foreign> E.g. <foreign xml:lang="ta">āl + aṭai &gt; ālaṭai ; maram + atu &gt; maramatu.</foreign></note></l>
+<l>destroying thus its nature.</l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

@@ -25,7 +25,21 @@
 <l>vēṟṟumaik kaṇṇu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>In case-relationship, too, the same rule applies.<note place="foot">E.g. <foreign xml:lang="ta">tārā + kāl &gt; tārākkāl.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>In case-relationship, too, the same rule applies.<note
+              place="foot">E.g. <foreign xml:lang="ta">tārā + kāl &gt; tārākkāl.</foreign></note></l>
+=======
+<l>The words <foreign xml:lang="ta">ā</foreign> ' cow ' and <foreign xml:lang="ta">mā</foreign> ' beast ', nouns in vocative,</l>
+<l>the interrogative <foreign xml:lang="ta">yā,</foreign> the ending [<foreign xml:lang="ta">ā</foreign>] of non-personal [plural finite verbs],</l>
+<l>the expletive particle <foreign xml:lang="ta">miyā</foreign> denoting command,</l>
+<l>[and] interrogative words denoting the action of the speaker</l>
+<l>[have] no [change] ; all such [expressions] [have] the natural joining ; thus it is said.<note place="foot">Exx. : <foreign xml:lang="ta">ā ciṟitu </foreign>' the cow is small ', <foreign xml:lang="ta">mā tītu </foreign>' the beast is evil ', <foreign xml:lang="ta">urā
+                cel </foreign>' go, villager ', <foreign xml:lang="ta">yā ciṟiya</foreign> ' which things are small ? ', <foreign xml:lang="ta">uṇṇā kutirai</foreign> ' horses don't eat ', <foreign xml:lang="ta">kēṇmiyā koṟṟā</foreign> ' listen, koṟṟa ! ', <foreign xml:lang="ta">uṇkā tēvā </foreign>' will I eat, o god ? ' (accord. to Nacc. : <foreign xml:lang="ta">yān uṇpēṉō).</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

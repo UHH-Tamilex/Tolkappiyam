@@ -25,7 +25,16 @@
 <l>cuṭṭiṉ muṉṉaru mattoḻiṟ ṟākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>After the demonstrative [<foreign xml:lang="ta">u</foreign>] that same function operates.<note place="foot"><foreign xml:lang="ta">u-k-koṟṟaṉ.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>After the demonstrative [<foreign xml:lang="ta">u</foreign>] that same function operates.<note
+              place="foot"><foreign xml:lang="ta">u-k-koṟṟaṉ.</foreign></note></l>
+=======
+<l>The ending <foreign xml:lang="ta">u</foreign> is the same as <foreign xml:lang="ta">a.</foreign><note place="foot">E.g. <foreign xml:lang="ta">kaṭu-k-kuṟitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

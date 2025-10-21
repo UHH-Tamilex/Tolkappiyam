@@ -26,8 +26,20 @@
 <l>kattu miṉṉuñ cāriyai yākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The word <foreign xml:lang="ta">paṉi</foreign> denoting [dewy] season takes</l>
+<<<<<<< Updated upstream
 <l>the empty-morphs <foreign xml:lang="ta">attu</foreign> and <foreign xml:lang="ta">iṉ</foreign> in case-relationship.<note place="foot">i.e., e.g. <foreign xml:lang="ta">paṉiyattucceṉṟāṉ</foreign> or <foreign xml:lang="ta">paṉiyirceṉṟāṉ</foreign> ' he went in the dewy season '.</note></l>
+=======
+<l>the empty-morphs <foreign xml:lang="ta">attu</foreign> and <foreign xml:lang="ta">iṉ</foreign> in case-relationship.<note
+              place="foot">i.e., e.g. <foreign xml:lang="ta">paṉiyattucceṉṟāṉ</foreign> or <foreign xml:lang="ta">paṉiyirceṉṟāṉ</foreign> ' he went in the dewy season '.</note></l>
+=======
+<l>If the word <foreign xml:lang="ta">nāḻi</foreign> ' a corn-measure '</l>
+<l>is followed by the word <foreign xml:lang="ta">uri</foreign> ' a corn-measure '</l>
+<l>the final <foreign xml:lang="ta">i</foreign> and the consonant are dropped and <foreign xml:lang="ta">ṭ</foreign> takes their place.<note place="foot"><foreign xml:lang="ta">nāḻi + uri &gt; nāṭuri ; nāḻi </foreign>is the
+          eighth part of a marcal ; <foreign xml:lang="ta">uri</foreign> is the sixteenth part of a marcal.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

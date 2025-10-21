@@ -26,8 +26,17 @@
 <l>tāṉmikat tōṉṟik kuṟukalu murittē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If the word <foreign xml:lang="ta">ān</foreign> is followed by the word <foreign xml:lang="ta">p</foreign> and <foreign xml:lang="ta">ī,</foreign></l>
+<<<<<<< Updated upstream
 <l>it is proper to shorten [it] after that very [<foreign xml:lang="ta">p</foreign>] has appeared.<note place="foot">The wording of this aphorism is very strange and not clear. It is usually interpreted as follows : <foreign xml:lang="ta">āṉ + pī &gt; ā-p-pi</foreign> ' cow-dung ' cf. DED 283 + DED 3455. Cf. comment.</note></l>
+=======
+<l>it is proper to shorten [it] after that very [<foreign xml:lang="ta">p</foreign>] has appeared.<note
+              place="foot">The wording of this aphorism is very strange and not clear. It is usually interpreted as follows : <foreign xml:lang="ta">āṉ + pī &gt; ā-p-pi</foreign> ' cow-dung ' cf. DED 283 + DED 3455. Cf. comment.</note></l>
+=======
+<l><foreign xml:lang="ta">ā</foreign> with the consonant <foreign xml:lang="ta">ṉ</foreign> will have [its proper] place with the phoneme <foreign xml:lang="ta">a.</foreign><note place="foot">i.e., the word <foreign xml:lang="ta">āṉ</foreign> ' cow ' gets a as in <foreign xml:lang="ta">āṉaney</foreign> ' cow's ghee '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

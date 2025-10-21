@@ -26,8 +26,19 @@
 <l>kaṭinilai yiṉṟē valleḻuttu mikuti</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If <foreign xml:lang="ta">koṭi</foreign> follows, the <foreign xml:lang="ta">ai</foreign> remains there ;</l>
+<<<<<<< Updated upstream
 <l>the occurence of plosives will not be prevented.<note place="foot"><foreign xml:lang="ta">paṉai + koṭi &gt; paṉaikkoṭi.</foreign></note></l>
+=======
+<l>the occurence of plosives will not be prevented.<note
+              place="foot"><foreign xml:lang="ta">paṉai + koṭi &gt; paṉaikkoṭi.</foreign></note></l>
+=======
+<l>When <foreign xml:lang="ta">aṭṭu</foreign> ' cake of coarse sugar ' follows <foreign xml:lang="ta">paṉai</foreign> ' palmyra '</l>
+<l>the vowel <foreign xml:lang="ta">ai</foreign> disappears and the long sound <foreign xml:lang="ta">a</foreign></l>
+<l>occurs in that position.<note place="foot">See also comment. <foreign xml:lang="ta">paṉai + aṭṭu &gt; pāṉāaṭṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

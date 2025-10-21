@@ -26,7 +26,17 @@
 <l>yāveṉ viṉāvu māyiya ṟiriyātu</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The interrogative <foreign xml:lang="ta">yā</foreign> will not fail either to follow the same rule.<note place="foot">Exx. : <foreign xml:lang="ta">yā-vaṟṟ-ai.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>The interrogative <foreign xml:lang="ta">yā</foreign> will not fail either to follow the same rule.<note
+              place="foot">Exx. : <foreign xml:lang="ta">yā-vaṟṟ-ai.</foreign></note></l>
+=======
+<l>Nouns ending in <foreign xml:lang="ta">-a</foreign> and denoting ' many '</l>
+<l>will not fail having [the empty-morph] <foreign xml:lang="ta">vaṟṟu.</foreign><note place="foot">Exx. : <foreign xml:lang="ta">pala-vaṟṟ-ai, cila-vaṟṟ-oṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

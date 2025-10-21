@@ -28,10 +28,22 @@
 <l>rāvayiṉ vakara maiyoṭuṅ keṭumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The scholars say</l>
 <l>that the ending <foreign xml:lang="ta">ai</foreign> of the interrogative <foreign xml:lang="ta">yā</foreign>, too,</l>
+<<<<<<< Updated upstream
 <l>will not fail to observe that rule ;<note place="foot">I.e. takes<foreign xml:lang="ta">vaṟṟu</foreign> before case-marker.</note></l>
 <l>the sound <foreign xml:lang="ta">v</foreign> disappears there with <foreign xml:lang="ta">ai</foreign>.<note place="foot">I.e. <foreign xml:lang="ta">-v-ai</foreign> of <foreign xml:lang="ta">yā-vai</foreign> is dropped : <foreign xml:lang="ta">yāvai + ai &gt; yā-vaṟṟ-ai.</foreign></note></l>
+=======
+<l>will not fail to observe that rule ;<note
+              place="foot">I.e. takes<foreign xml:lang="ta">vaṟṟu</foreign> before case-marker.</note></l>
+<l>the sound <foreign xml:lang="ta">v</foreign> disappears there with <foreign xml:lang="ta">ai</foreign>.<note
+              place="foot">I.e. <foreign xml:lang="ta">-v-ai</foreign> of <foreign xml:lang="ta">yā-vai</foreign> is dropped : <foreign xml:lang="ta">yāvai + ai &gt; yā-vaṟṟ-ai.</foreign></note></l>
+=======
+<l>[Words which] begin with a demonstrative and end in <foreign xml:lang="ta">-ai</foreign></l>
+<l>will approximately appear having combined with <foreign xml:lang="ta">vaṟṟu.</foreign><note place="foot">E.g. <foreign xml:lang="ta">avaiyaṟṟai.</foreign> The <foreign xml:lang="ta">v</foreign> of <foreign xml:lang="ta">vaṟṟu</foreign> is removed by rule 123.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

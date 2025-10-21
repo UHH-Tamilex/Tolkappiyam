@@ -25,9 +25,18 @@
 <l>ekiṉmara māyi ṉāṇmara viyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>When <foreign xml:lang="ta">ekiṉ</foreign> denotes a tree, it is of the same nature of <foreign xml:lang="ta">āṇ</foreign> a tree.<note place="foot"><foreign xml:lang="ta">Ekiṉ</foreign> means either ' the tamarind tree ',
+=======
+<<<<<<< HEAD
+<l>When <foreign xml:lang="ta">ekiṉ</foreign> denotes a tree, it is of the same nature of <foreign xml:lang="ta">āṇ</foreign> a tree.<note
+              place="foot"><foreign xml:lang="ta">Ekiṉ</foreign> means either ' the tamarind tree ',
+>>>>>>> Stashed changes
           or ' swan ' ; when glossed ' swan ', it gets <foreign xml:lang="ta">a</foreign> and the
           doubling of the following plosive, cf. 338.</note></l>
+=======
+<l>The word <foreign xml:lang="ta">kuyiṉ</foreign> remains unchanged.<note place="foot"><foreign xml:lang="ta">Kuyiṉ</foreign> 1. cloud, 2. deed, work ( = <foreign xml:lang="ta">ceyal).</foreign> Accord. to Nacc., <foreign xml:lang="ta">kuyiṉ</foreign> follows this rule only when meaning ' cloud '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

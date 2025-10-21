@@ -25,7 +25,20 @@
 <l>valleṉ kiḷavi toḻiṟpeya riyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The word <foreign xml:lang="ta">val</foreign> ' dice ' behaves like the verbal nouns.<note place="foot">i.e. <foreign xml:lang="ta">val-l-u-k--kaṭitu</foreign> etc.</note></l>
+=======
+<<<<<<< HEAD
+<l>The word <foreign xml:lang="ta">val</foreign> ' dice ' behaves like the verbal nouns.<note
+              place="foot">i.e. <foreign xml:lang="ta">val-l-u-k--kaṭitu</foreign> etc.</note></l>
+=======
+<l>If the word <foreign xml:lang="ta">il</foreign> denotes the negative,<note place="foot"><foreign xml:lang="ta">Iṉmai.</foreign></note></l>
+<l>the doubling of plosives, or the occurence of <foreign xml:lang="ta">ai,</foreign></l>
+<l>or standing without change, or the occurence of the sound <foreign xml:lang="ta">ā -</foreign></l>
+<l>[these] are in agreement with the tradition of endings.<note place="foot">The following four choices are possible : <foreign xml:lang="ta">illaikkal,
+          illai kal, ilkal, illākkal.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

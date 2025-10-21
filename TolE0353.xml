@@ -26,8 +26,19 @@
 <l>tōṟṟa millai yeṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Scholars maintain that shortening and change</l>
+<<<<<<< Updated upstream
 <l>do not take place in non-case-relationship.<note place="foot">e.g. <foreign xml:lang="ta">yāṉ kuṟiyēṉ</foreign> ' I am short ' ; <foreign xml:lang="ta">tāṉ kuṟiyaṉ</foreign> ' he, she, it is short '.</note></l>
+=======
+<l>do not take place in non-case-relationship.<note
+              place="foot">e.g. <foreign xml:lang="ta">yāṉ kuṟiyēṉ</foreign> ' I am short ' ; <foreign
+                xml:lang="ta">tāṉ kuṟiyaṉ</foreign> ' he, she, it is short '.</note></l>
+=======
+<l><foreign xml:lang="ta">Tāṉ,</foreign> ' he, she, it ' and <foreign xml:lang="ta">yāṉ</foreign> ' I ' have the same change</l>
+<l>as when they are followed by case-signs.<note place="foot"><foreign xml:lang="ta">Yāṉ + kai &gt; eṉkai</foreign> ' my hand ' ; <foreign xml:lang="ta">tāṉ + kai &gt; taṉkai</foreign> ' his, her, its hand.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

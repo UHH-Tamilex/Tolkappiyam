@@ -26,9 +26,21 @@
 <l>peyaroṟ ṟakaran tuvarak keṭumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l><foreign xml:lang="ta">Ātaṉ</foreign> and <foreign xml:lang="ta">pūtaṉ,</foreign> besides the above-described changes,</l>
 <l>will also discard [their] consonants and the sound <foreign xml:lang="ta">a</foreign></l>
+<<<<<<< Updated upstream
 <l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
+=======
+<l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note
+              place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
+=======
+<l>When proper names<note place="foot"><foreign xml:lang="ta">Iyaṟpeyar.</foreign></note> [ending in <foreign xml:lang="ta">-ṉ</foreign>] are followed by the</l>
+<l>relationship term <foreign xml:lang="ta">tantai</foreign> ' father '.</l>
+<l>the initial [consonant] therein disappears, the sound <foreign xml:lang="ta">a</foreign> remains ;</l>
+<l>that proper name, removing the consonant, loses the <foreign xml:lang="ta">aṉ.</foreign><note place="foot">i.e. <foreign xml:lang="ta">cāttaṉ + tantai &gt; 1. cāttu</foreign> (loss of <foreign xml:lang="ta">-aṉ) + antai</foreign> (loss of initial consonant ; <foreign xml:lang="ta">a</foreign> remains) &gt; 2. <foreign xml:lang="ta">cāttaṉtai</foreign> ' the father of <foreign xml:lang="ta">Cāttaṉ '.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

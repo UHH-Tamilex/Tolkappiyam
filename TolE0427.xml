@@ -27,13 +27,23 @@
 <l>māyiya ṟiriyā valleḻut tiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>Such <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign><note place="foot">I.e. if we have a sequence ' [long demonstrative |<foreign xml:lang="ta">yā
+=======
+<<<<<<< HEAD
+<l>Such <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign><note
+              place="foot">I.e. if we have a sequence ' [long demonstrative |<foreign xml:lang="ta">yā
+>>>>>>> Stashed changes
           +</foreign> nasal + plosive + overshort <foreign xml:lang="ta">-u</foreign>] + plosive ',
           then the plosive is lengthened (doubled), e.g. <foreign xml:lang="ta">āṅku-k-koṇṯāṉ,
           yāṅku-k-koṇṯāṉ.</foreign></note> which begin with the lengthened form of</l>
 <l>demonstrative roots, or such interrogative <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign> [which</l>
 <l>begin] with <foreign xml:lang="ta">yā</foreign> do not deviate from the rules of the plosives [being</l>
 <l>doubled].</l>
+=======
+<l>[When] the <foreign xml:lang="ta">valloṟṟut toṭarmoḻi</foreign><note place="foot">I.e. if we have a sequence ' long plosive + overshort <foreign xml:lang="ta">-u</foreign> + plosive ', the plosive is lengthened (doubled), e.g. <foreign xml:lang="ta">kokku + ciṟitu &gt; kokkucciṟitu</foreign> ' The heron is small</note> [is followed by] a plosive, [the</l>
+<l>latter] is doubled.</l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

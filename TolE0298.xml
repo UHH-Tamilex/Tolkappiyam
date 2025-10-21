@@ -25,7 +25,16 @@
 <l>nakara viṟutiyu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>The same is the case when <foreign xml:lang="ta">n</foreign> occurs finally.<note place="foot">e.g. <foreign xml:lang="ta">porun + kaṭitu &gt; porunukkaṭitu ; porun + valitu &gt; porunuvalitu.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>The same is the case when <foreign xml:lang="ta">n</foreign> occurs finally.<note
+              place="foot">e.g. <foreign xml:lang="ta">porun + kaṭitu &gt; porunukkaṭitu ; porun + valitu &gt; porunuvalitu.</foreign></note></l>
+=======
+<l>And when <foreign xml:lang="ta">ñ, n, m, v</foreign> occur, <foreign xml:lang="ta">u</foreign> [alone] will stand [there].<note place="foot">e.g. <foreign xml:lang="ta">uriñ + valitu &gt; uriñ-u-valitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

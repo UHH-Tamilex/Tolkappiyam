@@ -25,8 +25,19 @@
 <l>mūṉṟa ṉoṟṟē pakāra mākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>And the <foreign xml:lang="ta">ṉ</foreign> of <foreign xml:lang="ta">mūṉṟu</foreign> will be replaced</l>
+<<<<<<< Updated upstream
 <l>by <foreign xml:lang="ta">p.</foreign><note place="foot">I.e. <foreign xml:lang="ta">mūṉṟu + pattu &gt; mu-p-pahtu; āṛu + pattu &gt; aṛupahtu.</foreign></note></l>
+=======
+<l>by <foreign xml:lang="ta">p.</foreign><note
+              place="foot">I.e. <foreign xml:lang="ta">mūṉṟu + pattu &gt; mu-p-pahtu; āṛu + pattu &gt; aṛupahtu.</foreign></note></l>
+=======
+<l>The long vowels] of the first [syllables] of <foreign xml:lang="ta">mūṉṟu</foreign> ' three ' and</l>
+<l><foreign xml:lang="ta">āṟu</foreign> ' six ' will be shortened, and the <foreign xml:lang="ta">ṉ</foreign> of <foreign xml:lang="ta">mūṉṟu</foreign> will be replaced</l>
+<l>by <foreign xml:lang="ta">p.</foreign><note place="foot">I.e. <foreign xml:lang="ta">mūṉṟu + pattu &gt; mu-p-pahtu; āṛu + pattu &gt; aṛupahtu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

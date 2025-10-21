@@ -26,10 +26,15 @@
 <l>yalpeya reṇṇiṉu māyiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The same is the case when [words] ending in</l>
 <l><foreign xml:lang="ta">-ai, -am,</foreign> and <foreign xml:lang="ta">-pal,</foreign> denoting number [follow <foreign xml:lang="ta">ēḻ</foreign>].<note place="foot">i.e. <foreign xml:lang="ta">ēḻ</foreign> retains its original form when
           followed by <foreign xml:lang="ta">tāmarai, veḷḷam</foreign> and <foreign xml:lang="ta">
           āmpal,</foreign> all denoting high numbers.</note></l>
+=======
+          <l>With the word <foreign xml:lang="ta">āyiram</foreign> preceded by <foreign xml:lang="ta">nūṟu</foreign> the above-mentioned shortening of long initials does not
+          take place.<note place="foot">i.e. <foreign xml:lang="ta">ēḻnūṟāyiram.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

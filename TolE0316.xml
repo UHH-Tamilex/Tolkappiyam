@@ -26,8 +26,23 @@
 <l>nilaiyalu murittē ceyyu ḷāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If the word <foreign xml:lang="ta">ilam</foreign> ' poverty ' is followed by <foreign xml:lang="ta">paṭu</foreign> ' to experience ',</l>
+<<<<<<< Updated upstream
 <l>it may remain, in poetry.<note place="foot">i.e. <foreign xml:lang="ta">ilam + pāṭu &gt; ilampāṭu</foreign> ' to become poor, to suffer poverty '. Cf. Malai-paṭukaṭam 576, <foreign xml:lang="ta">ilampaṭu pulavar.</foreign></note></l>
+=======
+<l>it may remain, in poetry.<note
+              place="foot">i.e. <foreign xml:lang="ta">ilam + pāṭu &gt; ilampāṭu</foreign> ' to become poor, to suffer poverty '. Cf. Malai-paṭukaṭam 576, <foreign xml:lang="ta">ilampaṭu pulavar.</foreign></note></l>
+=======
+<l>When <foreign xml:lang="ta">kai</foreign> ' hand ' comes after the word <foreign xml:lang="ta">akam</foreign> ' inside ',</l>
+<l>leaving the first portion to remain, the disappearance</l>
+<l>of those which stand before [<foreign xml:lang="ta">kai</foreign>] is not forbidden in the usage</l>
+<l>of writers ;<note place="foot"><foreign xml:lang="ta">Āciriyar</foreign> (cf. Skt. <foreign xml:lang="sa">ācārya,</foreign> DBIA 30) ' teacher, author, scholar '.</note> in
+          that environment, the nasal is inserted.<note place="foot">Both <foreign xml:lang="ta">akaṅkai</foreign> and <foreign xml:lang="ta">
+          aṅkai</foreign> ' palm ' are possible for <foreign xml:lang="ta">akam + kai</foreign> '
+          inside ' + ' hand '. Iḻampūraṇar takes it rightly as <foreign xml:lang="ta">marūu</foreign> ' contraction '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

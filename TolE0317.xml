@@ -26,8 +26,20 @@
 <l>yotta veṇṇu muṉvaru kālai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The final of <foreign xml:lang="ta">āyiram</foreign> ' thousand ' joins with <foreign xml:lang="ta">attu</foreign> when followed</l>
+<<<<<<< Updated upstream
 <l>by a suitable number.<note place="foot"><foreign xml:lang="ta">Āyiram</foreign> ' thousand ', very probably &lt; Skt. <foreign xml:lang="sa">sahasra,</foreign> Cf. DED. 309.</note></l>
+=======
+<l>by a suitable number.<note
+              place="foot"><foreign xml:lang="ta">Āyiram</foreign> ' thousand ', very probably &lt; Skt. <foreign xml:lang="sa">sahasra,</foreign> Cf. DED. 309.</note></l>
+=======
+<l>If the word <foreign xml:lang="ta">ilam</foreign> ' poverty ' is followed by <foreign xml:lang="ta">paṭu</foreign> ' to experience ',</l>
+<l>it may remain, in poetry.<note place="foot">i.e. <foreign xml:lang="ta">ilam + pāṭu &gt; ilampāṭu</foreign> ' to
+          become poor, to suffer poverty '. Cf. Malai-paṭukaṭam 576, <foreign xml:lang="ta">ilampaṭu
+          pulavar.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

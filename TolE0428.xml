@@ -25,8 +25,23 @@
 <l>yāviṉā moḻiyē yiyalpu mākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The interrogative word [beginning with] <foreign xml:lang="ta">yā</foreign> may also remain with-</l>
+<<<<<<< Updated upstream
 <l>out change.<note place="foot">Eg. <foreign xml:lang="ta">yāṅku koṇṭāṉ.</foreign></note></l>
+=======
+<l>out change.<note
+              place="foot">Eg. <foreign xml:lang="ta">yāṅku koṇṭāṉ.</foreign></note></l>
+=======
+<l>Such <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign><note place="foot">I.e. if we have a sequence ' [long demonstrative |<foreign xml:lang="ta">yā
+          +</foreign> nasal + plosive + overshort <foreign xml:lang="ta">-u</foreign>] + plosive ',
+          then the plosive is lengthened (doubled), e.g. <foreign xml:lang="ta">āṅku-k-koṇṯāṉ,
+          yāṅku-k-koṇṯāṉ.</foreign></note> which begin with the lengthened form of</l>
+<l>demonstrative roots, or such interrogative <foreign xml:lang="ta">meṉṟoṭarmoḻi</foreign> [which</l>
+<l>begin] with <foreign xml:lang="ta">yā</foreign> do not deviate from the rules of the plosives [being</l>
+<l>doubled].</l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

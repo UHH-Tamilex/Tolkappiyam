@@ -25,7 +25,20 @@
 <l>uyirmuṉ variṉu māyiya ṟiriyātu</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>That rule does not change even when a vowel occurs after [it]<note place="foot">i.e. in such combinations as <foreign xml:lang="ta">ēḻāḻākku</foreign> or <foreign xml:lang="ta">ēḻiraṇṭu.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>That rule does not change even when a vowel occurs after [it]<note
+              place="foot">i.e. in such combinations as <foreign xml:lang="ta">ēḻāḻākku</foreign> or <foreign
+                xml:lang="ta">ēḻiraṇṭu.</foreign></note></l>
+=======
+<l>The same is the case when [words] ending in</l>
+<l><foreign xml:lang="ta">-ai, -am,</foreign> and <foreign xml:lang="ta">-pal,</foreign> denoting number [follow <foreign xml:lang="ta">ēḻ</foreign>].<note place="foot">i.e. <foreign xml:lang="ta">ēḻ</foreign> retains its original form when
+          followed by <foreign xml:lang="ta">tāmarai, veḷḷam</foreign> and <foreign xml:lang="ta">
+          āmpal,</foreign> all denoting high numbers.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

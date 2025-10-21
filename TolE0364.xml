@@ -25,7 +25,18 @@
 <l>cāreṉ kiḷavi kāḻvayiṉ valikkum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>If the word <foreign xml:lang="ta">cār</foreign> is followed by <foreign xml:lang="ta">kāḻ,</foreign> the plosive is inserted.<note place="foot"><foreign xml:lang="ta">Cārkkāḷ</foreign> ' the seed of the cār-tree '.</note></l>
+=======
+<<<<<<< HEAD
+<l>If the word <foreign xml:lang="ta">cār</foreign> is followed by <foreign xml:lang="ta">kāḻ,</foreign> the plosive is inserted.<note
+              place="foot"><foreign xml:lang="ta">Cārkkāḷ</foreign> ' the seed of the cār-tree '.</note></l>
+=======
+<l>The words <foreign xml:lang="ta">ār</foreign> ' mountain ebony ', <foreign xml:lang="ta">vetir</foreign> ' bamboo ', <foreign xml:lang="ta">cār</foreign> ' a tree '</l>
+<l>and <foreign xml:lang="ta">pīr</foreign> ' a tree ' exhibit the occurence of nasal</l>
+<l>[before a plosive].<note place="foot">e.g. <foreign xml:lang="ta">ārṅkōṭu, vetirñcetiḷ, cārṅtōl, pīrmpū.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

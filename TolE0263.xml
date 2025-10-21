@@ -26,9 +26,19 @@
 <l>moṟṟiṭai mikāa valleḻut tiyaṟkai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The final [<foreign xml:lang="ta">u</foreign>] commencing with a demonstrative stands</l>
 <l>in the nature of case-relation.</l>
+<<<<<<< Updated upstream
 <l>The plosive consonant will not double.<note place="foot">i.e., <foreign xml:lang="ta">atu, itu, utu</foreign> get the empty-morph <foreign xml:lang="ta">aṉ : atu + kōṭu &gt; ataṉkōṭu.</foreign></note></l>
+=======
+<l>The plosive consonant will not double.<note
+              place="foot">i.e., <foreign xml:lang="ta">atu, itu, utu</foreign> get the empty-morph <foreign xml:lang="ta">aṉ : atu + kōṭu &gt; ataṉkōṭu.</foreign></note></l>
+=======
+<l>The word <foreign xml:lang="ta">oṭu</foreign> [denoting] a tree is like <foreign xml:lang="ta">uti</foreign> [denoting] a tree.<note place="foot"><foreign xml:lang="ta">oṭu,</foreign> Cleisthanthus collinus ;
+          round-leaved discous feather-foil <foreign xml:lang="ta">(TL).</foreign> Ex. : <foreign xml:lang="ta">oṭu + kōṭu &gt; oṭuṅkōṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

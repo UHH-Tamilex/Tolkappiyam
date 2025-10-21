@@ -26,9 +26,14 @@
 <l>mallatu kiḷappiṉum vēṟṟumai yiyala</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Even in non-case-relationship, <foreign xml:lang="ta">nel</foreign> ' paddy ', <foreign xml:lang="ta">cel</foreign> ' white ant ',</l>
 <l><foreign xml:lang="ta">kol</foreign> ' killing ' and <foreign xml:lang="ta">col</foreign> ' word ' follow the rules of case-relationship.<note place="foot">e.g. <foreign xml:lang="ta">nel + tītu &gt; neṟṟītu</foreign> ' paddy is
           bad ', <foreign xml:lang="ta">col + kaṭitu &gt; coṟkaṭitu</foreign> ' the word is heavy '.</note></l>
+=======
+<l>There exist cases where there is no change with the vowel</l>
+<l>preceding final [<foreign xml:lang="ta">-l</foreign>] being long.<note place="foot"><foreign xml:lang="ta">Pāl + tītu &gt; pāl tītu</foreign> ' the milk is bad '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

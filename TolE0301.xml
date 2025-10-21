@@ -25,7 +25,18 @@
 <l>āvayiṉ valleḻuttu mikutalu murittē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>It is proper that, in such case, the plosive is inserted, too.<note place="foot">i.e. <foreign xml:lang="ta">verin + kurai &gt; verikkurai.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>It is proper that, in such case, the plosive is inserted, too.<note
+              place="foot">i.e. <foreign xml:lang="ta">verin + kurai &gt; verikkurai.</foreign></note></l>
+=======
+<l>When the final [part] of the word <foreign xml:lang="ta">verin</foreign> disappears entirely,</l>
+<l>the corresponding nasal occurs in its place.<note place="foot">i.e. the <foreign xml:lang="ta">-n</foreign> of <foreign xml:lang="ta">
+                verin</foreign> ' back ' assimilates to the following plosive, e.g. <foreign xml:lang="ta">verin + kuṛai &gt; veriṅkurai.</foreign> Cf. also Akam 37. 10: <foreign xml:lang="ta">veyil verinniṟutta &gt; veyil veri niṟutta.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

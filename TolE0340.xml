@@ -28,10 +28,20 @@
 <l>valleḻuttu mikuvaḻi yiṟuti yillai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the word <foreign xml:lang="ta">tēṉ</foreign> ' honey ' is followed by a plosive,</l>
 <l>it will either have the above-described change or the doubling</l>
 <l>of the plosive ; the two rules are both appropriate ;</l>
+<<<<<<< Updated upstream
 <l>when the plosive doubles, there is no final [<foreign xml:lang="ta">ṉ</foreign>].<note place="foot">i.e. <foreign xml:lang="ta">tēṉ + kuṭam &gt; tēṉkuṭam / tēṟkuṭam | tēkkuṭam.</foreign></note></l>
+=======
+<l>when the plosive doubles, there is no final [<foreign xml:lang="ta">ṉ</foreign>].<note
+              place="foot">i.e. <foreign xml:lang="ta">tēṉ + kuṭam &gt; tēṉkuṭam / tēṟkuṭam | tēkkuṭam.</foreign></note></l>
+=======
+<l>In the word <foreign xml:lang="ta">mīṉ</foreign> ' fish ', [<foreign xml:lang="ta">ṉ</foreign>] is optionally changed to plosive [<foreign xml:lang="ta">ṟ</foreign>].<note place="foot">e.g. <foreign xml:lang="ta">mīṉ + kaṇ &gt; mīṉkaṇ | mīṟkaṇ.
+              </foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

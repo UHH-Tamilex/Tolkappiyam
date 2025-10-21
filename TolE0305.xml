@@ -27,9 +27,23 @@
 <l>ceyyuṇ maruṅkiṟ ṟoḻilvaru kālai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>When the noun <foreign xml:lang="ta">viṇ</foreign> which denotes sky<note place="foot"><foreign xml:lang="ta">kāyam,</foreign> i.e. <foreign xml:lang="ta">ākāyam &lt;</foreign> Skt. <foreign xml:lang="sa">ākāsa.</foreign></note></l>
 <l>occurs in poetry [and] is followed by verb,</l>
 <l>it is proper that the empty morph <foreign xml:lang="ta">attu</foreign> be inserted.<note place="foot">e.g. <foreign xml:lang="ta">viṇṇakattuk koṭkum.</foreign></note></l>
+=======
+<<<<<<< HEAD
+<l>When the noun <foreign xml:lang="ta">viṇ</foreign> which denotes sky<note
+              place="foot"><foreign xml:lang="ta">kāyam,</foreign> i.e. <foreign xml:lang="ta">ākāyam &lt;</foreign> Skt. <foreign xml:lang="sa">ākāsa.</foreign></note></l>
+<l>occurs in poetry [and] is followed by verb,</l>
+<l>it is proper that the empty morph <foreign xml:lang="ta">attu</foreign> be inserted.<note
+              place="foot">e.g. <foreign xml:lang="ta">viṇṇakattuk koṭkum.</foreign></note></l>
+=======
+<l>The word <foreign xml:lang="ta">āṇ</foreign> [denoting] a tree behaves like <foreign xml:lang="ta">arai</foreign> [denoting]</l>
+<l>a tree.<note place="foot">i.e. <foreign xml:lang="ta">āṇ + pū &gt; āṇampū</foreign> like <foreign xml:lang="ta">araiyampū ; āṇ,</foreign> according to Tamil lexico-graphers, denotes the marking nut-tree <foreign xml:lang="ta">cēmaram),</foreign>
+          and a class of trees whose interior is hard and solid, suitable for timber ; <foreign xml:lang="ta">arai</foreign> is probably pipal (<foreign xml:lang="la">Ficus religiosa</foreign>).</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

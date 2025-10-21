@@ -25,8 +25,18 @@
 <l>mīṉeṉ kiḷavi valleḻut tuṟaḻvē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>In the word <foreign xml:lang="ta">mīṉ</foreign> ' fish ', [<foreign xml:lang="ta">ṉ</foreign>] is optionally changed to plosive [<foreign xml:lang="ta">ṟ</foreign>].<note place="foot">e.g. <foreign xml:lang="ta">mīṉ + kaṇ &gt; mīṉkaṇ | mīṟkaṇ.
+=======
+<<<<<<< HEAD
+<l>In the word <foreign xml:lang="ta">mīṉ</foreign> ' fish ', [<foreign xml:lang="ta">ṉ</foreign>] is optionally changed to plosive [<foreign xml:lang="ta">ṟ</foreign>].<note
+              place="foot">e.g. <foreign xml:lang="ta">mīṉ + kaṇ &gt; mīṉkaṇ | mīṟkaṇ.
+>>>>>>> Stashed changes
               </foreign></note></l>
+=======
+<l>All words [ending in <foreign xml:lang="ta">ṉ</foreign> and] denoting social groups</l>
+<l>are of the same nature as words denoting social groups [ending in <foreign xml:lang="ta">ṇ</foreign>].<note place="foot">Cf. No 308. E.g. <foreign xml:lang="ta">eyiṉ + kuṭi &gt; eyiṉkuṭi</foreign> ' the hunting-tribe family '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

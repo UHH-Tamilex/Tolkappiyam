@@ -26,8 +26,17 @@
 <l>māvayiṉ valleḻut tiyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The single-lettered word <foreign xml:lang="ta">nī</foreign> behaves as before case-suffixes.</l>
+<<<<<<< Updated upstream
 <l>In that case no plosive is inserted.<note place="foot">I.e. <foreign xml:lang="ta">nī + kai &gt; niṉ kai. 253-4</foreign> deal with case-relationship.</note></l>
+=======
+<l>In that case no plosive is inserted.<note
+              place="foot">I.e. <foreign xml:lang="ta">nī + kai &gt; niṉ kai. 253-4</foreign> deal with case-relationship.</note></l>
+=======
+<l>The same is the case even in case-relationship.<note place="foot">E.g. <foreign xml:lang="ta">ī + talai &gt; īttalai</foreign> ' the head of a fly '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

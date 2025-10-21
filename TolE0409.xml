@@ -26,10 +26,25 @@
 <l>tollai yiyaṟkai nilaiyalu murittē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The original nature of the ' voiceless stop-sequence word '</l>
 <l>may remain as such if the coming word begins with a voiceless</l>
+<<<<<<< Updated upstream
 <l>stop.<note place="foot">I.e, the overshort <foreign xml:lang="ta">u</foreign> at the end of the <foreign xml:lang="ta">valloṟṟuttoṭarmoḻi</foreign> remains when followed by a voiceless
           occlusive, e.g. <foreign xml:lang="ta">kokkuk kaṭitu</foreign> (non-case) or <foreign xml:lang="ta">kokkuk kaṭumai</foreign> (case).</note></l>
+=======
+<l>stop.<note
+              place="foot">I.e, the overshort <foreign xml:lang="ta">u</foreign> at the end of the <foreign
+                xml:lang="ta">valloṟṟuttoṭarmoḻi</foreign> remains when followed by a voiceless
+          occlusive, e.g. <foreign xml:lang="ta">kokkuk kaṭitu</foreign> (non-case) or <foreign
+                xml:lang="ta">kokkuk kaṭumai</foreign> (case).</note></l>
+=======
+<l>Both in non-case relationship and in case-relationship,</l>
+<l>in all [the above-mentioned six kinds of words]</l>
+<l>[the shortened] <foreign xml:lang="ta">u</foreign> stands finally.<note place="foot">E.g., <foreign xml:lang="ta">nāku kaṭitu, varaku kaṭitu</foreign> (both <foreign xml:lang="ta">allatu kiḷappiṉ,</foreign> in non-case relationship), <foreign xml:lang="ta">nāku kaṭumai, varaku kaṭumai</foreign> (both <foreign xml:lang="ta">
+          vēṟṟumaikkaṇ,</foreign> in case-relationship).</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

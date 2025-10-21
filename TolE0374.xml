@@ -27,8 +27,17 @@
 <l>yukaraṅ keṭuvaḻi yakara nilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When <foreign xml:lang="ta">nāy</foreign> ' dog '<note place="foot">The word 'dog' also means gambling coins. e.g. <foreign xml:lang="ta-Taml">நாயிடக் குழிந்த வல்லி னல்லகம் (புறநா. 52)</foreign> Ed.</note> and <foreign xml:lang="ta">palakai</foreign> ' board ' come [after <foreign xml:lang="ta">val</foreign>],</l>
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">u</foreign> may disappear in such position, [and] when <foreign xml:lang="ta">u</foreign> disappears, <foreign xml:lang="ta">a</foreign> will occur.<note place="foot">i.e. <foreign xml:lang="ta">vallanāv </foreign>' a piece ' (' dog ') in dice '; <foreign xml:lang="ta">vallappalakai</foreign> ' gambling board '.</note></l>
+=======
+<l><foreign xml:lang="ta">u</foreign> may disappear in such position, [and] when <foreign xml:lang="ta">u</foreign> disappears, <foreign xml:lang="ta">a</foreign> will occur.<note
+              place="foot">i.e. <foreign xml:lang="ta">vallanāv </foreign>' a piece ' (' dog ') in dice '; <foreign xml:lang="ta">vallappalakai</foreign> ' gambling board '.</note></l>
+=======
+<l>The word <foreign xml:lang="ta">val</foreign> ' dice ' behaves like the verbal nouns.<note place="foot">i.e. <foreign xml:lang="ta">val-l-u-k--kaṭitu</foreign> etc.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

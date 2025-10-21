@@ -27,8 +27,13 @@
 <l>mappāṉ moḻika  ḷalvaḻi yāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The consonant is doubled after a long vowel ;</l>
 <l>[but] not in words of that type.</l>
+=======
+<l>The empty-morph <foreign xml:lang="ta">iṉ</foreign> appears completely</l>
+<l>after [words] ending in over-short <foreign xml:lang="ta">u.</foreign><note place="foot">E.g. <foreign xml:lang="ta">varakiṉai, nākiṉoṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>
