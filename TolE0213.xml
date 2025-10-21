@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>213</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,9 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>The final of the words denoting ' many '</l>
-<l>may be lenghtened in some compounds in poetry.<note
-              place="foot">E.g. instead of<foreign xml:lang="ta">palacila</foreign> one may have <foreign
-                xml:lang="ta">palāañcilāa pulavar ;</foreign> the <foreign xml:lang="ta">pala cila</foreign>
+<l>may be lenghtened in some compounds in poetry.<note place="foot">E.g. instead of<foreign xml:lang="ta">palacila</foreign> one may have <foreign xml:lang="ta">palāañcilāa pulavar ;</foreign> the <foreign xml:lang="ta">pala cila</foreign>
           is considered a <foreign xml:lang="ta">cevveṇ,</foreign> i.e. enumeration of series of
           items with the conjunctive particle ' under-stood '. It seems that <foreign xml:lang="ta">ceyyuḷ</foreign> ' poetry ' has preserved here some older forms (<foreign xml:lang="ta">palām, cilām).</foreign></note></l>
       </lg>

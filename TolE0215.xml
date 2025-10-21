@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+        <title><title xml:lang="ta">Tolkāppiyam Eḻuttatikāram</title> <num>215</num>.</title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -16,7 +10,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,8 +27,7 @@
       <lg xml:lang="en">
 <l>The quality [of <foreign xml:lang="ta">p</foreign> and <foreign xml:lang="ta">c</foreign> after <foreign xml:lang="ta">pala</foreign> and <foreign xml:lang="ta">cila</foreign> when</l>
 <l>followed by identical words] is optionally changed</l>
-<l>into a [long] plosive.<note
-              place="foot">The optional nature of the change is implied by the term <foreign xml:lang="ta">uṟaḻa</foreign> (cf. TL I, p. 482), i.e. <foreign xml:lang="ta">palapala ~ palappala, cilacila ~ cilaccila.</foreign></note></l>
+<l>into a [long] plosive.<note place="foot">The optional nature of the change is implied by the term <foreign xml:lang="ta">uṟaḻa</foreign> (cf. TL I, p. 482), i.e. <foreign xml:lang="ta">palapala ~ palappala, cilacila ~ cilaccila.</foreign></note></l>
       </lg>
     </div>
   </body>

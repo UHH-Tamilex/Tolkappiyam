@@ -100,11 +100,11 @@ i–ḷ: ― mā eṉṉuñ col viyaṅkōṭkaṇ acainilaiyāki varum, e–ṟ
       <p>
 u–m: ― uppiṉṟu ―
       </p>
-      <lg xml:id="TolC270-Tey-cit1">
+      <lg xml:id="TolC273-Tey-cit1">
         <l>puṟkai yuṇkamā koṟkai yōṉē.</l>
       </lg>
-      <lg xml:id="TolC270-Tey-cit2">
-        <l><sic>ōrmā</sic>tōḻiya<sic>vātōr</sic>maṇikkural<app><note>akam 273</note></app></l>
+      <lg xml:id="TolC273-Tey-cit2">
+        <l><sic>ōrmā</sic>tōḻiyavartērmaṇikkural<app><note>akam 273</note></app></l>
       </lg>
       <p> 
 eṉa varum.	[24]
@@ -263,7 +263,7 @@ eṉa varum.	[24]
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit1" type="wordsplit">
+</standOff><standOff corresp="#TolC273-Tey-cit1" type="wordsplit">
 <interp type="alignment" select="0">22MG2M,24MG</interp>
 <entry>
 <form>puṟkai</form>
@@ -296,5 +296,56 @@ eṉa varum.	[24]
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC273-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">26M,26M</interp>
+<entry>
+<form>ōr</form>
+<def>one</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>mā</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avar</form>
+<def>he</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇi<c type="geminated">k</c></form>
+<def>bell</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kural</form>
+<def>voice</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 </standOff></TEI>
