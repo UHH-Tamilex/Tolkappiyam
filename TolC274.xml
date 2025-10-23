@@ -217,4 +217,801 @@ eṉavarum. ivai kēḷ, kāṇ, moḻi, cel, (kāṇ) pūṇ eṉṉum poruṭk
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC274" type="wordsplit">
+<interp type="alignment" select="0">35M2G2ML17M,56MG</interp>
+<entry>
+<form>miyā</form>
+<def>the word miyā</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ika</form>
+<def>the word ika</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mō</form>
+<def>the word mō</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mati</form>
+<def>the word mati</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ikum</form>
+<def>the word ikum</def>
+<form type="sandhi"><c type="glide">y</c>ikuñ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉ</form>
+<def>the word ciṉ</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āvayiṉ</form>
+<def>in that place</def>
+</entry>
+<entry>
+<form>āṟ<c type="elided">u</c>-um</form>
+<def>six</def>
+<form type="simple">āṟu</form>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>before</def>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<form type="sandhi">ṉilai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>acai<c type="geminated">c</c></form>
+<def>move</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">9M,G7MG</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">5MG19M,G23MG</interp>
+<entry>
+<form>taṇṭ<c type="elided">u</c></form>
+<def>staff</def>
+<form type="sandhi">taṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟai</form>
+<def>drip</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūra</form>
+<def>village-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+<form type="sandhi">yāṅ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭika</form>
+<def>may see</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit3" type="wordsplit">
+<interp type="alignment" select="0">25MG2M,G26MG</interp>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<form type="sandhi">kāmañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceppātu</form>
+<def>say-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭatu</form>
+<def>seen-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻim-ō</form>
+<def>speak</def>
+<form type="simple">moḻim</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit4" type="wordsplit">
+<interp type="alignment" select="0">15M,G13MG</interp>
+<entry>
+<form>ceṉmati</form>
+<def>go</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peruma</form>
+<def>great-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit5" type="wordsplit">
+<interp type="alignment" select="0">25MG2M,G26MG</interp>
+<entry>
+<form>mellam</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulampa</form>
+<def>one from the maritime tract</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭikum</form>
+<def>we saw</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yām-ē</form>
+<def>we</def>
+<form type="simple">yām</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Ilam-cit6" type="wordsplit">
+<interp type="alignment" select="0">5M2G15MG11M,G32MG</interp>
+<entry>
+<form>kāpp<c type="elided">u</c>-um</form>
+<def>guarding</def>
+<form type="simple">kāppu</form>
+<form type="sandhi">kāpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūṇṭiciṉ</form>
+<def>take on</def>
+<form type="sandhi">pūṇṭiciṟ</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai-<c type="glide">y</c>um</form>
+<def>limit</def>
+<form type="simple">kaṭai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pōkalai</form>
+<def>you don't see</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>ceṉmiyā</form>
+<def>go</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">26M,G23M2G</interp>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṉṟika</form>
+<def>may remove</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟi</form>
+<def>say-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">25MG3M,G26M2G</interp>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<form type="sandhi">kāmañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceppātu</form>
+<def>say-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭatu</form>
+<def>seen-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻim-ō</form>
+<def>speak</def>
+<form type="simple">moḻim</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit5" type="wordsplit">
+<interp type="alignment" select="0">13MG10M,G21M2G</interp>
+<entry>
+<form>uraimati</form>
+<def>speak</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi-<c type="glide">y</c>ō</form>
+<def>live-you</def>
+<form type="simple">vāḻi</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>valava</form>
+<def>charioteer</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit6" type="wordsplit">
+<interp type="alignment" select="0">24M,G21M2G</interp>
+<entry>
+<form>mellam</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulampa</form>
+<def>one from the maritime tract</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭikum</form>
+<def>we saw</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Cena-cit7" type="wordsplit">
+<interp type="alignment" select="0">5M2G15MG11M,G32MG</interp>
+<entry>
+<form>kāpp<c type="elided">u</c>-um</form>
+<def>guarding</def>
+<form type="simple">kāppu</form>
+<form type="sandhi">kāpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūṇṭiciṉ</form>
+<def>take on</def>
+<form type="sandhi">pūṇṭiciṟ</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai-<c type="glide">y</c>um</form>
+<def>limit</def>
+<form type="simple">kaṭai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pōkalai</form>
+<def>you don't go</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">7M,7M</interp>
+<entry>
+<form>ceṉmiyā</form>
+<def>go</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">26M,G23M2G</interp>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṉṟika</form>
+<def>may remove</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟi</form>
+<def>say-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit4" type="wordsplit">
+<interp type="alignment" select="0">25MG3M,G26M2G</interp>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<form type="sandhi">kāmañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceppātu</form>
+<def>say-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭatu</form>
+<def>seen-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻim-ō</form>
+<def>speaks</def>
+<form type="simple">moḻim</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit5" type="wordsplit">
+<interp type="alignment" select="0">13MG9M,G21MG</interp>
+<entry>
+<form>uraimati</form>
+<def>speak</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi-<c type="glide">y</c>ō</form>
+<def>live-you</def>
+<form type="simple">vāḻi</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>valava</form>
+<def>charioteer</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit6" type="wordsplit">
+<interp type="alignment" select="0">23M,G21MG</interp>
+<entry>
+<form>mellam</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulampa</form>
+<def>one from the maritime tract</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭikum</form>
+<def>we saw</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Nacc-cit7" type="wordsplit">
+<interp type="alignment" select="0">5M2G15M2G11M,G33MG</interp>
+<entry>
+<form>kāpp<c type="elided">u</c>-um</form>
+<def>guarding</def>
+<form type="simple">kāppu</form>
+<form type="sandhi">kāpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūṇṭiciṉ</form>
+<def>take on</def>
+<form type="sandhi">pūṇṭiciṟ</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai<c type="elided">u</c>-<c type="glide">y</c>um</form>
+<def>limit</def>
+<form type="simple">kaṭaiu</form>
+<form type="sandhi">kaṭai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pōkalai</form>
+<def>you don't go</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">8M,7MG</interp>
+<entry>
+<form>kēṇmiyā</form>
+<def>listen</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">4MG16M,20MG</interp>
+<entry>
+<form>taṇṭ<c type="elided">u</c></form>
+<def>staff</def>
+<form type="sandhi">taṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟai</form>
+<def>drip</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūra</form>
+<def>village-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭika</form>
+<def>may see</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit3" type="wordsplit">
+<interp type="alignment" select="0">24MG2M,26MG</interp>
+<entry>
+<form>kāmam</form>
+<def>desire</def>
+<form type="sandhi">kāmañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceppātu</form>
+<def>say-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭatu</form>
+<def>seen-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻim-ō</form>
+<def>speaks</def>
+<form type="simple">moḻim</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit4" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>ceṉmati</form>
+<def>go</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peruma</form>
+<def>great one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit5" type="wordsplit">
+<interp type="alignment" select="0">22M,21MG</interp>
+<entry>
+<form>mellam</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulampa</form>
+<def>become lonely</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṭikum</form>
+<def>we saw</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC274-Tey-cit6" type="wordsplit">
+<interp type="alignment" select="0">4M2G15MG8M,30M</interp>
+<entry>
+<form>kāpp<c type="elided">u</c>-um</form>
+<def>guarding</def>
+<form type="simple">kāppu</form>
+<form type="sandhi">kāpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pūṇṭiciṉ</form>
+<def>take on</def>
+<form type="sandhi">pūṇṭiciṟ</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai-<c type="glide">y</c>um</form>
+<def>end</def>
+<form type="simple">kaṭai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pōkal</form>
+<def>going</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
