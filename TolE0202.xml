@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,7 +40,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0202"><interp type="alignment" select="0">11MG16MG76MG3MG2M,112M</interp>
+<standOff type="wordsplit" corresp="#TolE0202">
+<interp type="alignment" select="0">11MG16MG65MG11MG3MG2M,113M</interp>
 <entry>
 <form>puḷḷi</form>
 <def>consonant</def>
@@ -148,12 +151,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nilaiyum</form>
+<form>nilai-<c type="glide">y</c>um</form>
 <def>remining permanent</def>
-<form type="sandhi">nilaiyuṅ</form>
+<form type="simple">nilai</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kaṭappāṭ<c type="elided">u</c></form>
@@ -171,5 +175,6 @@
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>

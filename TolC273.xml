@@ -98,9 +98,10 @@ eṉavarum.   <num xml:lang="en">(25)</num>
 i–ḷ: ― mā eṉṉuñ col viyaṅkōṭkaṇ acainilaiyāki varum, e–ṟu
       </p>
       <p>
-u–m: ― uppiṉṟu ―
+u–m: ―
       </p>
       <lg xml:id="TolC273-Tey-cit1">
+        <l>uppiṉṟu —</l>
         <l>puṟkai yuṇkamā koṟkai yōṉē.</l>
       </lg>
       <lg xml:id="TolC273-Tey-cit2">
@@ -264,7 +265,21 @@ eṉa varum.	[24]
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC273-Tey-cit1" type="wordsplit">
-<interp type="alignment" select="0">22MG2M,24MG</interp>
+<interp type="alignment" select="0">3MG27MG2M,8MG24MG</interp>
+<entry>
+<form>upp<c type="elided">u</c></form>
+<def>salt</def>
+<form type="sandhi">upp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟu</form>
+<def>without</def>
+<gramGrp>
+</gramGrp>
+</entry>
 <entry>
 <form>puṟkai</form>
 <def>porridge</def>
