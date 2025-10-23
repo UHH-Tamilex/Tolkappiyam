@@ -36,7 +36,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0480"><interp type="alignment" select="0">33MG42MG7M2GM,87M</interp>
+<standOff type="wordsplit" corresp="#TolE0480">
+<interp type="alignment" select="0">33MG42MG7M2GM,87M</interp>
 <entry>
 <form>iraṇṭu</form>
 <def>the word 'iraṇṭu' - two</def>
@@ -150,5 +151,6 @@
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
