@@ -25,8 +25,20 @@
 <l>alvaḻi yellā muṟaḻeṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said that in all [cases of] non-case-relationship</l>
+<<<<<<< Updated upstream
 <l>it behaves in either way.<note place="foot">i.e. it is optionally changed to <foreign xml:lang="ta">ṭ : muḻ + ciṟitu &gt; muṭciṟitu.</foreign></note></l>
+=======
+<l>it behaves in either way.<note
+              place="foot">i.e. it is optionally changed to <foreign xml:lang="ta">ṭ : muḻ + ciṟitu &gt; muṭciṟitu.</foreign></note></l>
+=======
+<l>If nasals occur, it will be changed to <foreign xml:lang="ta">ṇ.</foreign><note place="foot">e.g. <foreign xml:lang="ta">muḻ + maram &gt; muṇmaram.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

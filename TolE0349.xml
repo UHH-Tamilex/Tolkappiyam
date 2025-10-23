@@ -25,7 +25,25 @@
 <l>ciṟappoṭu varuvaḻi yiyaṟkai yākum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>If preceded by qualifiers,<note place="foot"><foreign xml:lang="ta">Ciṟappu.</foreign></note> there is no change.<note place="foot">Cf. <foreign xml:lang="ta">peruñcāttaṉtantai</foreign> ' big Cāttaṉ's father '.</note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>If preceded by qualifiers,<note
+              place="foot"><foreign xml:lang="ta">Ciṟappu.</foreign></note> there is no change.<note
+              place="foot">Cf. <foreign xml:lang="ta">peruñcāttaṉtantai</foreign> ' big Cāttaṉ's father '.</note></l>
+=======
+<l><foreign xml:lang="ta">Ātaṉ</foreign> and <foreign xml:lang="ta">pūtaṉ,</foreign> besides the above-described changes,</l>
+<l>will also discard [their] consonants and the sound <foreign xml:lang="ta">a</foreign></l>
+<l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

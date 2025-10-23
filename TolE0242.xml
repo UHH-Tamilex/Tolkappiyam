@@ -26,8 +26,22 @@
 <l>mavviya ṉilaiyal cevvi teṉpa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>They say that it is most appropriate that the word</l>
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">vaḷi</foreign> when denoting an element<note place="foot"><foreign xml:lang="ta">pūtakkiḷavi ; pūtam</foreign> ' one of the five elements ' ; <foreign xml:lang="ta">vaḷi = kāṟṟu.</foreign></note> is of the same nature.<note place="foot">E.g. <foreign xml:lang="ta">vaḷiyattuppōyiṉāṉ' / vaḷiyiṟpōyiṉāṉ.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">vaḷi</foreign> when denoting an element<note
+              place="foot"><foreign xml:lang="ta">pūtakkiḷavi ; pūtam</foreign> ' one of the five elements ' ; <foreign xml:lang="ta">vaḷi = kāṟṟu.</foreign></note> is of the same nature.<note
+              place="foot">E.g. <foreign xml:lang="ta">vaḷiyattuppōyiṉāṉ' / vaḷiyiṟpōyiṉāṉ.</foreign></note></l>
+=======
+<l>The word <foreign xml:lang="ta">paṉi</foreign> denoting [dewy] season takes</l>
+<l>the empty-morphs <foreign xml:lang="ta">attu</foreign> and <foreign xml:lang="ta">iṉ</foreign> in case-relationship.<note place="foot">i.e., e.g. <foreign xml:lang="ta">paṉiyattucceṉṟāṉ</foreign> or <foreign xml:lang="ta">paṉiyirceṉṟāṉ</foreign> ' he went in the dewy season '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

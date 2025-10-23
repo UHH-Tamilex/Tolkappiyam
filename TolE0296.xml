@@ -28,10 +28,27 @@
 <l>yukaram varuta lāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When an occlusive occurs, in case-relationship or otherwise,</l>
 <l>after a verbal<note place="foot"><foreign xml:lang="ta">toḻirpeyar.</foreign></note> ending in <foreign xml:lang="ta">-ñ</foreign>,</l>
 <l>that (occlusive) consonant doubles</l>
+<<<<<<< Updated upstream
 <l>and <foreign xml:lang="ta">u</foreign> is inserted there.<note place="foot">e.g. <foreign xml:lang="ta">uriñ + peritu &gt; uriñ-u-p-peritu.</foreign></note></l>
+=======
+<l>and <foreign xml:lang="ta">u</foreign> is inserted there.<note
+              place="foot">e.g. <foreign xml:lang="ta">uriñ + peritu &gt; uriñ-u-p-peritu.</foreign></note></l>
+=======
+<l>After nouns ending in <foreign xml:lang="ta">au</foreign></l>
+<l>the appearance of plosives is not forbidden</l>
+<l>either in case-relationship or in non-case relationship.</l>
+<l>Great scholars opine that it is preferable</l>
+<l>to insert <foreign xml:lang="ta">u</foreign> in both cases.<note place="foot">i.e., after the two words <foreign xml:lang="ta">kau</foreign> ' seizing ' and <foreign xml:lang="ta">vau</foreign> ' snatching ', one may either double the
+          plosive or insert <foreign xml:lang="ta">u,</foreign> but the second alternative is preferable : <foreign xml:lang="ta">kau + kaṭitu &gt; kauvukkaṭitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

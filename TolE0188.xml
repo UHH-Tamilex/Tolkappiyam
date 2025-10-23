@@ -30,11 +30,23 @@
 <l>mēṉai yiraṇṭu neṭumutal kuṟukum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The endings of <foreign xml:lang="ta">tām</foreign> and <foreign xml:lang="ta">nām</foreign></l>
 <l>and the ending of <foreign xml:lang="ta">yām</foreign> are the same as that [i.e. <foreign xml:lang="ta">num</foreign>] ;</l>
 <l><foreign xml:lang="ta">ā</foreign> becomes <foreign xml:lang="ta">e</foreign> in <foreign xml:lang="ta">yām</foreign> ;</l>
 <l>there the sound <foreign xml:lang="ta">y</foreign> must disappear ;</l>
+<<<<<<< Updated upstream
 <l>and the other two have the long stem-vowel shortened.<note place="foot">Exx. : <foreign xml:lang="ta">tām + ai &gt; tammai ; nām + oṭu &gt; nammoṭu;yām + oṭu &gt; emmoṭu.</foreign></note></l>
+=======
+<l>and the other two have the long stem-vowel shortened.<note
+              place="foot">Exx. : <foreign xml:lang="ta">tām + ai &gt; tammai ; nām + oṭu &gt; nammoṭu;yām + oṭu &gt; emmoṭu.</foreign></note></l>
+=======
+<l>The ending of <foreign xml:lang="ta">num</foreign> has no change.<note place="foot"><foreign xml:lang="ta">iyarkaiyākum</foreign> i.e. will have no empty-morph, e.g. <foreign xml:lang="ta">num-m-oṭu.</foreign> </note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

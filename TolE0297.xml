@@ -25,7 +25,25 @@
 <l>ñanamava viyaiyiṉu mukara nilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>And when <foreign xml:lang="ta">ñ, n, m, v</foreign> occur, <foreign xml:lang="ta">u</foreign> [alone] will stand [there].<note place="foot">e.g. <foreign xml:lang="ta">uriñ + valitu &gt; uriñ-u-valitu.</foreign></note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>And when <foreign xml:lang="ta">ñ, n, m, v</foreign> occur, <foreign xml:lang="ta">u</foreign> [alone] will stand [there].<note
+              place="foot">e.g. <foreign xml:lang="ta">uriñ + valitu &gt; uriñ-u-valitu.</foreign></note></l>
+=======
+<l>When an occlusive occurs, in case-relationship or otherwise,</l>
+<l>after a verbal<note place="foot"><foreign xml:lang="ta">toḻirpeyar.</foreign></note> ending in <foreign xml:lang="ta">-ñ</foreign>,</l>
+<l>that (occlusive) consonant doubles</l>
+<l>and <foreign xml:lang="ta">u</foreign> is inserted there.<note place="foot">e.g. <foreign xml:lang="ta">uriñ + peritu &gt; uriñ-u-p-peritu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

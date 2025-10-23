@@ -27,8 +27,21 @@
 <l>yiṉmai vēṇṭu meṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The scholars say that it (i.e. <foreign xml:lang="ta">m</foreign>) must disappear</l>
+<<<<<<< Updated upstream
 <l>when followed by a nasal or a semi-vowel.<note place="foot">E.g. <foreign xml:lang="ta">puḷiyañeri, puḷiyanuni, puḷiyamuṟi, puḷiyayāḻ, puḷiyavaṭṭu.</foreign></note></l>
+=======
+<l>when followed by a nasal or a semi-vowel.<note
+              place="foot">E.g. <foreign xml:lang="ta">puḷiyañeri, puḷiyanuni, puḷiyamuṟi, puḷiyayāḻ, puḷiyavaṭṭu.</foreign></note></l>
+=======
+<l>When the end of <foreign xml:lang="ta">am</foreign> occurs before <foreign xml:lang="ta">k, c, t</foreign></l>
+<l>its consonant changes becoming <foreign xml:lang="ta">ṅ, ñ, n.</foreign><note place="foot">E.g. <foreign xml:lang="ta">puḷiyaṅkōṭu, puḷiyañceṭil, puḷiyantōl.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

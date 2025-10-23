@@ -26,8 +26,25 @@
 <l>lotta teṉpa viraṇṭuvaru kālai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said : if <foreign xml:lang="ta">iraṇṭu</foreign> ' two ' occurs, <foreign xml:lang="ta">-ttu</foreign> in <foreign xml:lang="ta">pattu</foreign> disappears, and <foreign xml:lang="ta">ṉṉ</foreign></l>
+<<<<<<< Updated upstream
 <l>is inserted.<note place="foot">I.e. <foreign xml:lang="ta">pattu + iraṇṭu &gt; paṉṉiraṇṭu</foreign> ' twelve '.</note></l>
+=======
+<l>is inserted.<note
+              place="foot">I.e. <foreign xml:lang="ta">pattu + iraṇṭu &gt; paṉṉiraṇṭu</foreign> ' twelve '.</note></l>
+=======
+<l>If all the words denoting numbers from <foreign xml:lang="ta">oṉṟu</foreign> ' one ' to <foreign xml:lang="ta">eṭṭu</foreign> ' eight '</l>
+<l>succeed <foreign xml:lang="ta">pattu</foreign> ' ten ', the overshort <foreign xml:lang="ta">-u</foreign> disappears with [its] con-</l>
+<l>sonant ; the empty morph <foreign xml:lang="ta">iṉ</foreign> is inserted ; this [rule] does not ap-</l>
+<l>ply to [the numeral] <foreign xml:lang="ta">iraṇṭu</foreign> ' two '.<note place="foot">I.e. <foreign xml:lang="ta">pattu + oṉṟu &gt; pat-iṉ-oṉṟu; pattu + mūṉṟu
+          &gt; patiṉmūṉṟu...pattu + eṭṭu &gt; patiṉeṭṭu ;</foreign> but <foreign xml:lang="ta">
+          paṉṉiraṇṭu,</foreign> cf. the next aphorism.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

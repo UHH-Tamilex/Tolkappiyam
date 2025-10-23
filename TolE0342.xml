@@ -25,9 +25,21 @@
 <l>melleḻut tiyaiyi ṉiṟutiyo ṭuṟaḻum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>When a nasal occurs, it will optionally disappear.<note place="foot">i.e. when, after <foreign xml:lang="ta">tēn,</foreign> a word beginning
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>When a nasal occurs, it will optionally disappear.<note
+              place="foot">i.e. when, after <foreign xml:lang="ta">tēn,</foreign> a word beginning
+>>>>>>> Stashed changes
           with a nasal occurs, the <foreign xml:lang="ta">-ṉ,</foreign> of <foreign xml:lang="ta">
           tēṉ</foreign> may be dropped, e.g. <foreign xml:lang="ta">tēṉ + ñeri &gt; tēñeri.</foreign></note></l>
+=======
+<l>It is no error even when the nasal appears.<note place="foot">Accord. to an additional rule, <foreign xml:lang="ta">tēṉ + kuṭam &gt; tēṅkuṭam.</foreign> Cf. comment.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

@@ -26,11 +26,16 @@
 <l>muṟpaṭak kiḷanta vurupiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>[Words] ending in the sound <foreign xml:lang="ta">-v</foreign> and commencing with demonstratives</l>
 <l>behave as when followed by case-markers, as explained above.<note place="foot">i.e. <foreign xml:lang="ta">av</foreign> ' those things ', <foreign xml:lang="ta">iv</foreign> ' these things ', <foreign xml:lang="ta">uv</foreign> '
           those [intermediate] things ' get the empty morph <foreign xml:lang="ta">vaṟṟu</foreign>
           (cf. Nos. 134, 184) : e.g. <foreign xml:lang="ta">av + talai &gt; avaṟṟuttalai</foreign> '
           the head of those things '.</note></l>
+=======
+<l>The word <foreign xml:lang="ta">veyil</foreign> ' heat ' follows the behaviour of <foreign xml:lang="ta">maḻai</foreign> ' rain '.<note place="foot">e.g. <foreign xml:lang="ta">veyil + ceṉrāṉ &gt; veyilattuc ceṉṟāṉ</foreign>
+          or <foreign xml:lang="ta">veyilīṟ ceṉṟāṉ</foreign> ' he went in the heat '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

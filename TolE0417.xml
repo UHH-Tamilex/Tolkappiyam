@@ -27,11 +27,18 @@
 <l>yammara poḻuku moḻivayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>[There are some] ' two-letter words ' and ' voiceless stop-se-</l>
 <l>quence words '</l>
 <l>which may legitimately take <foreign xml:lang="ta">am</foreign> after them ;</l>
 <l>such cases have to be ascertained from traditional usage.<note place="foot"><foreign xml:lang="ta">marap/u oḻuku</foreign> E.g. <foreign xml:lang="ta">ēṟu + kōḷ &gt; ēṟaṅkōḷ</foreign> capture of the bull ' (also <foreign xml:lang="ta">ēṟukōḷ); puṟṟu + cōṟu &gt; puṟṟañcōṟu &lt;</foreign> terminates in an
           ' anthill '.</note></l>
+=======
+<l>There are names of trees which do not have the nasal converted</l>
+<l>into the plosive.<note place="foot">E.g. <foreign xml:lang="ta">kuruntu + tōl &gt; kuruntantōl</foreign> (and
+          not <foreign xml:lang="ta">*kuruttantōl)</foreign> or <foreign xml:lang="ta">puṅku + pū
+          &gt; puṉkampū</foreign> (but not <foreign xml:lang="ta">*pukkampū).</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

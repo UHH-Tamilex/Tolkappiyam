@@ -25,8 +25,25 @@
 <l>illa marappeyar vicaimara viyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The noun <foreign xml:lang="ta">illam</foreign> [denoting] a tree is of the same nature as</l>
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">vicai</foreign> [denoting] a tree.<note place="foot">i.e. <foreign xml:lang="ta">illaṅkōṭu, illantōl</foreign> etc. <foreign xml:lang="ta">Illam,</foreign> clearing-nut tree ; the identification of <foreign xml:lang="ta">vicai</foreign> is uncertain.</note></l>
+=======
+<l><foreign xml:lang="ta">vicai</foreign> [denoting] a tree.<note
+              place="foot">i.e. <foreign xml:lang="ta">illaṅkōṭu, illantōl</foreign> etc. <foreign
+                xml:lang="ta">Illam,</foreign> clearing-nut tree ; the identification of <foreign
+                xml:lang="ta">vicai</foreign> is uncertain.</note></l>
+=======
+<l>There exist words which change [plosives into] nasals ;</l>
+<l>such words have to be found out from usage.<note place="foot">e.g. <foreign xml:lang="ta">kuḷam + karai &gt; kuḷakkarai | kuḷaṅkarai ;
+                kuḷam + cēru &gt; kuḻaccēru | kuḻañcēru,</foreign> etc. The variation is free, '
+          unconditioned or, rather, conditioned by <foreign xml:lang="ta">vaḻakku</foreign> ' usage '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

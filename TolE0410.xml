@@ -26,8 +26,23 @@
 <l>mukarak kiḷavi tuvarat tōṉṟātu</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When followed by the sound <foreign xml:lang="ta">y,</foreign></l>
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">i</foreign> is shortened, and the [shortened] <foreign xml:lang="ta">u</foreign> disappears completely.<note place="foot">E.g., <foreign xml:lang="ta">nāku + yātu &gt; nākiyātu ; kokku + yātu &gt; kokkiyātu ; kuraṅku + yātu &gt; kuraṅkiyātu.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">i</foreign> is shortened, and the [shortened] <foreign xml:lang="ta">u</foreign> disappears completely.<note
+              place="foot">E.g., <foreign xml:lang="ta">nāku + yātu &gt; nākiyātu ; kokku + yātu &gt; kokkiyātu ; kuraṅku + yātu &gt; kuraṅkiyātu.</foreign></note></l>
+=======
+<l>The original nature of the ' voiceless stop-sequence word '</l>
+<l>may remain as such if the coming word begins with a voiceless</l>
+<l>stop.<note place="foot">I.e, the overshort <foreign xml:lang="ta">u</foreign> at the end of the <foreign xml:lang="ta">valloṟṟuttoṭarmoḻi</foreign> remains when followed by a voiceless
+          occlusive, e.g. <foreign xml:lang="ta">kokkuk kaṭitu</foreign> (non-case) or <foreign xml:lang="ta">kokkuk kaṭumai</foreign> (case).</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

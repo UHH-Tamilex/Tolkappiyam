@@ -26,8 +26,22 @@
 <l>vēṟṟumai yāyiṉ valleḻuttu mikumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>After the standing noun ening in <foreign xml:lang="ta">-ai</foreign></l>
+<<<<<<< Updated upstream
 <l>the plosive will be doubled, if it is in case-relationship.<note place="foot">E.g. <foreign xml:lang="ta">yāṉai + cevi &gt; yāṉaiccevi.</foreign></note></l>
+=======
+<l>the plosive will be doubled, if it is in case-relationship.<note
+              place="foot">E.g. <foreign xml:lang="ta">yāṉai + cevi &gt; yāṉaiccevi.</foreign></note></l>
+=======
+<l>If it means <foreign xml:lang="ta">peṟṟam</foreign> ' bull ', it is necessary [that it is</l>
+<l>followed] by full <foreign xml:lang="ta">iṉ.</foreign><note place="foot"><foreign xml:lang="ta">cē</foreign> has two meanings ; if it refers to a
+          tree, it follows the rule of the nasal, if it refers to a bull, it receives the empty-morph <foreign xml:lang="ta">-in : cē-v-iṉ-kōṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

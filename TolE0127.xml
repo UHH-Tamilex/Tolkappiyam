@@ -26,7 +26,16 @@
 <l>aiyiṉ muṉṉarum avviyal nilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l>Even after <foreign xml:lang="ta">-ai</foreign> [the <foreign xml:lang="ta">i</foreign> of <foreign xml:lang="ta">ikku</foreign>] is treated so.<note place="foot">E.g. <foreign xml:lang="ta">cittirai + ikku &gt; cittiraikkuk koṇṭāṉ.</foreign></note></l>
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+<l>Even after <foreign xml:lang="ta">-ai</foreign> [the <foreign xml:lang="ta">i</foreign> of <foreign xml:lang="ta">ikku</foreign>] is treated so.<note
+              place="foot">E.g. <foreign xml:lang="ta">cittirai + ikku &gt; cittiraikkuk koṇṭāṉ.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">i</foreign> of <foreign xml:lang="ta">ikku</foreign> [is treated] in the same manner after <foreign xml:lang="ta">i.</foreign><note place="foot">E.g. <foreign xml:lang="ta">āṭi + ikku &gt; āṭikkuk koṇṭāṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

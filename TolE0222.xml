@@ -26,8 +26,25 @@
 <l>mavviya ṟiriyā teṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>Scholars maintain that even the gerund<note place="foot"><foreign xml:lang="ta">viṉaiyeñcu kiḷavi.</foreign></note> of the type <foreign xml:lang="ta">ceyyā</foreign></l>
 <l>will not deviate from the rule.<note place="foot">E.g. <foreign xml:lang="ta">uṇṇākkoṇṭāṉ, uṇṇāppōyiṉāṉ.</foreign></note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>Scholars maintain that even the gerund<note
+              place="foot"><foreign xml:lang="ta">viṉaiyeñcu kiḷavi.</foreign></note> of the type <foreign xml:lang="ta">ceyyā</foreign></l>
+<l>will not deviate from the rule.<note
+              place="foot">E.g. <foreign xml:lang="ta">uṇṇākkoṇṭāṉ, uṇṇāppōyiṉāṉ.</foreign></note></l>
+=======
+<l>The ending <foreign xml:lang="ta">ā</foreign> is of the same nature as <foreign xml:lang="ta">a.</foreign><note place="foot">E.g. <foreign xml:lang="ta">tārā + ciṟitu &gt; tārācciṟitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

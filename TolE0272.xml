@@ -27,9 +27,22 @@
 <l>tēṟṟamuñ ciṟappu malvaḻi yāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The sounds <foreign xml:lang="ta">e</foreign> and <foreign xml:lang="ta">o</foreign> shall not stand at the end of nouns ;</l>
 <l>scholars maintain [that they occur] in words of second person</l>
+<<<<<<< Updated upstream
 <l>except when they [denote] certainty and distinctiveness,<note place="foot">Cf. comment. Exx. : <foreign xml:lang="ta">ēekoṇṭāṉ, ōokoṇṭāṉ.</foreign></note></l>
+=======
+<l>except when they [denote] certainty and distinctiveness,<note
+              place="foot">Cf. comment. Exx. : <foreign xml:lang="ta">ēekoṇṭāṉ, ōokoṇṭāṉ.</foreign></note></l>
+=======
+<l>There is no harm if the particle <foreign xml:lang="ta">iṉ</foreign> occurs</l>
+<l>with the two words <foreign xml:lang="ta">āṭūu</foreign> ' man ' and <foreign xml:lang="ta">makaṭūu</foreign> ' woman '.<note place="foot">Ex. : <foreign xml:lang="ta">āṭūuviṉkai, makaṭūuviṉpuṟam.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

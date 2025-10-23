@@ -25,8 +25,21 @@
 <l>tāṉyā ṉeṉumpeya rurupiya ṉilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l><foreign xml:lang="ta">Tāṉ,</foreign> ' he, she, it ' and <foreign xml:lang="ta">yāṉ</foreign> ' I ' have the same change</l>
+<<<<<<< Updated upstream
 <l>as when they are followed by case-signs.<note place="foot"><foreign xml:lang="ta">Yāṉ + kai &gt; eṉkai</foreign> ' my hand ' ; <foreign xml:lang="ta">tāṉ + kai &gt; taṉkai</foreign> ' his, her, its hand.</note></l>
+=======
+<l>as when they are followed by case-signs.<note
+              place="foot"><foreign xml:lang="ta">Yāṉ + kai &gt; eṉkai</foreign> ' my hand ' ; <foreign xml:lang="ta">tāṉ + kai &gt; taṉkai</foreign> ' his, her, its hand.</note></l>
+=======
+<l><foreign xml:lang="ta">Tāṉ, pēṉ, kōṉ - these are without change</foreign></l>
+<l>when followed by those words of relationship.<note place="foot">i.e. <foreign xml:lang="ta">kōṉ + tantai &gt; kōṉrantai ; kōṉ + koṟṟan &gt; kōṉkoṟṟaṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

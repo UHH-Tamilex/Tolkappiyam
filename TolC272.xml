@@ -70,7 +70,7 @@ i – ḷ. ēyeṉṉumiṭaiccollum, kuraiyeṉṉumiṭaiccollum icainiṟaiyu
 u – m.
       </p>
       <lg xml:id="TolC272-Cena-cit1">
-        <l>‘ēeyiḵtottaṉeṉap peṟāṉ kēṭṭaikkāṇ’<app><note>kali. 61</note></app></l>
+        <l>‘ēeyiḵtottaṉeṉap poṟāṉ kēṭṭaikkāṇ’<app><note>kali. 61</note></app></l>
       </lg>
       <p>
 eṉpatu icainiṟai.
@@ -363,6 +363,9 @@ itu acainilai.	[23]
 <form><c type="glide">y</c>iḵt<c type="elided">u</c></form>
 <def>this</def>
 <form type="sandhi"><c type="glide">y</c>iḵt</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>ottaṉ</form>
@@ -382,19 +385,19 @@ itu acainilai.	[23]
 </gramGrp>
 </entry>
 <entry>
-<form>peṟāṉ</form>
-<def>obtain-not-he</def>
+<form>poṟāṉ</form>
+<def>bear-not-he</def>
 <gramGrp>
-  <gram type="role">singular</gram>
-  <gram type="role">masculine</gram>
-  <gram type="role">negative</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">masculine singular</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kēṭṭai<c type="geminated">k</c></form>
-<def>hear</def>
+<def>loss</def>
 <gramGrp>
-  <gram type="role">imperative</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -455,8 +458,6 @@ itu acainilai.	[23]
 <entry>
 <form><c type="glide">y</c>atu</form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>peṟal</form>
@@ -466,21 +467,13 @@ itu acainilai.	[23]
 </gramGrp>
 </entry>
 <entry>
-<form>arum</form>
+<form>aruṅkuraitt<c type="elided">u</c>-ē</form>
 <def>difficult</def>
-<form type="sandhi">aruṅ</form>
+<form type="simple">aruṅkuraittu</form>
+<form type="sandhi">aruṅkuraitt</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kuraitt<c type="elided">u</c>-ē</form>
-<def>shouting</def>
-<form type="simple">kuraittu</form>
-<form type="sandhi">kuraitt</form>
-<gramGrp>
-  <gram type="role">perfective aspect</gram>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -663,13 +656,22 @@ itu acainilai.	[23]
   <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>kurai<c type="geminated">t</c></form>
 <def>greatness</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>kurai<c type="geminated">t</c></form>
+<def>clamor</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>tuṉpaṅkaḷ</form>
 <def>distress</def>
@@ -837,26 +839,20 @@ itu acainilai.	[23]
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iḷam</form>
+<form><c type="glide">y</c>iḷaṅkuraiya</form>
 <def>young</def>
-<form type="sandhi"><c type="glide">y</c>iḷaṅ</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kuraiya</form>
-<def>great</def>
+<form><c type="glide">v</c>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">v</c>āyiṉ</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vāyiṉ-um</form>
-<def>mouth</def>
-<form type="simple">vāyiṉ</form>
-<gramGrp>
-  <gram type="role">oblique</gram>
+  <gram type="role">conditional</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>

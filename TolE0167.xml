@@ -26,8 +26,23 @@
 <l>kuṟṟiya lukarak kiṉṉē cāriyai</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The empty-morph <foreign xml:lang="ta">iṉ</foreign> [is affixed]</l>
+<<<<<<< Updated upstream
 <l>to the over-short <foreign xml:lang="ta">u.</foreign><note place="foot">i.e. between a word of measure, weight or number ending in an over-short <foreign xml:lang="ta">-u</foreign> and the word <foreign xml:lang="ta">kuṟai,</foreign> e.g. <foreign xml:lang="ta">oṉriṉkuṟai</foreign> ' less than one '.</note></l>
+=======
+<l>to the over-short <foreign xml:lang="ta">u.</foreign><note
+              place="foot">i.e. between a word of measure, weight or number ending in an over-short <foreign xml:lang="ta">-u</foreign> and the word <foreign xml:lang="ta">kuṟai,</foreign> e.g. <foreign xml:lang="ta">oṉriṉkuṟai</foreign> ' less than one '.</note></l>
+=======
+<l>When the word <foreign xml:lang="ta">kuṟai</foreign> follows</l>
+<l>[words denoting measure, weight and number],</l>
+<l>[the rule of sandhi] which functions fully</l>
+<l>[is] that which is appropriate to case-relationship.<note place="foot">E.g.<foreign xml:lang="ta"> kalakkuṟai, koṭkuṟai,</foreign> etc...., <foreign xml:lang="ta">kārkuṟai</foreign> ' less than a quarter '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

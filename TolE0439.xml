@@ -26,8 +26,24 @@
 <l>naṭaimaruṅ kiṉṟē poruḷvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The middle sound <foreign xml:lang="ta">ra</foreign> in the number <foreign xml:lang="ta">iraṇṭu</foreign> ' two ' will not remain</l>
+<<<<<<< Updated upstream
 <l>there in combination.<note place="foot">Eg. <foreign xml:lang="ta">iraṇṭu + pattu &gt; iraṇ + pahtu &gt; * irarupahtu irupahtu.</foreign></note></l>
+=======
+<l>there in combination.<note
+              place="foot">Eg. <foreign xml:lang="ta">iraṇṭu + pattu &gt; iraṇ + pahtu &gt; * irarupahtu irupahtu.</foreign></note></l>
+=======
+<l>The consonant of the first two numbers changes into <foreign xml:lang="ta">ṟ</foreign> ; and the</l>
+<l>sound <foreign xml:lang="ta">u</foreign> joins [it] at that place.<note place="foot">I.e. the <foreign xml:lang="ta">ṉ</foreign> and <foreign xml:lang="ta">ṇ</foreign>
+          of <foreign xml:lang="ta">oṉṟu</foreign> and <foreign xml:lang="ta">iraṇṯu</foreign> are
+          respectively replaced by <foreign xml:lang="ta">r</foreign> and followed by <foreign xml:lang="ta">u,</foreign> eg. <foreign xml:lang="ta">oṉṟu + pattu &gt; oṉ + pahtu
+          &gt; orupahtu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

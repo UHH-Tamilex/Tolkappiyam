@@ -27,9 +27,25 @@
 <l>viṉaiyō raṉaiya veṉmaṉār pulavar</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Scholars say that <foreign xml:lang="ta">y-</foreign> and <foreign xml:lang="ta">ñ-</foreign> may stand</l>
 <l>as initials of verbs after [words ending]</l>
+<<<<<<< Updated upstream
 <l>in the non-vocalized consonants <foreign xml:lang="ta">-ṇ</foreign> and <foreign xml:lang="ta">-ṉ</foreign>.<note place="foot">Both <foreign xml:lang="ta">maṇ yātta</foreign> and <foreign xml:lang="ta">maṇ ñātta, poṉ yātta</foreign> and <foreign xml:lang="ta">poṉ ñātta</foreign> are possible.</note></l>
+=======
+<l>in the non-vocalized consonants <foreign xml:lang="ta">-ṇ</foreign> and <foreign xml:lang="ta">-ṉ</foreign>.<note
+              place="foot">Both <foreign xml:lang="ta">maṇ yātta</foreign> and <foreign xml:lang="ta">maṇ ñātta, poṉ yātta</foreign> and <foreign xml:lang="ta">poṉ ñātta</foreign> are possible.</note></l>
+=======
+<l>Among those,</l>
+<l>none prevents the optionaal insertion of a nasal</l>
+<l>after the final member of a <foreign xml:lang="ta">toṭarmoḻi.</foreign><note place="foot">The insertion is obviously optional. Tolkāppiyaṉār's terminology is very
+          careful and very precise : whenever he speaks about obligatory ' multiplication ' of
+          sounds, the term is <foreign xml:lang="ta">mikutal ;</foreign> whenever he means optional insertion, he employs the term <foreign xml:lang="ta">uraḻtal</foreign> (cf. e.g. cs. 152, 157 <foreign xml:lang="ta">uraḻattoṉṟal,</foreign> 159, 160). For <foreign xml:lang="ta">toṭarmoḻi,</foreign> cf. aphorism 45 and ftn. 39. Exx. : <foreign xml:lang="ta">katirñeriñ katirññeri ; katiruṉai ~ katirnnuṉi</foreign> etc. ; <foreign xml:lang="ta">pūnuṉi ~ pūnnuṉi</foreign> etc. ; <foreign xml:lang="ta">kāymuri ~ kāymmuri,</foreign> etc.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

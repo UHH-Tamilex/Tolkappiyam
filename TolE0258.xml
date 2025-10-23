@@ -27,9 +27,22 @@
 <l>ceyyuṇ maruṅki ṉuritteṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said to be proper that in poetry</l>
 <l>[it = the final <foreign xml:lang="ta">u</foreign>] is changed to <foreign xml:lang="ta">ā</foreign> when <foreign xml:lang="ta">aṉṟu</foreign> follows,</l>
+<<<<<<< Updated upstream
 <l>and disappears leaving the consonant when <foreign xml:lang="ta">ai</foreign> follows.<note place="foot">i.e., <foreign xml:lang="ta">atu + aṉṟu &gt; atāaṉṟu ; atu + ai &gt; atai.</foreign></note></l>
+=======
+<l>and disappears leaving the consonant when <foreign xml:lang="ta">ai</foreign> follows.<note
+              place="foot">i.e., <foreign xml:lang="ta">atu + aṉṟu &gt; atāaṉṟu ; atu + ai &gt; atai.</foreign></note></l>
+=======
+<l>The final [<foreign xml:lang="ta">u</foreign>] with demonstratives as initials will remain</l>
+<l>unchanged.<note place="foot">E.g. <foreign xml:lang="ta">atu kuṟitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

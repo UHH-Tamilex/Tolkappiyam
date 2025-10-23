@@ -25,7 +25,22 @@
 <l>ēye ṉiṟutik kekaram varumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>The final <foreign xml:lang="ta">ē</foreign> will be followed by <foreign xml:lang="ta">e.</foreign><note place="foot">E.g. <foreign xml:lang="ta">ēe-k-koṭṭil.</foreign></note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>The final <foreign xml:lang="ta">ē</foreign> will be followed by <foreign xml:lang="ta">e.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">ēe-k-koṭṭil.</foreign></note></l>
+=======
+<l>In case-relationship, too, it is like that.<note place="foot">Ex. : <foreign xml:lang="ta">ē + kaṭumai &gt; ēkkaṭumai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

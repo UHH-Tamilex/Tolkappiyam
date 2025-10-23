@@ -26,8 +26,27 @@
 <l>maṉṉal vēṇṭu malvaḻi yāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>When followed by vowels, the <foreign xml:lang="ta">āytam</foreign> dots<note place="foot"><foreign xml:lang="ta">Āytappuḷḷi.</foreign></note> must remain in the</l>
 <l>middle [of the demonstratives] in non-case relation.<note place="foot">Eg. <foreign xml:lang="ta">ahtu + ilai &gt; ahtilai</foreign> ' That is a leaf '.</note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>When followed by vowels, the <foreign xml:lang="ta">āytam</foreign> dots<note
+              place="foot"><foreign xml:lang="ta">Āytappuḷḷi.</foreign></note> must remain in the</l>
+<l>middle [of the demonstratives] in non-case relation.<note
+              place="foot">Eg. <foreign xml:lang="ta">ahtu + ilai &gt; ahtilai</foreign> ' That is a leaf '.</note></l>
+=======
+<l>The endings of <foreign xml:lang="ta">yātu</foreign> and the endings of the demonstratives con-</l>
+<l>taining <foreign xml:lang="ta">āytam</foreign> persist in [having the rules applied to] case signs.<note place="foot">i.e. <foreign xml:lang="ta">yātu</foreign> ' which ' and <foreign xml:lang="ta">ahtu</foreign> ' that ', <foreign xml:lang="ta">ihtu</foreign> ' this
+          ', <foreign xml:lang="ta">uhtu</foreign> ' that (intermediate) ' take the empty morph <foreign xml:lang="ta">-aṉ,</foreign> eg. <foreign xml:lang="ta">yātaṉ kōṭu, itaṉkōṭu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

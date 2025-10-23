@@ -28,10 +28,22 @@
 <l>ṭakāra ṇakāra mātal vēṇṭum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Scholars maintain that, in poetry,</l>
 <l>in <foreign xml:lang="ta">avā</foreign> ' desire ' following <foreign xml:lang="ta">vēṭkai ' desire ',</foreign></l>
 <l>the final <foreign xml:lang="ta">ai</foreign> with the preceding consonant is dropped</l>
+<<<<<<< Updated upstream
 <l>and <foreign xml:lang="ta">ṭ</foreign> must be changed to <foreign xml:lang="ta">ṇ.</foreign><note place="foot">Cf. comment. Ex. : <foreign xml:lang="ta">vēṭkai + avā &gt; vēṇavā.</foreign></note></l>
+=======
+<l>and <foreign xml:lang="ta">ṭ</foreign> must be changed to <foreign xml:lang="ta">ṇ.</foreign><note
+              place="foot">Cf. comment. Ex. : <foreign xml:lang="ta">vēṭkai + avā &gt; vēṇavā.</foreign></note></l>
+=======
+<l>The word <foreign xml:lang="ta">maḷai</foreign> ' rain ' behaves in the same way as <foreign xml:lang="ta">vaḷi.</foreign><note place="foot">Cf. aphorism 243 : e.g. <foreign xml:lang="ta">maḻaiyattucceṉṟāṉ</foreign> or <foreign xml:lang="ta">maḻayirceṉṟāṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

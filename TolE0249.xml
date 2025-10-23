@@ -25,7 +25,23 @@
 <l>īkāra viṟuti yākāra viyaṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>The ending <foreign xml:lang="ta">ī</foreign> is like the ending <foreign xml:lang="ta">ā.</foreign><note place="foot">E.g. <foreign xml:lang="ta">ti + ciṟitu &gt; tīcciṟitu.</foreign></note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>The ending <foreign xml:lang="ta">ī</foreign> is like the ending <foreign xml:lang="ta">ā.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">ti + ciṟitu &gt; tīcciṟitu.</foreign></note></l>
+=======
+<l>If the [names of] the months precede [a verb], <foreign xml:lang="ta">ikku</foreign> is the empty-morph.<note place="foot">E.g. <foreign xml:lang="ta">āṭikkuppōyiṉāṉ.</foreign> Names of months <foreign xml:lang="ta">(tiṅkaḷ)</foreign> ended in <foreign xml:lang="ta">-i</foreign> and <foreign xml:lang="ta">-ai (287).</foreign> In the earliest strata of Tamil texts, we find
+          the following : <foreign xml:lang="ta">tai (Kuṟ. 196.4), māci (Patiṟṟup. 59.2), paṅkuṉi (Puṟam 229.5), cittirai (Cilapp. 5.64), āṭi (Cilapp. 23.133).</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

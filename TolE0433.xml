@@ -28,12 +28,24 @@
 <l>muṟṟa viṉvarūu miraṇṭalaṅ kaṭaiyē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If all the words denoting numbers from <foreign xml:lang="ta">oṉṟu</foreign> ' one ' to <foreign xml:lang="ta">eṭṭu</foreign> ' eight '</l>
 <l>succeed <foreign xml:lang="ta">pattu</foreign> ' ten ', the overshort <foreign xml:lang="ta">-u</foreign> disappears with [its] con-</l>
 <l>sonant ; the empty morph <foreign xml:lang="ta">iṉ</foreign> is inserted ; this [rule] does not ap-</l>
 <l>ply to [the numeral] <foreign xml:lang="ta">iraṇṭu</foreign> ' two '.<note place="foot">I.e. <foreign xml:lang="ta">pattu + oṉṟu &gt; pat-iṉ-oṉṟu; pattu + mūṉṟu
           &gt; patiṉmūṉṟu...pattu + eṭṭu &gt; patiṉeṭṭu ;</foreign> but <foreign xml:lang="ta">
           paṉṉiraṇṭu,</foreign> cf. the next aphorism.</note></l>
+=======
+<l>Learned men say that, to denote the angular directions,<note place="foot">But the commentators and the later authors agree that this aphorism and
+          the term <foreign xml:lang="ta">tiripu </foreign> refers to the intermediate or angular
+          directions, i.e. southwest, northeast etc. In all such cases, the first component will be
+          either <foreign xml:lang="ta">teṟku</foreign> ' south ' or <foreign xml:lang="ta">vaṭakku</foreign>
+          ' north '. For actual occurrence, cf. <foreign xml:lang="ta">Maṇimēkalai 25.155 teṇmēṟku</foreign>
+          ' southwest '.</note> the</l>
+<l>consonant and the final [<foreign xml:lang="ta">-u</foreign>] must disappear ; and when combining</l>
+<l>with <foreign xml:lang="ta">teṟku,</foreign> the consonant [<foreign xml:lang="ta">ṟ</foreign>] is also changed to the sound <foreign xml:lang="ta">ṉ.</foreign><note place="foot">I.e. <foreign xml:lang="ta">vaṭakiḷakku</foreign> ' northeast ', <foreign xml:lang="ta">vaṭamēṟku</foreign> ' northwest ', <foreign xml:lang="ta">teṉkiḻakku</foreign>
+          ' southeast ', <foreign xml:lang="ta">teṉmēṟku</foreign> ' southwest '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

@@ -31,6 +31,7 @@
 <l>vēṟṟumai maruṅkiṟ pōṟṟal vēṇṭum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If a noun [with its third case-marker dropped]</l>
 <l>ends in a vowel or a non-vocalised consonant,</l>
 <l>and is followed by a verb<note place="foot"><foreign xml:lang="ta">toḻiṟcol.</foreign></note> which denotes its action<note place="foot"><foreign xml:lang="ta">tammiṉākiya toḻircol.</foreign></note></l>
@@ -38,7 +39,20 @@
 <l>its doubling,<note place="foot"><foreign xml:lang="ta">valleḻuttu mikuti colliya muṟaiyāṉ.</foreign></note> there exist two proper ways</l>
 <l>[of sandhi] - no change, or the optional</l>
 <l>appearance of consonants ; one should study it</l>
+<<<<<<< Updated upstream
 <l>carefully in the chapter on cases.<note place="foot">E.g.<foreign xml:lang="ta"> vaḷikōṭpaṭṭāṉ ~ vaḷikkōṭpaṭṭāṉ</foreign> ' he was caught in the whirl-wind '.</note></l>
+=======
+<l>carefully in the chapter on cases.<note
+              place="foot">E.g.<foreign xml:lang="ta"> vaḷikōṭpaṭṭāṉ ~ vaḷikkōṭpaṭṭāṉ</foreign> ' he was caught in the whirl-wind '.</note></l>
+=======
+<l>Those [personal] nouns which are also used</l>
+<l>as non-personal nouns<note place="foot"><foreign xml:lang="ta">aḵṟiṇai viravup peyar,</foreign> lit. ' nouns mixed [with] non-personal class.'</note> do sometimes</l>
+<l>remain unchanged, too.<note place="foot"><foreign xml:lang="ta">iyalpumāruḷavē.</foreign> E.g. <foreign xml:lang="ta">Cāttaṉ kuṟiyāṉ</foreign> about a person called <foreign xml:lang="ta">Cāttaṉ ; Cāttaṉ kuṟitu</foreign> about an animal which has been given the name <foreign xml:lang="ta">Cāttaṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

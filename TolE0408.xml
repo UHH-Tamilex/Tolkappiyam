@@ -26,10 +26,18 @@
 <l>mellā viṟutiyu mukara nilaiyum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Both in non-case relationship and in case-relationship,</l>
 <l>in all [the above-mentioned six kinds of words]</l>
 <l>[the shortened] <foreign xml:lang="ta">u</foreign> stands finally.<note place="foot">E.g., <foreign xml:lang="ta">nāku kaṭitu, varaku kaṭitu</foreign> (both <foreign xml:lang="ta">allatu kiḷappiṉ,</foreign> in non-case relationship), <foreign xml:lang="ta">nāku kaṭumai, varaku kaṭumai</foreign> (both <foreign xml:lang="ta">
           vēṟṟumaikkaṇ,</foreign> in case-relationship).</note></l>
+=======
+<l>Among those,</l>
+<l>the <foreign xml:lang="ta">īroṟṟuttoṭarmoḻi</foreign> will not be regarded</l>
+<l>as ' semivowel-sequence words '.<note place="foot">I.e., a word which has a semi-vowel following the initial vowel or
+          vowel-consonant, and preceding a consonant other than the first part of the final
+          vowel-consonant, shall not be regarded as <foreign xml:lang="ta">iṭaiyttoṭar.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

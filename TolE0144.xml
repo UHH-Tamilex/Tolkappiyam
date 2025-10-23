@@ -29,11 +29,26 @@
 <l>niṉṟa coṉmu ṉiyalpā kummē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the initial sound of the succeeding word is</l>
 <l><foreign xml:lang="ta">ñ, n, m, y, v,</foreign> or when the initial sound is a vowel,</l>
 <l>no change takes place,</l>
 <l>whatever be the final sound of the standing word,</l>
+<<<<<<< Updated upstream
 <l>and whatever be its relationship.<note place="foot">E.g. <foreign xml:lang="ta">viḷa|tāḻ ñaṉratu, nīṇṭatu, māṇtatu, yātu, valitu .... etc.</foreign></note></l>
+=======
+<l>and whatever be its relationship.<note
+              place="foot">E.g. <foreign xml:lang="ta">viḷa|tāḻ ñaṉratu, nīṇṭatu, māṇtatu, yātu, valitu .... etc.</foreign></note></l>
+=======
+<l>The nasal sounds which appear</l>
+<l>preceeding <foreign xml:lang="ta">k, c, t,</foreign> [and] <foreign xml:lang="ta">p</foreign> are,</l>
+<l>respectively, <foreign xml:lang="ta">ṅ, ñ, n</foreign> [and] <foreign xml:lang="ta">m</foreign> ;</l>
+<l>they are realized in utterances of such type.<note place="foot">E.g. <foreign xml:lang="ta">viḷaṅkōṭu, viḷañceṭi, viḷantōl, viḷampū.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

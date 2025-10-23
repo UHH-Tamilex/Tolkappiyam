@@ -26,8 +26,23 @@
 <l>yukaram varuta lāvayi ṉāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>[If the standing word word ends in] <foreign xml:lang="ta">ḻ [u],</foreign> the sound <foreign xml:lang="ta">u</foreign> may</l>
+<<<<<<< Updated upstream
 <l>be lengthened and in such positions [another] <foreign xml:lang="ta">u</foreign> appears.<note place="foot">E.g. <foreign xml:lang="ta">paḻū-u-p pallaṉṉa paruvukirp pāvaṭi.</foreign></note></l>
+=======
+<l>be lengthened and in such positions [another] <foreign xml:lang="ta">u</foreign> appears.<note
+              place="foot">E.g. <foreign xml:lang="ta">paḻū-u-p pallaṉṉa paruvukirp pāvaṭi.</foreign></note></l>
+=======
+<l>When one examines the pertinent cases, then</l>
+<l><foreign xml:lang="ta">eru</foreign> ' manure ' and <foreign xml:lang="ta">ceru</foreign> ' battle ' having <foreign xml:lang="ta">am</foreign> are liable to change.</l>
+<l>The <foreign xml:lang="ta">-m</foreign> of <foreign xml:lang="ta">-am</foreign> disappears in <foreign xml:lang="ta">ceru</foreign></l>
+<l>and the plosive doubles.<note place="foot">E.g. <foreign xml:lang="ta">eru + kuḻi &gt; eru-v-aṅ-kuḻi ; eru + cēṟu &gt; eruvañcēṟu</foreign> etc. ; <foreign xml:lang="ta">ceṟu + kaḷam &gt; ceruv-ak-kaḷam ; ceru + cēṉai &gt; ceruvaccēṉai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

@@ -25,9 +25,23 @@
 <l>valleḻut tiyaṟkai yuṟaḻat tōṉṟum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>The quality [of <foreign xml:lang="ta">p</foreign> and <foreign xml:lang="ta">c</foreign> after <foreign xml:lang="ta">pala</foreign> and <foreign xml:lang="ta">cila</foreign> when</l>
 <l>followed by identical words] is optionally changed</l>
+<<<<<<< Updated upstream
 <l>into a [long] plosive.<note place="foot">The optional nature of the change is implied by the term <foreign xml:lang="ta">uṟaḻa</foreign> (cf. TL I, p. 482), i.e. <foreign xml:lang="ta">palapala ~ palappala, cilacila ~ cilaccila.</foreign></note></l>
+=======
+<l>into a [long] plosive.<note
+              place="foot">The optional nature of the change is implied by the term <foreign xml:lang="ta">uṟaḻa</foreign> (cf. TL I, p. 482), i.e. <foreign xml:lang="ta">palapala ~ palappala, cilacila ~ cilaccila.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">La</foreign> of the standing words may be changed to <foreign xml:lang="ta">ṟ,</foreign></l>
+<l>if they are not <foreign xml:lang="ta">toṭar</foreign> and are followed by the same [words].<note place="foot">That is, <foreign xml:lang="ta">pal</foreign> followed by <foreign xml:lang="ta">pala,</foreign> and <foreign xml:lang="ta">cil</foreign> by <foreign xml:lang="ta">cila,</foreign> will result in <foreign xml:lang="ta">paṟpala</foreign>
+          and <foreign xml:lang="ta">ciṟcila ;</foreign> in this case, they are <foreign xml:lang="ta">toṭar al,</foreign> i.e. ' not <foreign xml:lang="ta">toṭar '.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

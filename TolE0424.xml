@@ -25,13 +25,26 @@
 <l>ēṉaimuṉ variṉē tāṉilai yiṉṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>If followed by other [sounds], it [ = i.e. the <foreign xml:lang="ta">āytam</foreign>]
           disappears.<note place="foot">I.e. when followed by words beginning with non-vowels, e.g. <foreign xml:lang="ta">ahtu + ciṟitu &gt; atu ciṟitu</foreign> ' That is small '. The reason for these rules is not clear. According to
             T.P.Meenakshisundaram (A History of Tamil Language, 1965, p. 137) these two rules
             contradict the rule in aphorism 39, and hence he thinks they may be interpolated.
             However, the author in question is, I am afraid, mistaken, for these rules concern
             entirely different morphophonemic changes, cf. my translation of aphorism 39, and note
+<<<<<<< Updated upstream
             35, on pp. 48 and 59 resp. of the first issue of this journal (Sept. 1972).<foreign xml:lang="ta"/></note></l>
+=======
+            35, on pp. 48 and 59 resp. of the first issue of this journal (Sept. 1972).<foreign
+                xml:lang="ta"></foreign></note></l>
+=======
+<l>When followed by vowels, the <foreign xml:lang="ta">āytam</foreign> dots<note place="foot"><foreign xml:lang="ta">Āytappuḷḷi.</foreign></note> must remain in the</l>
+<l>middle [of the demonstratives] in non-case relation.<note place="foot">Eg. <foreign xml:lang="ta">ahtu + ilai &gt; ahtilai</foreign> ' That is a leaf '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

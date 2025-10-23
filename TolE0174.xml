@@ -27,8 +27,22 @@
 <l>vaṟṟoṭu civaṇa lecca miṉṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>Nouns ending in <foreign xml:lang="ta">-a</foreign> and denoting ' many '</l>
+<<<<<<< Updated upstream
 <l>will not fail having [the empty-morph] <foreign xml:lang="ta">vaṟṟu.</foreign><note place="foot">Exx. : <foreign xml:lang="ta">pala-vaṟṟ-ai, cila-vaṟṟ-oṭu.</foreign></note></l>
+=======
+<l>will not fail having [the empty-morph] <foreign xml:lang="ta">vaṟṟu.</foreign><note
+              place="foot">Exx. : <foreign xml:lang="ta">pala-vaṟṟ-ai, cila-vaṟṟ-oṭu.</foreign></note></l>
+=======
+<l>The empty morph <foreign xml:lang="ta">iṉ</foreign> is inserted between case-markers<note place="foot"><foreign xml:lang="ta">vēṟṟumai urupiṟku.</foreign></note></l>
+<l>and the six final [phonemes] of the standing word,</l>
+<l>namely <foreign xml:lang="ta">a, ā, u, ū, ē, au.</foreign><note place="foot">Exx. : <foreign xml:lang="ta">viḷa-v-iṉ-ai, palā-v-iṉ-ai, kaṭu-v-iṉ-ai, taḻūu-v-iṉ-ai, cē-v-iṉ-ai, vau-v-iṉ-ai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

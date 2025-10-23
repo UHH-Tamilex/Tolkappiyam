@@ -26,7 +26,23 @@
 <l>takaram varūuṅ kālai yāṉa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>When the sound <foreign xml:lang="ta">t</foreign> occurs, the appearance of <foreign xml:lang="ta">āytam</foreign> is not forbidden.<note place="foot">e.g. <foreign xml:lang="ta">mul + tītu &gt; muṭṭītu</foreign> or <foreign xml:lang="ta">muḵṟītu.</foreign></note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>When the sound <foreign xml:lang="ta">t</foreign> occurs, the appearance of <foreign xml:lang="ta">āytam</foreign> is not forbidden.<note
+              place="foot">e.g. <foreign xml:lang="ta">mul + tītu &gt; muṭṭītu</foreign> or <foreign xml:lang="ta">muḵṟītu.</foreign></note></l>
+=======
+<l>It is said that in all [cases of] non-case-relationship</l>
+<l>it behaves in either way.<note place="foot">i.e. it is optionally changed to <foreign xml:lang="ta">ṭ : muḻ + ciṟitu &gt; muṭciṟitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

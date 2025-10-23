@@ -26,7 +26,16 @@
 <l>ikki ṉikara mikaramuṉai yaṟṟē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
 <l><foreign xml:lang="ta">i</foreign> of <foreign xml:lang="ta">ikku</foreign> [is treated] in the same manner after <foreign xml:lang="ta">i.</foreign><note place="foot">E.g. <foreign xml:lang="ta">āṭi + ikku &gt; āṭikkuk koṇṭāṉ.</foreign></note></l>
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+<l><foreign xml:lang="ta">i</foreign> of <foreign xml:lang="ta">ikku</foreign> [is treated] in the same manner after <foreign xml:lang="ta">i.</foreign><note
+              place="foot">E.g. <foreign xml:lang="ta">āṭi + ikku &gt; āṭikkuk koṇṭāṉ.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">a</foreign> of <foreign xml:lang="ta">attu</foreign> disappears after <foreign xml:lang="ta">a.</foreign><note place="foot">E.g. <foreign xml:lang="ta">maka(m) + attu + kai &gt; makattu kai.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>

@@ -25,8 +25,22 @@
 <l>toḻiṟpeya rellān toḻiṟpeya riyala</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>All verbal nouns [ending in <foreign xml:lang="ta">i</foreign>] behave like verbal nouns</l>
+<<<<<<< Updated upstream
 <l>[ending in <foreign xml:lang="ta">-ñ</foreign>].<note place="foot">e.g. <foreign xml:lang="ta">pul-l-u-k-kaṭitu.</foreign></note></l>
+=======
+<l>[ending in <foreign xml:lang="ta">-ñ</foreign>].<note
+              place="foot">e.g. <foreign xml:lang="ta">pul-l-u-k-kaṭitu.</foreign></note></l>
+=======
+<l><foreign xml:lang="ta">Pūl, vēl, āl -</foreign> with those three words, <foreign xml:lang="ta">am</foreign> occurs medially.<note place="foot"><foreign xml:lang="ta">pūl</foreign> ' black-berried ' feather foil,
+          Phyllanthus reticulatus ' ; or red silk-cotton tree, Bombax malabaricum ; <foreign xml:lang="ta">vēl</foreign> ' babul tree ', <foreign xml:lang="ta">āl</foreign> '
+          banyan tree ' ; exx. : <foreign xml:lang="ta">pūl + kōṭu &gt; pūlaṅkōṭu ; vēlañceṭil.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

@@ -25,7 +25,23 @@
 <l>āyiram varuvaḻi yukaraṅ keṭumē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>When <foreign xml:lang="ta">āyiram</foreign> ' thousand ' follows, the sound <foreign xml:lang="ta">u</foreign> is lost.<note place="foot">e.g. <foreign xml:lang="ta">ēḻāyiram</foreign> ' seven thousand '.</note></l>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>When <foreign xml:lang="ta">āyiram</foreign> ' thousand ' follows, the sound <foreign xml:lang="ta">u</foreign> is lost.<note
+              place="foot">e.g. <foreign xml:lang="ta">ēḻāyiram</foreign> ' seven thousand '.</note></l>
+=======
+<l>The word <foreign xml:lang="ta">pattu</foreign> ' ten ' loses [its] middle consonant</l>
+<l>[and] <foreign xml:lang="ta">āytam</foreign> [in the shape of] dot[s] must occur.<note place="foot">e.g. <foreign xml:lang="ta">eḻu + pattu &gt; eḻupaḵtu</foreign> ' seventy '.</note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

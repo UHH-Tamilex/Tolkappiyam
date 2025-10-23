@@ -26,8 +26,23 @@
 <l>muṭaṉilai moḻiyu muḷaveṉa moḻipa</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>It is said that there are words before which a plosive</l>
+<<<<<<< Updated upstream
 <l>is inserted after the word denoting place-relationship.<note place="foot">E.g. <foreign xml:lang="ta">mī.p-pal. 250-2</foreign> deal with non-case relationship.</note></l>
+=======
+<l>is inserted after the word denoting place-relationship.<note
+              place="foot">E.g. <foreign xml:lang="ta">mī.p-pal. 250-2</foreign> deal with non-case relationship.</note></l>
+=======
+<l>The [pro] noun <foreign xml:lang="ta">nī,</foreign> the indecent noun,<note place="foot"><foreign xml:lang="ta">iṭakkar,</foreign> cf. <foreign xml:lang="ta">iṭakku
+          (iṭa</foreign> v. ?) ' indecent, rude, vulgar, obscene speech or word ' ; accord. to commentators, <foreign xml:lang="ta">pi</foreign> ' dung '.</note></l>
+<l>and the word <foreign xml:lang="ta">mī</foreign> denoting place-relationship -</l>
+<l>they have no additional plosive inserted.<note place="foot">i,e., eg. <foreign xml:lang="ta">ni periyai ; mī kaṇ ; pī ciṟitu.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

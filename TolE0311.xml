@@ -26,8 +26,23 @@
 <l>yīṟṟumicai yakara nīṭalu murittē</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< HEAD
 <l>When the sounds <foreign xml:lang="ta">a</foreign> and <foreign xml:lang="ta">ā</foreign> come [initially],</l>
+<<<<<<< Updated upstream
 <l>the lengthening of the sound <foreign xml:lang="ta">a</foreign> standing as final may take place.<note place="foot">e.g. <foreign xml:lang="ta">maram + aṭi &gt; marāaṭi</foreign> (besides <foreign xml:lang="ta">maravaṭi) ; kuḷam + āmpal &gt; kuḷāampal</foreign> (why not <foreign xml:lang="ta">* kuḷāāmpal ?)</foreign> besides <foreign xml:lang="ta">kuḷavāmpal.</foreign></note></l>
+=======
+<l>the lengthening of the sound <foreign xml:lang="ta">a</foreign> standing as final may take place.<note
+              place="foot">e.g. <foreign xml:lang="ta">maram + aṭi &gt; marāaṭi</foreign> (besides <foreign
+                xml:lang="ta">maravaṭi) ; kuḷam + āmpal &gt; kuḷāampal</foreign> (why not <foreign
+                xml:lang="ta">* kuḷāāmpal ?)</foreign> besides <foreign xml:lang="ta">kuḷavāmpal.</foreign></note></l>
+=======
+<l>The final <foreign xml:lang="ta">-m</foreign>, if occurring in case-relationship,</l>
+<l>disappears completely, and the plosive is doubled.<note place="foot">e.g. <foreign xml:lang="ta">maram + tōl &gt; mara-t-tōl.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </lg>
     </div>
   </body>

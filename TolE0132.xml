@@ -32,7 +32,16 @@
 <l>yuṭaimaiyu miṉmaiyu moṭuvayi ṉokkum</l>
       </lg>
       <lg xml:lang="en">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <l>When a noun is followed by a verb<note place="foot">E.g. <foreign xml:lang="ta">viḷa-v-iṉ-ai-k-kuṟaittāṉ ; pu-v-iṉ-oṭu</foreign>
+=======
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+<l>When a noun is followed by a verb<note
+              place="foot">E.g. <foreign xml:lang="ta">viḷa-v-iṉ-ai-k-kuṟaittāṉ ; pu-v-iṉ-oṭu</foreign>
+>>>>>>> Stashed changes
           or <foreign xml:lang="ta">pū-v-oṭu.</foreign> The examples quoted Iḷam. show, first, that
           the <foreign xml:lang="ta">viṉai</foreign> meant here is either finite verb or participal noun (<foreign xml:lang="ta">viḷaviṉaikkuṟaittavaṉ</foreign> is quoted) and, second, that the order meant is Noun + Verb.</note></l>
 <l>it is the nature of the empty morph to be inserted,</l>
@@ -43,6 +52,10 @@
 <l>the empty-morph disappears.</l>
 <l>Between the base and the marker - <foreign xml:lang="ta">oṭu,</foreign></l>
 <l>it both appears and disappears.</l>
+=======
+<l>The empty morph <foreign xml:lang="ta">iṉ</foreign><note place="foot"><foreign xml:lang="ta">iṉ eṉ cāriyai.</foreign></note> should disappear</l>
+<l>when it occurs before the case-marker <foreign xml:lang="ta">iṉ.</foreign><note place="foot"><foreign xml:lang="ta">iṉ eṉa vēṟṟumai urupu.</foreign> E.g. <foreign xml:lang="ta">*palaviṉiṉ &gt; palāviṉ.</foreign></note></l>
+>>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
       </lg>
     </div>
   </body>
