@@ -32,12 +32,11 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0476"><interp type="alignment" select="0">11MG24MG16M,53M</interp>
+<standOff type="wordsplit" corresp="#TolE0476">
+<interp type="alignment" select="0">11MG24MG16M,53M</interp>
 <entry>
 <form>āyiram</form>
 <def>the word 'āyiram' - thousand</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>variṉ-ē</form>
@@ -105,5 +104,6 @@
   <gram type="role">singular</gram>
   <gram type="role">negative</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
