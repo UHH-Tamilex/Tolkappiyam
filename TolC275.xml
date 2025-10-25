@@ -681,43 +681,6 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC275-Nacc-cit6" type="wordsplit">
-<interp type="alignment" select="0">23M,G21MG</interp>
-<entry>
-<form>a<c type="geminated">v</c></form>
-<def>that</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>va<c type="geminated">c</c></form>
-<def>consonant 'v'</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>colliṉ</form>
-<def>say-if</def>
-<form type="sandhi">colliṟ</form>
-<gramGrp>
-  <gram type="role">conditional</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>kavai</form>
-<def>fork off</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>avai</form>
-<def>those</def>
-<gramGrp>
-  <gram type="role">plural</gram>
-</gramGrp>
-</entry>
 </standOff><standOff corresp="#TolC275-Nacc-cit7" type="wordsplit">
 <interp type="alignment" select="0">5MG16MG8MG4M,G12MG21MG</interp>
 <entry>
