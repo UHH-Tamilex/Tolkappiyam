@@ -167,7 +167,7 @@ murukāṟṟuppaṭaiyuḷ,
         <l>ṟiruḷniṟa munnīr vaḷaiiya ulakat</l>
         <l>torunī yākit tōṉṟa viḻumiya</l>
         <l>peṟalarum parici ṉalkumati palavuṭaṉ</l>
-        <l><gap quantity="5" unit="character" reason="lost"/> malaikiḻavōṉe’</l>
+        <l><gap quantity="5" unit="character" reason="lost"/> malaikiḻavōṉē’</l>
       </lg>
       <p>
 eṉa mati paṭarkkaikkaṇṇum vantataṉait ‘takunilai yuṭaiya’ eṉṟataṉā ṉātal,
@@ -252,7 +252,7 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 </entry>
 <entry>
 <form>ikum-um</form>
-<def>the word ikum</def>
+<def>the word ‘ikum’</def>
 <form type="simple">ikum</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -261,7 +261,7 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 </entry>
 <entry>
 <form>ciṉ-<c type="geminated">ṉ</c>um</form>
-<def>the word ciṉ</def>
+<def>the word ‘ciṉ’</def>
 <form type="simple">ciṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -994,6 +994,155 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <form type="simple">peṟṟiciṉ</form>
 <gramGrp>
   <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC275-Nacc-cit5" type="wordsplit">
+<interp type="alignment" select="0">6MG3MG9ML20MG39ML34MG2M,G117MG</interp>
+<entry>
+<form>viḷiv<c type="elided">u</c></form>
+<def>perishing</def>
+<form type="sandhi">viḷiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟ<c type="elided">u</c></form>
+<def>without</def>
+<form type="sandhi">iṉṟ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>iruḷ</form>
+<def>darkness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟam</form>
+<def>colour</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>munnīr</form>
+<def>three-water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷaiiya</form>
+<def>encircled</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ulakatt<c type="elided">u</c></form>
+<def>world</def>
+<form type="sandhi">ulakatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āki<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟa</form>
+<def>appear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻumiya</form>
+<def>been excellent</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟal</form>
+<def>obtaining</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paricil</form>
+<def>present</def>
+<form type="sandhi">pariciṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nalkumati</form>
+<def>grant</def>
+<form type="sandhi">ṉalkumati</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>palavuṭaṉ</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><gap quantity="5" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻavōṉ-ē</form>
+<def>lord</def>
+<form type="simple">kiḻavōṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
