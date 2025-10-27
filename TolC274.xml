@@ -319,20 +319,20 @@ eṉavarum. ivai kēḷ, kāṇ, moḻi, cel, (kāṇ) pūṇ eṉṉum poruṭk
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC274-Ilam-cit2" type="wordsplit">
-<interp type="alignment" select="0">5MG19M,G23MG</interp>
+<interp type="alignment" select="0">24M,G22MG</interp>
 <entry>
-<form>taṇṭ<c type="elided">u</c></form>
-<def>staff</def>
-<form type="sandhi">taṇṭ</form>
+<form>taṇ</form>
+<def>cool</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṟai</form>
-<def>stay</def>
+<form>tuṟai</form>
+<def>ghat</def>
+<form type="sandhi">ṭuṟai</form>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -866,20 +866,20 @@ eṉavarum. ivai kēḷ, kāṇ, moḻi, cel, (kāṇ) pūṇ eṉṉum poruṭk
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC274-Tey-cit2" type="wordsplit">
-<interp type="alignment" select="0">4MG16M,20MG</interp>
+<interp type="alignment" select="0">20M,19MG</interp>
 <entry>
-<form>taṇṭ<c type="elided">u</c></form>
-<def>staff</def>
-<form type="sandhi">taṇṭ</form>
+<form>taṇ</form>
+<def>cool</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṟai</form>
-<def>stay</def>
+<form>tuṟai</form>
+<def>ghat</def>
+<form type="sandhi">ṭuṟai</form>
 <gramGrp>
-  <gram type="role">verbal root as adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
