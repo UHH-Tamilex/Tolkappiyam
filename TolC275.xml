@@ -244,7 +244,7 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 </entry>
 <entry>
 <form>uḷ</form>
-<def>among</def>
+<def>among(ohwell)</def>
 <gramGrp>
   <gram type="role">postposition</gram>
   <gram type="role">noun</gram>
@@ -383,11 +383,10 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <interp type="alignment" select="0">17MG6M2G3M,G26M2G</interp>
 <entry>
 <form>pukaḻntikum</form>
-<def>praise-we</def>
+<def>praising</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
@@ -471,11 +470,10 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <interp type="alignment" select="0">17MG6M2G2M,G26MG</interp>
 <entry>
 <form>pukaḻntikum</form>
-<def>praise-we</def>
+<def>praising</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
@@ -627,11 +625,10 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <interp type="alignment" select="0">17MG6M2G2M,G26MG</interp>
 <entry>
 <form>pukaḻntikum</form>
-<def>praise-we</def>
+<def>praising</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
@@ -811,11 +808,10 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <interp type="alignment" select="0">17MG8MG,G26M</interp>
 <entry>
 <form>pukaḻntikum</form>
-<def>praise-we</def>
+<def>praising</def>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">plural</gram>
-  <gram type="role">first person</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
@@ -974,8 +970,6 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <form>iṉṟ<c type="elided">u</c></form>
 <def>without</def>
 <form type="sandhi">iṉṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iruḷ</form>
@@ -992,8 +986,12 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 </gramGrp>
 </entry>
 <entry>
-<form>munnīr</form>
-<def>three-water</def>
+<form>mu<c type="geminated">n</c></form>
+<def>three</def>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1017,8 +1015,6 @@ eṉap pāl kāṭṭum eḻuttōṭu aṭuttuvarutaluṅ koḷka.	[26]
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nī</form>
