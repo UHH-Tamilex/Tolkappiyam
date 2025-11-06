@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 279. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p />
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC279">
+        <l>yākā</l>
+        <l>piṟapiṟak karōpō māteṉa varūu</l>
+        <l>māyēḻ collu macainilaik kiḷavi.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref
+          target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/169/mode/1up">
+        169</ref>.</p>
+      <p>
+        ic cūttiram eṉṉutaliṟṟō veṉiṉ, acaikkum iṭaiccoṟkaḷait tokuttu uṇarttutal nutaliṟṟu.
+</p>
+
+      <p>
+        varalāṟu:
+      </p>
+      <lg xml:id="TolC279-Ilam-cit1">
+        <l>‘yā paṉṉiruvar uḷarpōlum māṇākkar akattiyaṉārkku’</l>
+      </lg>
+      <p>
+        eṉa, yā vantavāṟu kāṇka.
+      </p>
+      <p>
+        kā:
+      </p>
+      <lg xml:id="TolC279-Ilam-cit2">
+        <l>‘utukā’</l>
+      </lg>
+      <p>
+        eṉa varum.
+      </p>
+      <p>
+        piṟa:
+      </p>
+      <lg xml:id="TolC279-Ilam-cit3">
+        <l>‘atupiṟa, itupiṟa, utupiṟa’</l>
+      </lg>
+      <p>
+        eṉap piṟa vantavāṟu.
+      </p>
+      <lg xml:id="TolC279-Ilam-cit4">
+        <l>‘atu piṟakku’</l>
+      </lg>
+      <p>
+        eṉap piṟakku vantavāṟu.
+      </p>
+      <lg xml:id="TolC279-Ilam-cit5">
+        <l>‘koṭiyuvaṇattavarō’</l>
+      </lg>
+      <p>
+        eṉa arō vantavāṟu.
+      </p>
+      <lg xml:id="TolC279-Ilam-cit6">
+        <l>‘piriyēṉ vāḻēṉ pōteyya’</l>
+      </lg>
+      <p>
+        eṉap pō vantavāṟu;
+      </p>
+      <lg xml:id="TolC279-Ilam-cit7">
+        <l>‘nīrpō nērikai pukaṉ’</l>
+      </lg>
+      <p>
+        eṉpatum atu.
+      </p>
+      <lg xml:id="TolC279-Ilam-cit8">
+        <l>‘viḷintaṉṟumātavatteḷintaveṉ ṉeñcam’</l>
+        <trailer>[naṟṟi-178]</trailer>
+      </lg>
+      <p>
+        eṉa mātu vantavāṟu.
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref
+          target="https://archive.org/details/tolkppiyamcollat00unse/page/n219/mode/1up">216</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n220/mode/1up">217</ref>.</p>
+      <p>
+        i - ḷ. yā mutalākiya ēḻiṭaiccollum acai nilaiyām. e-ṟu.
+      </p>
+      <p>
+        u.m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit1">
+        <l>yāpaṉṉiruvar māṇākkaruḷarakattiyaṉārkku.</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit2">
+        <l>‘puṟaniḻaṟ paṭṭāḷō vivaḷivaṭ kāṇṭikā.’</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit3">
+        <l>‘tāṉpiṟa varicai yaṟitaliṟ ṟaṉṉun tūkki.’</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit4">
+        <l>‘atupiṟakku.’</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit5">
+        <l>‘nōtaka viruṅkuyi lālumarō.’</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit6">
+        <l>‘piriyiṉ vāḻā teṉpō teyya’</l>
+      </lg>
+      <p>
+e-m.
+      </p>
+      <lg xml:id="TolC279-Cena-cit7">
+        <l>‘viḷintaṉṟu mātavart teḷintaveṉ neñcē.’</l>
+      </lg>
+      <p>
+e-m. varum.
+      </p>
+      <p>
+        iṭam varaiyaṟāmaiyiṉ ivai mūṉṟiṭattiṟkumuriya.
+      </p>
+      <p>
+āṅkavum oppilpōliyum uraitoṭaṅkuṟaṟkaṇṇum ātaramilvaḻiyum varutaliṉ, vēṟu kūṟiṉār.	(31)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/303/mode/1up">303</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/304/mode/1up">304</ref>.</p>
+      <p>
+        acainilaic coṟkaḷ.
+      </p>
+      <lg>
+        <l>yākā,</l>
+        <l>piṟapiṟak karōpō māteṉa varūum</l>
+        <l>āyēḻ collu macainilaik kiḷavi.</l>
+      </lg>
+      <p>
+iḳtu, acainilai kūṟukiṉṟatu.
+      </p>
+      <p>
+        (i-ḷ.) yā kā piṟa piṟak karō pō māteṉa varū um āyēḻ collu macainilaik kiḷavi ― yā, kā, piṟa, piṟakku arō pō mātu eṉṟu colla varukiṉṟa avvēḻu collun tāñcārnta collai yacaittu niṟkum nilaimaiyaiyuṭaiya collā meṉṟavāṟu.
+      </p>
+      <lg xml:id="TolC279-Nacc-cit1">
+        <l>‘yā paṉṉiruvar māṇākkaruḷa rakattiya ṉārkku,’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <p>
+        iṉṉum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit2">
+       <l>‘tōḻiyā cuvākatam pōtu kīṅkeṉa’</l>
+      </lg>
+      <p>
+        veṉṟu pāṭamāyi ṉatuvu mitaṟ kutāraṇam.
+      </p>
+      <lg xml:id="TolC279-Nacc-cit3">
+       <l>‘puṟaniḻaṟ paṭṭāḷō vivaḷivaṭ kāṇṭikā’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit4">
+       <l>‘tāṉpiṟa</l>
+       <l>‘varicai yaṟitaliṟ ṟaṉṉun tūkki’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit5">
+       <l>‘nacaitara vantōr nacaipiṟak koḻiya’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit6">
+       <l>‘nōtaka</l>
+       <l>‘viruṅkuyi lālu marō’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit7">
+       <l>‘piriyiṉ vāḻā teṉpō teyya’</l>
+      </lg>
+      <p>
+        eṉavum,
+      </p>
+      <lg xml:id="TolC279-Nacc-cit8">
+       <l>‘viḷintaṉṟu mātavart teḷintaveṉ</l>
+       <l>neñcē’</l>
+      </lg>
+      <p>
+        eṉavum varum. <num xml:lang="en">(31)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref
+          target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n186/mode/1up">
+        179</ref>.</p>
+      <p>
+        ituvumatu.
+      </p>
+      <p>
+        i-ḷ: ― yā mutalākac collappaṭṭa ēḻu collum acainilaik kiḷaviyām. e-ṟu.
+      </p>
+      <p>
+        u-m:― yā ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit1">
+        <l>“tōḻiyā cuvarkkam pōtukiṅkeṉa”</l>
+        <!--(cīvaka. 1021)-->
+      </lg>
+      <p>
+kā ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit2">
+        <l>“puṟaniḻaṟ paṭṭāḷō vavaḷivaṭ kāṇṭikā”</l>
+        <!--(kali. 99)-->
+      </lg>
+      <p>
+piṟa ― tāṉ piṟa ― 
+      </p>
+      <lg xml:id="TolC279-Tey-cit3">
+        <l>“varicai yaṟitaliṟ ṟaṉṉun tūkki.</l>
+        <trailer>(puṟam-1<num rend="traditional">40</num>)</trailer>
+      </lg>
+      <p>
+piṟakku ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit4">
+        <l>“nacaipiṟak koḻiya”.</l>
+        <!--(puṟam. 15)-->
+      </lg>
+      <p>
+arō ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit5">
+        <l>“nōtaka, viruṅkuyi lālumarō.</l>
+        <trailer>(kali 33)</trailer>
+      </lg>
+      <p>
+pō ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit6">
+        <l>“piriyiṉ vāḻā teṉpō teyya”.</l>
+      </lg>
+      <p>
+mātu ―
+      </p>
+      <lg xml:id="TolC279-Tey-cit7">
+        <l>“viḷintaṉṟu mātavat teḷinta veṉṉeñcē.</l>
+        <trailer>(naṟ-178)</trailer>
+      </lg>
+      <p>
+eṉa varum.	(30)
+      </p>
+    </body>
+  </text>
+</TEI>
