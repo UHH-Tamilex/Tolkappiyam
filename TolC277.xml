@@ -1,0 +1,338 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 277.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC277">
+        <l>āṅka vuraiyacai.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/168/mode/1up">168</ref>.</p>
+  <p>
+urai: āṅka eṉṉum iṭaic collatōr kaṭṭurait toṭarpiṉiṭai, acaipporuḷ paṭavarum eṉṟavāṟu.
+  </p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC277-Ilam-cit1">
+        <l>‘āṅkak</l>
+        <l>kuyilu mayiluṅ kāṭṭikkoḷa</l>
+        <l>vivaṉai viṭuttup pōkkiyōḷ’</l>
+      </lg>
+      <p>
+        eṉa varum.  (29)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n219/mode/1up">216</ref>.</p>
+      <p>
+i - ḷ. āṅkaveṉṉumiṭaiccol kaṭṭuraikkaṇ acainilaiyāy varum. e-ṟu.
+      </p>
+      <p>
+u-m. 
+      </p>
+      <lg xml:id="TolC277-Cena-cit1">
+        <l>‘āṅkakkuyilumayiluṅkāṭṭi’</l>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/302/mode/1up">302</ref>.</p>
+      <p>
+      ‘āṅka’ vuraiyacai yeṉpatu
+      </p>
+      <lg>
+        <l>āṅka vuraiyacai.</l>
+      </lg>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+(i-ḷ.) āṅkavuraiyacai ― ‘āṅkaveṉṉu miaiṭaccoṟ kaṭṭuraik kaṇṇē yacaitta nilaiyāy varameṉṟavāṟu.
+      </p>
+      <p>
+kaṭṭurai ― puṉainturai. acaittal ― cērttutal.
+      </p>
+     <lg xml:id="TolC277-Nacc-cit1">
+      <l>‘āṅkak kuyilu mayiluṅ kāṭṭik</l>
+      <l>kēḷvaṉai viṭuttup pōkki yōḷē’</l>
+    </lg>
+    <p>
+yeṉpuḻi ‘yaṅkaṉē’ yeṉappuṉainturaittu niṉṟatu
+    </p>
+    <p>
+ciṟitu poruḷuṇarttuvaṉavaṟṟai yuraiyacai yeṉṟum, poruḷuṇarttātu coṟkaḷai yacaittu niṟpaṉa vaṟṟai yacainilai yeṉṟuṅ kūṟutalāciriyar karuttātalai yiraṇṭatikārattuṅ kaṇṭu koḷka.  <num xml:lanag="en">(29)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n186/mode/1up">179</ref>.</p>
+      <p>
+        acainilai yāmāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+        i-ḷ: ― āṅka eṉṉuñcol uraiyiṭattu acainilaiyām. e-ṟu.
+      </p>
+      <p>
+u-m:―
+      </p>
+      <lg xml:id="TolC277-Tey-cit1">
+        <l>“āṅkak kuyilu mayiluṅ kāṭṭi”</l>
+      </lg>
+      <p>
+eṉavarum.	[28]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC277" type="wordsplit">
+<interp type="alignment" select="0">15M,14MG</interp>
+<entry>
+<form>āṅka</form>
+<def>the word āṅka</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>urai</form>
+<def>discourse</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>acai</form>
+<def>joining</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC277-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG2ML4MG36M,G54MG</interp>
+<entry>
+<form>āṅka<c type="geminated">k</c></form>
+<def>thus</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kuyil-um</form>
+<def>Koel</def>
+<form type="simple">kuyil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mayil-um</form>
+<def>peacock</def>
+<form type="simple">mayil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi<c type="geminated">k</c></form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷa</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ivaṉai</form>
+<def>this-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭuttu<c type="geminated">p</c></form>
+<def>made-let-go</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōkkiyōḷ</form>
+<def>she let go</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC277-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG2ML4MG8M,G26MG</interp>
+<entry>
+<form>āṅka<c type="geminated">k</c></form>
+<def>thus</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kuyil-um</form>
+<def>Koel</def>
+<form type="simple">kuyil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mayil-um</form>
+<def>peacock</def>
+<form type="simple">mayil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi</form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC277-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG2ML4MG32MG2M,G53MG</interp>
+<entry>
+<form>āṅka<c type="geminated">k</c></form>
+<def>thus</def>
+</entry>
+<entry>
+<form>kuyil-um</form>
+<def>Koel</def>
+<form type="simple">kuyil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mayil-um</form>
+<def>peacock</def>
+<form type="simple">mayil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi<c type="geminated">k</c></form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēḷvaṉai</form>
+<def>husband</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭuttu<c type="geminated">p</c></form>
+<def>made to go</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōkkiyōḷ-ē</form>
+<def>she went away</def>
+<form type="simple">pōkkiyōḷ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC277-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">11MG2ML4MG8M,G26MG</interp>
+<entry>
+<form>āṅka<c type="geminated">k</c></form>
+<def>thus</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kuyil-um</form>
+<def>Koel</def>
+<form type="simple">kuyil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mayil-um</form>
+<def>peacock</def>
+<form type="simple">mayil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṭṭi</form>
+<def>showed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
