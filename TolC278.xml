@@ -1,0 +1,515 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 278.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC278">
+        <l>oppil pōliyu mapporuṭ ṭākum.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/168/mode/1up">168</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/169/mode/1up">169</ref>.</p>
+  <p>
+ic cūttiram eṉṉutaliṟṟō veṉiṉ, mēl iṭaic col eḻuvakaiya eṉṟu niṟuttavaṟṟuḷ oppilpōli eṉṉum iṭaiccol uṇarttutal nutaliṟṟu.
+</p>
+<p>
+oppilpōli yāvatu, oppillātavaḻi oppitta vācakam paṭa varuvatu eṉpatu.
+</p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC278-Ilam-cit1">
+        <l>‘maṅkalam eṉpatōr ūruṇṭupōlum maḻanāṭṭuḷ’</l>
+      </lg>
+      <p>
+eṉa oppillātavaḻip pōlum eṉṉum iṭaic col vantavāṟu. (30)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n219/mode/1up">216</ref>.</p>
+      <p>
+i - ḷ. oppumaiyuṇarttāta pōliccollum āṅkaveṉpatupōla uraiyacaiyām. e-ṟu.
+      </p>
+      <p>
+u-m. 
+      </p>
+      <lg xml:id="TolC278-Cena-cit1">
+        <l>maṅkalameṉpatōrūruṇṭupōlum</l>
+      </lg>
+      <p>
+        eṉa varum.
+      </p>
+      <p>
+        pōlum pōlvatu eṉṉuntoṭakkattup palavāypāṭuntaḻuvutaṟkup pōliyeṉṟār.
+      </p>
+      <lg xml:id="TolC278-Cena-cit2">
+        <l>‘neruppaḻaṟ cērntakkā ṉeypōl vatūum’</l>
+      </lg>
+      <p>
+        eṉpatumatu.
+      </p>
+      <p>
+acainilaiyum poruḷ kuṟittallatu nillāmaiyiṉ apporuṭṭākumeṉṟār.	(30)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/302/mode/1up">302</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/303/mode/1up">303</ref>.</p>
+      <p>
+        oppil pōli
+      </p>
+      <lg>
+        <l>oppil pōliyu mapporuṭ ṭākum.</l>
+      </lg>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+        (i-ḷ.) oppil pōliyu mapporuṭṭākum — oṉṟaṟ koṉ ṟokku meṉṉum poruḷ taṉkaṇiṉṟi varum pōliyeṉṉuñ collum akkaṭṭuraik kaṇṇē yacaitta nilaiyākiya poruḷai yuṭaittāy varumeṉṟa vāṟu.
+      </p>
+      <p>
+apporuṭ ṭeṉavē yāṅkavum poru ṭarutal peṟṟām.
+      </p>
+      <p>
+(u-m.)
+      </p>
+     <lg xml:id="TolC278-Nacc-cit1">
+        <l>‘maṅkala meṉpatō rūruṇṭu pōlum’</l>
+     </lg>
+     <lg xml:id="TolC278-Nacc-cit2">
+        <l>‘neruppaḻaṟ cērntakkā ṉeypōl vatūum’</l>
+        <l>‘erippaccuṭ ṭevvanō yākkum.’</l>
+      </lg>
+      <p>
+eṉappōlu meṉṉu miṭaicco lūraiyum neyyaiyum puṉaintu niṉṟavāṟu kāṇka.  <num xml:lang="en">(30)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n186/mode/1up">179</ref>.</p>
+      <p>
+ituvumatu.
+      </p>
+      <p>
+        i-ḷ: ― oppuk kuṟiyāta pōl eṉṉum collum uraiyacaiyām. e-ṟu.
+      </p>
+      <p>
+u-m:― 
+      </p>
+      <lg xml:id="TolC278-Tey-cit1">
+        <l>avar vantār pōlum.</l>
+      </lg>
+      <p>
+        itaṉuḷ vantār eṉat tuṇintavaḻi varutaliṉ, acainilaiyāyiṟṟu.	[29]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC278" type="wordsplit">
+<interp type="alignment" select="0">3MG6MG11MG5M,27MG</interp>
+<entry>
+<form>opp<c type="elided">u</c></form>
+<def>comparison</def>
+<form type="sandhi">opp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>forms of the verb pōl</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōli-<c type="glide">y</c>um</form>
+<def>comparison word</def>
+<form type="simple">pōli</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">p</c></form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruṭṭ<c type="elided">u</c></form>
+<def>having the meaning</def>
+<form type="sandhi">poruṭṭ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākum</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">14MG17MR4MG3M,G39MG</interp>
+<entry>
+<form>maṅkalam</form>
+<def>Maṅkalam</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpat<c type="elided">u</c></form>
+<def>say-it</def>
+<form type="sandhi">eṉpat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇṭu</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>it seems</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻa<c type="uncertain">m</c></form>
+<def>youth</def>
+<form type="sandhi">maḻan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭṭ<c type="elided">u</c></form>
+<def>land</def>
+<form type="sandhi">nāṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">13MG13M,27M</interp>
+<entry>
+<form>maṅkalam</form>
+<def>Maṅkalam</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpat<c type="elided">u</c></form>
+<def>say-it</def>
+<form type="sandhi">eṉpat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇṭu</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>it seems</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">7MG14ML9MG3M,G34MG</interp>
+<entry>
+<form>nerupp<c type="elided">u</c></form>
+<def>fire</def>
+<form type="sandhi">nerupp</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>aḻal</form>
+<def>heat</def>
+<form type="sandhi">aḻaṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cērnta<c type="geminated">k</c></form>
+<def>joined</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>wind</def>
+<form type="sandhi">kāṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ney</form>
+<def>ghee</def>
+<form type="sandhi">ṉey</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlvatu-um</form>
+<def>be similar</def>
+<form type="simple">pōlvatu</form>
+<form type="sandhi">pōlvatū</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">7MG14ML9MG15MG4MR10M,G34M2G25M2G</interp>
+<entry>
+<form>nerupp<c type="elided">u</c></form>
+<def>fire</def>
+<form type="sandhi">nerupp</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>aḻal</form>
+<def>heat</def>
+<form type="sandhi">aḻaṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cērnta<c type="geminated">k</c></form>
+<def>joined</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>wind</def>
+<form type="sandhi">kāṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ney</form>
+<def>ghee</def>
+<form type="sandhi">ṉey</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlvatu-um</form>
+<def>be similar</def>
+<form type="simple">pōlvatu</form>
+<form type="sandhi">pōlvatū</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>erippa<c type="geminated">c</c></form>
+<def>flaming</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṭṭ<c type="elided">u</c></form>
+<def>burned</def>
+<form type="sandhi">cuṭṭ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>evvam</form>
+<def>trouble</def>
+<form type="sandhi">evvan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākkum</form>
+<def>make become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>avar</form>
+<def>that one</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>they who came</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>seems</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC278-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">14MG14M,G27MG</interp>
+<entry>
+<form>maṅkalam</form>
+<def>Maṅkalam</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpat<c type="elided">u</c></form>
+<def>say-it</def>
+<form type="sandhi">eṉpat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇṭu</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>it seems</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
