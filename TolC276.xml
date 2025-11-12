@@ -1,0 +1,276 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 276.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC276">
+            <l>ammakēṭ pikkum.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/168/mode/1up">168</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      
+      <lg xml:id="TolC276-Ilam-cit1">
+        <l>‘amma vāḻi tōḻi’</l>
+        <trailer>[aiṅkuṟu - <num xml:lang="en">31</num>]</trailer>
+      </lg>
+      <p>
+        eṉṟavaḻi, atu kēḻāy vāḻi tōḻi eṉṟavāṟum. ()
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n218/mode/1up">215</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n219/mode/1up">216</ref>.</p>
+      <p>
+i-ḷ. ammaveṉṉumiṭaiccol oruvaṉai oruvaṉ oṉṟu kēḷeṉṟu collutaṟkaṇ varum. e-ṟu.
+      </p>
+      <p>
+u-m. 
+      </p>
+      <lg xml:id="TolC276-Cena-cit1">
+        <l>‘amma vāḻi tōḻi’</l>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+      <p>
+miyā ika mutalākiya acainilai oruporuḷuṇarttāvāyiṉum muṉṉilaikkaṇallatu vārāmaiyāṉ avviṭamuṇarvikkumāṟupōla, ammaveṉpatūum oruporuḷuṇarttātāyiṉum oṉṟaṉaik kēṭpikkumiṭattallatu vārāmaiyāṉ apporuḷuṇarvikkumeṉpatu viḷakkiya, kēṭpikkumeṉṟār. (28)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/301/mode/1up">301</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/302/mode/1up">302</ref>.</p>
+      <p>
+‘amma’ veṉṉu miṭaiccolliṉ poruḷ
+      </p>
+      <lg>
+          <l>ammakēṭ pikkum.</l>
+      </lg>
+      <p>
+itu, poruḷ paṭumāṟu kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ) amma kēṭpikkum ― ammaveṉṉuñ col yāṉ kūṟukiṉṟataṉaik kēḷ eṉṟoruvarkkuk kēṭpikkum poruṇmaiyiṉai yuṇarttaniṟku meṉṟavāṟu.
+      </p>
+      <p>
+colloṭu poruṭ koṟṟumai karutik ‘kēṭpikku’ meṉṟār.
+      </p>
+      <p>
+(u-m)
+      </p>
+     <lg xml:id="TolC276-Nacc-cit1">
+        <l>‘amma vāḻi tōḻi!</l>
+      </lg>
+      <p>
+amma veṉṉu macaiccoṉīṭṭa meṉpuḻiyum poruṭantē niṟkumāṟu kūṟiyavā ṟāṇṭuṇarka (<num xml:lang="en">23</num>)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n185/mode/1up">178</ref>.</p>
+      <p>
+ituvum acainilaiccol poruḷ paṭumāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+i-ḷ:― amma eṉṉum col acainilai yākalēyaṉṟik kēḷ eṉṉum poruḷum paṭum. e-ṟu.
+      </p>
+      <p>
+u-m:―
+      </p>
+      <lg xml:id="TolC276-Tey-cit1">
+        <l>amma vāḻi tōḻi’</l>
+        <trailer>(aiṅ - 31)</trailer>
+      </lg>
+      <p>
+eṉṟavaḻik kēḷ eṉṉum poruḷ kuṟittu niṉṟatu.
+      </p>
+      <lg xml:id="TolC276-Tey-cit2">
+        <l>uṇṭā lammaviv vulakam’</l>
+        <trailer>(puṟam - 182.)</trailer>
+      </lg>
+      <p>
+eṉpatu acainilaiyāki vantatu. acainilai eṉpatu eṟṟāṟ peṟutu meṉiṉ, mēl “ammaeṉṉum acaiccol nīṭṭam” (viḷimarapu - 35) eṉpataṉāṟ peṟutum.	[27]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC276" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>amma</form>
+<def>the word amma</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭpikkum</form>
+<def>make listen</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC276-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">14M,G12MG</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC276-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">14M,G12MG</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC276-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">14M,G12MG</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC276-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">13M,12MG</interp>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC276-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">20M,19MG</interp>
+<entry>
+<form>uṇṭāl</form>
+<def>eating</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>amma</form>
+<def>alas</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>i<c type="geminated">v</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ulakam</form>
+<def>world</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,32 +31,17 @@
 <l>cāriyai nilaiyuṅ kaṭappā ṭilavē</l>
       </lg>
       <lg xml:lang="en">
-<<<<<<< HEAD
 <l>All words, ending in non-vocalized consonants</l>
 <l>or vowels other than those mentioned [above],</l>
 <l>when combined with case-markers, will -</l>
 <l>on examining [them] -</l>
-<<<<<<< Updated upstream
 <l>take the empty-morph, but not necessarily.<note place="foot">Exx. : <foreign xml:lang="ta">maṇ + ai &gt; maṇṇai</foreign> or <foreign xml:lang="ta">maṇṇiṉai ; kiḷi + ai &gt; kiḷiyai</foreign> or <foreign xml:lang="ta">kiḷiyiṉai.</foreign></note></l>
-=======
-<l>take the empty-morph, but not necessarily.<note
-              place="foot">Exx. : <foreign xml:lang="ta">maṇ + ai &gt; maṇṇai</foreign> or <foreign
-                xml:lang="ta">maṇṇiṉai ; kiḷi + ai &gt; kiḷiyai</foreign> or <foreign xml:lang="ta">kiḷiyiṉai.</foreign></note></l>
-=======
-<l>Words [denoting] direction,<note place="foot"><foreign xml:lang="ta">ticaippeyar,</foreign> e.g. <foreign xml:lang="ta">vaṭakku.</foreign></note></l>
-<l>when followed by the seventh-case marker,</l>
-<l>will not optionally take the empty-morph [<foreign xml:lang="ta">iṉ</foreign>] ;</l>
-<l>there, the ending with the consonant is dropped.<note place="foot">Exx. : <foreign xml:lang="ta">vaṭakku + kaṇ &gt; vaṭakkaṇ</foreign> or <foreign xml:lang="ta">vaṭakkiṉkaṇ.</foreign></note></l>
->>>>>>> 699bcf328a4ed1789f9798ac2bd592b44241f935
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0202"><interp type="alignment" select="0">11MG16MG76MG3MG2M,112M</interp>
+<standOff type="wordsplit" corresp="#TolE0202">
+<interp type="alignment" select="0">11MG16MG65MG11MG3MG2M,113M</interp>
 <entry>
 <form>puḷḷi</form>
 <def>consonant</def>
@@ -164,12 +151,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nilaiyum</form>
+<form>nilai-<c type="glide">y</c>um</form>
 <def>remining permanent</def>
-<form type="sandhi">nilaiyuṅ</form>
+<form type="simple">nilai</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kaṭappāṭ<c type="elided">u</c></form>
@@ -187,5 +175,6 @@
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
