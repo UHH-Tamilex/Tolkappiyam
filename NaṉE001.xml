@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> <num></num>.
+            <title xml:lang="ta">Naṉṉul Eḻuttatikāram</title> <num>1</num>.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -113,7 +113,7 @@
 </entry>
 <entry>
 <form>urai</form>
-<def>commentary</def>
+<def>c0mmentary</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -135,7 +135,7 @@
 </entry>
 <entry>
 <form>pāyiram</form>
-<def>introduction to a book</def>
+<def>introduction</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
