@@ -30,7 +30,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0385"><interp type="alignment" select="0">13MG12M2GM,29M</interp>
+<standOff type="wordsplit" corresp="#TolE0385">
+<interp type="alignment" select="0">13MG12M2GM,29M</interp>
 <entry>
 <form>tamiḻ</form>
 <def>the word 'Tamiḻ'</def>
@@ -77,5 +78,6 @@
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
