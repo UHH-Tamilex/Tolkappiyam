@@ -94,7 +94,43 @@ i - ḷ. iraṇṭumāttiraiyaiyuṭaittāya moḻikkīṟākāteṉappaṭṭa 
 poruḷvēṟupāṭāvaṉa vaḻakku nōkkac ciṟappum māṟupāṭumām.
       </p>
       <p>
-u - m. auauvoruvaṉṟavañceytavāṟu eṉṟavaḻic ciṟapput tōṉṟum. orutoḻil ceyvāṉai auauviṉiccālum eṉṟavaḻi māṟupāṭu tōṉṟum. auu voruvaṉiravalarkkīntavāṟu; auuviṉivekuḷal. e-m. auvavaṉ muyalumāṟu; auviṉittaṭṭuppuṭaiyal. e-m. aḷapeṭuttum aḷapeṭātum vantavaḻiyum, apporuṭōṉṟiyavāṟu kaṇṭukoḷka. itaṉai ikkālattu ōkāramāka vaḻaṅkupa. piṟaporuḷpaṭumāyiṉum aṟintukoḷka.
+        u - m. 
+      </p>
+      <lg xml:id="TolC281-Cena-cit1">
+        <l>auau</l>
+      </lg>
+      <p>
+voruvaṉṟavañceytavāṟu eṉṟavaḻic ciṟapput tōṉṟum. orutoḻil ceyvāṉai
+      </p>
+      <lg xml:id="TolC281-Cena-cit2">
+        <l>auauviṉiccālum</l>
+      </lg>
+      <p>
+        eṉṟavaḻi māṟupāṭu tōṉṟum.
+      </p>
+      <lg xml:id="TolC281-Cena-cit3">
+        <l>auu</l>
+      </lg>
+      <p>
+voruvaṉiravalarkkīntavāṟu;
+      </p>
+      <lg xml:id="TolC281-Cena-cit4">
+        <l>auuviṉivekuḷal.</l>
+      </lg>
+      <p>
+        e-m.
+      </p>
+      <lg xml:id="TolC281-Cena-cit5">
+        <l>au</l>
+      </lg>
+      <p>
+vavaṉ muyalumāṟu;
+      </p>
+      <lg xml:id="TolC281-Cena-cit6">
+        <l>auviṉittaṭṭuppuṭaiyal.</l>
+      </lg>
+      <p>
+e-m. aḷapeṭuttum aḷapeṭātum vantavaḻiyum, apporuṭōṉṟiyavāṟu kaṇṭukoḷka. itaṉai ikkālattu ōkāramāka vaḻaṅkupa. piṟaporuḷpaṭumāyiṉum aṟintukoḷka.
       </p>
       <p>
 īraḷapicaikkumeṉṟēyoḻiyiṉ neṭṭeḻuttellāvaṟṟumēlum, iṟutiyiluyireṉṟēyoḻiyiṉ ekaravokarattumēluñcēṟalāṉ, īraḷapicaikkumiṟutiyiluyireṉṟār.
@@ -396,6 +432,91 @@ u-m:― avaiyāvaṉa:— ā, ī, ū, ē, ai, ō, eṉpaṉa. oruvaṉ takutiyal
 <def>appearing</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC281-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">4M,4M</interp>
+<entry>
+<form>au</form>
+<def>Oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>au</form>
+<def>Oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC281-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">14M,14M</interp>
+<entry>
+<form>au</form>
+<def>Oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>au</form>
+<def>Oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉi<c type="geminated">c</c></form>
+<def>now</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>cālum</form>
+<def>is enough</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC281-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">3M,3M</interp>
+<entry>
+<form>auu</form>
+<def>Ohhh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC281-Cena-cit4" type="wordsplit">
+<interp type="alignment" select="0">15M,14MG</interp>
+<entry>
+<form>auu</form>
+<def>Ohhh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉi</form>
+<def>now</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vekuḷal</form>
+<def>not be angry</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC281-Cena-cit5" type="wordsplit">
+<interp type="alignment" select="0">2M,2M</interp>
+<entry>
+<form>au</form>
+<def>Oh</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
