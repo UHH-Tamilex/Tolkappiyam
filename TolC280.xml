@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -8,7 +8,7 @@
           <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 280. </title>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -16,14 +16,14 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p />
+              <p/>
             </summary>
           </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta" type="edition">
@@ -37,8 +37,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Iḷampūraṇar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref
-          target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/170/mode/1up">
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/170/mode/1up">
         170</ref>.</p>
       <p>
         varalāṟu: ‘nī iṉṉai, iṉaiyai’
@@ -105,7 +104,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/304/mode/1up">304</ref>–<p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/305/mode/1up">305</ref>.</p>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/304/mode/1up">304</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/305/mode/1up">305</ref>.</p>
       <p>
         pirivil acainilaic coṟkaḷ
       </p>
@@ -189,4 +188,77 @@ eṉa varum. 	(31)
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC280" type="wordsplit">
+<interp type="alignment" select="0">13MG15M2G7MG12M,50MG</interp>
+<entry>
+<form>āka</form>
+<def>the word āka</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ākal</form>
+<def>the word ākal</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉpat<c type="elided">u</c></form>
+<def>the word eṉpatu</def>
+<form type="sandhi">eṉpat</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āvayiṉ</form>
+<def>in that place</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉṟ<c type="elided">u</c>-um</form>
+<def>three</def>
+<form type="simple">muṉṟu</form>
+<form type="sandhi">muṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piriv<c type="elided">u</c></form>
+<def>separation</def>
+<form type="sandhi">piriv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>not</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>acai</form>
+<def>metrical unit</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
