@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 283. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC283">
+        <l>ecca vummaiyu metirmaṟai yummaiyun</l>
+        <l>tattamuṇ mayaṅku muṭaṉilai yilavē.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/171/mode/1up">171</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/172/mode/1up">172</ref>.</p>
+      <p>
+urai: ecca vummaiyum etirmaṟai yummaiyum tattamuḷ mayaṅkum uṭaṉilaiyilavē eṉpatu ― tammuḷ mayaṅki uṭaṉiṟkun taṉmai yila eṉṟavāṟu.
+
+      </p>
+      <p>
+varalāṟu:
+      </p>
+      <p>
+      </p>
+      <lg xml:id="TolC283-Ilam-cit1">
+        <l>‘cāttaṉum vantāṉ, koṟṟaṉum varum’</l>
+      </lg>
+      <p>
+        eṉpatu eccavummai;
+      </p>
+      <lg xml:id="TolC283-Ilam-cit2">
+        <l>ataṉaic cāttaṉum vantāṉ, koṟṟaṉum varalumuriyaṉ</l>
+      </lg>
+      <p>
+eṉa etirmaṟai yummaiyoṭu kūṭṭic collappaṭātu eṉṟavāṟu. (33)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n222/mode/1up">219</ref>.</p>
+      <p>
+iṉi, mēṟkūṟappaṭṭa iṭaiccolliṉkaṭpaṭumilakkaṇa vēṟupāṭuṇarttukiṉṟār.
+      </p>
+      <p>
+i – ḷ. eccavummai niṉṟavaḻi eñcuporuṭkiḷaviyām etirmaṟaiyummaittoṭar vantu tammuṇmayaṅkutalila. e-ṟu.
+      </p>
+      <lg xml:id="TolC283-Cena-cit1">
+        <l>cāttaṉum vantāṉ koṟṟaṉum varalumuriyaṉ</l>
+      </lg>
+      <p>
+eṉiṉ iyaiyāmai kaṇṭukoḷka.
+      </p>
+      <p>
+ēṉaiyummaiyoṭu mayaṅkutal vilakkārāyiṟṟeṉṉaiyeṉiṉ; ― avai eñcuporuṭkiḷaviyavāy vārāmaiyiṉeṉpatu.	(35)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/309/mode/1up">309</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/310/mode/1up">310</ref>.</p>
+      <p>
+ummaikaḷ mayaṅkumāṟu.
+      </p>
+      <lg>
+        <l>ecca vummaiyu metirmaṟai yummaiyun</l>
+        <l>tattamuṇ mayaṅku muṭaṉilai yilavē.</l>
+      </lg>
+      <p>
+itu, muṟkūṟiya ummaikaṇ mayaṅku meṉkiṉṟatu.
+      </p>
+      <p>
+(i-) eccavummaiyum ― eccapporuṇmaiyiṉaiyuṭaiya vummaiyum, etirmaṟai yummaiyum ― ataṉai muṭikkuvaru metirmaṟaip poruṇmaiyiṉaiyuṭaiya vummaiyun, tattamuṇ mayaṅkum ― toṭarāy vantu tammuṇ mayaṅkum, uṭanilaiyilavē - aṅṅaṉam mayaṅkiṟṟēṉun taṉviṉai yoṉṟiya muṭipukoḷḷā eṉṟavāṟu.
+      </p>
+      <p>
+(u-m.)
+      </p>
+      <lg xml:id="TolC283-Nacc-cit1">
+        <l>‘cāttaṉum vantāṉ, iṉik koṟṟaṉum variṉum varum,’</l>
+      </lg>
+      <p>
+eṉpuḻic cāttaṉum koṟṟaṉu meṉṉu mecca vummaikaḷ variṉu meṉṉu metirmaṟai yummaiyōṭu toṭarntu niṉ ṟoruviṉai koḷḷātu, iṟappu metirvum paṟṟi varum vēṟuviṉai koṇṭavāṟu kāṇka. iṅṅaṉa mulaka vaḻikkuṇmaiyāṉum, āciriyar mayaṅki yuṭanilaiyila veṉṉātu mayaṅku muṭanilaiyilaveṉac cūttirañ ceytamaiyāṉum, ituvē poruḷeṉṟuṇarka. ivviraṇṭummaiyu meccamātaliṉ ivaṟṟiṟkē mayakkamuḷa teṉṟu kūṟiṉār.
+      </p>
+      <p>
+        oṉṟeṉa muṭitta leṉpataṉāṉ,
+      </p>
+      <lg xml:id="TolC283-Nacc-cit2">
+        <l>vaṭukaracarum vantār;</l>
+      </lg>
+      <lg xml:id="TolC283-Nacc-cit3">
+        <l>iṉit tamiḻnāṭṭu muvēntarum variṉum varuvar;</l>
+      </lg>
+      <p>
+eṉa veccavummaiyōṭu muṟṟummai toṭarntu vēṟuviṉai kōṭaluṅ koḷka.  <num xml:lang="en">(35)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n188/mode/1up">181</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n189/mode/1up">182</ref>.</p>
+      <p>
+ummaikkuriyatōr puṟanaṭai uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+i-ḷ: ― ecca ummaiyum, etirmaṟai ummaiyum tattamuḷ mayaṅkum uṭaṉilai ila. e-ṟu.
+      </p>
+      <p>
+        u-m: ―
+      </p>
+      <lg xml:id="TolC283-Tey-cit1">
+        <l>cāttaṉum vantāṉ</l>
+      </lg>
+      <p>
+eṉṟavaḻik 
+      </p>
+      <lg xml:id="TolC283-Tey-cit2">
+        <l>koṟṟaṉum varum</l>
+      </lg>
+      <p>
+eṉṟātal, vantāṉ eṉṟātal kūṟutalaṉṟi, vārāṉ eṉṉaṟka. oru toḻilē kūṟalvēṇṭum eṉṟavāṟu.	[34]
+      </p>
+    </body>
+  </text>
+</TEI>

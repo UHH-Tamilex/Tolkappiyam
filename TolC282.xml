@@ -162,8 +162,7 @@ oruvaṉ, ‘kolai, kaḷavu, kaḷ, kāmam, poy yeṉpaṉavaṟṟai virumpuka
 yeṉṟā laḵtiṅṅaṉam nukarviyātoḻiyumō, veṉṉuṅ kuṟippuṇarttum.
       </p>
       <lg xml:id="TolC282-Nacc-cit4">
-        <l>‘antō! ventai yaṭaiyāp pōril’</l>
-        <trailer>(peyaril)</trailer>
+        <l>‘antō! ventai yaṭaiyāp pōril’<note place="foot">(peyaril)</note></l>
       </lg>
       <lg xml:id="TolC282-Nacc-cit5">
         <l>‘aṉṉō! veṉṉā vatukol tāṉē!’</l>
@@ -522,5 +521,75 @@ eṉṟavaḻi, antō eṉpatu kēṭu kuṟittu niṉṟatu. aṉṉa piṟavu 
 <gramGrp>
   <gram type="role">interjection</gram>
 </gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC282-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">5M2G22M2G5M,G7MG15MG10MG</interp>
+<entry>
+<form>niṉṟ<c type="elided">u</c>-ē</form>
+<def>stood</def>
+<form type="simple">niṉṟu</form>
+<form type="sandhi">niṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>eṟipa</form>
+<def>beat</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟaiyiṉai</form>
+<def>drum</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉṟ<c type="elided">u</c>-ē</form>
+<def>good-it</def>
+<form type="simple">naṉṟu</form>
+<form type="sandhi">naṉṟ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kāṇ</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC282-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">4MG5M2G3M,G12M2G</interp>
+<entry>
+<form>iḵt<c type="elided">u</c></form>
+<def>this</def>
+<form type="sandhi">iḵt</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ūḻ</form>
+<def>ripeness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṟ<c type="elided">u</c>-ē</form>
+<def>is not so</def>
+<form type="simple">aṉṟu</form>
+<form type="sandhi">aṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff></TEI>
