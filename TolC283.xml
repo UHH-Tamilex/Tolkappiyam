@@ -72,7 +72,7 @@ iṉi, mēṟkūṟappaṭṭa iṭaiccolliṉkaṭpaṭumilakkaṇa vēṟupā�
 i – ḷ. eccavummai niṉṟavaḻi eñcuporuṭkiḷaviyām etirmaṟaiyummaittoṭar vantu tammuṇmayaṅkutalila. e-ṟu.
       </p>
       <lg xml:id="TolC283-Cena-cit1">
-        <l>cāttaṉum vantāṉ koṟṟaṉum varalumuriyaṉ</l>
+        <l>cāttaṉum vantāṉ koṟṟaṉum <sic>varaluriyaṉ</sic></l>
       </lg>
       <p>
 eṉiṉ iyaiyāmai kaṇṭukoḷka.
@@ -149,4 +149,332 @@ eṉṟātal, vantāṉ eṉṟātal kūṟutalaṉṟi, vārāṉ eṉṉaṟka
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC283" type="wordsplit">
+<interp type="alignment" select="0">10MG18MG17M2G6ML8MG3M,67MG</interp>
+<entry>
+<form>ecca</form>
+<def>incompleteness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ummai-<c type="glide">y</c>um</form>
+<def>the word ‘um’</def>
+<form type="simple">ummai</form>
+<form type="sandhi"><c type="glide">v</c>ummai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>etir</form>
+<def>opposite</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟai</form>
+<def>negation</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ummai-<c type="glide">y</c>um</form>
+<def>the word ‘um’</def>
+<form type="simple">ummai</form>
+<form type="sandhi"><c type="glide">y</c>ummai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tattam</form>
+<def>given</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+<form type="sandhi">uṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayaṅk<c type="elided">u</c>-um</form>
+<def>be confused</def>
+<form type="simple">mayaṅku</form>
+<form type="sandhi">mayaṅk</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaṉ</form>
+<def>together</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<form type="sandhi">ṉilai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ila-<c type="glide">v</c>ē</form>
+<def>not-they</def>
+<form type="simple">ila</form>
+<form type="sandhi"><c type="glide">y</c>ila</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">22MG7MG10M,40MG</interp>
+<entry>
+<form>iṉi<c type="geminated">t</c></form>
+<def>now</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>tamiḻnāṭṭu</form>
+<def>Tamiḻnāṭu</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mu</form>
+<def>three</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntar-um</form>
+<def>king</def>
+<form type="simple">vēntar</form>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>variṉ-um</form>
+<def>come-if-even</def>
+<form type="simple">variṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varuvar</form>
+<def>they-come</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">7MG15MG8M,G15MG14MG</interp>
+<entry>
+<form>cāttaṉ-um</form>
+<def>Cāttaṉ</def>
+<form type="simple">cāttaṉ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṟṟaṉ-um</form>
+<def>Koṟṟaṉ</def>
+<form type="simple">koṟṟaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG14MG13M,35M</interp>
+<entry>
+<form>cāttaṉ-um</form>
+<def>Cāttaṉ</def>
+<form type="simple">cāttaṉ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṟṟaṉ-um</form>
+<def>Koṟṟaṉ</def>
+<form type="simple">koṟṟaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriyaṉ</form>
+<def>right-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">7MG19MG7MG9M,G15MG26M2G</interp>
+<entry>
+<form>cāttaṉ-um</form>
+<def>Cāttaṉ</def>
+<form type="simple">cāttaṉ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉi<c type="geminated">k</c></form>
+<def>now</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>koṟṟaṉ-um</form>
+<def>Koṟṟaṉ</def>
+<form type="simple">koṟṟaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>variṉ-um</form>
+<def>come-if-even</def>
+<form type="simple">variṉ</form>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">11MG9M,20MG</interp>
+<entry>
+<form>vaṭukar</form>
+<def>Vaṭukar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>acar-um</form>
+<form type="simple">acar</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantār</form>
+<def>came-they</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Tey-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG8M,15M</interp>
+<entry>
+<form>cāttaṉ-um</form>
+<def>Cāttaṉ</def>
+<form type="simple">cāttaṉ</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC283-Tey-cit2" type="wordsplit">
+<interp type="alignment" select="0">6MG7M,14M</interp>
+<entry>
+<form>koṟṟaṉ-um</form>
+<def>Koṟṟaṉ</def>
+<form type="simple">koṟṟaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
