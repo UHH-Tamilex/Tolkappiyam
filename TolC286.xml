@@ -83,7 +83,7 @@ ummai etirmaṟai.	(38)
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/310/mode/1up">310</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/311/mode/1up">311</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/312/mode/1up">312</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/311/mode/1up">311</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/312/mode/1up">312</ref>.</p>
       <p>
       īṟṟacai yēkārattiṟ kaḷapoṉṟu
       </p>
@@ -191,14 +191,13 @@ itu oru māttiraiyāki niṟkum.	[37]
 <entry>
 <form>iṟuti</form>
 <def>end</def>
-<form type="sandhi">iṟuki</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kūṟṟu</form>
-<def>speech situation</def>
+<def>speaking</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -213,8 +212,6 @@ itu oru māttiraiyāki niṟkum.	[37]
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aḷap<c type="elided">u</c></form>
