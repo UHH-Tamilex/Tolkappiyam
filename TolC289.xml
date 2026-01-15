@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 289. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC289">
+        <l>ummai tokka veṉāveṉ kiḷaviyu</l>
+        <l>māvī ṟākiya veṉṟeṉ kiḷaviyu</l>
+        <l>māyiru kiḷaviyu meṇṇuvaḻip paṭṭaṉa.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/174/mode/1up">174</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+ummaitokka eṉā eṉ kiḷavi varumāṟu:
+      <p>
+      </p>
+      <lg xml:id="TolC289-Ilam-cit1">
+        <l>‘nilaṉeṉā, nīreṉā, tīyeṉā, kāleṉā’</l>
+      </lg>
+      <p>
+      eṉa varum.
+      </p>
+      <p>
+āvīṟākiya eṉṟeṉ kiḷavi:
+      </p>
+      <lg xml:id="TolC289-Ilam-cit1">
+        <l>‘nilaṉeṉṟā, nīreṉṟā, tīyeṉṟā, vaḷiyeṉṟā’</l>
+      </lg>
+      <p>
+eṉa varum.  (41)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n225/mode/1up">222</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n226/mode/1up">223</ref>.</p>
+      <p>
+i – ḷ. 
+ummai tokku niṉṟa eṉāveṉṉumiṭaiccollum eṉṟāveṉṉumiṭaiccollum iraṇṭum eṇṇumiṭattu varum. e-ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC289-Cena-cit1">
+        <l>nilaṉeṉā nīreṉā.</l>
+      </lg>
+      <p>
+        e–m.
+        </p>
+      <lg xml:id="TolC289-Cena-cit2">
+        <l>nilaṉeṉrā nīreṉṟā.</l>
+      </lg>
+      <p>
+e–m. varum.
+      </p>
+      <p>
+ummaitokkaveṉāveṉkiḷaviyeṉavē, eṉāvumeṉa accol ummōṭu varutalumuṭaitteṉpatām. ummōṭu vantavaḻi avveṇummai eṇṇuḷaṭaṅkum.
+      </p>
+      <p>
+eṇṇuvaḻippaṭṭaṉaveṉavē, avai coṟṟoṟum varutalēyaṉṟi iṭaiyiṭṭum varumeṉpatām. ‘piṉcā rayalpuṭai tēvakai yeṉā.’ e-m, ‘ōppiṟ pukaḻiṟ paḻiyi ṉeṉṟā.’ e-m. iṭaiyiṭṭu vantavāṟu. ivai eṇṇutaṟkaṇ vārāmaiyāṉum, “avaṟṟiṉ varūu meṇṇi ṉiṟutiyum” eṉac cūttirañcuruṅkutaṟciṟappiṉāṉum, avaṟṟiṉai īṇṭu vaittār.	(41)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/314/mode/1up">314</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/315/mode/1up">315</ref>.</p>
+      <p>
+eṉā eṉrā iraṇṭum eṇṇil varutal
+      </p>
+      <lg>
+        <l>ummai tokka veṉāveṉ kiḷaviyum</l>
+        <l>āvī ṟākiya veṉṟeṉ kiḷaviyum</l>
+        <l>āyiru kiḷaviyu meṇṇuvaḻip paṭṭaṉa.</l>
+      </lg>
+      <p>
+iḵteṇṇummai piṟaveṇṇōṭu mayakkuṅkāṟ ciṟantuvaru meṉkiṉṟatu.
+      </p>
+      <p>
+        (i-ḷ) 
+ummai tokkaveṉā veṉ kiḷaviyum– muṉṉa reṇṇummai yaṭakki niṉṟa eṉā veṉṉu miṭaic collum, āvīṟākiya veṉṟeṉ kiḷaviyum– muṉṉar eṇṇummai yaṭukki niṉṟa vākārattai yīṟākavuṭaiya veṉṟeṉṉu miṭaiccollum, āyiru kiḷaviyu meṇṇu vaḻippaṭṭaṉa ― avviraṇṭu collu meṇṇumiṭattē ciṟantu varumeṉṟavāṟu.
+      </p>
+      <p>
+(u-m)
+      </p>
+      <lg xml:id="TolC289-Nacc-cit1">
+        <l>‘oppu muruvum veṟuppu meṉṟā’</l>
+      </lg>
+      <p>
+veṉṉuñ cūttiram ummai tokka veṉṟāviṟkutāraṇam. ummai tokka veṉā vantuḻik kāṇka.
+      </p>
+      <p>
+        iṉi, ummai tokka veṉpataṟku nilaṉeṉāvum eṉa vīṟṟu niṉṟavummai tokku nilaṉeṉā veṉṟal vaḻakkamiṉmaiyāṉum, eṉāvu meṉṟāvu meṇṇiṭaic collātaṉ mēliṟ cūttirattāṟ peṟappaṭutalāṉu mituvē yāciriyariṉ karuttu.  <num xml:lang="en">(41)</num>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n190/mode/1up">183</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n191/mode/1up">184</ref>.</p>
+      <p>
+eṇṇiṉkaṇ varuvaṉa cila iṭaiccol uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+        i-ḷ: ― 
+ummai tokka eṉaviṉ tiripākiya eṉā eṉṉuñ collum, āvīṟākiya eṉṟu eṉṉum collum eṇṇiṉkaṭ paṭṭaṉa. e-ṟu. eṉavum eṉpatu eṉā eṉavum, eṉṟu eṉpatu eṉṟā eṉavum, varum.
+      </p>
+      <p>
+        u-m:―
+      </p>
+      <lg xml:id="TolC289-Tey-cit1">
+        <l>vaḷinaṭan taṉṉa vāayccela livuḷiyoṭu―</l>
+        <l>koṭinuṭaṅku micaiya tēriṉa reṉāak―</l>
+        <l>kaṭalkaṇ ṭaṉṉa voṇpaṭait tāṉaiyoṭu―</l>
+        <l>malaimāṟu malaikkum kaḷiṟṟiṉa reṉāa</l>
+        <trailer>(puṟam―197)</trailer>
+      </lg>
+      <p>
+        eṉpataṉuḷ eṉavum. eṉpatu eṉā eṉṟuvantu eṇṇuk kuṟittavāṟu kaṇṭukoḷka.
+      </p>
+      <lg xml:id="TolC289-Tey-cit2">
+        <l>oppu murupum veṟuppu meṉṟā,</l>
+        <l>kaṟpu mēru meḻilu meṉṟā.</l>
+        <trailer>(poruḷiyal-53)</trailer>
+      </lg>
+      <p>
+eṉpataṉuḷ eṉṟu eṉpatu āvoṭu kūṭi eṇṇuk kuṟittavāṟu kaṇṭukoḷka.	[40]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC289" type="wordsplit">
+<interp type="alignment" select="0">23MG7MG9MG8MG14MG20M,85MG</interp>
+<entry>
+<form>ummai</form>
+<def>the particle ‘um’</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokka</form>
+<def>elided</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉā</form>
+<def>the word ‘eṉā’</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi-<c type="glide">y</c>um</form>
+<def>word</def>
+<form type="simple">kiḷavi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ā</form>
+<def>the sound ‘ā’</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>īṟ<c type="elided">u</c></form>
+<def>end</def>
+<form type="sandhi"><c type="glide">v</c>īṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉṟ<c type="elided">u</c></form>
+<def>the word ‘eṉṟu’</def>
+<form type="sandhi"><c type="glide">v</c>eṉṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi-<c type="glide">y</c>um</form>
+<def>word</def>
+<form type="simple">kiḷavi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iru</form>
+<def>two</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi-<c type="glide">y</c>um</form>
+<def>word</def>
+<form type="simple">kiḷavi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṇṇu</form>
+<def>enumeration</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">p</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭaṉa</form>
+<def>happened-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC289-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">31M,G8MG6MG6MG6MG</interp>
+<entry>
+<form>nilaṉ</form>
+<def>ground</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tī</form>
+<def>fire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāl</form>
+<def>wind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC289-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">15M,14MG</interp>
+<entry>
+<form>nilaṉ</form>
+<def>ground</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC289-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">17M,16MG</interp>
+<entry>
+<form>nilaṉ</form>
+<def>ground</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉrā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
