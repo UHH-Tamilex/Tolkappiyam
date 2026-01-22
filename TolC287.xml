@@ -56,7 +56,7 @@ eṉaveṉ eṇṇiṟkum tokai koṭuttumkoṭātum colli ummaiyeṇpōla oṭ�
   <text xml:lang="ta" type="edition">
     <body>
       <head>Cēṉāvaraiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n224/mode/1up">221</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n224/mode/1up">221</ref>.</p>
       <p>
 i – ḷ. 
 ummaiyāṉ varumeṇṇum, eṉavāṉ varumeṇṇum, iṟutikkaṭṭokai peṟutalaik kaṭappāṭākavuṭaiyavalla. e–ṟu. eṉavē, tokai peṟṟum peṟātum varumeṉpatām.
@@ -192,16 +192,16 @@ eṉa irupāṟṟāṉum varum.	(38)
 </entry>
 <entry>
 <form>eṉa</form>
-<def>say</def>
+<def>the word ’eṉa’</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>eṉ</form>
-<def>the word ’eṉ’</def>
+<def>say</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -240,7 +240,7 @@ eṉa irupāṟṟāṉum varum.	(38)
 </entry>
 <entry>
 <form>kaṭappāṭ<c type="elided">u</c></form>
-<def>established custom</def>
+<def>obligation</def>
 <form type="sandhi">kaṭappāṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -499,6 +499,7 @@ eṉa irupāṟṟāṉum varum.	(38)
 <form>uṭal</form>
 <def>body</def>
 <gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -509,15 +510,10 @@ eṉa irupāṟṟāṉum varum.	(38)
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>iṉṟi</form>
-<def>without</def>
+<form><c type="glide">v</c>iṉṟiyamaiyā</form>
+<def>indispensible</def>
 <gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>amaiyā</form>
-<def>does not become still</def>
-<gramGrp>
+  <gram type="role">absolutive</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
@@ -734,16 +730,10 @@ eṉa irupāṟṟāṉum varum.	(38)
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>iṉṟi</form>
-<def>without</def>
+<form><c type="glide">v</c>iṉṟiyamaiyā</form>
+<def>indispensible</def>
 <gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form><c type="glide">y</c>amaiyā</form>
-<def>become-still-not</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">absolutive</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
