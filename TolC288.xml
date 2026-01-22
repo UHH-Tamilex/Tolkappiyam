@@ -59,7 +59,7 @@ itaṉuḷ, cevveṇ ōṭāniṉṟē ēkāraveṇ iṭaiyē pukuntavāṟu ka�
   <text xml:lang="ta" type="edition">
     <body>
       <head>Cēṉāvaraiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n224/mode/1up">221</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n225/mode/1up">222</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n224/mode/1up">221</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n225/mode/1up">222</ref>.</p>
       <p>
 i – ḷ. 
  coṟṟoṟum vārātu eṇṇēkāram iṭaiyiṭṭu variṉum eṇṇutaṟporuṭṭām. e-ṟu.
@@ -248,7 +248,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <interp type="alignment" select="0">11MG13MG8MG3MG18M,G55MG</interp>
 <entry>
 <form>tōṟṟam</form>
-<def>appearance</def>
+<def>sight</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -264,7 +264,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 </entry>
 <entry>
 <form>nāṟṟam</form>
-<def>fragrance</def>
+<def>smell</def>
 <form type="sandhi">nāṟṟañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -291,18 +291,14 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <form>āṅk<c type="elided">u</c></form>
 <def>there</def>
 <form type="sandhi">āṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pulaṉ</form>
-<def>field</def>
+<def>sensation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -380,7 +376,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <interp type="alignment" select="0">11MG13MG10MG3MG19M,G27MG29M2G</interp>
 <entry>
 <form>tōṟṟam</form>
-<def>appearance</def>
+<def>sight</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -396,7 +392,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 </entry>
 <entry>
 <form>nāṟṟam</form>
-<def>fragrance</def>
+<def>smell</def>
 <form type="sandhi">nāṟṟañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -423,18 +419,14 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <form>āṅk<c type="elided">u</c></form>
 <def>there</def>
 <form type="sandhi">āṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pulaṉ</form>
-<def>field</def>
+<def>sensation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -581,7 +573,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <interp type="alignment" select="0">10MG13MG9MG3MG17M,27MG28M</interp>
 <entry>
 <form>tōṟṟam</form>
-<def>appearance</def>
+<def>sight</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -597,7 +589,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 </entry>
 <entry>
 <form>nāṟṟam</form>
-<def>fragrance</def>
+<def>smell</def>
 <form type="sandhi">nāṟṟañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -624,18 +616,14 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <form>āṅk<c type="elided">u</c></form>
 <def>there</def>
 <form type="sandhi">āṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pulaṉ</form>
-<def>field</def>
+<def>sensation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -742,7 +730,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <interp type="alignment" select="0">11MG13MG9MG3MG19M,G56M2G</interp>
 <entry>
 <form>tōṟṟam</form>
-<def>appearance</def>
+<def>sight</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -758,7 +746,7 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 </entry>
 <entry>
 <form>nāṟṟam</form>
-<def>fragrance</def>
+<def>smell</def>
 <form type="sandhi">nāṟṟañ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -785,18 +773,14 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
 <form>āṅk<c type="elided">u</c></form>
 <def>there</def>
 <form type="sandhi">āṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pulaṉ</form>
-<def>field</def>
+<def>sensation</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
