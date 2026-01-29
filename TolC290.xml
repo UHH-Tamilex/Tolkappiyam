@@ -692,12 +692,11 @@ eṉavum eṇ tokaipeṟṟavāṟu kaṇṭukoḷka. ‘kaṇkāl puṟamakam�
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC290-Cena-cit3" type="wordsplit">
-<interp type="alignment" select="0">16M2G3M,20MG</interp>
+<interp type="alignment" select="0">4MR12M2G3M,21MG</interp>
 <entry>
-<form>nila</form>
+<form>nilam</form>
 <def>ground</def>
-<gramGrp>
-</gramGrp>
+<form type="sandhi">nilan</form>
 </entry>
 <entry>
 <form>nīr</form>
