@@ -167,17 +167,16 @@ eṉpuḻi, iṭaiyiṭṭu vantum eṇṇuk kuṟittatu. [39]
     </body>
   </text>
 <standOff corresp="#TolC288" type="wordsplit">
-<interp type="alignment" select="0">3MG21MG13MG4MG17M,61MG</interp>
+<interp type="alignment" select="0">24MG13MG4MG17M,60MG</interp>
 <entry>
-<form>eṇṇ<c type="elided">u</c></form>
+<form>eṇ</form>
 <def>enumeration</def>
-<form type="sandhi">eṇṇ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ēkāram</form>
+<form><c type="geminated">ṇ</c>ēkāram</form>
 <def>the morpheme ē</def>
 <gramGrp>
   <gram type="role">noun</gram>
