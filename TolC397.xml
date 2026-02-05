@@ -259,4 +259,80 @@ kiḷaviyākkamutalāka uriyiyaliṟutiyākak kiṭanta ottukkaḷuḷ uṇarttu
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
+</standOff><standOff corresp="#TolC397-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">16MG37M2G2M,58M</interp>
+<entry>
+<form><c type="elided">u</c>cēri<c type="geminated">c</c></form>
+<def>quarter</def>
+<form type="sandhi">`cēri<c type="geminated">c</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliṉ</form>
+<def>say if</def>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṭṭ<c type="elided">u</c></form>
+<def>hindrance</def>
+<form type="sandhi">muṭṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟal</form>
+<def>having</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>añci<c type="geminated">c</c></form>
+<def>feared</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyyuḷ</form>
+<def>poem</def>
+<form type="sandhi">ceyyuṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ku<c type="geminated">p</c></form>
+<def>dative marker 'ku'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceytu</form>
+<def>made</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉṟ<c type="elided">u</c>-ē<c type="elided">u</c></form>
+<def>it took</def>
+<form type="sandhi">koṇṭaṉṟē’</form>
+<gramGrp>
+  <gram type="role">finite verb</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
