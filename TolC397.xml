@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,29 +36,303 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Iḷampūraṇar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/175/mode/1up">209</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>.</p>
-
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/209/mode/1up">209</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>.</p>
+<p>
+    eṉpatu cūttiram.
+</p>
+  <p>
+    ivvōttu eṉṉa peyarttō veṉiṉ, ellā vōttiṉuḷḷum eñciya poruḷkaḷai yuṇarttiṉamaiyiṉ eccaviyal eṉṉum peyarttu.
+  </p>
+  <p>
+iṉi, it talaiccūttiram eṉnutaliṟṟō veṉiṉ, ittuṇaippaṭṭa colliṉāṟ ceyyuḷ ceyyappeṟum eṉpatu uṇarttutal nutaliṟṟu.
+  </p>
+  <p>
+urai: iyaṟcollum tiricollum ticaiccollum vaṭacollum eṉa nāṉkum ceyyuḷ ceytaṟkuriya collātal uṭaiya eṉṟavāṟu.
+  </p>
+<p>
+  iyaṟcol eṉpatu tamiḻ vaḻaṅku nāṭṭu vikāramiṉṟit tamiḻiyaṟkai yilakkaṇappāṭu cevvaṉuṭaiya col; avai muṉṉar uṇarttupa.
+</p>
+<p>
+tiricol eṉpatu ceyyuḷiṉpa nōkki avviyaṟ coṟkaḷai avvāypāṭu tirittu vēṟu vāypāṭṭa vākkuñ ceyyuḷuṭaiya col.
+</p>
+<p>eṉṉai,</p>
+<lg xml:id="TolC397-Ilam-cit1">
+  <l>`cēric colliṉ muṭṭuṟa lañcic</l>
+ <l>ceyyuṭkup pulavar ceytukoṇ ṭaṉṟē’</l>
+</lg>
+<p>
+eṉpatu<note place="foot">'parimāṇac cūttiram' piratipētam.</note> puṟac cūttiram.
+</p>
+<p>avaitām vaḻakkiṉuḷ iṉmai kāraṇam amaital eṉpavākaliṉ, avaiyum muṉṉar uṇarttupa.
+</p>
+<p>
+ticaiccol eṉpatu centamiḻ nāṭṭai aṭaiyum puṭaiyuṅ kiṭanta ticaināṭṭār vaḻaṅkuñ col; avaiyum muṉṉar uṇarttupa.
+</p>
+<p>
+vaṭacol eṉpatu āriyac coṟpōluñ col; avai muṉṉar viritturaippa.	
+</p>
+<p>
+peyar, viṉai, iṭai, uri eṉappaṭṭa nāṉku collumē iyaṟcol, tiricol, ticaiccol, vaṭacol eṉappaṭṭaṉa; piṟavillai.
+</p>
+<p>
+tiricol ceyyuṭkē uriya. oḻinta mūṉṟum vaḻakkiṟkuriyavākic ceyyuṭkum pukum eṉṟavāṟu	(1)
+</p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Cēṉāvaraiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n250/mode/1up">247</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n252/mode/1up">249</ref>.</p>
-
+<p>
+kiḷaviyākkamutalāka uriyiyaliṟutiyākak kiṭanta ottukkaḷuḷ uṇarttutaṟkiṭamiṉmaiyāṉ uṇarttappaṭātu eñci niṉṟa collilakkaṇamellāntokuttuṇarttiya veṭuttukkoṇṭār. ataṉāṉ ivvōttu eccaviyaleṉṉum peyarttāyiṟṟu.
+</p>
+<p>
+  'kaṇṭīreṉṟā' eṉavum, 'ceyyā yeṉṉu muṉṉilai viṉaiccol' eṉavum, 'uriccoṉ maruṅkiṉum' eṉavum, 'orumai cuṭṭiya peyarnilaik kiḷavi' eṉavum, ivai mutalākiya cūttiraṅkaḷāṉuṇarttappaṭṭa acainilaiyum viṉaiccolilakkaṇamum vaḻuvamaitiyum avvōttukkaḷuḷuṇarttātu īṇṭuṇarttiyateṉṉaiyōveṉiṉ; - ataṟkuk kāraṇam avvaccūttiramuraikkumvaḻic collutum.
+</p>
+<p>
+  palaporuṭṭokutikku oṉṟaṉāṟpeyar koṭukkuṅkāl talaimaiyum paṉmaiyumpaṟṟik koṭuppiṉallatu piṟitāṟiṉmaiyāṉum, talaimaiyum paṉmaiyum eccattiṟkiṉmaiyāṉum, pattuvakaiyeccam īṇṭuṇarttalāṉ eccaviyalāyiṟṟeṉṟal poruntāmaiyuṇarka.
+</p>
+<p>
+  ceyyuṭkuriya collum, avaṟṟatilakkaṇamum, avaṟṟāṟceyyuḷ ceyvuḻip paṭum vikāramum, ceyyuṭporuḷkōḷum, eṭuttukkōṭaṟkaṇuṇarttukiṉṟār.
+</p>
+<p>
+  (i-ḷ.) iyaṟcollum, tiricollum, ticaiccollum, vaṭacollumeṉa attuṇaiyē ceyyuḷīṭṭutaṟkuriya collāvaṉa. e-ṟu.
+</p>
+<p>
+  iyaṟcollāṉuñ ceyyuṭcollākiya tiricollāṉumēyaṉṟit ticaiccollum vaṭacollum iṭaivirāyc cāṉṟōr ceyyuḷ ceyyumāṟu kaṇṭu ēṉaippāṭaiccolluñ ceyyuṭkuriyavōveṉṟaiyuṟṟārkku, innāṉku collumē ceyyuṭkuriyaṉa piṟapāṭaiccol uriyavallaveṉṟu varaiyaṟuttavāṟu.
+</p>
+<p>
+  ceyyuḷ ceyyalāvatu oruporuṇmēṟ palacoṟ koṇarntīṭṭalākalāṉ, īṭṭaleṉṟār.
+</p>
+<p>
+  peyarviṉaiyiṭaiyuriyeṉpaṉa iyaṟcoṟpākupāṭākalāṉ, iyaṟcol annāṉkupākupaṭṭāṉuñceyyuṭkurittām. tiricoṟpeyarāyallatu vārā. eṉmaṉāreṉpataṉai viṉaittiricoleṉpārumuḷar. aḵtu 'eṉṟiciṉōr' 'peṟalaruṅkuraittu' eṉpaṉapōlac ceyyuṇmuṭipu peṟṟu niṉṟateṉṟalē poruttamuṭaittu. tilleṉṉumiṭaiccol, tillaveṉṟāṉun tillaiyeṉṟāṉum tirintu niṉṟavaḻi avai vaḻakkiṟkumuriyavākaliṉ, tiricolleṉappaṭātu. kaṭuṅkāl eṉpuḻik kaṭiyeṉṉumuriccol, 'peyariṉum viṉaiyiṉu meytaṭumāṟi' eṉpataṉāṟ paṇpuppeyarāyp peyaroṭu tokku vaḻakkiṉuṭpayiṉṟu varutalāl, tiricolleṉappaṭātu. ticaiccolluḷ ēṉaic collumuḷavēṉum, ceyyuṭkurittāy varuvatu peyarc collēyām. vaṭacolluḷḷum peyarallatu ceyyuṭkuriyavāy vārā. ivvāṟātal cāṉṟōrceyyuḷ nōkkik kaṇṭukoḷka.	(1)
+</p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/374/mode/1up">374</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-
+<p>
+  eṉpatu cūttiram. Muṟkūriyaveṇvakai yōttiṉuḷḷu muṇarttutaṟ kiṭamiṉṟi yeñci niṉṟa collilakkaṇaṅkaḷait tokuttuṇarttutaliṉ, iḵtecca viyal eṉṉum peyarttāyiṟṟu. Ceyyuṭkuriya collu mavaṟṟa tilakkaṇamu mavaṟṟiṉ vikāramu macceyyuṭ poruṭkōḷum mutaluṇarttukiṉṟār. iccūttirañ ceyyuḷ viti yoḻipu perumpāṉmait tākaliṉ, ceyyuṭ ceytaṟkuriya coṟkaḷivai yeṉa avaṟṟiṉ varaiyaṟai kūṟukiṉṟatu.
+</p>
+<p>
+(i-ḷ) iyaṟcoṟ ṟiricoṟ ṟicaiccol vaṭacoleṉ ṟaṉaittē - iyalpākiya collum atu tāṉ ṟirintu varuñcollum ticaikkaṇ vaḻaṅkuñ collu māriyac collumeṉak kūṟiya vattuṇaiyē ceyyuḷīṭṭac collē - oruporuṇmēnikaḻuñ ceyyuḷai yīṭṭutaṟkuriya collāvaṉa (e-ṟu.)
+</p>
+<p>
+  Eṉavē, piṟapāṭaikkuriya coṟka ḷīṭṭutaṟkuriya vaṉṟic ciṟupāṉmai varumāyiṟṟu. avai ceppu, kuḷiru cikku, antō eṉṟāṟ pōlvaṉa piṟavumām.
+</p>
+<p>
+  iyalpākiya coṉ, muṟkūṟiya nālvakaic collēyāy niṉṟu ceyyuṭ kurittām.
+</p>
+<p>
+  Avviyaṟ coṟ ṟiricollāṅkāṟ perumpāṉmai peyarākavuñ ciṟupāṉmai viṉaittiri collākavun tiritalaṉṟi yiṭaiyu muriyumākat tirintu vārā.
+</p>
+<p>
+  ticaiccollum vaṭacollum perumpāṉmai peyarppeyarāyum ciṟupāṉmai toḻiṟ peyarāyum varutalaṉṟi yēṉaiyavāy vārā.
+</p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>.</p>
-
+<p>
+  eṉpatu cūttiram.
+</p>
+<p>
+  ivvōttu eṉṉa peyarttō veṉiṉ, eccaviyal eṉṉumpeyarttu: kiḷaviyākkam mutalāka uriccollōttu īṟākak kiṭanta eṭṭōttiṉuḷḷum uṇarttāta poruḷai īṇṭuṇarttutalāṟ peṟṟa peyar.
+</p>
+<p>
+  itaṉ talaiccūttiram eṉṉutaliṟṟō veṉiṉ, oruvakaiyāṟ ceyyuṭkuriya colliṉ pākupāṭuṇarttutal nataliṟṟu.
+</p>
+<p>
+  i-ḷ:- iyaṟcollum, tiricollum, ticaiccollum, vaṭacollum eṉavarum nālvakaittu, ceyyuḷākkutaṟkuriya col. e-ṟu.
+</p>
+<p>
+  avaiyāmāṟu tattam ciṟappuc cūttirattāṉ uṇarappaṭum.	(1)
+</p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC397" type="wordsplit">
+<interp type="alignment" select="0">33MG6M2G15MG3M,60MG</interp>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiri</form>
+<def>be twisted</def>
+<form type="sandhi">ṟiri</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ticai<c type="geminated">c</c></form>
+<def>direction</def>
+<form type="sandhi">ṟicai<c type="geminated">c</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭa</form>
+<def>north</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉaitt<c type="elided">u</c>-ē</form>
+<def>such-it</def>
+<form type="simple">aṉaittu</form>
+<form type="sandhi">aṉaitt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ceyyuḷ</form>
+<def>poem</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭṭa<c type="geminated">c</c></form>
+<def>placed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col-<c type="geminated">l</c>ē</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC397-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">16MG37M2G2M,58M</interp>
+<entry>
+<form><c type="elided">u</c>cēri<c type="geminated">c</c></form>
+<def>quarter</def>
+<form type="sandhi">`cēri<c type="geminated">c</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliṉ</form>
+<def>say if</def>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṭṭ<c type="elided">u</c></form>
+<def>hindrance</def>
+<form type="sandhi">muṭṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟal</form>
+<def>having</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>añci<c type="geminated">c</c></form>
+<def>feared</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyyuḷ</form>
+<def>poem</def>
+<form type="sandhi">ceyyuṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ku<c type="geminated">p</c></form>
+<def>dative marker 'ku'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceytu</form>
+<def>made</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉṟ<c type="elided">u</c>-ē<c type="elided">u</c></form>
+<def>it took</def>
+<form type="sandhi">koṇṭaṉṟē’</form>
+<gramGrp>
+  <gram type="role">finite verb</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
