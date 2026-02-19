@@ -157,7 +157,7 @@ eṉa varum.	[24]
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC273-Ilam-cit1" type="wordsplit">
-<interp type="alignment" select="0">14MG13MG2M,G29MG</interp>
+<interp type="alignment" select="0">14MG6MG7MG2M,G30MG</interp>
 <entry>
 <form>māya<c type="geminated">k</c></form>
 <def>illusion</def>
@@ -173,20 +173,25 @@ eṉa varum.	[24]
   <gram type="role">dative</gram>
 </gramGrp>
 </entry>
-<entry>
-<form>uyarka</form>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>uyarka-mā</form>
 <def>be great</def>
+<form type="simple">uyarka</form>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>mā</form>
-<def>big</def>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>uyarka mā</form>
+<def>be great</def>
+<form type="sandhi">uyarkam</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">optative</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>valaṉ-ē</form>
 <def>strength</def>
@@ -197,7 +202,7 @@ eṉa varum.	[24]
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC273-Cena-cit1" type="wordsplit">
-<interp type="alignment" select="0">23MG2M,G24MG</interp>
+<interp type="alignment" select="0">12MG11MG2M,G25MG</interp>
 <entry>
 <form>puṟkai</form>
 <def>porridge</def>
@@ -205,20 +210,32 @@ eṉa varum.	[24]
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form><c type="glide">y</c>uṇka-mā</form>
+<def>please eat</def>
+<form type="simple">uṇka</form>
+<form type="sandhi"><c type="glide">y</c>uṇka</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form><c type="glide">y</c>uṇka</form>
 <def>please eat</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
+</entry><entry>
 <form>mā</form>
 <def>big</def>
+<form type="sandhi">m</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>koṟkaiyōṉ-ē</form>
 <def>man from Koṟkai</def>
@@ -231,7 +248,7 @@ eṉa varum.	[24]
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC273-Nacc-cit1" type="wordsplit">
-<interp type="alignment" select="0">22MG3M,G23M2G</interp>
+<interp type="alignment" select="0">11MG11MG3M,G24M2G</interp>
 <entry>
 <form>puṟkai</form>
 <def>porridge</def>
@@ -239,20 +256,31 @@ eṉa varum.	[24]
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>uṇka-mā</form>
+<def>please eat</def>
+<form type="simple">uṇka</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form>uṇka</form>
 <def>please eat</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
+</entry><entry>
 <form>mā</form>
 <def>big</def>
+<form type="sandhi">m</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>koṟkaiyōṉ-ē</form>
 <def>man from Koṟkai</def>
@@ -265,7 +293,7 @@ eṉa varum.	[24]
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC273-Tey-cit1" type="wordsplit">
-<interp type="alignment" select="0">3MG27MG2M,8MG24MG</interp>
+<interp type="alignment" select="0">3MG16MG11MG2M,8MG25MG</interp>
 <entry>
 <form>upp<c type="elided">u</c></form>
 <def>salt</def>
@@ -277,8 +305,6 @@ eṉa varum.	[24]
 <entry>
 <form>iṉṟu</form>
 <def>without</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>puṟkai</form>
@@ -287,20 +313,32 @@ eṉa varum.	[24]
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form><c type="glide">y</c>uṇka-mā</form>
+<def>please eat</def>
+<form type="simple">uṇka</form>
+<form type="sandhi"><c type="glide">y</c>uṇka</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form><c type="glide">y</c>uṇka</form>
 <def>please eat</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
+</entry><entry>
 <form>mā</form>
 <def>big</def>
+<form type="sandhi">m</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>koṟkaiyōṉ-ē</form>
 <def>man from Koṟkai</def>
