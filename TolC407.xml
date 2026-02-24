@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 399. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC407">
+        <l>aṭimaṟic ceyti aṭinilai tirintu</l>
+	<l>cīrnilai tiriyātu taṭumā ṟummē.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/212/mode/1up">212</ref>.</p>
+<p>ic cūttiram eṉnutaliṟṟō veṉiṉ, aṭimaṟip poruḷkōḷ āmāṟu uṇarttutal nutaliṟṟu.</p>
+<p>urai: aṭimaṟi eṉṟu collappaṭuvatu cīr kiṭantuḻiyē kiṭappa, aṭikaḷ mutalum iṭaiyum kaṭaiyum paṭac collik kaṇṭukoḷka.	(11)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p>(i-ḷ.) aṭimaṟicceyyuḷāvatu, cīr niṉṟāṅku niṟpa, aṭikaḷ tattam nilaiyiṟ ṟirintu oṉṟa ṉilaikkaḷattu oṉṟu ceṉṟu niṟkum e-ṟu. eṉavē, ellāvaṭiyum yāṇṭuñ cellumeṉpatām.</p>
+   <p>(e-ṭu.)</p>
+   <lg xml:id="TolC407-Cēṉ-cit1">
+  <l>'māṟāk kātalar malaimaṟan taṉarē</l>
+<l>yāṟāk kaṭpaṉi varalā ṉāvē</l>
+<l>vēṟā meṉṟōḷ vaḷaineki ḻummē</l>
+<l>kūṟāy tōḻiyāṉ vāḻu māṟē'</l>
+</lg>
+<p>eṉa varum. itaṉuṭ cīr niṉṟāṅku niṟpap poruḷ citaiyāmal ellā vaṭiyun taṭumāṟiyavāṟu kaṇṭukoḷka.</p>
+<p>perumpāṉmaiyum nālaṭicceyyuṭka ṇallatu ipporuḷ kōḷ vārāteṉka.</p>
+<p>‘niraṉiṟaitāṉē’ ‘cuṇṇantāṉē’ ‘moḻimāṟṟiyaṟkai’ eṉpaṉa pōla, īṇṭum ‘aṭimaṟicceyti’yeṉpataṉaik kuṟaḷaṭiyākki, ‘aṭi nilai tirintu cīrnilai tiriyātu, taṭumā ṟummē poruṭeri maruṅkiṉ’ eṉṟu cūttiramāka aṟuppāru muḷar.	(11)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p>iḵtu, `aṭimaṟi' āmāṟu kūṟukiṉṟatu.
+(i-ḷ.)aṭi maṟicceyti - `aṭi maṟi' eṉpataṉ ceyti, cīr nilai tiriyātu aṭi nilai tirintu taṭumāṟum - cīr niṉṟāṅku niṟpa aṭikaḷ tattam nilaiyiṉ tirintu oṉṟaṉ nilaikkaḷattu oṉṟu ceṉṟu niṟkum(e-ṟu.)
+(u-m.)`māṟāk kātalar malaimaṟantaṉarē;
+āṟāk kaṭpaṉi varalā ṉāvē;
+ēṟā meṉṟōḷ vaḷaineki ḻummē;
+kūṟāy tōḻi!yāṉ vāḻu māṟē.'
+itu cīrum poruḷum tiriyātu, aṭi tirintavāṟu kāṇka. itu nāṉkaṭic ceyyuṭkallatu perampāṉmai vārātu.</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p>aṭimaṟiyāmāṟu uṇarttutal nutaliṟṟu.
+(i-ḷ.) aṭimaṟiyeṉpataṉ ceyti cīrnilai tiriyātu aṭi nilaimai tirintu taṭumāṟum, e-ṟu.
+“cūral pampiya ciṟukāṉ yāṟē
+cūrara makaḷir āraṇaṅ kiṉarē
+vāra leṉiṉē yāṉañ cuvalē
+cāra ṉāṭa nīvara lāṟē.''
+itu, cāralnāṭa! nī varukiṉṟa neṟi cūraṟpampiya ciṟukāṉyāṟu, cūrara makaḷir varuttañ ceyvār, vārātoḻi yeṉa yāṉ añcā niṉṟēṉ eṉa aṭi māṟip poruḷuṇarttiyavāṟu kaṇṭukoḷka.
+aḵtēl, itaṉai yāppilakkaṇattuḷ ārāytal vēṇṭum, colnilai tiriyāmaiyā leṉiṉ, itu toṭarmoḻit tiripākalāṉ īṇṭuk kūṟappaṭṭateṉka.	(11)</p>
+    </body>
+  </text>
+  
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 399. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC404">
+        <l>niralniṟai cuṇṇam aṭimaṟi moḻimāṟṟu</l>
+	<l>avaināṉ keṉpa moḻipuṇar iyalpē.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/212/mode/1up">212</ref>.</p>
+<p>eṉpatu, niraṉiṟai, cuṇṇam, aṭimaṟi, moḻimāṟṟu eṉa nāṉku vakaiyāṉa moḻikaḷ tammuḷ puṇaruñ ceyyuḷakattu eṉpatu uṇarttiyavāṟu.</p>
+<p>avaiyāmāṟu avaṟṟavaṟṟuc ciṟappuc cūttiraṅkaḷāl aṟika. 	(8)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+  <p>iṉic ceyyuḷiṭattu vikāravakaiyāṉ moḻikaḷ tammuṭ puṇarumāṟu kūṟukiṉṟār.</p>
+  <p>(i-ḷ.) niraṉiṟaiyum, cuṇṇamum, aṭimaṟiyum, moḻi māṟṟu meṉa nāṉkeṉṟu collupa, annāṉku colluñ ceyyuḷiṭattut tammuṭpuṇaru muṟaiyai e-ṟu.</p>
+  <p>nāṉku collu meṉpatūuñ ceyyuḷiṭatteṉpatūum atikārattāṟ peṟṟām.</p>
+  <p>niraṉiṟaiyuñ cuṇṇamum moḻimāṟṟāta lokkumāyiṉum, niraṉiṟṟalum aḷavaṭiyeṇcīraic cuṇṇamākat tuṇittalumākiya vēṟupāṭuṭaimaiyāṉ, avaṟṟaip pirittu avvēṟupāṭṭāṟ peyar koṭuttu, vēṟilakkaṇamillāta moḻimāṟṟai moḻimāṟṟeṉṟār.</p>
+  <p>ic cūttirattāṉ moḻipuṇariyal nāṉkeṉa varaiyaṟuttavāṟu.	(8)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p>itu, ceyyuḷ ceyvaḻi ataṉ poruṭkiṭai kūṟukiṉṟatu.</p>
+<p>(i-ḷ.)iyalpu puṇarmoḻi - iyaṟkaiyākavē tammuḷ kūṭiya poruḷ uṇarttum coṟkaḷ aṅṅaṉam iyaṟkai yākak kūṭip poruḷ uṇarttātu vikārappaṭṭup poruḷ uṇarttuṅkāl, avai - avvikāra vakai, niral niṟai cuṇṇam aṭimaṟi moḻi māṟṟu nāṉku eṉpa - niral niṟaiyum cuṇṇamum aṭi maṟiyum moḻi māṟṟum eṉa nāṉku eṉṟu kūṟuvar āciriyar(e-ṟu.)</p>
+<p>niral niṟaiyum cuṇṇamum, niralē niṟuttalum tuṇittuk kūṭṭutalumākiya vēṟupāṭu uṭaimaiyiṉ, moḻi māṟṟiṉ vēṟu āyiṉa.</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p>ceyyuḷakattup poruḷuṇarac coṟṟoṭukkumāṟu uṇart tutal nutaliṟṟu.</p>
+<p>(i-ḷ.) niraṉiṟaiyum, cuṇṇamum, aṭimaṟiyum, moḻi māṟṟum eṉa nāṉkeṉṟu collupa : poruḷ mēl moḻi puṇarkkum iyalpu, e-ṟu.</p>
+<p>ceyyuḷakattut tirintu poruḷpaṭuñcol eṭuttōtiṉār; vaḻakkiṉkaṇ iyalpākic ceyyuṭkaṇṇum iyalpāki naṭakkum poruḷkaḷ ōtavēṇṭāmaiyiṉ avaiyāmāṟu tattam ciṟappuc cūttirattuṭ kāṭṭutum.	(8)</p>
+    </body>
+  </text>
+  
+</TEI>
