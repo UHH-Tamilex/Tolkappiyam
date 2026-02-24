@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 399. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC410">
+        <l>ta na nu e eṉum avaimuta lākiya</l>
+	<l>kiḷainutal peyarum pirippap piriyā.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/212/mode/1up">212</ref>.</p>
+<p>ic cūttiram eṉnutaliṟṟō veṉiṉ, aiyamaṟuttal nutaliṟṟu.</p>
+<p>urai: ta - na - nu - e eṉac collappaṭṭa nāṉku eḻuttiṉaiyum mutalākavum, ṉa - ḷa- ra eṉṉum mūṉṟu eḻuttiṉaiyum īṟākavum uṭaiyavākiya toṭarccikkiḻamai karutivarum peyaravaṟṟaip pirittu iṭaiyaṟuttu uṇaralāṅ kollō eṉiṉ, avai pirippap piriyā, niṉṟavāṟṟāṉē niṉṟu poruḷpaṭiṉaṉṟi eṉpatu.</p>
+<p>(varalāṟu) tamaṉ - tamaḷ - tamar; namaṉ - namaḷ - namar; numaṉ - numaḷ - numar; emaṉ - emaḷ - emar eṉa varum.</p>
+<p>ummaiyāṟ piṟavum pirippap piriyātaṉa uḷa; avai, tāy ñāy yāy eṉa varum. villi vāḷi eṉpaṉavum piṟavum avvāṟu varuvaṉa pirippap piriyā eṉṟu koḷka. ivai oṭṭuc coṟ poruḷoṭu niṟpaṉa eṉṟum, ivaṟṟai orucol aṉṟu eṉṟum mayaṅkaṟka. oru collē eṉpatu karuttu.	           (14)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p>ceyyuṭkuriya collum, coṟṟoṭukkuṅkāṟpaṭum vikāramum avai ceyyuḷākkuṅkāṟ ṟammuṭpuṇarntu niṟkumāṟumākiya ceyyu ḷoḻipu uṇartti, iṉi vaḻakkilakkaṇattoḻipu kūṟukiṉṟār.</p>
+   <p>(i-ḷ.) ta na nu e eṉpaṉavaṟṟai mutalāka vuṭaiyavāyk kiḷaimai nutali varum peyarum pirikkappaṭā e-ṟu.</p>
+   <p>avaiyāvaṉa tamaṉ, tamaḷ, tamar; namaṉ, namaḷ, namar; numaṉ, numaḷ, numar; emaṉ, emaḷ, emar; tammāṉ, tammāḷ, tammār; nammāṉ, nammāḷ, nammār; nummāṉ, nummāḷ, nummār; emmāṉ, emmāḷ, emmār eṉa varum.</p>
+   <p>ummaiyāṟ piṟa kiḷai nutaṟ peyarum pirikkap piriyāveṉpatām. avai tāy, ñāy, tantai, taṉṉai eṉṉun toṭakkattaṉa.</p>
+   <p>ivaṟṟaip pirippap piriyāveṉṟatu eṉṉaiyeṉiṉ, veṟpaṉ poruppaṉ eṉṉun toṭakkattu oṭṭuppeyar veṟpu+aṉ, poruppu+ aṉ eṉap pirittavaḻiyum, veṟpu poruppu eṉṉu mutaṉilai tam poruḷ iṉitu viḷakkum. tamaṉ emaṉ eṉpaṉavaṟṟait tam+aṉ, em + aṉ eṉap pirikkaluṟiṉ tam em eṉpaṉa mutaṉilaiyāyp poru ḷuṇarttuvaṉavātal vēṇṭum; avai poruḷuṇarttāmaiyāṉ, tamaṉ emaṉ eṉa vaḻaṅkiyāṅkuk koḷvatallatu pirikkappaṭāmaiyiṉ, avvāṟu kūṟiṉāreṉpatu. piṟavumaṉṉa. aḵtēl, tām yām eṉpaṉa avaṟṟiṟku mutaṉilaiyākap pirikkavē, avaiyun tam poru ḷuṇarttu meṉiṉ, tamaṉ emaṉ eṉpaṉa, taṉ kiḷai eṉ kiḷai eṉavum, taṅkiḷai eṅkiḷai eṉavum mutaṉilai vakaiyāṉ orumaikkum paṉmaikkum potuvātaluṭaiya. orumaiyuṇarttuṅkāl tām yām eṉpaṉa porun tāmaiyiṉ tāṉ yāṉ eṉpaṉavē mutaṉilaiyeṉal vēṇṭum. vēṇ ṭavē, ivvāṟu pirippiṉ tamaṉ emaṉ eṉa ōroṉṟiraṇṭu collātal vēṇṭutalāṉ, eḻuttāṉum poruḷāṉum vēṟupāṭiṉmaiyiṉ oru colleṉavē paṭum; iraṇṭu colleṉṟal nirampāmaiyiṉ, avvāṟu pirittalum poruttamiṉṟeṉpatu.</p>
+   <p>kiḷai nutaṟpeyar viḷimarapiṉkaṭ peṟappaṭṭamaiyāṟ peyari yalu ḷuṇarttārāyiṉār. ataṉāṉ āṇṭiyaipupaṭṭiṉṟākalāṉ, pirippap piriyā orucollaṭukkō ṭiyaiya itaṉai īṇṭu vaittār. (14)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p>itu, mēl tokaiccoṟkūṟuvāṉ, tokaipōla iru poruḷpaṭuvaṉa ivai eṉkiṉṟatu.
+(i-ḷ.) ta na nu e eṉum avai mutalākiya kiḷai nutaṟ peyarum - `ta, na, nu, e' eṉkiṉṟa eḻuttukkaḷai mutalāka uṭaiya oruvarōṭu oruvarkku uḷḷa toṭarccikkiḻamaiyaik karutiṉa oṭṭuppeyarkaḷum, pirippap piriyā - tokaiccoṟpōla iru poruḷpaṭṭu niṟpiṉum avai pōlap piṉ varum col tam poruḷ uṇarttāmaiyiṉ pirikkappaṭā, orucollēyāy niṟkum(e-ṟu.)</p>
+(u-m.)tamaṉ, tamaḷ, tamar.
+namaṉ, namaḷ, namar.
+numaṉ, numaḷ, numar.
+emaṉ, emaḷ, emar.
+eṉa varum. viḷi marapil mutalum īṟum paṟṟi ōti iṭaiyiṉ vikaṟpam kūṟāmaiyiṉ, `tammāṉ, nammāṉ, nummāṉ, emmāṉ' eṉṟāṟpōlum vāyppāṭṭu vikaṟpamum koḷka.
+cēṉāvaraiyar, `taṅkiḷai, naṅkiḷai, nuṅkiḷai, eṅkiḷai' eṉpaṉavaṟṟai orumaikkum paṉaimakkum potuvāy niṟkum eṉṟārāl eṉiṉ, āciriyar,
+`tāmeṉ kiḷavi paṉaimak kurittē.'
+`yām nāmeṉa varūum peyarum'
+eṉa ivvatikārattu eṭuttu ōtiya paṉmaic coṟkaḷai eḻuttatikārattuḷ avai eḻuvāyum payanilaiyumāy niṟkumvaḻit tiriyātu puṇarum eṉṟu kūṟi,
+`tāmnām eṉṉum makara iṟutiyum'
+eṉṉum cūttirattāṉ urupu ēṟkumvaḻit tirintu puṇarum eṉṟu kūṟi, `num' eṉpataṉai,
+`nummeṉ orupeyar'
+eṉṉum cūttirattāṉ urupu ēṟkumāṟu kūṟi,
+`allataṉ maruṅkiṉ'
+eṉṉum cūttirattāṉ aḵtu eḻuvāyum payanilaiyumāy niṟkumvaḻi `nīyir' eṉat tirintu paṉmaiyāyē niṟkum eṉavum kūṟippōntār ātaliṉ, īṇṭum ataṟku ēṟpat `tammuṭaiya kiḷai, emmuṭaiya kiḷai' eṉap paṉmai uṇarttutal aṉṟi orumai uṇarttāmai uṇarka. ēṉaiyavum aṉṉa.
+`tamporuḷ eṉpatam makkaḷ'
+eṉavum,
+`namma ṉōrkkē'
+eṉavum,
+`numma ṉōrumaṟ ṟiṉaiya rāyiṉ
+emma ṉōrivaṇ piṟavalar mātō'
+<p>eṉavum innāṉku collum ammuṭipu peṟṟu, mutal nilai tirintu niṉṟu, paṉmaipporuḷ uṇarttiyavāṟu kāṇka.</p>
+<p>īṇṭu ivai `veṟpaṉ, poruppaṉ' pōlat `tam, nam, num, em' eṉpaṉa pirintu niṉṟu poruḷ uṇarttip piṉ varukiṉṟa `aṉ, aḷ, ar' eṉpaṉa poruḷ uṇarttātu iṭaiccollāyē niṟṟaliṉ, `pirippap piriyā,' eṉṟār.</p>
+<p>iṉi, ummaiyai eccappaṭuttip `piṟa oṭṭup peyarkaḷum pirippap piriyā,' eṉap poruḷ kūṟi, `impar, umpar; immai, ummai, emmai' eṉṟārpōlvaṉa piṟavum `ivviṭam, uvviṭam; ippiṟappu, uppiṟappu, eppiṟappu' eṉṉum poruḷ uṇartti niṟkum eṉṟu koḷka.</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p>oṭṭup peyarkku uriyatoru marapu uṇarttutal nutaliṟṟu.</p>
+<p>(i-ḷ.) ta, na, nu, e eṉṉum avai mutalākiyavum, kiḷaimai nutaliya peyarum poruḷ nilaiyāṟ pirikka niṉaikkiṉ pirintu poruḷpaṭā. oṭṭi niṉṟē poruḷpaṭum, e-ṟu. ākiyavum eṉṉum ummai tokku niṉṟatu.</p>
+<p>ta, na, nu, e eṉṉum avai mutalākiyavāvaṉa :-tāṉ, tām; nām, yām, yāṉ, nī, nīr, nīyir eṉa mūṉṟiṭattup peyarkaḷum āṟām vēṟṟumaik kiḻamaip poruḷ kuṟittu, muṉṉilai kuṟukiyum tirintum vantu, kiḻamaip poruḷuṇarttuñ colliṉ īṟṟeḻuttōṭu oṭṭi niṉṟu tamaṉ, tamaḷ, tamar, tamatu, tama eṉap paṭarkkaiyiṉum; numaṉ, numaḷ. numar, numatu, numa eṉa muṉṉilaiyiṉum; namaṉ, namaḷ, namar, namatu, nama, emaṉ, emaḷ, emar, ematu, ema eṉat taṉmaiyiṉum varum. kiḷai nutaṟ peyarāvaṉa:-immūṉṟiṭattum oṭṭuppaṭṭa peyarkaḷ, āṟām vēṟṟumai muṟaimaiyaik kuṟittu mēṟcolliyavāṟṟāṉ tantai, nuntai, entai eṉavum; tāy, ñāy, yāy eṉavum; tammuṉ, nummuṉ; emmuṉ eṉavum; tampi, numpi, empi eṉavum; mutalvaṉaiyum, īṉṟāḷai yum, muṉ piṟantāṉaiyum, piṉpiṟantāṉaiyum uṇarttum paṉmaic coṟkaḷellām poruḷmukattāṟ ṟammaiyum piṟaraiyum uṇarttu vaṉa. ic coṟkaḷellām ēṉaiyapōlap pirikkappaṭā : oṭṭi niṉṟē poruḷpaṭum, e-ṟu. vantatu koṇṭu vārātatu muṭittal eṉpata ṉāṉ, kāraṇap peyarākivarum toḻiṟ peyarum, uṭaiya peyarum, paṇpup peyar mutalāyiṉavum pirippap piriyāveṉṟu koḷka. piṟaṉ, piṟaḷ, piṟar eṉpavōveṉiṉ, avai oṭṭup peyaralla eṉka.	(14)</p>
+    </body>
+  </text>
+  
+</TEI>
