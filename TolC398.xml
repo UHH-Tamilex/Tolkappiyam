@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 398. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC398">
+        <l>avaṟṟuḷ,</l>
+        <l>iyaṟcoṟ ṟāmē</l>
+        <l>centamiḻ nilattu vaḻakkoṭu civaṇit</l>
+        <l>tamporuḷ vaḻāmai yicaikkuñ collē.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>.</p>
+<p>iccūttiram eṉṉutaliṟṟō veṉiṉ, mēl niṟutta muṟaiyāṉē iyaṟcollai yiṉṉaveṉṟu ilakkaṇa muṟaimaiyāṟ pakuttu uṇarttutal nutaliṟṟu.</p>
+<p>urai: mēṟ collappaṭṭa nāṉku colluḷḷum iyaṟcol eṉṟu kūṟappaṭuvaṉa centamiḻ nilattār vaḻaṅkum vaḻakkattiṟkup poruntit tattam poruḷiṉ vaḻāmal naṭakkuñcol eṉṟavāṟu.</p>
+<p>avai: cōṟu, kūḻ, pāl, pāḷitam eṉṉun toṭakkattaṉa.</p>
+<p>centamiḻ nilam eṉpatu vaiyaiyāṟṟiṉ vaṭakku, marutayāṟṟiṉ teṟku, karuvūriṉ kiḻakku, maruvūriṉ mēṟku. maṟṟu, ivaṟṟait tam poruḷ vaḻāamai yicaikkum eṉpatu eṉṉai? oḻintaṉa tam poruḷ vaḻuvumō eṉiṉ, aṟṟaṉṟu, nāyai ñamali eṉpa pūḻi nāṭṭār, eṉṟakkāl ac col ellā nāṭṭārum paṭṭāṅkuṇarār; nāy eṉpataṉaiyāyiṉ evvetticai nāṭṭārum uṇarpa eṉpatu.	(2)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n252/mode/1up">249</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>.</p>
+   <p>i-ḷ. annāṉkaṉuḷ, iyaṟcolleṉṟu collappaṭṭa coṟṟām, centamiḻnilattu vaḻakkātaṟkup poruntik koṭuntamiḻnilattun tamporuḷ vaḻuvāmaluṇart tuñcollām. e-ṟu.</p>
+   <p>avaiyāvaṉa nilam, nīr, tī, vaḷi, cōṟu, kūḻ, pāl, tayir, makkaḷ, mā, teṅku, kamuku eṉṉuntoṭakkattaṉa.</p>
+   <p>centamiḻnilamāvaṉa vaiyaiyāṟṟiṉ vaṭakkum marutayāṟṟiṉ ṟeṟkum karuvūriṉ kiḻakkum maruvūriṉ mēṟkumām.</p>
+   <p>tiripiṉṟi iyalpākiya collākaliṉ iyaṟcollāyiṟṟu. koṭuntamiḻnilattiṟkum potuvākaliṉ iyaṟcollāyiṟṟeṉiṉumamaiyum. nīreṉpatu āriyaccitaivāyiṉum apporuṭku atuvē collāyc centamiḻnilattum koṭuntamiḻnilattum vaḻaṅkappaṭutalāṉ iyaṟcollāyiṟṟu. piṟavumivvāṟu varuvaṉa iyaṟcollākakkoḷka.</p>
+   <p>tāmeṉpatu kaṭṭuraiccuvaipaṭa niṉṟatu.	(2)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p>itu, niṟuttamuṟaiyāṉē yiyaṟcoṟ kilakkaṇaṅ kūṟukiṉṟatu.</p>
+<p>(i-ḷ) avaṟṟuḷiyaṟ coṟṟāmē - annāṉ kaṇuḷiyaṟ colleṉṟu kūṟiya coṟṟām, centamiḻ nilattu vaḻakkoṭu civaṇi - centamiḻ nilattiṉ kaṇṇē vaḻaṅkutalōṭu porunti, tamporuḷ vaḻāmai yicaikkum collē - accentamiḻ nilattuṅ kēṭṭavarkkut tattam poruḷ vaḻuvāma lolikkuñ collā meṉṟavāṟu.</p>
+<p>tiripiṉṟi yiyalpākiya collāvaṉa, 'nilam, nīr, tī, vaḷi, cōṟu, kūḻ, pāl, makkaḷ, maram, teṅku, kamuku' eṉṉun toṭakkattaṉa.</p>
+<p>centamiḻ nilamāvatu, vaiyai yāṟṟiṉ vaṭakkum' marutayāṟṟiṉ teṟkum, karuvūriṉ kiḻakkum, maruvūriṉ mēṟkumām. (2)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p>niṟutta muṟaiyāṉē iyaṟcollāmāṟu uṇarttutal nutaliṟṟu.</p>
+<p>i-ḷ:-iyaṟ collāvaṉatām, centamiḻ nāṭṭu vaḻakkoṭu poruntit tamporuḷ vaḻāmal icaikkuñ coṟkaḷ. e-ṟu.</p>
+<p>centamiḻ nāṭāvatu:-vaiyaiyāṟṟiṉ vaṭakkum, marutayāṟṟiṉ teṟkum, karuvūriṉ kiḻakkum, maruvūriṉ mēṟkum eṉpa. ivvāṟu uraittaṟku ōr ilakkaṇaṅ kāṇāmaiyāṉum, vaiyai yāṟṟiṉ teṟkākiya koṟkaiyum, karuvūriṉ mēṟkākiya koṭuṅkōḷūrum, maruta yāṟṟiṉ vaṭakkākiya kāñciyum tamiḻtirinilamātalvēṇṭumātalāṉum, aḵtu uraiyaṉṟu eṉpār uraikkumāṟu:-</p>
+<l><note place="foot">tol, eḻuttu, pāyiram</note> vaṭavēṅkaṭan, teṉkumari,</l>
+<l>āyiṭait, tamiḻkūṟu nallulakattu,</l>
+<l>vaḻakkuñ ceyyuḷu māyiru mutaliṉ</l>
+<l>eḻuttuñ collum poruḷu nāṭi.</l>
+<p>eṉṟamaiyāṉum, itaṉuḷ tamiḻ kūṟum nallulaka meṉa vicēṭittamaiyāṉum, kiḻakkum mēṟkum ellaikūṟātu teṟkellai kūṟiyavataṉāṟkumariyiṉ teṟkākiyanāṭukaḷai yoḻittu vēṅkaṭamalaiyiṉ teṟkum, kumariyiṉ vaṭakkum, kuṇakaṭaliṉ mēṟkum, kuṭakaṭaliṉ kiḻakku mākiya nilam centamiḻ nilameṉṟuraippa.</p>
+<p>annilattu vaḻakkoṭu civaṇit tamporuḷ vaḻāmal icaikkuñ collāvaṉa:-cōṟu, kūḻ, malai, maram, uṇṭāṉ, tiṉṟāṉ, ōṭiṉāṉ, pāṭiṉāṉ eṉṉun toṭakkattaṉa.</p>
+<p>ivai annilattup paṭṭa ellā nāṭṭiṉum okka viyaṟaliṉ iyaṟcollāyiṉa. ivaṟṟaic ceñcol eṉiṉum amaiyum.	(2)</p>
+    </body>
+  </text>
+  
+</TEI>
