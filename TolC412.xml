@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 399. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC412">
+        <l>vēṟṟumait tokaiyē uvamat tokaiyē</l>
+	<l>viṉaiyiṉ tokaiyē paṇpiṉ tokaiyē</l>
+	<l>ummait tokaiyē aṉmoḻit tokaiyeṉṟu</l>
+	<l>avvā ṟeṉpa tokaimoḻi nilaiyē.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/212/mode/1up">212</ref>.</p>
+<p>ic cūttiram eṉnutaliṟṟō veṉiṉ, tokaic coṟkaḷaip peyarum muṟaiyum tokaiyum uṇarttutal nutaliṟṟu.</p>
+<p>peyarum muṟaiyum tokaiyum atuvē. vēṟṟumait tokaiyai muṉvaittār atu pakutip paṭumākalāṉ; aṉ moḻit tokaiyaip piṉvaittār aḵtu ellāvaṟṟaiyum paṟṟip piṟakkumākalāṉ.	 (16)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p>iṉit tokaiyilakkaṇa muṇarttukiṉṟār.</p>
+   <p>(i-ḷ.) vēṟṟumaittokai mutalākat tokaiccol āṟām e-ṟu.</p>
+   <p>vēṟṟumaiyurupum uvamavurupum ummaiyum viṉaiccol līṟum paṇpuccol līṟun tokutaliṟ ṟokaiyāyiṉa veṉpārum, avvap poruṇmēl iraṇṭum palavumākiya coṟkaḷ piḷavupaṭātu oṟṟumaip paṭat tammu ḷiyaitaliṟ ṟokaiyāyiṉa veṉpārumeṉa irutiṟattar āciriyar. ceytāṉ poruḷ, iruntāṉ māṭattu eṉa urupu tokku orucoṉṉīrmaip paṭātaṉavun tokaiyāvāṉ cēṟaliṉ avaṟṟai nīkkutaṟkum, vēḻakkarumpu, kēḻaṟpaṉṟi eṉpuḻit tokkaṉa villai yeṉiṉum tokaiyeṉa vēṇṭappaṭumākalāṉ avaṟṟait taḻuvutaṟ kum, urupu mutalāyiṉa tokutaliṟ ṟokai yeṉpārkkum  oṭṭi yoru coṉṉīrmaippaṭutalun tokai yilakkaṇameṉal vēṇṭum. ataṉāṉ urupu mutalāyiṉa tokutal ellāttokaiyiṉuñ cel lāmaiyāṉ, ellāt tokaikkaṇṇuñ cellumāṟu oṭṭi yorucollātal tokaiyilakkaṇamāy muṭitaliṉ, ivvāciriyarkku ituvē tuṇiveṉap paṭumeṉpatu. aṟṟāyiṉ, ‘urupu tokavarutalum’ (col. 104) eṉavum, ‘vēṟṟumai tokka peyarvayi ṉāṉum’ (col. 418) eṉavum, ‘ummai tokka peyarvayi ṉāṉum’ (418) eṉavum, ‘uvamai tokka peyarvayi ṉāṉum’ eṉavum ōtutalāṉ avai āṇṭuttokkaṉa veṉappaṭu maṉṟō veṉiṉ, aṟṟaṉṟu. ‘atuveṉ vēṟṟumai yuyartiṇait tokaivayiṉ’ (col. 94) eṉpuḻi atuveṉurupu niṉṟu keṭṭatāyiṉ niṉṟa kālattut tiṇaivaḻuvām; attiṇaivaḻu amaivuṭaitteṉiṉ, virikkiṉṟuḻi nāṉkāmurupu toṭarātu atutaṉṉaiyē virippiṉum amaivuṭaittu; ataṉāṉ muṟaipporu ṭōṉṟa nampimakaṉ eṉa iraṇṭu coṟ ṟokkaṉa veṉpatē āciriyar karutteṉalvēṇṭum. allatūum, viṉaittokai paṇputtokai aṉmoḻittokai yeṉpaṉavaṟṟiṉ kaṇ viṉaiyum paṇpum aṉmoḻiyum tokkunil lāmaiyāṉum, aḵtē karuttātalaṟika. ataṉāṉ urupum uvamaiyum ummaiyun tokuta lāvatu tamporuḷ oṭṭiya collāṟ ṟōṉṟat tām āṇṭup pulappaṭātu niṟṟalēyām.</p>
+   <p>vēṟṟumait tokaiyeṉpatu vēṟṟumaip poruḷaiyuṭaiya tokaiyeṉṟāṉum vēṟṟumaip poruṭokka tokai yeṉṟāṉum viriyum. uvamattokai ummaittokai aṉmoḻit tokai yeṉpaṉavum avvāṟu viriyum. aṉmoḻiyāvatu tokka collal lāta moḻi. viṉaittokai paṇputtokai yeṉpaṉa, viṉaiyiṉatu tokai paṇpiṉatu tokaiyeṉa viriyum. viṉaipaṇpeṉṟatu avaṟṟai yuṇarttuñ collai. oru collāṟ ṟokaiyiṉmaiyiṟ piṟitoru colloṭu tokutal peṟappaṭum.</p>
+   <p>iccūttirattāṟ ṟokaiccol iṉaitteṉa varaiyaṟuttavāṟu.	(16)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p>itu, tokaiccoṟkup peyarum muṟaiyum tokaiyum kūṟukiṉṟatu.
+<p>(i-ḷ.) vēṟṟumait tokaiyē - vēṟṟumai urupukaḷ tokka tokai, uvamattokaiyē - uvama urupukaḷ tokka tokai, viṉaiyiṉ tokaiyē - viṉaiccol īṟukaḷ tokka tokai, paṇpiṉ tokaiyē - paṇpu uṇarttum īṟukaḷ tokka tokai, ummait tokaiyē - `um' eṉṉum iṭaiccol tokka tokai, aṉmoḻittokai - ittokaic coṟkaḷiṉ iṟutikkaṇ vantu poruḷ tarum vēṟōr col tokka tokai, eṉṟu avvāṟu eṉpa - eṉṟu collappaṭṭa avvāṟum eṉṟu colluvar āciriyar, tokai moḻi nilaiyē - tokaic colliṉatu nilaimaiyai(e-ṟu.)</p>
+`aimpāl aṟiyum paṇputoku moḻiyum'
+eṉavum,
+`ceyyum ceyta eṉṉum kiḷaviyiṉ
+meyyoruṅ kiyalum toḻiltoku moḻiyum'
+eṉavum,
+`uruputeka varutalum'
+eṉavum,
+`meyyurupu tokāa iṟuti yāṉa
+eṉavum,
+`paṇputeka varūum kiḷavi yāṉum'
+eṉavum,
+`vēṟṟumai tokka peyarvayi ṉāṉum'
+eṉavum,
+`ummai eñciya irupeyart tokaimoḻi
+eṉavum āciriyar tokkē niṟkum eṉac cūttiram ceytaliṉ, vēṟṟumai uṟupum uvama urupum ummum viṉāccol īṟum paṇpu uṇarttum īṟum ittokaiccoṟkaḷ allātatōr collum tekku niṟṟaliṉ, tokaiccol eṉpatē avar karuttāyiṟṟu. `āyiṉ, `kēḻaṟpaṉṟi, vēḻakkarumpu' eṉpaṉavaṟṟiṟkut tokkaṉa iṉmaiyiṉ, tokaiccol āmāṟu eṉṉai?' eṉiṉ, avaṟṟiṟkum oṉṟai oṉṟu vicēṭittu niṟkiṉṟa taṉmaiyai uṇarttutaṟku varum `ākiya' eṉṉum vācakam tokku niṉṟatu eṉṟē kōṭum. aṉṟit `taṉkaṇ tokkaṉa iṉṟi aṅṅaṉam vācakam tokku niṉṟatu `tokai' eṉṟaṟkuc cālāmaiyiṉ, ataṉai oṭṭi oru collāy niṉṟu tam poruḷ uṇarttum eṉṟu koṇṭu ēṉaiyavaṟṟaiyum avvāṟē kōṭum,' eṉiṉ, eṭuttōttiṉum ilēcu ciṟattal yāṇṭum iṉmaiyiṉ, atu poruntātu. eṉṉai? avvirupeyaroṭṭup paṇputtokai aṟuvakait tokaic cūttiraṅkaḷuḷ eṭuttōttu iṉṟi `eṉṉa kiḷaviyum' eṉṟa ilēciṉāl koṇṭatākaliṉ. āyiṉ, `vaṇṇattiṉ vaṭiviṉ' eṉpataṉkaṇ irupeyaroṭṭāy aimpāl aṟiyāta vaṭiviṉaiyum eṭuttōtiṉārāl eṉiṉ, vaṭivu mutaliyavaṟṟiṟkum aṟuvakait tiripiṉuḷ ēṟpaṉa koṇarntu muṭittaliṉ, kuṉṟalum tokaiyām eṉṟu uṇarka. `eṉṉa kiḷaviyum' eṉṟataṉāl koḷvaṉa varumoḻi iṉṟi nilaimoḻiyum poruḷ uṇartti niṟkum eṉpatu āṇṭuk kūṟutum.
+aṉṟiyum, `ceytāṉ poruḷ, iruntāṉ kuṉṟattu' eṉa vaḻaṅkuvaṉa oṭṭi oru col ākāmaiyum; ceyyuṭkaṇ
+`kaḻūuviḷaṅ kāram kavaiiya mārpē'
+eṉavum,
+`māṟṟumaik koṇṭa vaḻi'
+eṉavum iṟutikkaṇ iraṇṭāvatu tokkaṉa,
+`muyaṅkiṉe ṉallaṉō'
+eṉavum, `pōṟṟāy' eṉavum varum muṭikkum coṟkaḷōṭu oṭṭi orucol ākāmaiyum;
+`tōṉṟal maṟantōr tuṟaikeḻu nāṭṭē'
+eṉavum,
+`ciṟukural neytalem peruṅkaḻi nāṭṭē'
+eṉavum iṟutikkaṇ ēḻāvatu tokkaṉa, `tōṉṟum' eṉavum `cērntaṉai celiṉē' eṉavum varum muṭikkum coṟkaḷōṭu oṭṭi oru col ākāmaiyum uṇarka.
+iṉṉum,
+`vallē maṟaval ōmpumati emmē.'
+eṉa iṭaikkaṇ tokkaṉavum
+`poṉṉōṭaip pukaraṇinutal
+tuṉṉaruntiṟal kamaḻkaṭāat
+teyiṟupaṭai yāka eyiṟkata viṭāak
+kayiṟupiṇik koṇṭa kaviḻmaṇi maruṅkiṟ
+peruṅkai yāṉai'
+eṉa aṭukki varuvaṉavum oṭṭi oru col ākāmaiyum uṇarka.
+`atuveṉ vēṟṟumai' eṉṉum cūttirattu `atuveṉ urupukeṭa' eṉṟataṉāl, `atu' eṉ uṟupu niṉṟāl allatu keṭutal iṉmaiyiṉ, atu niṉṟu keṭṭatu eṉṉum poruḷ taral āṇṭuk kūṟip pōntām. ataṉāl, īṇṭuc cēṉāvaraiyar kūṟiya poruṭku viṭai iṉmai uṇarka.
+ivaṟṟuḷ viṉaittokaiyum paṇpiṉ tokaiyum ciṟitu tokkut tokaiyātalum, ēṉaiya muḻuvatūum tokkut tokaiyātalum uṇarka.</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p>tokaic collāmāṟu uṇarttutal nutaliṟṟu.</p>
+<p>(i-ḷ.) vēṟṟumaip poruḷ kuṟitta tokaiyum, uvamap poruḷ kuṟitta tokaiyum, viṉaittoḻil kuṟitta tokaiyum, paṇpu kuṟitta tokaiyum, ummait tokai ceyyun tokaiyum, alporuḷ kuṟitta tokaiyum eṉa aṟuvakaippaṭum tokaiccollatu nilaimai, e-ṟu.</p>
+<p>tokaic collāvatu:-poruḷuṇarttuñ collāyiṉum, toḻi luṇarttuñ collāyiṉum iraṇṭu col viṭṭicaittu nillātu oṭṭi niṟpatu. iḵtu oṭṭup peyar eṉṉuṅ kuṟiyum peṟum. utāraṇam varukiṉṟa cūttirattuṭ kāṭṭutum.	(15)</p>
+    </body>
+  </text>
+  
+</TEI>
