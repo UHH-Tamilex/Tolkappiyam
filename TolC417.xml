@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 417. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC398">
+  <l>irupeyar palapeya raḷaviṉ peyarē</l>
+	<l>yeṇṇiyaṟ peyarē niṟaippeyark kiḷavi</l>
+	<l>yeṇṇiṉ peyarō ṭavvaṟu kiḷaviyuṅ</l>
+	<l>kaṇṇiya nilaittē yummait tokaiyē.</l>
+      </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/211/mode/1up">211</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/212/mode/1up">212</ref>.</p>
+<p>eṉpatu, ivvāṟiṭattum ummai tokaṟpālatu eṉṟu uṇarttiyavāṟu.</p>
+<p>irupeyarkkaṇ tokkatu :</p>
+<p>uvāp patiṉāṉku eṉpatu ; atu viriyuṅkāl, uvāvum patiṉāṉkum eṉa viriyum.</p>
+<p>palapeyarkkaṇ tokkatu :</p>
+<p>puli viṟ keṇṭai eṉpatu ; atu viriyuṅkāl, puliyum villum keṇṭaiyum eṉa viriyum.</p>
+<p>aḷavupaṟṟit tokkatu :</p>
+<p>tūṇip patakku eṉpatu ; atu viriyuṅkāl, tūṇiyum patakkum eṉa viriyum.</p>
+<p>eṇṇiyaṟpeyarpaṟṟit tokkatu :</p>
+<p>patiṉaivar eṉpatu ; atu viriyuṅkāl, patiṉmarum aivarum eṉa viriyum.</p>
+<p>niṟaippeyarpaṟṟit tokkatu :</p>
+<p>toṭiyarai eṉpatu ; atu viriyuṅkāl, toṭiyum araiyum eṉa viriyum.</p>
+<p>eṇṇiṉpeyarpaṟṟit tokkatu :</p>
+<p>patiṉoṉṟu eṉpatu ; atu, pattum oṉṟum eṉa viriyum.</p>
+<p>maṟṟum, 'palapeyar' eṉa amaiyātē, 'irupeyar' eṉa vēṇṭiyatu eṉṉai, iraṇṭaiyum pala eṉpavāl eṉiṉ, aṟṟaṉṟu ; iraṇṭaṉaiyum paṉmai yeṉṟu vēṇṭāṉ ivvāciriyaṉ eṉpatu. āyiṉ, mēl,</p>
+<lg xml:id="TolC417-Iḷam-cit1">
+  <l>`oṉṟaṟi collē palavaṟi col'</l></lg>	<p>(tol. kiḷavi - 3)</p>
+<p>eṉpuḻi, iraṇṭaiyum pala eṉṟu vēṇṭiṉāṉāleṉiṉ, atu vikāram ; eṉṉai, iraṇṭum iraṇṭiṟanta paṉmaiyum, 'vantaṉa, pōyiṉa' eṉa, oru paṉmaic collē yēṟkumākaliṉ, āṇṭu iraṇṭiṉaip palavaṟṟuḷ aṭakkik kūṟiṉār eṉpatu.	(21)</p>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p>(i-ḷ.) irupeyar mutalākac collappaṭṭa aṟuvakaic coṟ ṟiraḷaiyum taṉakkuc cārpākak kuṟittu niṟkum ummaittokai e-ṟu.</p>
+<p>(e-ṭu.) uvāappatiṉāṉku eṉpatu irupeyarāṉāya ummait tokai. puliviṟkeṇṭai eṉpatu pala peyarāṉāya ummaittokai. tūṇippatakkueṉpatu aḷavuppeyarāṉāya ummaittokai. muppattu mūvareṉpatu eṇṇiyaṟpeyarāṉāya ummaittokai. toṭiyarai yeṉpatu niṟaippeyarāṉāya ummaittokai. patiṉainteṉpatu eṇṇuppeyarāṉāya ummaittokai. iṉi avai viriyuṅkāl, uvāvum patiṉāṉkum eṉavum, puliyum villuṅ keṇṭaiyum eṉavum, tūṇiyum patakkum eṉavum, muppatiṉmarum mūvarum eṉavum, toṭiyum araiyum eṉavum, pattumaintum eṉavum viriyum.</p>
+<p>vēṟṟumaittokai mutalāyiṉa palacollāṟ ṟokutal ciṟupāṉmai. ataṉāṉ ummaittokai iru collāṉum pala collāṉum oppat tokumeṉpatu aṟivittaṟku irupeyar palpeyareṉ ṟār. kaṟcuṉaik kuvaḷaiyitaḻ, peruntōṭ pētai eṉap piṟa tokaiyum perumpāṉmaiyum pala collāṉ varumāleṉiṉ, kalleṉpatuñ cuṉaiyeṉpatuṅ kaṟcuṉaiyeṉat tokku oru collāyp piṉ kuvaḷaiyeṉpataṉoṭu tokku oru collāyp piṉ itaḻeṉpata ṉoṭu tokkuk kaṟcuṉaik kuvaḷaiyitaḻeṉa voṉṟāyiṟṟu. peruntō ḷeṉṉun tokai orucollāyp pētaiyeṉpataṉoṭu tokkup peruntōṭ pētaiyeṉa voṉṟāyiṟṟu. avai ivvāṟṟāṉallatu tokāmaiyiṉ irucoṟṟokaiyēyām. puliviṟ keṇṭai eṉpuḻi mūṉṟu peyarun tokumeṉṉātu mutaṟ peyaroḻittum iṟutippeya roḻittum, ēṉaiyiraṇṭun tammuṭṭokku oru collāyp piṉ maṟṟaiyataṉoṭu tokumeṉiṉ, muṉṟokumiraṇṭaṟkum ōriyaipu vēṟupāṭiṉmaiyāṉum, iru tokaippaṭuttal palaceykaittāka lāṉum, avai mūṉṟu peyarum oruṅku tokkaṉaveṉavē paṭumeṉpatu.</p>
+<p>aḷaviṉ peyar mutalāyiṉa, irupeyarāyallatu tokāveṉa varaiyaṟuttaṟku irupeyar palpeyareṉa aṭaṅkuvaṉavaṟṟaip peyart tuk kūṟiṉār. kalaṉē tūṇippatakku, toṭiyē kaḵcarai, nūṟṟunāṟpattu nāṉkueṉpuḻit tūṇippatakku, kaḵcarai, nāṟpattu nāṉku eṉpaṉa oru coṟpōla aḷavuppeyarum niṟaippeyarum eṇṇup peyarumāy vaḻaṅkappaṭṭu varutaliṉ, kalamun tūṇippatakkum, toṭiyum kaḵcaraiyum, nūṟum nāṟpattunāṉkum eṉa irumoḻi niṉṟu tokka veṉṟalē poruttamuṭaimaiyaṟika.</p>
+<p>ummaittokai iṉṉa poruḷpaṟṟit tokumeṉṉātu 'avvaṟu kiḷaviyum' eṉac collēpaṟṟi ōtiṉārēṉum, ēṟpuḻik kōṭaleṉpataṉāṉ 'uyartiṇai maruṅki ṉummait tokaiyē palar coṉ ṉaṭaittu' (col. 421) eṉpataṉāṉ eṇṇummaip poruṭkaṭ ṭokumeṉpatu peṟappaṭum. eṇṇiṉkaṇ varum iṭaiccoṟ palavēṉum, tokku niṟkum āṟṟaluṭaiyatu ummaip peyarākalāṉ, ummait tokaiyāyiṟṟu.	(21)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  
+</TEI>
