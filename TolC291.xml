@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 291. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC291">
+        <l>ummai yeṇṇi ṉuruputokal varaiyār.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/175/mode/1up">175</ref>.</p>
+      <p>
+varalāṟu:
+      </p>
+      <lg xml:id="TolC291-Ilam-cit1">
+        <l>‘yāṉaiyum tērum āḷum eṟintār’</l>
+      </lg>
+      <p>
+eṉpatu, yāṉaiyaiyum tēraiyum āḷaiyum eṟintār eṉṟavāṟu; ummaiyeṇṇiṉkaṇ uruputokkavā ṟāyiṟṟu. (43)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n226/mode/1up">223</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n227/mode/1up">224</ref>.</p>
+      <p>
+i – ḷ. 
+        ummaiyeṇṇiṉkaṇ urupu tokutal varaiyappaṭātu.
+e-ṟu.
+      </p>
+      <p>
+u – m.
+      </p>
+      <lg xml:id="TolC291-Cena-cit1">
+        <l>“piṟitupiṟi tēṟṟalu muruputoka varutalu―</l>
+        <l>neṟipaṭa vaḻaṅkiya vaḻimaruṅ keṉpa”</l>
+      </lg>
+      <p>
+        eṉṉum potuvitiyāṉ ummaiyeṇṇiṉkaṇ urupu tokal peṟappaṭṭamaiyāl, peṟṟataṉpeyartturai niyamapporuṭṭākalāṉ, ummaiyeṇṇiṉurupu tokal varaiyappaṭātu; ēṉaiyeṇṇiṉkaṇ avai varaiyappaṭumeṉa niyamittal itaṟkup payaṉākak koḷka.
+        </p>
+      <lg xml:id="TolC291-Cena-cit2">
+        <l>‘kuṉṟi kōpaṅ koṭiviṭu pavaḷa―</l>
+        <l>moṇceṅ kānta ḷokku niṉṉiṟam’</l>
+      </lg>
+      <p>
+        eṉap piṟaveṇṇiṉkaṇ urupu tokkatāleṉiṉ; ― aṟṟaṉṟu: cevveṇ tokaiyiṉṟi nillāmaiyiṉ avaṟṟaiyeṉa orucol virikkappaṭum; virikkavē, kuṉṟi mutalāyiṉa eḻuvāyāy niṉṟaṉavāmeṉpatu.
+      </p>
+      <p>
+        u - m.
+      </p>
+      <lg xml:id="TolC291-Cena-cit3">
+        <l>‘pāṭṭuṅ kōṭṭiyu maṟiyāp payami―</l>
+        <l>ṟēkku marampō ṉīṭiya voruvaṉ;’</l>
+      </lg>
+      <lg xml:id="TolC291-Cena-cit4">
+        <l>‘icaiyiṉuṅ kuṟippiṉum paṇpiṉun tōṉṟi’</l>
+      </lg>
+      <p>
+eṉa ummaiyeṇṇiṉkaṇ urupu tokkavāṟu kaṇṭukoḷka.
+      </p>
+      <p>
+varaiyāreṉṟataṉāṉ, āṇṭum ellāvurupuntokā; aiyuṅkaṇṇumē tokuvaṉaveṉak koḷka.
+      </p>
+      <p>
+yāṉai tēr kutirai kālāḷeṟintār eṉa ummaiyum urupum uṭaṉṟokkavaḻi ummaittokaiyeṉṉātu uruputokaiyeṉkaveṉpatu iccūttirattiṟkuk karuttāka uraittārāl uraiyāciriyareṉiṉ; ― aḵtu ummaittokaiyātaliṉ orucoṉṉaṭaittāy urupēṟṟāṉum payaṉilai koṇṭāṉum niṟkum. attokaiyiṭai urupiṉmai ciṟṟaṟiviṉārkkum pulaṉām; ataṉāṉ aḵtavarkkuk karuttaṉmai collavēṇṭumōveṉpatu.	(43)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/316/mode/1up">316</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/318/mode/1up">318</ref>.</p>
+      <p>
+ummai yeṇṇil urupu tokutal
+      </p>
+      <lg>
+        <l>ummai yeṇṇi ṉurupu tokal varaiyār.</l>
+      </lg>
+      <p>
+iḵtummaiyu murupun tokka vaḻiyum uruputokaiyeṉappaṭumeṉa vaḻuvamaittavāṟu.
+      </p>
+      <p>
+        (i-ḷ) 
+ummai eṇṇiṉ ― ummaiyāṉ varumeṇṇiṉ kaṇ, urupu tokal varaiyār ― iraṇṭāvatu mēḻāvatun tokku niṟṟalai nīkkā rāciriyareṉṟavāṟu.
+      </p>
+      <p>
+ummaiyeṇṇeṉap potuppaṭak kūṟutaliṉ ummai tokkuḻiyum virintuḻiyu murupu tokuttal koḷka.
+      </p>
+      <p>
+(u-m)
+      </p>
+      <lg xml:id="TolC291-Nacc-cit1">
+        <l>puli viṟ koṇṭai</l>
+      </lg>
+      <lg xml:id="TolC291-Nacc-cit2">
+        <l>yāṉai tēr kutirai kālāḷ</l>
+      </lg>
+      <p>
+eṉṉum palapeya rummait tokaikaḷ orucoṉṉaṭai yavāyk ‘kiṭantaṉa, vantaṉa’ eṉṉun tamviṉaiyākiya payaṉilaikaḷaik koḷḷum vaḻiyum,
+      </p>
+      <lg xml:id="TolC291-Nacc-cit3">
+        <l>puliyum villuṅ keṇṭaiyuṅ kiṭantaṉa.</l>
+      </lg>
+      <lg xml:id="TolC291-Nacc-cit4">
+       <l>yāṉaiyun tēruṅ kutiraiyuṅ kālāḷum vantaṉa.</l>
+      </lg>
+      <p>
+eṉavummai virintu niṉṟa poruḷait tantē niṟkumāṟu pōla, ivvummait tokaikaḷ,
+      </p>
+      <lg xml:id="TolC291-Nacc-cit5">
+       <l>puli viṟ keṇṭai vaittāṉ</l>
+      </lg>
+      <lg xml:id="TolC291-Nacc-cit6">
+       <l>yāṉai tēr kutirai kālā ḷeṟintāṉ</l>
+      </lg>
+      <p>
+eṉa vurupēṟṟu niṉṟavaḻiyum,
+      </p>
+      <lg xml:id="TolC291-Nacc-cit7">
+       <l>puliyum villuṅ keṇṭaiyum vaittāṉ.</l>
+      </lg>
+      <lg xml:id="TolC291-Nacc-cit8">
+       <l>yāṉaiyun tēruṅ kutiraiyuṅ kālāḷu<sic>m me</sic>ṟintāṉ.</l>
+      </lg>
+      <p>
+eṉa vummai virintu niṉṟa poruḷain tattē niṟṟal vēṇṭum. aṅkaṉa mummai virintu niṟkumiṭattu vaittāṉeṉṉum viṉaimutal viṉaikkup puliyum villuṅ keṇṭaiyuñ ceyappaṭu poruḷā yiraṇṭā murupē virittu niṟṟalum eṟintā ṉeṉṉum viṉaimutal viṉaikku yāṉai mutaliyaṉa ceyappaṭu poruḷā yiraṇṭā murupē virittu niṟṟalu muṇarka.
+      </p>
+      <lg xml:id="TolC291-Nacc-cit9">
+       <l>‘kuṉṟi kōpaṅ <sic>koṭi viṭupavaḷa</sic></l>
+       <l>moṇceṅ kānta ḷokku niṉṉiṟam?</l>
+      </lg>
+      <p>
+eṉṉum palapeyar ummait tokaikkum ummaiyu murupum virittē poruḷuraikka. ik kuṉṟi mutaliyavaṟṟaic cevveṇākki ‘yivaṟṟai’yeṉat tokai koṭutturupu virittuḻiyum accuṭṭu akkuṉṟi mutaliyavaṟṟaiyē cuṭṭutaliṉ akkuṉṟi mutaliyaṉa ceyappaṭu poruḷāyē niṟkumāṟu muṇarka. aṉṟiyavai cevveṇṇāyiṉ.
+      </p>
+      <lg xml:id="TolC291-Nacc-cit10">
+       <l>‘nilanīr vaḷivicum peṉṟa nāṉki</l>
+       <l>ṉaḷappariyai’</l>
+       <trailer>(patiṟṟuppattu)</trailer>
+      </lg>
+      <p>
+eṉṟāṟ pōla vummaiyu murupum virittaṟkup poruntātu eḻuvāyāy nāṉkeṉṉun tokaiccoṟ payaṉilai koṇṭu niṟṟal vēṇṭu meṉṟuṇarka. ivai yummait tokaikka ṇurupu tokkaṉa. iṅṅaṉa miraṇṭu tokkaṉavaṟṟai yeṉṉa tokai yeṉṟu kōṭumō veṉiṉ puliyaiyum villaiyuṅ keṇ<unclear>ṭaiyai</unclear>yum vaittāṉeṉa virittuḻi yeṇṇupporuṭantu niṟku mummaiyiṉuñ coṟṟoṭarpporuḷai yuṇartti niṟpa turupātali ṉacciṟappu nōkki yurupu tokaiyeṉṟē kōṭum.
+    </p>
+    <p>
+iṉip
+    </p>
+    <lg xml:id="TolC291-Nacc-cit11">
+     <l>‘pāṭṭum kōṭṭiyu maṟiyāp payamil</l>
+     <l>tēkku marampō ṉīṭiya voruvaṉ’</l>
+    </lg>
+    <lg xml:id="TolC291-Nacc-cit12">
+     <l>icaiyiṉuṅ kuṟippiṉum paṇpiṉun tōṉṟi.</l>
+    </lg>
+    <p>
+eṉṉum ivai yummai virintu niṉṟurupu tokkaṉa.  <num xml:lang="en">(43)</num>
+    </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n192/mode/1up">185</ref>.</p>
+      <p>
+eṇṇummaikku uriyatōr vēṟupāṭu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+        i-ḷ: ― 
+ummaiyāṉ eṇṇappaṭṭa poruḷiṉkaṇ varum urupākiya ummai ōriṭattut tokutalum nīkkār. e-ṟu.
+      </p>
+      <p>
+eṉavē, coṟṟoṟum ummai koṭākkālum ummai eṇṇākum eṉṟavāṟām.
+      </p>
+      <p>
+        u-m:―
+      </p>
+      <lg xml:id="TolC291-Tey-cit1">
+        <l>“iyaṅkupaṭai yarava metirparan teṭuttal,</l>
+        <l>vayaṅkaleytiya perumai yāṉum,</l>
+        <l>koṭutta leytiya koṭaimai yāṉum”</l>
+        <trailer>(puṟattiṇai ― 8)</trailer>
+      </lg>
+      <p>
+eṉa ummai orōvaḻit tokku niṉṟatu. ivvilakkaṇam eṇṇummaikkē yurittu.	[42]
+      </p>
+    </body>
+  </text>
+<standOff corresp="#TolC291" type="wordsplit">
+<interp type="alignment" select="0">30M,29MG</interp>
+<entry>
+<form>ummai</form>
+<def>the particle um</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṇṇiṉ</form>
+<def>enumeration</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>urupu</form>
+<def>[noun case] morpheme</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokal</form>
+<def>elision</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varaiyār</form>
+<def>they will not exclude</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC291-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">6MG6MG4MG10M,G27MG</interp>
+<entry>
+<form>yāṉai-<c type="glide">y</c>um</form>
+<def>elephant</def>
+<form type="simple">yāṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tēr-um</form>
+<def>chariot</def>
+<form type="simple">tēr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>āḷ-um</form>
+<def>man</def>
+<form type="simple">āḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṟintār</form>
+<def>they attacked</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
