@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 456. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC456">
+        <l>viṉaiyeñcu kiḷaviyum vēṟupal kuṟiya.</l>
+            </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/253/mode/1up">253</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/254/mode/1up">254</ref>.</p>
+<p>iccūttiram eṉnutaliṟṟō veṉiṉ, muṉṉar viṉaiyiyaluḷ viṉaiyeccam eṉṟu ōtappaṭṭaṉavaṟṟukkaṇ āvatōr ilakkaṇam uṇarttutal nutaliṟṟu.</p>
+<p>urai : viṉaiyeccam eṉṟu kūṟappaṭṭaṉa ceyyuṭkaṭṭāmvantu muṭipu koṇṭataṉ ṟaṉmaippālēnillā; niṉṟāṟ poruḷicaiyāvātalāl, ōr eccantirintu ōr eccamākiyum niṟkum ilakkaṇattiṉaiyuṭaiya eṉṟavāṟu.</p>
+<p>varalāṟu : ñāyiṟu paṭṭu vantāṉ, ñāyiṟu paṭa vantāṉ eṉpatumaṉ ākaṟpālatu.</p>
+<p>paṭa eṉpatu ceyaveṉeccam ; atu tirintu paṭṭu eṉṉuñ ceyteṉeccamāki niṉṟateṉpatu.</p>
+<lg xml:id="TolC456-Iḷam-cit1">
+<l>'kōḻikūvip pularntatu'</l></lg>
+<p>eṉpatūum ceyaveṉeccañ ceyteṉeccamākit tirintu niṉṟatu eṉpatu.</p>
+<p>aṅṅaṉam niṉṟavēṉum, avaṟṟaic ceyaveṉeccamāka vuṇarntukoḷal vēṇṭum, allākkāṟ coṉmuṭipu eytātu. eṉṉai, 'ñāyiṟu paṭṭu' eṉṟakkāl, vantāṉ eṉṟalum muṭiyaṟpālatu. piṉṉum ñāyiṟṟiṉmēl viṉaikoṇṭu muṭiyaṟpāṟṟu,</p>
+<lg xml:id="TolC456-Iḷam-cit2">
+<l>'mutaṉilai mūṉṟum viṉaimutal muṭiyum'</l> <p>[tol. col. viṉai - 31]</p></lg>
+<p>eṉṟu uraittārākaliṉ eṉpatu. kōḻi kūvap pularntatu eṉpataṟkum aḵtu okkum.</p>
+<p>iṉi,</p>
+<lg xml:id="TolC456-Iḷam-cit3">
+<l>'mōyiṉa ḷuyirtta kālai'</l>	<p>[akam - 5]</p></lg>
+<p>eṉpuḻi, mōntu eṉṉum viṉaiyeccam, mōyiṉaḷ eṉa muṟṟuccol vāypāṭṭāṟ ṟirintu niṉṟatēṉum, viṉaiyeccamē yākalvēṇṭum. piṟavum aṉṉa.</p>
+<p>piṟa eṉṟataṉāl,</p>
+<lg xml:id="TolC456-Iḷam-cit4">
+<l>'ēri ṉuḻāa ruḻavar puyaleṉṉum</l>
+<l>vāri vaḷaṅkuṉṟik kāl'</l>	<p>[kuṟaḷ. vāṉciṟappu - 4]</p></lg>
+<p>eṉpatu, kuṉṟiyakkāl eṉṉum viṉaiyeccam kuṉṟikkāl eṉa niṉṟatu.	(60)</p>
+ </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p></p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  
+</TEI>
