@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 459. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC459">
+        <l>oruporu ḷirucoṟ pirivila varaiyār.</l>
+            </lg>
+    </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/253/mode/1up">253</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/253/mode/1up">253</ref>.</p>
+<p>ic cūttiram eṉnutaliṟṟō veṉiṉ, ituvum marapuvaḻuk kāttatu.</p>
+<p>urai : oru poruṇmēṟ kiṭanta irucoṟ piriviṉṟiniṉṟaṉa varaiyappaṭātu eṉṟavāṟu.</p>
+<p>varalāṟu :</p>
+<lg xml:id="TolC459-Iḷam-cit1">
+<l>'vaiyaik kiḻavaṉ vayaṅkutār māṇakalan</l>
+<l>taiyalā yiṉṟunī nalkuti nalkāyēṟ</l>
+<l>kūṭalār kōvoṭu nīyum paṭutiyō</l>
+<l>nāṭaṟiyak kavvai yoruṅku'</l></lg>
+<p>vaiyaikku iṟai yeṉappaṭṭāṉum, kō eṉappaṭṭāṉum avaṉātalāl, avvirucollum oru poruṭkaṇmēlē niṉṟaṉa ; piṟa poruṭkup piriyā, aṅṅaṉam niṟpaṉa amaiyum eṉpatām.</p>
+<p>iṉip, 'pirivila varaiyappaṭā' eṉavē, pirivuṭaiyaṉa varaiyappaṭum eṉpatām ; aḵtiyātō veṉiṉ,</p>
+<lg xml:id="TolC459-Iḷam-cit2">
+<l>'koytaḷirt taṇṭalaik kūṟṟap peruñcēntaṉ</l>
+<l>vaikalu mēṟum vayakkaḷiṟē - kaitoḻutēṉ</l>
+<l>kālēka vaṇṇaṉaik kaṇṇārak kāṇaveñ</l>
+<l>cālēkañ cāra naṭa'</l></lg>
+<p>itaṉuḷ, 'kūṟṟapperuñ cēntaṉ' eṉṟār, piṉṉaik 'kālēka vaṇṇaṉ' eṉṟār ; avai yiraṇṭu collum pirivuṭaiya, ataṉāṉ amaiyā ; yātō piriveṉiṉ, 'kālēkavaṇṇam' eṉpatu cāntu, kūṟṟapperuñ cēntaṟkē yurittāy niṟpatoṉṟaṉṟu. 'kālēkavaṇṇam' eṉṉuñ cāntu pūciṉārk kellāṅ kālēkavaṇṇar eṉṟu peyarām, ataṉāṟ pirivuṭaittu ; ātalāl, amaiyātu eṉpatu.</p>
+<p>mēṟ kiḷaviyākkattu,</p>
+<lg xml:id="TolC459-Iḷam-cit3">
+<l>'iyaṟpeyark kiḷaviyuñ cuṭṭuppeyark kiḷaviyum'</l>	<p>[tol. col. kiḷavi - 38]</p></lg>
+<p>eṉṟum,</p>	
+<lg xml:id="TolC459-Iḷam-cit4">
+<l>'ciṟappi ṉākiya peyarnilaik kiḷavikku'</l>	<p>[tol. col. kiḷavi - 41]</p></lg>
+<p>eṉṟum,</p>
+<lg xml:id="TolC459-Iḷam-cit5">
+<l>'oruporuḷ kuṟitta vēṟupeyark kiḷavi'</l>	<p>[tol. col. kiḷavi - 42]</p></lg>
+<p>eṉṟum oruporuṇmēl irupeyar vaḻuvum, pala peyar vaḻuvum kūṟip pōntāṉ ; avaṟṟōṭitaṉiṭai vēṟṟumai terintukoḷka.	(63)</p>
+ </body>
+  </text>
+
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
+   <p></p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
+<p></p>
+    </body>
+  </text>
+  
+</TEI>
