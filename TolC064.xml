@@ -1,0 +1,102 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 64.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <lg xml:id="TolC064">
+        <l>avaitām</l>
+        <l>peyar ai oṭu ku</l>
+        <l>iṉ atu kaṇviḷi yeṉṉu mīṟṟu.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/49/mode/1up">49</ref>.</p>
+      <p>
+iccūttiram eṉṉutaliṟṟō veṉiṉ, vēṟṟumaikaḷiṉ peyarum muṟaiyum uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+urai: appeyarē peyar, ammuṟaiyē muṟai; īṟṟa eṉpatu iv viḷivēṟṟumai īṟākavuṭaiya eṉṟavāṟu. avaitām eṉpatu mēṟ collappaṭṭaṉa eṉṟavāṟu.  (3)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n67/mode/1up">64</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n68/mode/1up">65</ref>.</p>
+      <p>
+        i - ḷ. 
+eṭṭeṉappaṭṭa vēṟṟumaiyāvaṉa viḷi vēṟṟumaiyai iṟutiyākavuṭaiya peyar, ai, oṭu, ku, iṉ, atu, kaṇṇām.
+        e - ṟu.
+      </p>
+      <p>
+peyar ai oṭu ku iṉ atu kaṇ eṉpaṉa palapeyarummait tokai. aḵtoru collāy viḷiyeṉṉumīṟṟaveṉpataṉāṉ vicēṭikkappaṭṭatu. peyarum aiyum oṭuvum kuvvum iṉṉum atuvum kaṇṇum eṉa viriyum.
+      </p>
+      <p>
+ciṟappuṭaip poruḷait tāṉiṉitu kiḷattaleṉpataṉāṉ oṭuveṉṟum atuveṉṟum ōtiṉārākaliṉ, āṉurupum akaravurupuṅ koḷḷappaṭum.
+      </p>
+      <p>
+viḷivēṟṟumaiyiṉatu ciṟappiṉmai viḷakkiya peyar ai oṭu ku iṉ atu kaṇ viḷiyeṉṉātu viḷiyeṉṉumīṟṟa veṉap pirittuk kūṟiṉār.	(3)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n105/mode/1up">77</ref>.</p>
+      <p>
+iḵtu oḻinta vēṟṟumaiyuṅ kūṟit tokai kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ.) viḷikoḷ vataṉkaṇ viḷiyōṭu ― viḷiyēṟkum peyarkkaṇṇatākiya viḷiyōṭu muṟ kūṟiyavaṟṟait talaippeyya, eṭṭē ― eṭṭu vēṟṟumaiyā meṉṟavāṟu.
+      </p>
+      <p>
+viḷikoḷ vataṉkaṇ viḷi yeṉṟataṉāṟ piṟitōriṭaiccollai yēlātu tāṉē tirintumiyalpāyum niṟkum peyaratiṟuti viḷiyeṉpatu peṟṟām. (<num xml:lang="en">2</num>)
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n55/mode/1up">48</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n56/mode/1up">49</ref>.</p>
+      <p>
+      </p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%AB%E0%AF%AE/mode/1up">58</ref>.</p>
+      <p>
+
+      </p>
+    </body>
+  </text>
+</TEI>
