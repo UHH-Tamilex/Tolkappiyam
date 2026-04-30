@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -97,56 +98,63 @@
     </body>
   </text>
 <standOff corresp="#TolC072" type="wordsplit">
-<interp type="alignment" select="0">236M2G27MG4MG15M,168MG57MG15MG10MG23MG7MG</interp>
+<interp type="alignment" select="0">236M2G26MG20M,284MG</interp>
 <entry>
 <form>kāppiṉ</form>
-<def>guard</def>
+<def>to guard</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>oppiṉ</form>
-<def>resemblance</def>
+<def>to resemble</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ūrtiyiṉ</form>
-<def>vehicle</def>
+<def>to ride</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>iḻaiyiṉ</form>
-<def>jewel</def>
+<def>to make</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ōppil</form>
-<def>cease</def>
+<form>ōppiṉ</form>
+<def>to chase</def>
 <form type="sandhi">ōppiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>pukaḻil</form>
-<def>fame</def>
+<form>pukaḻiṉ</form>
+<def>to praise</def>
 <form type="sandhi">pukaḻiṟ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>paḻiyiṉ</form>
-<def>blame</def>
+<def>to blame</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -158,17 +166,19 @@
 </entry>
 <entry>
 <form>peṟaliṉ</form>
-<def>obtaining</def>
+<def>to obtain</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iḻavil</form>
-<def>loss</def>
+<form>iḻaviṉ</form>
+<def>to lose</def>
 <form type="sandhi">iḻaviṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -176,36 +186,41 @@
 <def>love</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vekuḷiyil</form>
+<form>vekuḷiyiṉ</form>
 <def>anger</def>
 <form type="sandhi">vekuḷiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ceṟaliṉ</form>
-<def>destruction</def>
+<def>to hate</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uvattalil</form>
-<def>rejoice</def>
+<form>uvattaliṉ</form>
+<def>to rejoice</def>
 <form type="sandhi">uvattaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kaṟpiṉ</form>
-<def>teaching</def>
+<def>to teach</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -216,55 +231,62 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaṟuttalil</form>
-<def>avoiding</def>
+<form>vaṟuttaliṉ</form>
+<def>to cut</def>
 <form type="sandhi">vaṟuttaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟaittalil</form>
-<def>reducing</def>
+<form>kuṟaittaliṉ</form>
+<def>to reduce</def>
 <form type="sandhi">kuṟaittaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>tokuttalil</form>
-<def>synopsis</def>
+<form>tokuttaliṉ</form>
+<def>to put together</def>
 <form type="sandhi">ṟokuttaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>pirittaliṉ</form>
-<def>separating</def>
+<def>to separate</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>iṟuttaliṉ</form>
-<def>weighing</def>
+<def>to weigh</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>aḷaviṉ</form>
-<def>measure</def>
+<def>to measure</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>eṇṇiṉ</form>
-<def>counting</def>
+<def>to count</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -275,55 +297,63 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ākkalil</form>
-<def>creating</def>
-<form type="sandhi">ākkaliṟ</form>
+<form><c type="glide">v</c>ākkaliṉ</form>
+<def>to constitute</def>
+<form type="sandhi"><c type="glide">v</c>ākkaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>cārtalil</form>
-<def>reaching</def>
+<form>cārtaliṉ</form>
+<def>to expect</def>
 <form type="sandhi">cārtaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>celavil</form>
-<def>going</def>
+<form>celaviṉ</form>
+<def>to go</def>
 <form type="sandhi">celaviṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kaṉṟaliṉ</form>
-<def>disliking</def>
+<def>to be passionate</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>ōkkaliṉ</form>
-<def>raising</def>
+<def>to observe</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>añcaliṟ</form>
-<def>fearing</def>
+<form>añcaliṉ</form>
+<def>to fear</def>
+<form type="sandhi">añcaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>citaippiṉ</form>
-<def>destroying</def>
+<def>to destroy</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -334,20 +364,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aṉṉa</form>
+<form><c type="glide">v</c>aṉṉa</form>
 <def>like</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>piṟav<c type="elided">u</c>-um</form>
-<def>others</def>
+<def>other</def>
 <form type="simple">piṟavu</form>
 <form type="sandhi">piṟav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>a</form>
+<form>a<c type="geminated">m</c></form>
 <def>that</def>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -356,47 +387,39 @@
 <entry>
 <form>mutal</form>
 <def>first</def>
-<form type="sandhi">mmutaṟ</form>
+<form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>poruḷa</form>
-<def>they are of subject</def>
+<def>they have the meaning</def>
 <gramGrp>
-  <gram type="role">plural</gram>
+  <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>eṉṉa</form>
+<form><c type="glide">v</c>eṉṉa</form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kiḷavi<c type="elided">u</c>-um</form>
-<def>'kiḷavi' also</def>
-<form type="simple">kiḷaviu</form>
-<form type="sandhi">kiḷaviy</form>
+<form>kiḷavi-<c type="glide">y</c>um</form>
+<def>term</def>
+<form type="simple">kiḷavi</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>at<c type="elided">u</c></form>
+<form>ataṉ</form>
 <def>that</def>
-<form type="sandhi">at</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>aṉ</form>
-<def>the word aṉ</def>
-<gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -409,7 +432,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉmaṉār</form>
+<form><c type="glide">v</c>eṉmaṉār</form>
 <def>they say</def>
 <gramGrp>
   <gram type="role">third person</gram>
