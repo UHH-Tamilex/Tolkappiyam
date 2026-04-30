@@ -39,11 +39,10 @@
   <text xml:lang="ta" type="edition">
     <body>
         <head>Iḷampūraṇar</head>
-        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/54/mode/1up">54</ref>.</p>
       <p>
+        <note xml:lang="ta">Iḷampūraṇar treats 71 and 72 as one verse; see the next verse for his commentary.</note>
       </p>
-      <lg xml:id="TolC071-Ilam-cit1">
-      </lg>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -51,11 +50,18 @@
         <head>Cēṉāvaraiyar</head>
         <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n74/mode/1up">71</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n76/mode/1up">73</ref>.</p>
       <p>i-ḷ. "peyar ai oṭu ku" eṉṉuñ cūttirattu aiyeṉap peyar peṟṟa vēṟṟumaiccol iraṇṭāvatām. aḵtiyāṇṭuvariṉum viṉaiyum viṉaikkuṟippumākiya avviraṇṭu mutaṟkaṇṇun tōṉṟum, avai poruḷāka varum. e - ṟu.</p>
-<p>u-m. kuṭattai vaṉaintāṉ; kuḻaiyai yuṭaiyaṉ eṉa varum.</p>
+  <p>u-m.</p>
+  <lg xml:id="TolC071-Ilam-cit1">
+    <l>kuṭattai vaṉaintāṉ;</l>
+  </lg>
+  <lg xml:id="TolC072-Ilam-cit2">
+    <l>kuḻaiyai yuṭaiyaṉ</l>
+  </lg>
+<p>eṉa varum.</p>
 <p>eṇṇumuṟaiyāṉ iraṇṭāvateṉpatu peṟappaṭumāyiṉum, ikkuṟi tollāciriyar vaḻakkeṉpa taṟivittaṟku aiyeṉappeyariya vēṟṟumaikkiḷavi yiraṇṭāvateṉṟār. itu mūṉṟāvatu mutalāyiṉavaṟṟiṟku mokkum.</p>
 <p>peyariyaveṉpatu peyareṉpatu mutalāka muṭintatōr peyareccam.</p> 
 <p>tammaiyuṇarttuvaṉavum peyareṉappaṭutaliṉ aiyeṉappeyariyaveṉṟār.</p>
-<p>viṉaikkuṟippeṉṟārāyiṉum avaṟṟiṉ ceyappaṭuporuḷē koḷḷappaṭum; avviru mutaliṟ ṟōṉṟumeṉṟamaiyāṉ, mutalātaṟkum vēṟṟumaipporuḷātaṟkumēṟpaṉa avaiyēyākaliṉ. eṉṉai avaimutalātaṟ kēṟṟavāṟeṉiṉ:- ceyappaṭuporuṇmutalāyiṉa toḻiṟkuk kāraṇamākalāṉum, "āyeṭ ṭeṉpa toḻiṉ muta ṉilaiyē" eṉavavaṟṟai mutaṉilaiyeṉṟu kūṟupa vāka lāṉumeṉpatu. aḵtēl, ceyappaṭuporuḷāvatu toḻiṟ payaṉuṟuvatātalāl, kuḻai mutalāyiṉavaṟṟiṟku avvilakkaṇamēlāmaiyiṟ ceyappaṭuporuḷaṉmaiyāṉ viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṟṟaṉṟu: "ammuk kālamuṅ kuṟippoṭu koḷḷu meynnilai yuṭaiya" eṉṟārākaliṉ, kuṟippuccoṟ kālamoṭu tōṉṟit toḻiṟcollātalum kuḻai mutalāyiṉa toḻiṟpayaṉuṟutalum āciriyar tuṇipākaliṉ, avaiyuñ ceyappaṭuporuḷā meṉpatu. āyiṉ, ceyappaṭuporuṭkaṭṭōṉṟumeṉavamaiyum, viṉaiyē viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṅṅaṉaṅkūṟiṉ, ceyappāṭiṉitu viḷaṅkuñ ciṟappuṭait terinilaiviṉaic ceyappaṭuporuḷaiyē kūṟiṉārō kuṟippup poruḷumaṭaṅkap potuvakaiyāṟ kūṟiṉārōveṉṟaiyamām; aiyanīṅka viṉaiyē viṉaikkuṟippeṉṟāreṉpatu. viṉai viṉaikkuṟippeṉpaṉa īṇṭākupeyar.</p>
+<p>viṉaiyē viṉaikkuṟippeṉṟārāyiṉum avaṟṟiṉ ceyappaṭuporuḷē koḷḷappaṭum; avviru mutaliṟ ṟōṉṟumeṉṟamaiyāṉ, mutalātaṟkum vēṟṟumaipporuḷātaṟkumēṟpaṉa avaiyēyākaliṉ. eṉṉai avaimutalātaṟ kēṟṟavāṟeṉiṉ:- ceyappaṭuporuṇmutalāyiṉa toḻiṟkuk kāraṇamākalāṉum, "āyeṭ ṭeṉpa toḻiṉ muta ṉilaiyē" eṉavavaṟṟai mutaṉilaiyeṉṟu kūṟupa vāka lāṉumeṉpatu. aḵtēl, ceyappaṭuporuḷāvatu toḻiṟ payaṉuṟuvatātalāl, kuḻai mutalāyiṉavaṟṟiṟku avvilakkaṇamēlāmaiyiṟ ceyappaṭuporuḷaṉmaiyāṉ viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṟṟaṉṟu: "ammuk kālamuṅ kuṟippoṭu koḷḷu meynnilai yuṭaiya" eṉṟārākaliṉ, kuṟippuccoṟ kālamoṭu tōṉṟit toḻiṟcollātalum kuḻai mutalāyiṉa toḻiṟpayaṉuṟutalum āciriyar tuṇipākaliṉ, avaiyuñ ceyappaṭuporuḷā meṉpatu. āyiṉ, ceyappaṭuporuṭkaṭṭōṉṟumeṉavamaiyum, viṉaiyē viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṅṅaṉaṅkūṟiṉ, ceyappāṭiṉitu viḷaṅkuñ ciṟappuṭait terinilaiviṉaic ceyappaṭuporuḷaiyē kūṟiṉārō kuṟippup poruḷumaṭaṅkap potuvakaiyāṟ kūṟiṉārōveṉṟaiyamām; aiyanīṅka viṉaiyē viṉaikkuṟippeṉṟāreṉpatu. viṉai viṉaikkuṟippeṉpaṉa īṇṭākupeyar.</p>
 <p>pukaḻai niṟuttāṉ, pukaḻai niṟuttal; pukaḻai yuṭaiyāṉ, pukaḻai yuṭaimai eṉa viraṇṭāvatu peyaroṭu toṭarntavaḻiyum viṉaicceyappaṭuporuḷuṅ kuṟippuc ceyappaṭu poruḷumpaṟṟiyē niṟkumeṉpār, evvaḻi variṉumeṉṟiyāppuṟuttār.</p>
 <p>iyaṟṟappaṭuvatum, vēṟupaṭukkappaṭuvatum, eytappaṭuvatumeṉac ceyappaṭuporuṇ mūṉṟām. iyaṟṟutalāvatu muṉṉillataṉaiyuṇṭākkutal. vēṟupaṭuttalāvatu muṉṉuḷḷataṉait tirittal. eytappaṭutalāvatu iyaṟṟutalum vēṟupaṭuttalumiṉṟit toḻiṟpayaṉuṟun tuṇaiyāy niṟṟal.	(10)</p>
     </body>
@@ -63,11 +69,38 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n112/mode/1up">84</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n114/mode/1up">86</ref>.</p>
       <p>
+itu, muṟaiyē yiraṇṭāva tipporuṭkaṇ varumeṉkiṉṟatu.
       </p>
+      <p>
+(i-ḷ)
+aiyeṉap peyariya vēṟṟumaikkiḷavi iraṇṭākuvatē ― ‘peya raioṭu kui ṉatu kaṇ’ eṉṉuñ cūttirattu ai eṉap peyar peṟṟa vēṟṟumaic col liraṇṭāvatām. atu evvaḻi variṉum- aḵtu yāṇṭu variṉum, viṉaiyē viṉaikkuṟippu avviru mutaliṉ tōṉṟum- viṉaic colliṉum viṉaikkuṟippuc colliṉum piṟanta ceyappaṭu poruḷākiya avviraṇṭu kāraṇattiṉ kaṇṇum tōṉṟum (e-ṟu.)
+      </p>
+      <p>‘peyariya’ eṉaipatu, ‘kaviram peyariya’ eṉṟāṟpōla niṉṟatu.</p>
+      <p>‘viṉai, viṉaikkuṟippu’ eṉpaṉa īṇṭu ākupeyar, ammutaṉilaikaḷāl piṟanta accoṟkaḷai uṇarttaliṉ.</p>
+      <p>‘mutal’ eṉṟatu kāraṇattai. ‘āyeṭ ṭeṉpa toḻiṉmuta ṉilaiyē’ eṉṟamaiyāl, akkāraṇaṅkaḷ eṭṭu uḷavēṉum, ‘ēṟpuḻikkōṭal’ eṉpataṉāl ceyaṟpaṭuporuḷē īṇṭuk kōṭum.</p>
+      <p>kāriyattai nikaḻttuvippatu kāraṇam.</p>
+      <p>oru viṉaimutal ceyyum toḻiliṉai uṟuvatu ceyappaṭu poruḷ.</p>
+      <p>(u-m)</p>
       <lg xml:id="TolC071-Nacc-cit1">
+        <l>kuṭattai vaṉaintāṉ.</l>
       </lg>
+      <lg xml:id="TolC071-Nacc-cit2">
+       <l>kuḻaiyai uṭaiyaṉ.</l>
+      </lg>
+      <p>eṉa varum.</p>
+      <p>‘evvuḻi variṉum’ eṉṟataṉāṉ,</p>
+      <lg xml:id="TolC071-Nacc-cit3">
+       <l>pukaḻai niṟuttal</l>
+      </lg>
+      <lg xml:id="TolC071-Nacc-cit4">
+       <l>pukaḻai uṭaimai</l>
+      </lg>
+      <p>eṉa viṉaippeyariṟ puṭai peyarcci paṟṟiyum muṭiyum.</p>
+      <p>iyaṟṟappaṭuvatum, vēṟupaṭukkappaṭuvatum, eytappaṭuvatum eṉac ceyappaṭuporuḷ mūṉṟām. avai muṟaiyē illataṉai uṇṭākkalum, uḷḷataṉait tirittalum, toḻiṟpayaṉuṟun tuṇaiyāy niṟṟalum ām. ivvuṟupai muṭittaṟku mēliṟ `kāppu' mutaliya vāypāṭu paṟṟi varum poruḷkaḷai im mūṉṟu kūṟṟāṉum pakukkiṉṟār, īṇṭu viṉai māttiraiyum viṉaip peyarumākap pakuppar.</p>
+      <p>‘kuṭattai vaṉaintāṉ,’ eṉṟatu, mēl varum ‘iḻai’ eṉṉum iyaṟṟappaṭum poruḷ. aḵtu, ‘eyilai iḻaittāṉ,’ eṉa varum. eṉṟatu, ‘eyilai iḻaittalaic ceytāṉ,’ eṉṉum poruṭṭu. ‘iḻai’ eṉṉum viṉai māttiraiyai uṇarttum mutaṉilaip peyar niṉṟu, muṉṉar ‘iḻaittal’ eṉa viṉaip peyaraiyum tōṟṟuvittu, ‘iḻaittalai’ eṉṉum urupaiyum ēṟpittu, ‘ceytāṉ’ eṉa viṉaioḻinta kāraṇaṅkaḷ ēḻāṉum nikaḻum kāriyattiṉaiyum tōṟṟuvittu niṟṟaliṉ, ‘iḻai’ eṉṉum mutaṉilaip peyarai vēṟṟumaip poruḷāka eṭuttu ōtiṉār. ipporuṭkaṇ tōṉṟiya ‘ceytāṉ’ eṉṉum kāriyattuṭaṉ allatu ‘eyilai’ eṉṉum iraṇṭāvatu muṭiyāmai uṇarka. eṉṉai? ceytaṟku iḻaittal ceyappaṭu poruḷ nīrmaittāyk kāraṇamāy niṟṟalāṉum, oḻinta kāraṇaṅkaḷ taṉkaṇ nikaḻntu kāriyamām taṉmai iḻaittaṟkiṉṟām ātalāṉum eṉpatu. ivvāṟē mēliṟ cūttirattu oḻinta poruḷkaḷaiyum virikka.</p>
+      <p>iṉi, viṉaikkuṟippiṟkum `kuḻaiya uṭaiyaṉ' eṉpuḻi uṭaiyaṉ eṉak karututal viṉai; akkaruttai nikaḻttukiṉṟāṉ viṉaimutal; akkuḻai avaṉ karuttu nikaḻttappaṭum poruḷāyk kiṭakkiṉṟa taṉmai ceyappaṭu poruḷ. ivvāṟē oḻintaṉavum kuṟippāl kāṇka.</p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
