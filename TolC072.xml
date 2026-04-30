@@ -1,0 +1,418 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 72.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC072">
+          <l>kāppi ṉoppi ṉūrtiyi ṉiḻaiyi</l>
+	<l>ṉōppiṟ pukaḻiṟ paḻiyi ṉeṉṟā</l>
+	<l>peṟali ṉiḻaviṟ kātaliṉ vekuḷiyiṟ</l>
+	<l>ceṟali ṉuvattaliṟ kaṟpi ṉeṉṟā</l>
+	<l>vaṟuttaliṟ kuṟaittaliṟ ṟokuttaliṟ pirittali</l>
+	<l>ṉiṟuttali ṉaḷavi ṉeṇṇi ṉeṉṟā</l>
+	<l>vākkaliṟ cārtaliṟ celaviṟ kaṉṟali</l>
+	<l>ṉōkkali ṉañcaliṟ citaippi ṉeṉṟā</l>
+	<l>vaṉṉa piṟavu mammutaṟ poruḷa</l>
+	<l>veṉṉa kiḷaviyu mataṉpāla veṉmaṉār.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC072-Ilam-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n76/mode/1up">73</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n77/mode/1up">74</ref>.</p>
+      <p>ceyappaṭuporuṇ mūṉṟaṉaiyum paṟṟi varum vāypāṭukaḷai virikkiṉṟār.</p>
+<p>i - ḷ. kāppu mutalākac citaippīṟākac collappaṭṭa irupatteṭṭupporuḷum avaipōlvaṉa piṟavumākiya ammutaṟporuṇmēl varum ellāccollum iraṇṭām vēṟṟumaippālaveṉṟu colluvar pulavar. e - ṟu. eṉṟāveṉpatu eṇṇiṭaiccol.</p>
+<p>iṉṉellām puṇariyaṉilaiyiṭaip poruṇilaikkutavātu eṇṇiṉkaṇ vantaṉa. muṉṉar varuvaṉavaṟṟiṟkum ītokkum.</p>
+<p>ammutaleṉṟatu kūṟappaṭṭa ceyappaṭuporuḷeṉṟavāṟu.</p>
+<p>u-m. eyilaiyiḻaittāṉ eṉpatu iyaṟṟappaṭuvatu. kiḷiyai yōppum; poruḷai yiḻakkum; nāṇai yaṟukkum; marattaik kuṟaikkum; nellait tokukkum; vēliyaip pirikkum; aṟattai yākkum; nāṭṭaic citaikkum eṉpaṉa vēṟupaṭukkappaṭuvaṉa. kuṟaittal curukkutalum ciṟitiḻakkac citaittalumām. aṟuttal ciṟitiḻavāmaṟ ciṉaiyaiyāyiṉum mutalaiyāyiṉum irukūṟu ceytal. ūraik kākkum; tantaiyai yokkum; tērai yūrum; kuricilaip pukaḻum; nāṭṭaip paḻikkum; putalvaraip peṟum; maṉaiviyaik kātalikkum; pakaivarai vekuḷum; ceṟṟāraic ceṟum; naṭṭārai yuvakkum; nūlaik kaṟkum; poṉṉai niṟukkum; ariciyai yaḷakkum; aṭaikkāyai yeṇṇum; ūraic cārum; neṟiyaic cellum; cūtiṉaik kaṉṟum; kaṇaiyai nōkkum; kaḷvarai yañcum eṉpaṉa eytappaṭuvaṉa. vekuḷaluñ ceṟalum kolaipporuḷavāyavaḻi vēṟupaṭukkappaṭuvaṉavām. ceṟal vekuḷiyatu kāriyam.</p>
+<p>iyaṟṟappaṭuvatu orutaṉmaittākaliṉ, ataṟkoru vāypāṭē kūṟiṉār. ēṉaiya palavilakkaṇattavākaliṟ palavāypāṭṭāṉ virittuk kūṟiṉār.</p>
+<p>aṉṉapiṟavumeṉṟataṉāl, pakaivaraip paṇittāṉ; cōṟṟai yaṭṭāṉ; kuḻaiyai yuṭaiyāṉ; poruḷaiyilaṉ eṉṉun toṭakkattaṉa koḷka.</p>
+<p>kāppu mutalāyiṉa poruḷpaṟṟi yōtappaṭṭamaiyāṉ, ūraip purakkum; ūrai yaḷikkum; tantaiyai nikarkkum; tantaiyai yoṭṭum; tēraic celuttum; tēraik kaṭāvum eṉpaṉapōlvaṉavellāṅkoḷka.</p>
+<p>iyaṟṟappaṭutal mutalākiya vēṟupāṭu kuṟippuviṉaic ceyappaṭu poruṭkaṇ ēṟpaṉa koḷka.	(11)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC072-Nacc-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC072-Tey-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AC/mode/1up">196</ref>-<ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AD/mode/1up">197</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC072-Kal-cit1">
+      </lg>
+    </body>
+  </text>
+<standOff corresp="#TolC072" type="wordsplit">
+<interp type="alignment" select="0">236M2G27MG4MG15M,168MG57MG15MG10MG23MG7MG</interp>
+<entry>
+<form>kāppiṉ</form>
+<def>guard</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oppiṉ</form>
+<def>resemblance</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūrtiyiṉ</form>
+<def>vehicle</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻaiyiṉ</form>
+<def>jewel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōppil</form>
+<def>cease</def>
+<form type="sandhi">ōppiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukaḻil</form>
+<def>fame</def>
+<form type="sandhi">pukaḻiṟ</form>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻiyiṉ</form>
+<def>blame</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟaliṉ</form>
+<def>obtaining</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻavil</form>
+<def>loss</def>
+<form type="sandhi">iḻaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kātaliṉ</form>
+<def>love</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vekuḷiyil</form>
+<def>anger</def>
+<form type="sandhi">vekuḷiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṟaliṉ</form>
+<def>destruction</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uvattalil</form>
+<def>rejoice</def>
+<form type="sandhi">uvattaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṟpiṉ</form>
+<def>teaching</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṟuttalil</form>
+<def>avoiding</def>
+<form type="sandhi">vaṟuttaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟaittalil</form>
+<def>reducing</def>
+<form type="sandhi">kuṟaittaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokuttalil</form>
+<def>synopsis</def>
+<form type="sandhi">ṟokuttaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirittaliṉ</form>
+<def>separating</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṟuttaliṉ</form>
+<def>weighing</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷaviṉ</form>
+<def>measure</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṇṇiṉ</form>
+<def>counting</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākkalil</form>
+<def>creating</def>
+<form type="sandhi">ākkaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārtalil</form>
+<def>reaching</def>
+<form type="sandhi">cārtaliṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celavil</form>
+<def>going</def>
+<form type="sandhi">celaviṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṉṟaliṉ</form>
+<def>disliking</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōkkaliṉ</form>
+<def>raising</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>añcaliṟ</form>
+<def>fearing</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>citaippiṉ</form>
+<def>destroying</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟav<c type="elided">u</c>-um</form>
+<def>others</def>
+<form type="simple">piṟavu</form>
+<form type="sandhi">piṟav</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>a</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>first</def>
+<form type="sandhi">mmutaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷa</form>
+<def>they are of subject</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi<c type="elided">u</c>-um</form>
+<def>'kiḷavi' also</def>
+<form type="simple">kiḷaviu</form>
+<form type="sandhi">kiḷaviy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>at<c type="elided">u</c></form>
+<def>that</def>
+<form type="sandhi">at</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉ</form>
+<def>the word aṉ</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāla</form>
+<def>part-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
