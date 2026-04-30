@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +53,7 @@
       <p>i-ḷ. "peyar ai oṭu ku" eṉṉuñ cūttirattu aiyeṉap peyar peṟṟa vēṟṟumaiccol iraṇṭāvatām. aḵtiyāṇṭuvariṉum viṉaiyum viṉaikkuṟippumākiya avviraṇṭu mutaṟkaṇṇun tōṉṟum, avai poruḷāka varum. e - ṟu.</p>
 <p>u-m. kuṭattai vaṉaintāṉ; kuḻaiyai yuṭaiyaṉ eṉa varum.</p>
 <p>eṇṇumuṟaiyāṉ iraṇṭāvateṉpatu peṟappaṭumāyiṉum, ikkuṟi tollāciriyar vaḻakkeṉpa taṟivittaṟku aiyeṉappeyariya vēṟṟumaikkiḷavi yiraṇṭāvateṉṟār. itu mūṉṟāvatu mutalāyiṉavaṟṟiṟku mokkum.</p>
-<p>peyariyaveṉpatu peyareṉpatu mutalāka muṭintator peyareccam.</p> 
+<p>peyariyaveṉpatu peyareṉpatu mutalāka muṭintatōr peyareccam.</p> 
 <p>tammaiyuṇarttuvaṉavum peyareṉappaṭutaliṉ aiyeṉappeyariyaveṉṟār.</p>
 <p>viṉaikkuṟippeṉṟārāyiṉum avaṟṟiṉ ceyappaṭuporuḷē koḷḷappaṭum; avviru mutaliṟ ṟōṉṟumeṉṟamaiyāṉ, mutalātaṟkum vēṟṟumaipporuḷātaṟkumēṟpaṉa avaiyēyākaliṉ. eṉṉai avaimutalātaṟ kēṟṟavāṟeṉiṉ:- ceyappaṭuporuṇmutalāyiṉa toḻiṟkuk kāraṇamākalāṉum, "āyeṭ ṭeṉpa toḻiṉ muta ṉilaiyē" eṉavavaṟṟai mutaṉilaiyeṉṟu kūṟupa vāka lāṉumeṉpatu. aḵtēl, ceyappaṭuporuḷāvatu toḻiṟ payaṉuṟuvatātalāl, kuḻai mutalāyiṉavaṟṟiṟku avvilakkaṇamēlāmaiyiṟ ceyappaṭuporuḷaṉmaiyāṉ viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṟṟaṉṟu: "ammuk kālamuṅ kuṟippoṭu koḷḷu meynnilai yuṭaiya" eṉṟārākaliṉ, kuṟippuccoṟ kālamoṭu tōṉṟit toḻiṟcollātalum kuḻai mutalāyiṉa toḻiṟpayaṉuṟutalum āciriyar tuṇipākaliṉ, avaiyuñ ceyappaṭuporuḷā meṉpatu. āyiṉ, ceyappaṭuporuṭkaṭṭōṉṟumeṉavamaiyum, viṉaiyē viṉaikkuṟippeṉalvēṇṭāveṉiṉ:- aṅṅaṉaṅkūṟiṉ, ceyappāṭiṉitu viḷaṅkuñ ciṟappuṭait terinilaiviṉaic ceyappaṭuporuḷaiyē kūṟiṉārō kuṟippup poruḷumaṭaṅkap potuvakaiyāṟ kūṟiṉārōveṉṟaiyamām; aiyanīṅka viṉaiyē viṉaikkuṟippeṉṟāreṉpatu. viṉai viṉaikkuṟippeṉpaṉa īṇṭākupeyar.</p>
 <p>pukaḻai niṟuttāṉ, pukaḻai niṟuttal; pukaḻai yuṭaiyāṉ, pukaḻai yuṭaimai eṉa viraṇṭāvatu peyaroṭu toṭarntavaḻiyum viṉaicceyappaṭuporuḷuṅ kuṟippuc ceyappaṭu poruḷumpaṟṟiyē niṟkumeṉpār, evvaḻi variṉumeṉṟiyāppuṟuttār.</p>
@@ -90,7 +91,7 @@
     </body>
   </text>
 <standOff corresp="#TolC071" type="wordsplit">
-<interp type="alignment" select="0">5MG6M2G44MG46M,15MG88MG</interp>
+<interp type="alignment" select="0">5MG6M2G44MG7MG14MG22MG3M,15MG91MG</interp>
 <entry>
 <form>iraṇṭ<c type="elided">u</c></form>
 <def>two-it</def>
@@ -117,42 +118,35 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>eṉa</form>
+<form><c type="glide">y</c>eṉa<c type="geminated">p</c></form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">p</c>peyar</form>
-<def>nominative case</def>
+<form>peyariya</form>
+<def>that which has the term</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iya</form>
-<def>suffix 'iya'</def>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vēṟṟumai</form>
+<form>vēṟṟumai<c type="geminated">k</c></form>
 <def>case ending</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kiḷavi</form>
+<form>kiḷavi</form>
 <def>word</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ev</form>
+<form><c type="glide">y</c>e<c type="geminated">v</c></form>
 <def>which</def>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -170,13 +164,14 @@
 <def>come if even</def>
 <form type="simple">variṉ</form>
 <gramGrp>
+  <gram type="role">concessive</gram>
   <gram type="role">conditional</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>viṉai-ē</form>
-<def>work</def>
+<form>viṉai-<c type="glide">y</c>ē</form>
+<def>verb</def>
 <form type="simple">viṉai</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -184,47 +179,40 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>viṉai</form>
-<def>work</def>
+<form>viṉai<c type="geminated">k</c></form>
+<def>verb</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kuṟippu</form>
+<form>kuṟipp<c type="elided">u</c></form>
 <def>intention</def>
-<form type="sandhi"><c type="geminated">k</c>kuṟippa</form>
+<form type="sandhi">kuṟipp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>av</form>
+<form>a<c type="geminated">v</c></form>
 <def>that</def>
-<form type="sandhi">vv</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iru</form>
+<form><c type="glide">v</c>iru</form>
 <def>two</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mutal</form>
+<form>mutaliṉ</form>
 <def>base</def>
+<form type="sandhi">mutaliṟ</form>
 <gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>il</form>
-<def>locative marker 'il'</def>
-<form type="sandhi">iṟ</form>
-<gramGrp>
+  <gram type="role">oblique</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -237,7 +225,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>atu-ē</form>
+<form>atu-<c type="glide">v</c>ē</form>
 <def>that</def>
 <form type="simple">atu</form>
 <gramGrp>
