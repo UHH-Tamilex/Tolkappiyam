@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,9 +28,9 @@
   <text xml:lang="ta" type="edition">
     <body>
       <lg xml:id="TolC064">
-        <l>avaitām</l>
+        <l>avaitām,</l>
         <l>peyar ai oṭu ku</l>
-        <l>iṉ atu kaṇviḷi yeṉṉu mīṟṟu.</l>
+        <l>iṉ atu kaṇviḷi yeṉṉu mīṟṟa.</l>
       </lg>
     </body>
   </text>
@@ -99,4 +98,92 @@ viḷikoḷ vataṉkaṇ viḷi yeṉṟataṉāṟ piṟitōriṭaiccollai yēl
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC064" type="wordsplit">
+<interp type="alignment" select="0">43M,7MG34MG</interp>
+<entry>
+<form>avai</form>
+<def>those</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tām</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>nominative case</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ai</form>
+<def>accusative marker 'ai'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṭu</form>
+<def>sociative marker 'oṭu'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ku</form>
+<def>dative marker 'ku'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>oblique marker 'iṉ'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>genitive marker 'atu'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>locative marker 'kaṇ'</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷi</form>
+<def>vocative case</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṉum</form>
+<def>called</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īṟṟa</form>
+<def>those which have the ending</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

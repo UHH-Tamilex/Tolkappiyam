@@ -1,0 +1,261 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 66.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC066">
+  <l>poruṇmai cuṭṭal viyaṅkoḷ varutal</l>
+	<l>viṉainilai yuraittal viṉāviṟ kēṟṟal</l>
+	<l>paṇpukoḷa varutal peyarkoḷa varutaleṉ</l>
+	<l>ṟaṉṟi yaṉaittum peyarppaya ṉilaiyē.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC066-Ilam-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n68/mode/1up">65</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n70/mode/1up">67</ref>.</p>
+      <p>i - ḷ. poruṇmaicuṭṭal-āvuṇṭu eṉpatu. viyaṅkoḷvarutal-ācelka eṉpatu. viṉainilaiyuraittal-ākiṭantatu eṉpatu. viṉāviṟkēṟṟal-aḵtiyātu, aḵtevaṉ eṉa viṉāccolloṭu toṭartal. paṇpukoḷavarutal-ākaritu eṉpatu. taṉṉiṉamuṭitta leṉpataṉāṉ āvillai, āvalla eṉṉun toṭakkattuk kuṇapporuḷavallā viṉaikkuṟippoṭu toṭartaluṅ koḷka. peyarkoḷavarutal-āpala eṉpatu. aṉṟi yaṉaittum peyarppayaṉilaiyēyeṉpatu avvāṟum peyarvēṟṟumaip payaṉilaiyām. e - ṟu.</p>
+<p>muṭikkuñcoṟporuḷ attoṭarmoḻikkup payaṉākaliṟ payaṉilaiyeṉṟār.</p>
+<p>uṇṭeṉpatu paṇpumutalāyiṉa cuṭṭātu uṇmaiyē cuṭṭaliṉ, vēṟukūṟiṉār. poypporuḷiṉ meypporuṭku vēṟṟumai uṇmaiyākaliṉ, avvuṇmaiyaip poruṇmaiyeṉṟār.</p>
+<p>viyaṅkoḷvarutal viṉainilaiyuraittaṟkaṇṇum, viṉāviṟkēṟṟal peyarkoḷavarutaṟkaṇṇum, viṉaikkuṟippāyavaḻip paṇpukoḷa varutaṟkaṇṇum aṭaṅkumāyiṉum, viṉaiyum peyarum paṇpum muṭikkuñcollā talēyaṉṟi muṭikkappaṭuñcollātalumuṭaiya, viyaṅkōḷum viṉāvum muṭikkuñcollāyallatu nillāmaiyiṉ, avvēṟupāṭaṟivittaṟku vēṟu kūṟiṉāreṉpatu.</p>
+<p>"peyartōṉṟunilai" eṉpataṉāṉum, aṉṟi yaṉaittum peyarppaya ṉilaiyē eṉpataṉāṉum, peyar tōṉṟiya tuṇaiyāy niṉṟu payaṉilaittātal eḻuvāyvēṟṟumaiyatilakkaṇameṉpatu peṟṟām.</p>
+<p>āpala eṉpuḻip palaveṉpataṟkup payaṉilai yāteṉiṉ;- atu payaṉilaiyāy āveṉpataṉai muṭittaṟkuvantatākaliṉ, tāṉ piṟitorcoṉṉōkkātu āveṉpataṉoṭu toṭarntu ataṉai muṭittamaintu māṟumeṉpatu. aḵtēl, payaṉilaikoḷḷātatu eḻuvāyvēṟṟumaiyāmā ṟeṉṉaiyeṉiṉ:- urupēṟṟal peyarkkilakkaṇamāyiṉum urupēlātavaḻiyum peyarāmāṟupōla, eḻuvāyvēṟṟumai payaṉilai koḷḷātavaḻiyum eḻuvāy vēṟṟumaiyē yāmeṉpatu. ilakkiyameṅkuñ cellātaṉa ilakkaṇa māmāṟeṉṉaiyeṉiṉ:- āṇṭilakkaṇamāvaṉa urupēṟṟaṟkēṟṟa taṉmaiyum payaṉilaiyum payaṉilai kōṭaṟkēṟṟa taṉmaiyumākaliṉ, attaṉmai ellāvaṟṟiṟku muṇmaiyiṉ ilakkaṇamāmeṉpatu.</p>
+<p>akaraccuṭṭu aṉṟiyeṉavīṟu tirintu niṉṟatu. aṉṟiyaṉaittum peyarppayaṉilaiyeṉavē, payaṉilaikōṭal peyarkkilakkaṇameṉpatūum peṟṟām.	(5)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC066-Nacc-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC066-Tey-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AC/mode/1up">196</ref>-<ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AD/mode/1up">197</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC066-Kal-cit1">
+      </lg>
+    </body>
+  </text>
+<standOff corresp="#TolC066" type="wordsplit">
+<interp type="alignment" select="0">56MG40MG31M,128MG</interp>
+<entry>
+<form>porul</form>
+<def>meaning</def>
+<form type="sandhi">poruṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mai</form>
+<def>kajal</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṭṭal</form>
+<def>pointing out</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viyaṅkoḷ</form>
+<def>imperative</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uraittal</form>
+<def>telling</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉā</form>
+<def>question</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉ</form>
+<def>sariyai 'iṉ'</def>
+<form type="sandhi"><c type="glide">v</c>iṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>k<c type="elided">u</c></form>
+<def>dative marker 'ku'</def>
+<form type="sandhi">k</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ēṟṟal</form>
+<def>accepting</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṇpu</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷa</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>nominative case</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷa</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varutal</form>
+<def>coming</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṟi</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">conjunction</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉaittum</form>
+<def>all</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>nominative case</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">p</c>payaṉilai-ē</form>
+<def>predicate</def>
+<form type="simple">payaṉilai</form>
+<form type="sandhi"><c type="geminated">p</c>payaṉilai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

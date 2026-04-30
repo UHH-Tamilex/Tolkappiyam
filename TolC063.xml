@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -136,4 +135,48 @@ pala collum uḷa eṉiṉum, ai, oṭu, ku, iṉ, atu, kaṇ eṉpaṉa peruva�
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC063" type="wordsplit">
+<interp type="alignment" select="0">22MG3M2G2M,29MG</interp>
+<entry>
+<form>viḷi</form>
+<def>vocative</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷvataṉ</form>
+<def>that which takes</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>in</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷiyoṭ<c type="elided">u</c></form>
+<def>vocative</def>
+<form type="sandhi">viḷiyōṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṭṭ<c type="elided">u</c>-ē</form>
+<def>eight</def>
+<form type="simple">eṭṭu</form>
+<form type="sandhi">eṭṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

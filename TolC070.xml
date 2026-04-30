@@ -1,0 +1,185 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 70.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC070">
+          <l>peyarnilaik kiḷavi kālan tōṉṟā</l>
+          <l>toḻilnilai yoṭṭum oṉṟalaṅ kaṭaiyē.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC070-Ilam-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n73/mode/1up">70</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n74/mode/1up">71</ref>.</p>
+      <p>i - ḷ. peyarccoṟ kālantōṉṟā, viṉaiccol lōṭokkum orukūṟallātaviṭattu. e - ṟu.</p>
+<p>cāttaṉ, koṟṟaṉ, uṇṭal, tiṉṟal eṉak kālantōṉṟātu niṟṟalum, uṇṭāṉ, tiṉṟāṉ eṉat toḻiṉilaiyoṭṭuvaṉa kālantōṉṟi niṟṟaluṅ kaṇṭukoḷka.</p>
+<p>uṇṭāṉ tiṉṟāṉ eṉṉun toṭakkattup paṭuttuc collappaṭum toḻiṟpeyar viṉaiccoṟpōlat tiṇaiyum pāluṅ kālamumutalāyiṉavaṟṟai viḷakki, aṉ āṉ mutalākiyavīṟṟavāy varutaliṉ, toḻinilaiyoṭṭumeṉṟār. oṭṭumeṉpatu uvamaccol.</p>
+<p>peyarākiya nilaiyaiyuṭaiyatu peyarnilaiyeṉa aṉmoḻittokai.</p>
+<p>peyar - poruḷ; toḻinilaiyumatu.</p>
+<p>kālantōṉṟāveṉpaṉa orucollāyp peyarnilaik kiḷavi yeṉpataṟku muṭipāyiṉa.</p>
+<p>payaṉilaikōṭalum urupēṟṟalumākiya peyarilakkaṇam īṇṭup peṟappaṭutaliṉ, avaṟṟōṭiyaiyak kālantōṉṟāmaiyākiya peyarilakkaṇamum īṇṭē kūṟiṉār. perumpāṉmaipaṟṟik kālantōṉṟāmai peyarilakkaṇamāyiṟṟu.	(9)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC070-Nacc-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC070-Tey-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AC/mode/1up">196</ref>-<ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AD/mode/1up">197</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC070-Kal-cit1">
+      </lg>
+    </body>
+  </text>
+<standOff corresp="#TolC070" type="wordsplit">
+<interp type="alignment" select="0">28M2G18MG2MG8MG2M,62MG</interp>
+<entry>
+<form>peyar</form>
+<def>nominative case</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">k</c>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālam</form>
+<def>time</def>
+<form type="sandhi">kālan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟāt<c type="elided">u</c></form>
+<def>visible-not</def>
+<form type="sandhi">tōṉṟāt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+<form type="sandhi">oḻil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oṭṭum</form>
+<def>stick to</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṉṟ<c type="elided">u</c></form>
+<def>one-it</def>
+<form type="sandhi">oṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>alla</form>
+<def>not so-they</def>
+<form type="sandhi">ala</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a</form>
+<def>that</def>
+<form type="sandhi">ṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai<c type="elided">u</c>-ē</form>
+<def>limit</def>
+<form type="simple">kaṭaiu</form>
+<form type="sandhi">kaṭaiy</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
