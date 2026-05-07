@@ -295,31 +295,24 @@ iḵtu, āṉ vantatu eṉa varum. <num xml:lang="en">(12)</num>
 </gramGrp>
 </entry>
 <entry>
-<form>viṉai</form>
-<def>work</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mutal</form>
-<def>base</def>
+<form>viṉaimutal</form>
+<def>agent</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>karuvi</form>
-<def>amount</def>
+<def>instrument</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>aṉai</form>
-<def>mother</def>
+<def>with</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">sociative</gram>
 </gramGrp>
 </entry>
 <entry>
