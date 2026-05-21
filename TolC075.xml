@@ -45,8 +45,8 @@
       <head>Cēṉāvaraiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n250/mode/1up">247</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n252/mode/1up">249</ref>.</p>
 <p>i - ḷ. mēl ku eṉap peyar koṭuttōtappaṭṭa vēṟṟumaiccol nāṉkāvatām. atu yātāṉumoruporuḷāyiṉum ataṉaiyēṟṟuniṟkum. e-ṟu.</p>
-<p>u - m. antaṇaṟkāvaik koṭuttāṉ eṉa varum.</p>
-<p>māṇākkaṟku nūṟporuḷuraittāṉ eṉak koṭaip poruḷavākiya collāṉaṉṟip piṟavāypaṭṭāṟkūṟappaṭuvaṉavum, māṇākkaṟku aṟivu koṭuttāṉeṉak koṭuppāṉporuḷāyk koḷvāṉkaṭcellātu āṇṭut tōṉṟum poruḷumellāmaṭaṅkutaṟku epporuḷāyiṉumeṉṟār.</p>
+<p>u - m. <lg xml:id="TolC075-Cēṉ-cit1">antaṇaṟkāvaik koṭuttāṉ</lg> eṉa varum.</p>
+<p><lg xml:id="TolC075-Cēṉ-cit2">māṇākkaṟku nūṟporuḷuraittāṉ</lg> eṉak koṭaip poruḷavākiya collāṉaṉṟip piṟavāypaṭṭāṟkūṟappaṭuvaṉavum, <lg xml:id="TolC075-Cēṉ-cit3">māṇākkaṟku aṟivu koṭuttāṉ</lg> eṉak koṭuppāṉporuḷāyk koḷvāṉkaṭcellātu āṇṭut tōṉṟum poruḷumellāmaṭaṅkutaṟku epporuḷāyiṉumeṉṟār.</p>
 <p>piṟaporuḷumuḷavāyiṉum, kōṭaṟporuḷ ciṟantamaiyiṉ, epporuḷāyiṉuṅkoḷḷumeṉṟār.	(14)</p>
     </body>
   </text>
@@ -111,7 +111,7 @@ eṉavarum.	[13]
     </body>
   </text>
 <standOff corresp="#TolC075" type="wordsplit">
-<interp type="alignment" select="0">4MG6M2G53MG3M,69MG</interp>
+<interp type="alignment" select="0">4MG6M2G42MG11MG3M,70MG</interp>
 <entry>
 <form>nāṉk<c type="elided">u</c></form>
 <def>four</def>
@@ -148,8 +148,7 @@ eṉavarum.	[13]
 <form>peyariya</form>
 <def>named</def>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -181,18 +180,20 @@ eṉavarum.	[13]
 </gramGrp>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
-<form type="sandhi">āyiṉuṅ</form>
+<form type="simple">āyiṉ</form>
 <gramGrp>
-  <gram type="role">conjunction</gram>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>koḷḷum</form>
 <def>taking</def>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -204,5 +205,94 @@ eṉavarum.	[13]
   <gram type="role">adjective</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Cēṉ-cit1" type="wordsplit">
+<interp type="alignment" select="0">8MG13M,22M</interp>
+<entry>
+<form>antaṇaṟk<c type="elided">u</c></form>
+<def>brahmin</def>
+<form type="sandhi">antaṇaṟk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āvai<c type="geminated">k</c></form>
+<def>cow</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttāṉ</form>
+<def>he gave</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Cēṉ-cit2" type="wordsplit">
+<interp type="alignment" select="0">26M,26M</interp>
+<entry>
+<form>māṇākkaṟku</form>
+<def>students</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nūḷ</form>
+<def>book</def>
+<form type="sandhi">nūṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>value</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittāṉ</form>
+<def>told-he</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Cēṉ-cit3" type="wordsplit">
+<interp type="alignment" select="0">23M,23M</interp>
+<entry>
+<form>māṇākkaṟku</form>
+<def>students</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟivu</form>
+<def>knowledge</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttāṉ</form>
+<def>he gave</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry>
 </standOff></TEI>
