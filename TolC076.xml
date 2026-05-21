@@ -38,8 +38,115 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Iḷampūraṇar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/209/mode/1up">209</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>.</p>
-<p/>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/57/mode/1up">57</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/58/mode/1up">58</ref>.</p>
+      <p>
+ic cūttiram eṉṉutaliṟṟō veṉiṉ, muṟaiyāṉē nāṉkām vēṟṟumai uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+urai: nāṉkām eṇṇumuṟaimaikkaṇṇatu ku eṉṉum peyaraiyuṭaiya vēṟṟumaik kiḷavi; īvatōr poruḷai yēṟkaniṟkum atuvē eṉpatu.
+      </p>
+      <p>
+varalāṟu: 
+      </p>
+      <lg xml:id="TolC076-Ilam-cit1">
+        <l>‘cāttaṟkuc cōṟu’</l>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+      <p>
+        ‘epporu ḷāyiṉum’ eṉṟār, mūṉṟiṭattup paṉmai nōkki.
+      </p>
+      <p>
+        ataṟku viṉaiyuṭaimai:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit2">
+       <l>‘karumpiṟku vēli’</l>
+      </lg>
+      <p>
+        eṉpatu
+      </p>
+      <p>
+        ataṟkuṭampaṭutal:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit3">
+       <l>‘cāttaṟku makaḷuṭampaṭṭār cāṉṟōr’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        ataṟkup paṭuporuḷ:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit4">
+       <l>‘cāttaṟkup paṭuporuḷ koṟṟaṉ’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        atuvāku kiḷavi:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit5">
+        <l>‘kaṭi cūttirattiṟkup poṉ’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        ataṟkiyāppuṭaiṭai:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit6">
+       <l>‘kaikkuyāp puṭaiyatu kaṭakam’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+ataṟ poruṭṭātal:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit7">
+       <l>‘kūḻukkuk kuṟṟēval ceyyum’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+naṭpu:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit8">
+       <l>‘nāykku naṭpuṭaiyaṉ‘</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        pakai:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit9">
+       <l>‘makkaṭkup pakai pāmpu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+kātal:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit10">
+       <l>‘tāykkuk kātalaṉ‘</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        ciṟappu:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit11">
+       <l>‘vaṭukaracarkkuc ciṟantār cōḻiyavaracar’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>
+        ‘apporuṭ kiḷavi’ eṉpatu, īṇṭu ēṟṟa poraḷallaṉavum vēṟṟumaikku urimai kāṭṭuvāṉ colliṉāṉ eṉpatu. ēṟṟa poruṇmai vitantu kūṟiṉār eṉpatu ciṟappu nōkki.
+      </p>
+      <p>
+        piṟavum ataṉpāla āvaṉa:
+      </p>
+      <lg xml:id="TolC076-Ilam-cit12">
+       <l>‘paṇṇukkut takkatu pāṭal;’</l>
+      </lg>
+      <lg xml:id="TolC076-Ilam-cit13">
+       <l>‘pūviṟkut takkatu vaṇṭu’</l>
+      </lg>
+      <p>
+        eṉpaṉa pōlvaṉa.
+      </p>
+      <p>
+iṉṉellāñ cāriyai. (12)
+      </p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -54,15 +161,286 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/374/mode/1up">374</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p/>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n121/mode/1up">93</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n123/mode/1up">95</ref>.</p>
+      <p>
+iḵtu, ataṉai muṭikkavarum poruḷ vēṟupāṭu kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ) ataṟku viṉaiyuṭaimai - oṉṟaṟ koṉṟu payaṉpaṭutal, ataṟ kuṭampaṭutal ― oṉṟa ṟkoru poruḷai mēṟkoṭuppatāka vuṭampaṭutal, ataṟkup paṭuporuḷ ― oṉṟaṟ kurimai yuṭaiyavākap potuvākiya poruḷaik kūṟiṭappaṭutal, atuvāku kiḷavi ― urupēṟkum poruṭāṉēyāyt tirivatōr poruṇmai, ataṟkiyāp puṭaimai ― oṉṟaṟkoṉṟu porutta muṭaittātal, ataṟporuṭṭātal ― oru poruḷiṉai mēṟ peṟutal. kāraṇamāka voru toḻiṉikaḻtal, naṭpu ― oṉṟa ṟkoṉṟu naṭpātal, pakai ― oṉṟaṟ koṉaṟu pakaiyātal, kātal ― oṉṟaṟ koṉṟu kātaluṭaittātal, ciṟappu - oṉṟaṟ koṉṟu ciṟattal, eṉṟa kiḷaviyum - eṉṟu collappaṭṭa poruḷkaḷum, apporuḷum ― aṉṉa poruḷkaḷum, ataṉpāla veṉmaṉār annāṉka ṉurupiṉ kūṟṟaṉa veṉṟu kūṟuvar pulavar eṉṟavāṟu.
+    </p>
+    <p>
+    (u-m)
+    </p>
+    <lg xml:id="TolC076-Nacc-cit1">
+      <l>karumpiṟku vēli;</l>
+    </lg>
+    <lg xml:id="TolC076-Nacc-cit2">
+      <l>nilattiṟ kaṇiyeṉpa nelluṅ karumpum,</l>
+    </lg>
+    <p>
+    eṉpa tumatu. viṉaiyu, pakāram.
+    </p>
+    <lg xml:id="TolC076-Nacc-cit3">
+        <l>cāttaṟku maka ḷuṭampaṭṭār.</l>
+    </lg>
+      <lg xml:id="TolC076-Nacc-cit4">
+        <l>‘cāṉṟōr kolaikku uṭampaṭṭār’</l>
+      </lg>
+      <p>eṉpatu matu.</p>
+      <lg xml:id="TolC076-Nacc-cit5">
+        <l>cāttaṟku kūṟu koṟṟaṉ.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit6">
+        <l>kaṭicūttirattiṟkup poṉ.</l>
+      </lg>
+      <p>
+poṉ kaṭicūttiramāyt tiriyumātaliṉa tuvāku kiḷavi yeṉṟār. kiḷavi, poruḷ.
+      </p>
+      <lg xml:id="TolC076-Nacc-cit7">
+        <l>kaik kiyāppuṭaiyatu kaṭakam.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit8">
+        <l>uṇṭi veyyōrk kuṟupiṇi yeḷitu</l>
+      </lg>
+      <p>eṉpatu matu.</p>
+      <lg xml:id="TolC076-Nacc-cit9">
+        <l>kūḻiṟkuk kuṟṟēval ceyyum.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit10">
+        <l>avaṟku naṭṭāṉ.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit11">
+        <l>avaṟkut tamaṉ</l>
+      </lg>
+      <p>eṉpatu matu.</p>
+      <lg xml:id="TolC076-Nacc-cit12">
+        <l>avaṟkup pakai</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit13">
+        <l>kaḷvārkkut taḷḷumuyir nilai</l>
+      </lg>
+      <p>eṉpatu matu.</p>
+      <lg xml:id="TolC076-Nacc-cit14">
+        <l>naṭṭārkkuk kātalaṉ</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit15">
+        <l>putalvar kaṉpuṟum</l>
+      </lg>
+      <p>eṉpatu matu.</p>
+      <lg xml:id="TolC076-Nacc-cit16">
+        <l>vaṭukaracarkkuc ciṟantār cōḻiyavaracar.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit17">
+        <l>‘kaṟpārkkuc ciṟantatu cevi’</l>
+      </lg>
+      <p>yeṉpatu matu.</p>
+      <p>
+‘apporuḷum’ eṉṟataṉāṉē,
+      </p>
+      <lg xml:id="TolC076-Nacc-cit18">
+       <l>ic coṟkup poruḷ itu.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit19">
+        <l>avarkkuc cōṟuṇṭu.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit20">
+        <l>niṉakku vali yāṉ.<note place="inline">niṉakkuvalivāḷ</note></l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit21">
+       <l>avvūrk kivvūr kātam</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit22">
+        <l>‘maṉaikkup pāḻ vāṇuta liṉmai’</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit23">
+        <l>pōrkkup puṇaimaṉ.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit24">
+        <l>piṇikku maruntu.</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit25">
+        <l>taṉcī riyalnallāḷ tāṉavaṟ kīṉṟa maintaṉ</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit26">
+        <l>avaṟkut takkā ḷivaḷ</l>
+      </lg>
+      <lg xml:id="TolC076-Nacc-cit27">
+        <l>uṟṟārk kuriyar poṟṟoṭi makaḷir</l>
+      </lg>
+      <p>
+eṉṟāṟ pōlvaṉa koḷka.
+      </p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
-      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>.</p>
-
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n68/mode/1up">61</ref>—<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n69/mode/1up">62</ref>.</p>
+      <p>
+ituvum nāṉkām vēṟṟumaikkaṇ varum poruḷ vēṟupāṭu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+i-ḷ.
+ataṟku viṉaiyuṭaimai mutalākac ciṟappīṟākac collappaṭṭa vaṟṟiṉkaṇ apporuḷpaṭa varuñcollum, ummaiyāl annikaraṉa piṟaporuṭkaṇvaruñ collum nāṉkām vēṟṟumaippālaṉa. e-ṟu. ummai eccavummai.
+      </p>
+      <p>
+        ataṟku viṉaiyuṭaimaiyiṉ eṉpatu mēṟcollappaṭṭa koṭaipporuṇmaiyē yaṉṟi urupēṟkum poruṭku viṉaiyātaluṭaimai kūṟum vaḻiyum nāṉkām vēṟṟumaip pālaṉavām. e-ṟu. u-m.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit1">
+        <l>avarkkup pōkkuṇṭu,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit2">
+        <l>avarkku varavuṇṭu,</l>
+      </lg>
+      <p>
+ivai viṉai.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit3">
+        <l>karumpiṟkuḻutāṉ</l>
+      </lg>
+      <p>
+        eṉpatumatu.
+      </p>
+      <p>
+ataṟku uṭampaṭutaleṉpatu uṭampāṭu kūṟumvaḻiyum nāṉkāvatām. e-ṟu. u-m.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit4">
+        <l>kolaikkuṭampaṭṭāṉ.</l>
+      </lg>
+      <p>
+ataṟkup paṭuporuḷāvatu — urupēṟkum poruṭku iyalpu kūṟumvaḻiyum nāṉkāvatām. e-ṟu. u-m.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit5">
+       <l>itaṟku niṟaṅkarumai;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit6">
+        <l>itaṟku vaṭivu vaṭṭam;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit7">
+        <l>itaṟku aḷavu neṭumai;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit8">
+        <l>itaṟkuc cuvai kārppu;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit9">
+        <l>ic coṟkup poruḷ itu;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit10">
+        <l>ivvāṭaikku vilai itu</l>
+      </lg>
+      <p>
+eṉavum, ivvāṟu varuvaṉavum koḷka. iṉṉum ataṟkup paṭuporuḷ eṉṟataṉāṉ, uṭaipporuḷum avviṭattiṟku āmporuḷum, kālattiṟku ām poruḷumāki varuvaṉavum koḷka.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit11">
+        <l>avaṟkuc cōṟuṇṭu,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit12">
+        <l>īḻattiṟ kēṟṟiṉa paṇṭam,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit13">
+        <l>kālattiṟku vaitta vitai</l>
+      </lg>
+      <p>
+        eṉa varum. atuvākukiḷavi ― oṉṟoṉṟākat tirintuvarum poruṭku varuvatu.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit14">
+        <l>kaṭicūttirattukkup poṉ,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit15">
+        <l>kummāyattiṟkuppayaṟu.</l>
+      </lg>
+      <p>
+        ataṟkiyāppuṭaimaiyāvatu — urupēṟkum poruṭku valiyātaluṭaimai.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit16">
+        <l>yākkaiyai yāppuṭaittāp peṟṟavar tāmpeṟṟa,</l>
+        <l>yākkai</l>
+        <trailer>(nālaṭi. 28.)</trailer>
+      </lg>
+      <p>
+        eṉṟavaḻi vali eṉapporuḷāyiṟṟu. u-m.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit17">
+        <l>pōrkku vali kutirai;</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit18">
+        <l>niṉakku vali vāḷ</l>
+      </lg>
+      <p>
+        eṉavarum. ataṟporuṭṭākaliṉ eṉpatu — oru poruṭkāka veṉpatu paṭavarutal. u-m.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit19">
+       <l>kūḻiṟkuk kuṟṟēval ceyyum,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit20">
+        <l>kūlikkolikkum.</l>
+      </lg>
+      <p>
+        naṭpu -
+      </p>
+      <lg xml:id="TolC076-Teyv-cit21">
+        <l>avaṟkut tuṇai,</l>
+      </lg>
+      <lg xml:id="TolC076-Teyv-cit22">
+        <l>avaṟku naṭpu</l>
+      </lg>
+      <p>
+eṉavarum. pakai -
+      </p>
+      <lg xml:id="TolC076-Teyv-cit23">
+        <l>avaṟkup pakai.</l>
+      </lg>
+      <p>
+kātal -
+      </p>
+      <lg xml:id="TolC076-Teyv-cit24">
+        <l>makaṟkuk kātalaṉ.</l>
+      </lg>
+      <p>
+ciṟappeṉpatu — iṉṟiyamaiyāmai paṟṟivarum.
+      </p>
+      <lg xml:id="TolC076-Teyv-cit25">
+        <l>yāmumakkuc ciṟantaṉa māta laṟintaṉi rāyiṉ</l>
+      </lg>
+      <p>
+eṉavum,
+      </p>
+      <lg xml:id="TolC076-Teyv-cit26">
+        <l>“nilattiṟ kaṇiyeṉpa nelluṅ karumpum”</l>
+        <trailer>(nāṉmaṇi. 9.)</trailer>
+      </lg>
+      <p>
+eṉavum varum. ummaiyāṟ koḷḷappaṭuvaṉa ― ivvūrk kavvūrk kātam, nāḷaikku varum, ivarkkuttakum itu, ivarkku naṉmai payakkum, avaṟkup piṟanta makaṉ. piṟavum innikaraṉa vellām koḷka.	[14]
+      </p>
+    </body>
+  </text>
+<text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/70/mode/1up">70</ref>–<ref target="https://archive.org/details/TVG27Tolkappiyam/page/72/mode/1up">72</ref>.</p>
+      <p>
+eṉ - eṉiṉ, niṟutta muṟaiyāṉē nāṉkām vēṟṟumai uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+        (i - ḷ.) nāṉkāmeṇṇu muṟaimaik kaṇṇatākiya kuvveṉṉum peyaraiyuṭaiya vēṟṟumaic col yātoru poruḷiṉai<add place="above">yum</add> ēṟpatāka uṇarttiniṟkum; iṉṉum, atu tāṉ varum poruṭpākupāṭṭiṉaic colliṉ oṉṟaṟkoṉṟu payaṉpaṭutaleṉṉum poruṇmai, oṉṟaṟkoṉṟu poruḷ mēṟkoṭuppatāka uṭampaṭutaleṉṉum poruṇmai, oṉṟaṟ koruporuḷurimaiyuḷvaḻik kūṟiṭappaṭutaleṉṉum poruṇmai, ammutaṟ poruṭṭākalāṉa eṉṉum poruṇmai, oṉṟaṟkoṉṟu poruttamuṭaittātal eṉṉum poruṇmai, oruporuḷiṉai mēṟpeṟutal kāraṇamāka orutoḻil nikaḻtaleṉṉum poruṇmai, oṉṟaṟkoṉṟu naṭpātalum, pakaiyātalum eṉṉum poruṇmai, oṉṟaṟkoṉṟu kātaluṭaittātal eṉṉum poruṇmai, oṉṟaṟkoṉṟu ciṟattal eṉṉum poruṇmai eṉṟu collappaṭṭa apporuṇmēl varum coṟkaḷum, nāṉkām urupiṉ kūṟṟaṉa eṉṟu kūṟuvar pulavar, (e-ṟu.)
+      </p>
+      <p>
+        epporuḷāyiṉum eṉṟatu, mūṉṟiṭattup poruḷkaḷatu paṉmai nōkki. coṟkaḷ poruḷkaḷai uṇarttutal urimai nōkkic col taṉmēl viṉaippaṭa epporuḷāyiṉum koḷḷumeṉṟu kūṟiṉāreṉiṉum kōṭalaiyuṇarttum eṉṟavāṟākak koḷka.
+      </p>
+      <p>
+(e-ṭu.) 'ataṟku viṉaiyuṭaimai' - cāttaṟkuc cōṟu koṭuttāṉ, karumpiṟku vēli, mayirkku eṇṇey eṉpaṉa.
+'ataṟ kuṭampaṭutal' - cāttaṟku makaḷuṭampaṭṭār cāṉṟōr eṉpatu.
+'ataṟkup paṭuporuḷ' - cāttaṟkup paṭuporuḷ koṟṟaṉ eṉpatu.
+'atuvāku kiḷavi' - kaṭicūttirattukkup poṉ eṉpatu.
+'ataṟku yāppuṭaimai' -kaikku yāppuṭaiyatu kaṭakam. ataṟ poruṭṭātal kūḻiṟkuk kuṟṟēval ceyyum eṉpatu.
+'naṭpu' - avaṟku naṭpu uṭaiyaṉ, avaṟkut tamaṉ eṉpaṉa.
+'pakai' - makkaṭkup pakai pāmpu, avaṟkup pakai māṟṟāṉ eṉpaṉa.
+'kātal' - naṭṭārkkuk kātalaṉ, tāykkuk kātalaṉ eṉpaṉa.
+'ciṟappu' - vaṭukararacarkkuc ciṟantōr cōḻiya aracar, kaṟpārkkuc ciṟantatu cevi eṉpaṉa.
+ataṟku viṉaiyuṭaimai mutalākak kūṟappaṭṭaṉa ellām muṉ kūṟiya koṭaipporuḷiṉ pākupāṭu alla. piṟa poruḷeṉa aṟika. avaṟṟuḷ, ataṟkuṭampaṭutal, ataṟkup paṭuporuḷ eṉṉum iraṇṭum koṭainīrmaiyum ciṟituṭaiya.
+ummaiyāṉ piṟavum ataṉpāluḷa. paṇṇiṟkut takkatu pāṭṭu, pūviṟkut takkatu vaṇṭu eṉpaṉapōla varum; piṟavum aṉṉa.
+ummai iṟantatutaḻīiya eccavummai yākalāṉ innikaraṉa kōṭaṟku iṭampaṭāvā leṉiṉ, iṟantatu taḻīiya ataṉaiyē iraṭṭuṟa moḻital eṉṉum ñāpakattiṉāṉ etiratu taḻīiyatūu mākkik kūṟappaṭṭatu eṉak koḷka.	(14, 15)
+      </p>
     </body>
   </text>
 <standOff corresp="#TolC076" type="wordsplit">
