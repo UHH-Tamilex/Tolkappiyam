@@ -43,7 +43,7 @@
     <body>
       <head>Iḷampūraṇar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/209/mode/1up">209</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -52,7 +52,88 @@
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n250/mode/1up">247</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n252/mode/1up">249</ref>.</p>
 <p>i - ḷ. vaṇṇamutalākap paṟṟuviṭutalīṟākac collappaṭṭaṉavum avaipōlvaṉa piṟavum aintāmvēṟṟumait tiṟattaṉavām. e-ṟu.</p>
 <p>vaṇṇam veṇmai karumai mutalāyiṉa. vaṭivu vaṭṭañ caturamutalāyiṉa. aḷavu neṭumai kuṟumai mutalāyiṉa. cuvai kaippup puḷippu mutalāyiṉa. nāṟṟam naṟunāṟṟantīnāṟṟamutalāyiṉa.</p>
-<p>u - m. kākkaiyiṟkaritu kaḷampaḻam; itaṉiṉvaṭṭamitu; itaṉiṉeṭititu; itaṉiṟṟīvititu; itaṉiṟṟaṇṇititu; itaṉiṉveytitu; itaṉiṉaṉṟitu; itaṉiṟṟītitu; itaṉiṟciṟititu; itaṉiṟperititu; itaṉiṉvalititu; itaṉiṉmelititu; itaṉiṟkaṭititu; itaṉiṉmutititu; itaṉiṉiḷaititu; itaṉiṟciṟantatitu; itaṉiṉiḻintatitu; itaṉiṟputititu; itaṉiṟpaḻaititu; ivaṉiṉilaṉivaṉ; ivaṉiṉuṭaiyaṉivaṉ; itaṉiṉāṟumitu; itaṉiṟpalavivai; itaṉiṟcilavivai. e-m. accam - kaḷḷariṉañcum. e-m. ākkam - vāṇikattiṉāyiṉāṉ. e-m. tīrtal-ūriṟṟīrntāṉ. e-m. paṟṟuviṭutal - kāmattiṟpaṟṟuviṭṭāṉ. e-m. varum.</p>
+<p>u - m. </p>
+  <lg xml:id="TolC078-Cēṉ-cit1">
+<l>kākkaiyiṟkaritu kaḷampaḻam;</l>
+  </lg>
+  <lg xml:id="TolC078-Cēṉ-cit2">
+  itaṉiṉvaṭṭamitu; 
+  </lg>
+  <lg xml:id="TolC078-Cēṉ-cit3">
+    itaṉiṉeṭititu; 
+  </lg>
+    <lg xml:id="TolC078-Cēṉ-cit4">
+    itaṉiṟṟīvititu; 
+</lg>
+<lg xml:id="TolC078-Cēṉ-cit5">
+    itaṉiṟṟaṇṇititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit6">
+    itaṉiṉveytitu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit7">
+    itaṉiṉaṉṟitu;
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit8"> 
+    itaṉiṟṟītitu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit9">
+    itaṉiṟciṟititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit10">
+    itaṉiṟperititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit11">
+    itaṉiṉvalititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit12">
+    itaṉiṉmelititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit13">
+    itaṉiṟkaṭititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit14">
+    itaṉiṉmutititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit15">
+    itaṉiṉiḷaititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit16">
+    itaṉiṟciṟantatitu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit17">
+    itaṉiṉiḻintatitu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit18">
+    itaṉiṟputititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit19">
+    itaṉiṟpaḻaititu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit20">
+    ivaṉiṉilaṉivaṉ; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit21">
+    ivaṉiṉuṭaiyaṉivaṉ; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit22">
+    itaṉiṉāṟumitu; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit23">
+    itaṉiṟpalavivai; 
+    </lg>
+    <lg xml:id="TolC078-Cēṉ-cit24">
+    itaṉiṟcilavivai. 
+    </lg>
+  <p>e-m.</p> 
+    <p>accam - <lg xml:id="TolC078-Cēṉ-cit25">kaḷḷariṉañcum.</lg></p> 
+    <p>e-m.</p> 
+    <p>ākkam - <lg xml:id="TolC078-Cēṉ-cit26">vāṇikattiṉāyiṉāṉ.</lg></p> 
+    <p>e-m.</p>
+    <lg xml:id="TolC078-Cēṉ-cit27">tīrtal-ūriṟṟīrntāṉ.</lg> 
+    <p>e-m.</p> 
+    <lg xml:id="TolC078-Cēṉ-cit28">paṟṟuviṭutal - kāmattiṟpaṟṟuviṭṭāṉ.</lg> 
+    <p>e-m. varum.</p>
 <p>accamutaliya nāṉkumoḻittu oḻinta irupattunāṉkum ottapaṇpuvēṟupāṭupaṟṟip porūupporuḷ virittavāṟu.</p>
 <p>aṉṉapiṟavumeṉṟataṉāl, avaṉiṉaḷiyaṉivaṉ; ataṉiṟ cēyttitu; ikaḻcciyiṟkeṭṭāṉ, makiḻcciyiṉ maintuṟṟāṉ eṉpaṉapōlvaṉa koḷka.</p>
 <p>palavāypāṭṭoṭu vaḻakkiṉkaṭpayiṉṟu varutaluṭaimaiyāṟ porūupporuḷ itaṟkuc ciṟappuṭaittākaliṉ, perumpāṉmaiyum ataṉaiyē virittār.	(17)</p>
@@ -62,7 +143,7 @@
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/374/mode/1up">374</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -72,4 +153,261 @@
 
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC078" type="wordsplit">
+<interp type="alignment" select="0">11M2G6M2G7MG178MG28M,235MG</interp>
+<entry>
+<form>vaṇṇam</form>
+<def>colour</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭivu-ē</form>
+<def>shape</def>
+<form type="simple">vaṭivu</form>
+<form type="sandhi">vaṭiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aḷavu-ē</form>
+<def>measure</def>
+<form type="simple">aḷavu</form>
+<form type="sandhi"><c type="glide">y</c>aḷav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cuvai<c type="glide">y</c>-ē</form>
+<def>taste</def>
+<form type="simple">cuvai</form>
+<form type="sandhi">cuvai<c type="glide">y</c></form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>taṇmai</form>
+<def>coolness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vemmai</form>
+<def>hotness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>accam</form>
+<def>fear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉmai</form>
+<def>goodness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīmai</form>
+<def>harm</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟumai</form>
+<def>littleness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perumai</form>
+<def>greatness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṉmai</form>
+<def>strength</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>meṉmai</form>
+<def>softness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭumai</form>
+<def>harshness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutumai</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>iḷamai</form>
+<def>youth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟattal</form>
+<def>being-superior</def>
+</entry>
+<entry>
+<form>iḻittal</form>
+</entry>
+<entry>
+<form>putumai</form>
+</entry>
+<entry>
+<form>paḻamai</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>ākkam</form>
+<def>gain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟā</form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iṉmai</form>
+<def>non existence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṭaimai</form>
+<def>possession</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṟṟam</form>
+<def>fragrance</def>
+<form type="sandhi">nāṟṟan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīrtal</form>
+<def>ending</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṉmai</form>
+</entry>
+<entry>
+<form>ciṉmai</form>
+<def>fewness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟṟu</form>
+<def>support</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭutal</form>
+<def>letting-go</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>piṟa-um</form>
+<def>other.they</def>
+<form type="simple">piṟa</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ataṉ</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāla</form>
+<def>part-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
