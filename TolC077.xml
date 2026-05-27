@@ -163,4 +163,36 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
+</standOff><standOff corresp="#TolC077-Cēṉ-cit1" type="wordsplit">
+<interp type="alignment" select="0">16M,16M</interp>
+<entry>
+<form>karuvūriṉ</form>
+<def>Karuvūr place</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻakku</form>
+<def>east</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC077-Cēṉ-cit2" type="wordsplit">
+<interp type="alignment" select="0">10M,10M</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūṅku</form>
+<def>beyond</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
