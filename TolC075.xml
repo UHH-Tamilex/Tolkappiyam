@@ -122,11 +122,11 @@ eṉavarum.	[13]
 </entry>
 <entry>
 <form>ākuvat<c type="elided">u</c>-ē</form>
-<def>become-it</def>
+<def>becoming</def>
 <form type="simple">ākuvatu</form>
 <form type="sandhi">ākuvat</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -160,7 +160,7 @@ eṉavarum.	[13]
 </entry>
 <entry>
 <form>kiḷavi</form>
-<def>word</def>
+<def>term</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -174,7 +174,7 @@ eṉavarum.	[13]
 </entry>
 <entry>
 <form>poruḷ</form>
-<def>wealth</def>
+<def>meaning</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -191,7 +191,7 @@ eṉavarum.	[13]
 </entry>
 <entry>
 <form>koḷḷum</form>
-<def>taking</def>
+<def>takes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
@@ -202,7 +202,7 @@ eṉavarum.	[13]
 <form type="simple">atu</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
-  <gram type="role">adjective</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -276,6 +276,97 @@ eṉavarum.	[13]
 <def>students</def>
 <gramGrp>
   <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟivu</form>
+<def>knowledge</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttāṉ</form>
+<def>he gave</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">8MG14M,22MG</interp>
+<entry>
+<form>antaṇark<c type="elided">u</c></form>
+<def>brahmin</def>
+<form type="sandhi">antaṇark</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āvai<c type="geminated">k</c></form>
+<def>cow</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttāṉ</form>
+<def>he gave</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">27M,26MG</interp>
+<entry>
+<form>māṇākkaṟku</form>
+<def>student</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nūl</form>
+<def>text</def>
+<form type="sandhi">nūṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>meaning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uraittāṉ</form>
+<def>he explained</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC075-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">9MG14M,23MG</interp>
+<entry>
+<form>māṇākkaṟk<c type="elided">u</c></form>
+<def>student</def>
+<form type="sandhi">māṇākkaṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
