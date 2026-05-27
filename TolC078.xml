@@ -425,4 +425,515 @@
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit1" type="wordsplit">
+<interp type="alignment" select="0">26M,25MG</interp>
+<entry>
+<form>kākkaiyiṉ</form>
+<def>crow</def>
+<form type="sandhi">kākkaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karitu</form>
+<def>black-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷampaḻam</form>
+<def>kaḷam fruit</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit2" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭṭam</form>
+<def>circle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit3" type="wordsplit">
+<interp type="alignment" select="0">6ML4MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭit<c type="elided">u</c></form>
+<def>long-it</def>
+<form type="sandhi">ṉeṭit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit4" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīvit<c type="elided">u</c></form>
+<form type="sandhi">ṟīvit</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit5" type="wordsplit">
+<interp type="alignment" select="0">12MG4M,16MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇṇit<c type="elided">u</c></form>
+<form type="sandhi">ṟaṇṇit</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit9" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟit<c type="elided">u</c></form>
+<def>little-it</def>
+<form type="sandhi">ciṟit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit10" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perit<c type="elided">u</c></form>
+<def>big-it</def>
+<form type="sandhi">perit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit11" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valit<c type="elided">u</c></form>
+<def>harsh-it</def>
+<form type="sandhi">valit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit12" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>melit<c type="elided">u</c></form>
+<def>soft</def>
+<form type="sandhi">melit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit13" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭit<c type="elided">u</c></form>
+<def>fierce-it</def>
+<form type="sandhi">kaṭit</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit14" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutit<c type="elided">u</c></form>
+<form type="sandhi">mutit</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit15" type="wordsplit">
+<interp type="alignment" select="0">6ML5MG4M,16MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niḷait<c type="elided">u</c></form>
+<form type="sandhi">ṉiḷait</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit16" type="wordsplit">
+<interp type="alignment" select="0">14MG4M,18MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟantat<c type="elided">u</c></form>
+<def>been-superior-it</def>
+<form type="sandhi">ciṟantat</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit17" type="wordsplit">
+<interp type="alignment" select="0">6ML7MG4M,18MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niḻintat<c type="elided">u</c></form>
+<form type="sandhi">ṉiḻintat</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit18" type="wordsplit">
+<interp type="alignment" select="0">11MG4M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putit<c type="elided">u</c></form>
+<def>new-it</def>
+<form type="sandhi">putit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit19" type="wordsplit">
+<interp type="alignment" select="0">12MG4M,16MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻait<c type="elided">u</c></form>
+<form type="sandhi">paḻait</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit20" type="wordsplit">
+<interp type="alignment" select="0">6ML9M,15MG</interp>
+<entry>
+<form>ivaṉiṉ</form>
+<def>this-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilaṉ</form>
+<def>ground</def>
+<form type="sandhi">ṉilaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaṉ</form>
+<def>this one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit21" type="wordsplit">
+<interp type="alignment" select="0">18M,17MG</interp>
+<entry>
+<form>ivaṉiṉ</form>
+<def>this-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭaiyaṉ</form>
+<def>possess-he</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaṉ</form>
+<def>this one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit22" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṟum</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit23" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ivai</form>
+<def>these</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit24" type="wordsplit">
+<interp type="alignment" select="0">16M,15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<form type="sandhi">itaṉiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cila</form>
+<def>few</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ivai</form>
+<def>these</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Cēṉ-cit25" type="wordsplit">
+<interp type="alignment" select="0">11M2G3M,15MG</interp>
+<entry>
+<form>kaḷ</form>
+<def>toddy</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">ḷ</c>ari</form>
+<def>streak</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ṉañc<c type="elided">u</c>-um</form>
+<def>poison</def>
+<form type="simple">ṉañcu</form>
+<form type="sandhi">ṉañc</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
 </standOff></TEI>
