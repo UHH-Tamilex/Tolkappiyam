@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 397. </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>eccaviyal.</head>
+      <lg xml:id="TolC397">
+        <l>iyaṟcoṟ ṟiricoṟ ṟicaiccol vaṭacoleṉ</l>
+        <l>ṟaṉaittē ceyyu ḷiṭṭac collē.</l>
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/209/mode/1up">209</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/210/mode/1up">210</ref>.</p>
+<p>
+    eṉpatu cūttiram.
+</p>
+  <p>
+    ivvōttu eṉṉa peyarttō veṉiṉ, ellā vōttiṉuḷḷum eñciya poruḷkaḷai yuṇarttiṉamaiyiṉ eccaviyal eṉṉum peyarttu.
+  </p>
+  <p>
+iṉi, it talaiccūttiram eṉnutaliṟṟō veṉiṉ, ittuṇaippaṭṭa colliṉāṟ ceyyuḷ ceyyappeṟum eṉpatu uṇarttutal nutaliṟṟu.
+  </p>
+  <p>
+urai: iyaṟcollum tiricollum ticaiccollum vaṭacollum eṉa nāṉkum ceyyuḷ ceytaṟkuriya collātal uṭaiya eṉṟavāṟu.
+  </p>
+<p>
+  iyaṟcol eṉpatu tamiḻ vaḻaṅku nāṭṭu vikāramiṉṟit tamiḻiyaṟkai yilakkaṇappāṭu cevvaṉuṭaiya col; avai muṉṉar uṇarttupa.
+</p>
+<p>
+tiricol eṉpatu ceyyuḷiṉpa nōkki avviyaṟ coṟkaḷai avvāypāṭu tirittu vēṟu vāypāṭṭa vākkuñ ceyyuḷuṭaiya col.
+</p>
+<p>eṉṉai,</p>
+<lg xml:id="TolC397-Ilam-cit1">
+  <l>`cēric colliṉ muṭṭuṟa lañcic</l>
+ <l>ceyyuṭkup pulavar ceytukoṇ ṭaṉṟē’</l>
+</lg>
+<p>
+eṉpatu<note place="foot">'parimāṇac cūttiram' piratipētam.</note> puṟac cūttiram.
+</p>
+<p>avaitām vaḻakkiṉuḷ iṉmai kāraṇam amaital eṉpavākaliṉ, avaiyum muṉṉar uṇarttupa.
+</p>
+<p>
+ticaiccol eṉpatu centamiḻ nāṭṭai aṭaiyum puṭaiyuṅ kiṭanta ticaināṭṭār vaḻaṅkuñ col; avaiyum muṉṉar uṇarttupa.
+</p>
+<p>
+vaṭacol eṉpatu āriyac coṟpōluñ col; avai muṉṉar viritturaippa.	
+</p>
+<p>
+peyar, viṉai, iṭai, uri eṉappaṭṭa nāṉku collumē iyaṟcol, tiricol, ticaiccol, vaṭacol eṉappaṭṭaṉa; piṟavillai.
+</p>
+<p>
+tiricol ceyyuṭkē uriya. oḻinta mūṉṟum vaḻakkiṟkuriyavākic ceyyuṭkum pukum eṉṟavāṟu	(1)
+</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Cēṉāvaraiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n250/mode/1up">247</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n252/mode/1up">249</ref>.</p>
+
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/374/mode/1up">374</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
+
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>.</p>
+
+    </body>
+  </text>
+<standOff corresp="#TolC397" type="wordsplit">
+<interp type="alignment" select="0">33MG6M2G15MG3M,60MG</interp>
+<entry>
+<form>iyal</form>
+<def>nature</def>
+<form type="sandhi">iyaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiri</form>
+<def>be twisted</def>
+<form type="sandhi">ṟiri</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ticai<c type="geminated">c</c></form>
+<def>direction</def>
+<form type="sandhi">ṟicai<c type="geminated">c</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭa</form>
+<def>north</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉaitt<c type="elided">u</c>-ē</form>
+<def>such-it</def>
+<form type="simple">aṉaittu</form>
+<form type="sandhi">aṉaitt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ceyyuḷ</form>
+<def>poem</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭṭa<c type="geminated">c</c></form>
+<def>placed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col-<c type="geminated">l</c>ē</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

@@ -130,4 +130,163 @@
  </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC403" type="wordsplit">
+<interp type="alignment" select="0">5M2G40MG2ML19MG117M,26MG46MG44MG68MG</interp>
+<entry>
+<form>a<c type="glide">n</c>nāṉku</form>
+<def>that four</def>
+<form type="sandhi">a<c type="glide">n</c>nāṟ</form>
+</entry>
+<entry>
+<form>collum</form>
+<def>speaking</def>
+<form type="sandhi">collun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭukkum</form>
+<def>weaving</def>
+<form type="sandhi">toṭukkuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālai</form>
+<def>morning</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valikkum</form>
+<def>compelling</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valittal-um</form>
+<def>encouraging</def>
+<form type="simple">valittal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>melikkum</form>
+<def>softening</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>melittal-um</form>
+<form type="simple">melittal</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>virikkum</form>
+<def>expounds</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>virittalum</form>
+<form type="sandhi">virittalun</form>
+</entry>
+<entry>
+<form>tokukkum</form>
+<def>gathering</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">t</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokuttalu</form>
+</entry>
+<entry>
+<form>nīṭṭum</form>
+<def>extending</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīṭṭalum</form>
+<form type="sandhi">nīṭṭaluṅ</form>
+</entry>
+<entry>
+<form>kuṟukkum</form>
+</entry>
+<entry>
+<form>vaḻi<c type="geminated">k</c></form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟukkalum</form>
+<form type="sandhi">kuṟukkalu,</form>
+</entry>
+<entry>
+<form>nāṭṭal</form>
+</entry>
+<entry>
+<form>valiya</form>
+<def>strong-they</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veṉmaṉār</form>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

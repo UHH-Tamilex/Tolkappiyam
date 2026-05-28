@@ -98,7 +98,7 @@
     </body>
   </text>
 <standOff corresp="#TolC074" type="wordsplit">
-<interp type="alignment" select="0">86MG30MG30MG33MG37M,219MG</interp>
+<interp type="alignment" select="0">86MG30MG30MG11M2G5M2G17MG17MG20M,224MG</interp>
 <entry>
 <form>ataṉiṉ</form>
 <def>that</def>
@@ -114,10 +114,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ataṟṟaku</form>
+<form>ataṉ</form>
 <def>to/that</def>
+<form type="sandhi">ataṟ</form>
 <gramGrp>
   <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taku</form>
+<def>suitable</def>
+<form type="sandhi">ṟaku</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -135,14 +144,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>viṉai</form>
+<form>viṉai<c type="geminated">p</c></form>
 <def>work</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">p</c>paṭutal</form>
+<form>paṭutal</form>
 <def>happening</def>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -217,14 +226,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>viṉai</form>
+<form>viṉai<c type="geminated">k</c></form>
 <def>work</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kiḷavi</form>
+<form>kiḷavi</form>
 <def>word</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -254,14 +263,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>viṉai</form>
+<form>viṉai<c type="geminated">k</c></form>
 <def>work</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kiḷavi</form>
+<form>kiḷavi</form>
 <def>word</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -284,15 +293,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>oppal</form>
+<form><c type="glide">v</c>opp<c type="elided">u</c>-al</form>
 <def>comparison</def>
+<form type="sandhi"><c type="glide">v</c>oppal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>oppurai</form>
+<form>opp<c type="elided">u</c>-urai</form>
 <def>comparative aspect</def>
+<form type="sandhi">oppurai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -317,8 +328,6 @@
 <form><c type="glide">v</c>īṅk<c type="elided">u</c></form>
 <def>this way</def>
 <form type="sandhi"><c type="glide">v</c>īṅk</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>eṉa</form>
@@ -342,11 +351,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>piṟa<c type="glide">v</c>um</form>
+<form>piṟa-<c type="glide">v</c>um</form>
 <def>other-they</def>
+<form type="simple">piṟa</form>
 <gramGrp>
   <gram type="role">plural</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>ataṉ</form>

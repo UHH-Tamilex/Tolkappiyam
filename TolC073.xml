@@ -242,21 +242,23 @@ iḵtu, āṉ vantatu eṉa varum. <num xml:lang="en">(12)</num>
     </body>
   </text>
 <standOff corresp="#TolC073" type="wordsplit">
-<interp type="alignment" select="0">4MG72M,12MG63MG</interp>
+<interp type="alignment" select="0">4MG6M2G60MG3MG3M,14MG65MG</interp>
 <entry>
 <form>mūṉṟ<c type="elided">u</c></form>
 <def>three</def>
 <form type="sandhi">mūṉṟ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
 </entry>
 <entry>
-<form>ākuvatē</form>
+<form>ākuvat<c type="elided">u</c>-ē</form>
 <def>become-it</def>
+<form type="simple">ākuvatu</form>
+<form type="sandhi">ākuvat</form>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>oṭu</form>
@@ -276,27 +278,33 @@ iḵtu, āṉ vantatu eṉa varum. <num xml:lang="en">(12)</num>
 <form>peyariya</form>
 <def>named</def>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
-  <gram type="role">perfective aspect</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vēṟṟumai</form>
+<form>vēṟṟumai<c type="geminated">k</c></form>
 <def>case ending</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kiḷavi</form>
+<form>kiḷavi</form>
 <def>word</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>viṉaimutal</form>
-<def>agent</def>
+<form>viṉai</form>
+<def>action/verb</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>primary cause</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -311,26 +319,42 @@ iḵtu, āṉ vantatu eṉa varum. <num xml:lang="en">(12)</num>
 <entry>
 <form><c type="glide">y</c>aṉai</form>
 <def>such</def>
+</entry>
+<entry>
+<form>mutaṟṟ<c type="elided">u</c></form>
+<def>cause</def>
+<form type="sandhi">mutaṟṟ</form>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>mutal</form>
-<def>base</def>
-<form type="sandhi">mutaṟ</form>
+<form>atu-<c type="glide">v</c>ē</form>
+<def>that</def>
+<form type="simple">atu</form>
 <gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC073-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">14M,G12MG</interp>
+<entry>
+<form>vēlāl</form>
+<def>spear</def>
+<gramGrp>
+  <gram type="role">instrumental</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">ṟ</c>atu-ē</form>
-<def>that</def>
-<form type="simple">atu</form>
-<form type="sandhi"><c type="geminated">ṟ</c>atu</form>
+<form>eṟintāṉ</form>
+<def>he threw</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff></TEI>
