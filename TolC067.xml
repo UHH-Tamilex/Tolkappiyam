@@ -87,7 +87,7 @@
     </body>
   </text>
 <standOff corresp="#TolC067" type="wordsplit">
-<interp type="alignment" select="0">26MG22M,48MG</interp>
+<interp type="alignment" select="0">17MG8M2G5MG18M,51MG</interp>
 <entry>
 <form>peyariṉ</form>
 <def>in the nominative case</def>
@@ -104,7 +104,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tokai-um</form>
+<form>tokai-<c type="glide">y</c>um</form>
 <def>collection</def>
 <form type="simple">tokai</form>
 <gramGrp>
@@ -120,17 +120,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uḷa<c type="elided">u</c>-ē</form>
+<form>uḷa<c type="elided">u</c>-<c type="glide">v</c>ē</form>
 <def>they are</def>
 <form type="simple">uḷau</form>
-<form type="sandhi">uḷav</form>
+<form type="sandhi">uḷa</form>
 <gramGrp>
   <gram type="role">plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>a<c type="elided">u</c>-um</form>
+<form><c type="glide">y</c>a<c type="elided">u</c>-<c type="glide">v</c>um</form>
 <def>that also</def>
 <form type="simple">au</form>
 <form type="sandhi"><c type="glide">y</c>av</form>
@@ -148,14 +148,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>a</form>
+<form><c type="glide">v</c>a<c type="geminated">p</c></form>
 <def>that</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">p</c>pāl</form>
+<form>pāl</form>
 <def>gender</def>
 <gramGrp>
   <gram type="role">noun</gram>
