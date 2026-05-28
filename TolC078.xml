@@ -506,7 +506,7 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
     </body>
   </text>
 <standOff corresp="#TolC078" type="wordsplit">
-<interp type="alignment" select="0">11M2G6M2G7MG178MG28M,235MG</interp>
+<interp type="alignment" select="0">11M2G6M2G6MG179MG8MG20M,236MG</interp>
 <entry>
 <form>vaṇṇam</form>
 <def>colour</def>
@@ -515,7 +515,7 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 </gramGrp>
 </entry>
 <entry>
-<form>vaṭivu-ē</form>
+<form>vaṭiv<c type="elided">u</c>-ē</form>
 <def>shape</def>
 <form type="simple">vaṭivu</form>
 <form type="sandhi">vaṭiv</form>
@@ -525,7 +525,7 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aḷavu-ē</form>
+<form><c type="glide">y</c>aḷav<c type="elided">u</c>-ē</form>
 <def>measure</def>
 <form type="simple">aḷavu</form>
 <form type="sandhi"><c type="glide">y</c>aḷav</form>
@@ -535,12 +535,11 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>cuvai<c type="glide">y</c>-ē</form>
+<form>cuvai-<c type="glide">y</c>ē</form>
 <def>taste</def>
 <form type="simple">cuvai</form>
-<form type="sandhi">cuvai<c type="glide">y</c></form>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -716,8 +715,6 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 <entry>
 <form>paṉmai</form>
 <def>being many</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>ciṉmai</form>
@@ -741,7 +738,7 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 </gramGrp>
 </entry>
 <entry>
-<form>eṉṟu</form>
+<form>eṉṟ<c type="elided">u</c></form>
 <def>said</def>
 <form type="sandhi">eṉṟ</form>
 <gramGrp>
@@ -753,7 +750,7 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 <def>like</def>
 </entry>
 <entry>
-<form>piṟa-um</form>
+<form>piṟa-<c type="glide">v</c>um</form>
 <def>other.they</def>
 <form type="simple">piṟa</form>
 <gramGrp>
@@ -1346,6 +1343,65 @@ vaṇṇam, veṇmai karumai mutaliyaṉa. vaṭivu, vaṭṭañ catura mutaliya
 <form>itu</form>
 <def>this</def>
 <gramGrp>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">27M,G25MG</interp>
+<entry>
+<form>kākkaiyiṉ</form>
+<def>crow</def>
+<form type="sandhi">kākkaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karitu</form>
+<def>black-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷam</form>
+<def>jamun</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paḻam</form>
+<def>fruit</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC078-Ilam-cit3" type="wordsplit">
+<interp type="alignment" select="0">17M,G15MG</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭṭam</form>
+<def>circle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
