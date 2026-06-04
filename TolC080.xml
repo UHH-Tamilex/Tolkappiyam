@@ -868,4 +868,26 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+</standOff><standOff corresp="#TolC080-Cena-cit8" type="wordsplit">
+<interp type="alignment" select="0">12M,11MG</interp>
+<entry>
+<form>maṟi</form>
+<def>goat kid</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>tāy</form>
+<def>mother</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
