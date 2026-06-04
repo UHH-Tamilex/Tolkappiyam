@@ -123,4 +123,83 @@
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC405" type="wordsplit">
+<interp type="alignment" select="0">13ML7MG16MG3MR46M,7MG80MG</interp>
+<entry>
+<form>avaṟṟuḷ</form>
+<def>among</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niral</form>
+<def>order</def>
+<form type="sandhi">niraṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟai</form>
+<def>fullness</def>
+<form type="sandhi">ṉiṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṉum</form>
+</entry>
+<entry>
+<form>peyar</form>
+<def>name</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>-iṉum</form>
+<form type="sandhi">iṉun</form>
+</entry>
+<entry>
+<form>niṉaiyat</form>
+</entry>
+<entry>
+<form>tōṉṟic</form>
+</entry>
+<entry>
+<form>colvēṟu</form>
+</entry>
+<entry>
+<form>nilaiip</form>
+</entry>
+<entry>
+<form>poruḷvēṟu</form>
+</entry>
+<entry>
+<form>nilaiyal</form>
+<def>remaining</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

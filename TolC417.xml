@@ -26,7 +26,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <lg xml:id="TolC398">
+      <lg xml:id="TolC417">
   <l>irupeyar palapeya raḷaviṉ peyarē</l>
 	<l>yeṇṇiyaṟ peyarē niṟaippeyark kiḷavi</l>
 	<l>yeṇṇiṉ peyarō ṭavvaṟu kiḷaviyuṅ</l>
@@ -74,15 +74,118 @@
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC417" type="wordsplit">
+<interp type="alignment" select="0">21M2G21MG30MG47M,58MG5MG12MG27M4G13MG</interp>
+<entry>
+<form>iru</form>
+<def>big/dark</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷavu-iṉ</form>
+<form type="sandhi">aḷaviṉ</form>
+</entry>
+<entry>
+<form>peyar<c type="geminated">ē</c>ē</form>
+<form type="sandhi">peyar<c type="geminated">ē</c>y</form>
+</entry>
+<entry>
+<form>eṇṇiyaṟ</form>
+</entry>
+<entry>
+<form>peyar<c type="geminated"/>ē</form>
+</entry>
+<entry>
+<form>niṟaippeyar</form>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<form type="sandhi">kkiḷavi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṇṇiṉ</form>
+<def>Eḷ corn</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar-ō</form>
+<def>stir</def>
+<form type="simple">peyar</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>avvaṟu</form>
+</entry>
+<entry>
+<form>kiḷaviyum</form>
+<form type="sandhi">kiḷaviyuṅ</form>
+</entry>
+<entry>
+<form>kaṇṇiya</form>
+<def>purposed</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ummait</form>
+</entry>
+<entry>
+<form>tokai-ē</form>
+<def>collection</def>
+<form type="simple">tokai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

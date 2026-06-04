@@ -26,7 +26,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <lg xml:id="TolC398">
+      <lg xml:id="TolC416">
   <l>vaṇṇattiṉ vaṭivi ṉaḷaviṟ cuvaiyiṉeṉ</l>
 	<l>ṟaṉṉa piṟavu mataṉkuṇa nutali</l>
 	<l>yiṉṉa tituveṉa varūu miyaṟkai</l>
@@ -75,15 +75,154 @@
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC416" type="wordsplit">
+<interp type="alignment" select="0">14MG2MG17MG19MR12MG11MG27M2G10M,6MG22MG32MG9MG17MG28MG</interp>
+<entry>
+<form>vaṇṇam</form>
+<def>colour</def>
+<form type="sandhi">vaṇṇat</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭivu</form>
+<def>shape</def>
+<form type="sandhi">vaṭiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ṉaḷaviṟ</form>
+<form type="sandhi">aḷaviṟ</form>
+</entry>
+<entry>
+<form>cuvai</form>
+<def>taste</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>piṟavum</form>
+</entry>
+<entry>
+<form>ataṉ</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṇam</form>
+<def>quality</def>
+<form type="sandhi">kuṇan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutali</form>
+<def>creating</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṉatu</form>
+<def>such-it</def>
+<form type="sandhi">iṉṉat</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varū-um</form>
+<form type="simple">varū</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iyaṟkai</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi<c type="glide">y</c>um</form>
+</entry>
+<entry>
+<form>paṇpu<c type="glide"/>iṉ</form>
+<form type="sandhi">paṇp<c type="glide"/>iṉ</form>
+</entry>
+<entry>
+<form>ṟokaiyē</form>
+</entry>
+</standOff></TEI>

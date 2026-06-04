@@ -77,22 +77,199 @@
     <body>
       <head>Cēṉāvaraiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
-   <p></p>
+   <p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC449" type="wordsplit">
+<interp type="alignment" select="0">83ML25ML26ML21MG6M,17MG28MG40MG11MG17MG46MG</interp>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai<c type="geminated">k</c></form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āakum</form>
+<form type="sandhi">āakun</form>
+</entry>
+<entry>
+<form>avum</form>
+<form type="sandhi">avuñ</form>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>twig</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai<c type="geminated">k</c></form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āakum</form>
+<form type="sandhi">āakun</form>
+</entry>
+<entry>
+<form>avum</form>
+<form type="sandhi">avun</form>
+</entry>
+<entry>
+<form>toṉṉeṟi</form>
+</entry>
+<entry>
+<form>moḻi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āakum</form>
+<form type="sandhi">āakun</form>
+</entry>
+<entry>
+<form>avum</form>
+</entry>
+<entry>
+<form>mey</form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<form type="sandhi">nnilai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayakku</form>
+<def>confusion</def>
+<form type="sandhi">mayakki</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āakum</form>
+<form type="sandhi">āakun</form>
+</entry>
+<entry>
+<form>avum</form>
+</entry>
+<entry>
+<form>mantira</form>
+<def>mantra</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+<form type="sandhi">pporuḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āakum</form>
+<form type="sandhi">āakun</form>
+</entry>
+<entry>
+<form>avum</form>
+</entry>
+<entry>
+<form>maṉṟi</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉaittum</form>
+<def>all</def>
+<form type="sandhi"><c type="glide">y</c>aṉaittuṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭappāṭu</form>
+<def>munificence</def>
+<form type="sandhi">kaṭappāṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ila<c type="geminated">v</c>ē</form>
+</entry>
+</standOff></TEI>

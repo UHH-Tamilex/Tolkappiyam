@@ -26,7 +26,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <lg xml:id="TolC398">
+      <lg xml:id="TolC418">
   <l>paṇpu tokavarūuṅ kiḷavi yāṉu</l>
 	<l>mummai tokka peyarvayi ṉāṉum</l>
 	<l>vēṟṟumai tokka peyarvayi ṉāṉu</l>
@@ -71,15 +71,167 @@
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC418" type="wordsplit">
+<interp type="alignment" select="0">9MG76MG21M,22MG84MG</interp>
+<entry>
+<form>paṇpu</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokai</form>
+<def>collection</def>
+<form type="sandhi">toka</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varūum</form>
+<def>coming</def>
+<form type="sandhi">varūuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉum</form>
+<def>either</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ummai</form>
+<def>next birth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokka</form>
+<def>gathered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉum</form>
+<def>either</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟṟumai</form>
+<def>case ending</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokka</form>
+<def>gathered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyar</form>
+<def>stir</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉum</form>
+<def>either</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>īṟṟu</form>
+<def>ending</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟu</form>
+<def>stood</def>
+<form type="sandhi">niṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyalum</form>
+<def>moving-forward-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>al</form>
+<def>night</def>
+<form type="sandhi">aṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi<c type="geminated">t</c></form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokai-ē</form>
+<def>collection</def>
+<form type="simple">tokai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>

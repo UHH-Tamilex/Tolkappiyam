@@ -110,4 +110,59 @@
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC406" type="wordsplit">
+<interp type="alignment" select="0">17MG52M,69MG</interp>
+<entry>
+<form>cuṇṇam</form>
+<def>powder</def>
+<form type="sandhi">cuṇṇan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉē</form>
+</entry>
+<entry>
+<form>paṭṭāṅk<c type="elided">u</c></form>
+<def>happened like</def>
+<form type="sandhi">paṭṭāṅk</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>amainta</form>
+<def>become quiet</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>īraṭi</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṇcīr</form>
+</entry>
+<entry>
+<form>oṭṭuvaḻi</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟintu</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṇittaṉar</form>
+</entry>
+<entry>
+<form>iyaṟṟal</form>
+<def>producing</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

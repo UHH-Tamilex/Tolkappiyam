@@ -26,7 +26,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <lg xml:id="TolC398">
+      <lg xml:id="TolC421">
         <l>uyartiṇai maruṅki ṉummait tokaiyē</l>
 	<l>palarcoṉ ṉaṭaitteṉa moḻimaṉār pulavar.</l>
       </lg>
@@ -50,22 +50,114 @@
     <body>
       <head>Cēṉāvaraiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
-   <p></p>
+   <p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC421" type="wordsplit">
+<interp type="alignment" select="0">15M2G30MG20M,67MG</interp>
+<entry>
+<form>uyar</form>
+<def>be high</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṇai</form>
+<def>family/gender</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṅku</form>
+<def>side</def>
+<form type="sandhi">maruṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated"/>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ummai<c type="geminated">t</c></form>
+<def>next birth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tokai<c type="glide">y</c>ē</form>
+</entry>
+<entry>
+<form>palar</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ṉaṭai</form>
+</entry>
+<entry>
+<form><c type="geminated">t</c>tu</form>
+<form type="sandhi"><c type="geminated">t</c>t</form>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moḻi<c type="geminated">m</c></form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉār</form>
+<def>be like</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet-scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

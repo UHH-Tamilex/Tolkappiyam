@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 399. </title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 427. </title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -26,7 +26,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <lg xml:id="TolC398">
+      <lg xml:id="TolC427">
         <l>iṟappi ṉikaḻvi ṉetirvi ṉeṉṟac</l>
 	<l>ciṟappuṭai marapi ṉammuk kālamun</l>
 	<l>taṉmai muṉṉilai paṭarkkai yeṉṉu</l>
@@ -54,22 +54,235 @@
     <body>
       <head>Cēṉāvaraiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tāmōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n253/mode/1up">250</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n254/mode/1up">251</ref>.</p>
-   <p></p>
+   <p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/375/mode/1up">375</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
       <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n223/mode/1up">216</ref>―<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n224/mode/1up">217</ref>.</p>
-<p></p>
+<p/>
     </body>
   </text>
   
-</TEI>
+<standOff corresp="#TolC427" type="wordsplit">
+<interp type="alignment" select="0">5MG2MG5MG7MG14MG79MG4ML18MG28M,83MG9MG12MG22MG39MG</interp>
+<entry>
+<form>iṟappu</form>
+<def>traversing</def>
+<form type="sandhi">iṟapp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ṉikaḻvu</form>
+<form type="sandhi">ikaḻv</form>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirvu</form>
+<form type="sandhi">etirv</form>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟa<c type="geminated">c</c></form>
+<def>said</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟappu</form>
+<def>superiority</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess</def>
+<form type="sandhi">ṭai</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>marapu</form>
+<def>custom</def>
+<form type="sandhi">marapi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ṉam</form>
+</entry>
+<entry>
+<form>mu<c type="geminated">k</c></form>
+<def>three</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kālamum</form>
+<form type="sandhi">kālamun</form>
+</entry>
+<entry>
+<form>taṉmai</form>
+<def>nature</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉṉilai</form>
+<def>front-standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭarkkai</form>
+<def>third person</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>a<c type="geminated">m</c></form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>mū</form>
+<def>three</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭattāṉ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉum</form>
+<form type="sandhi">iṉuṅ</form>
+</entry>
+<entry>
+<form>kuṟippu</form>
+<def>intention</def>
+<form type="sandhi">kuṟipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉum</form>
+</entry>
+<entry>
+<form>meymmai</form>
+<def>truth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṉum</form>
+<def>either</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>īr</form>
+<def>wet</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṇṭu</form>
+<def>two-it</def>
+<form type="sandhi">iraṇṭ</form>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>ākum</form>
+<def>becomes</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avvāṟ</form>
+</entry>
+<entry>
+<form>eṉpa</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṟṟiyaṉ</form>
+</entry>
+<entry>
+<form>moḻi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">y</c>ē</form>
+<def>arrow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
