@@ -194,9 +194,9 @@
       </lg>
       <p>eṉpaṉa nilaikkiḻamai. ivaiyoṉṟiyaṟkiḻamai.</p>
       <lg xml:id="TolC080-Cena-cit3">
-      yāṉaiyatu kōṭu;
+      yāṉaiyatu kōṭu; puliyatukir
       </lg>
-      <p>puliyatukir eṉpaṉa uṟuppiṉkiḻamai. uṟuppāvatu poruḷiṉēkatēcameṉpataṟivittaṟku oruvaḻiyuṟuppeṉṟār.</p> 
+      <p>eṉpaṉa uṟuppiṉkiḻamai. uṟuppāvatu poruḷiṉēkatēcameṉpataṟivittaṟku oruvaḻiyuṟuppeṉṟār.</p> 
       <lg xml:id="TolC080-Cena-cit4">
       cāttaṉatu ceyaṟkai;
       </lg>
@@ -842,6 +842,28 @@
 <entry>
 <form>kuppai</form>
 <def>heap</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC080-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">14M,13MG</interp>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭu</form>
+<def>tusk</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
