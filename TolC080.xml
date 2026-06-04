@@ -28,11 +28,11 @@
   <text xml:lang="ta" type="edition">
     <body>
         <lg xml:id="TolC080">
-          <l>iyaṟkaiyiṉuṭaimaiyiṉ muṟaimaiyiṟkiḻamaiyiṟ</l>
+          <l>iyaṟkaiyi ṉuṭaimaiyiṉ muṟaimaiyiṟ kiḻamaiyiṟ</l>
 	<l>ceyaṟkaiyiṉ mutumaiyiṉ viṉaiyi ṉeṉṟā</l>
 	<l>karuviyiṟ ṟuṇaiyiṟ kalattiṉ mutali</l> 
 	<l>ṉoruvaḻi yuṟuppiṟ kuḻuvi ṉeṉṟā</l>
-	<l>terintumoḻicceytiyi ṉilaiyiṉvāḻcciyiṟ</l>
+	<l>terintumoḻic ceytiyi ṉilaiyiṉ vāḻcciyiṟ</l>
 	<l>ṟirintuvēṟu paṭūum piṟavu maṉṉa</l>
 	<l>kūṟiya maruṅkiṟ ṟōṉṟuṅ kiḷavi</l>
 	<l>yāṟaṉ pāla veṉmaṉār pulavar.</l>
@@ -190,11 +190,14 @@
     cāttaṉatu nilaimai;
     </lg>
       <lg xml:id="TolC080-Cena-cit1">
-      cāttaṉatillāmai
+     <l> cāttaṉatillāmai</l>
       </lg>
       <p>eṉpaṉa nilaikkiḻamai. ivaiyoṉṟiyaṟkiḻamai.</p>
       <lg xml:id="TolC080-Cena-cit3">
-      yāṉaiyatu kōṭu; puliyatukir
+      <l>yāṉaiyatu kōṭu;</l> 
+      </lg>
+      <lg xml:id="TolC080-Cena-cit3">
+      puliyatukir
       </lg>
       <p>eṉpaṉa uṟuppiṉkiḻamai. uṟuppāvatu poruḷiṉēkatēcameṉpataṟivittaṟku oruvaḻiyuṟuppeṉṟār.</p> 
       <lg xml:id="TolC080-Cena-cit4">
