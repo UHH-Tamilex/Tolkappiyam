@@ -42,11 +42,130 @@
   <text xml:lang="ta" type="edition">
     <body>
         <head>Iḷampūraṇar</head>
-        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
-      <p>
-      </p>
-      <lg xml:id="TolC250-Ilam-cit1">
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/62/mode/1up">62</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/64/mode/1up">64</ref>.</p>
+      <p>ic cūttiram eṉṉutaliṟṟō veṉiṉ, muṟaiyāṉē āṟām vēṟṟumai uṇarttutal nutaliṟṟu.</p>
+      <p>urai: āṟām eṇṇumuṟaimaikkaṇṇatu atu eṉṉum peyaraiyuṭaiya vēṟṟumaiccol; taṉṉoṭu toṭarntatōr poruḷaiyum taṉṉiṉ vēṟāyatōr poruḷaiyum itaṉatitu eṉṟu kiḻamai ceppiniṟṟal āṟām vēṟṟumaiyatu ilakkaṇam eṉṟavāṟu.</p>
+      <p>atuvē eṉpatu apporuḷai virippāṉ terittavāṟu.</p>
+      <p>‘itaṉatu itu’ eṉṉuṅ kiḷavikkiḻamaittu eṉṉātu, ‘aṉṉa’ eṉṟataṉāṉ, itaṟkup piṟitumoru poruḷ uṇṭu eṉka. aḵtiyātō veṉiṉ, avaṉa avaḷa eṉṉum īṟṟakaram. taṉṉiṉum eṉpuḻit taṟkiḻamai aintu vakaippaṭum, oṉṟu palakuḻīiya taṟkiḻamaiyum, vēṟu pala kuḻīiya taṟkiḻamaiyum, oṉṟiyaṟ kiḻamaiyum, uṟuppiṉ kiḻamaiyum, meytirintāya kiḻamaiyum eṉa.</p>
+      <p>oṉṟu palakuḻīiya taṟkiḻamaiyatu:</p>
+      <lg xml:id="TolC080-Ilam-cit1">
+        <l>‘eṭ kuppai’</l>
       </lg>
+      <p>eṉpatu.</p>
+      <p>vēṟu palakuḻīiya taṟkiḻamaiyatu:</p>
+      <lg xml:id="TolC080-Ilam-cit2">
+        <l>‘paṭaiyatu kuḻām’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>oṉṟiyaṟ kiḻamaiyatu:</p>
+      <lg xml:id="TolC080-Ilam-cit3">
+        <l>‘nilattiṉatu akalam’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>uṟuppiṉ kiḻamaiyatu:</p>
+      <lg xml:id="TolC080-Ilam-cit4">
+        <l>‘yāṉaiyatu kōṭu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>meytirintākiya kiḻamaiyatu:</p>
+      <lg xml:id="TolC080-Ilam-cit5">
+        <l>‘eḷḷiṉatu cāntu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>piṟitiṉ kiḻamai itu pōlap pakutippaṭātu.</p>
+      <p>iṉi, avviraṇṭu kiḻamaiyum oṭṭumāṟu kāṭṭutum.</p>
+      <p>iyaṟkai:</p>
+      <lg xml:id="TolC080-Ilam-cit6">
+        <l>‘cāttaṉa tiyaṟkai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>uṭaimai:</p>
+      <lg xml:id="TolC080-Ilam-cit7">
+        <l>‘cāttaṉa tuṭaimai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>muṟaimai:</p>
+      <lg xml:id="TolC080-Ilam-cit8">
+        <l>‘āviṉatu kaṉṟu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>kiḻamai:</p>
+      <lg xml:id="TolC080-Ilam-cit9">
+        <l>‘cāttaṉatu kiḻamai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>ceyaṟkai:</p>
+      <lg xml:id="TolC080-Ilam-cit10">
+        <l>‘cāttaṉatu ceyaṟkai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>mutumai:</p>
+      <lg xml:id="TolC080-Ilam-cit11">
+        <l>‘avaṉatu mutumai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>viṉai:</p>
+      <lg xml:id="TolC080-Ilam-cit12">
+        <l>‘avaṉatu viṉai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>karuvi:</p>
+      <lg xml:id="TolC080-Ilam-cit13">
+        <l>‘cāttaṉatu vāḷ’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>tuṇai:</p>
+      <lg xml:id="TolC080-Ilam-cit14">
+        <l>‘avaṉatu tuṇai’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>kalam:</p>
+      <lg xml:id="TolC080-Ilam-cit15">
+        <l>‘cāttaṉatu kalam’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>kalam eṉpatu oṟṟik kalattai.</p>
+      <p>mutal:</p>
+      <lg xml:id="TolC080-Ilam-cit16">
+        <l>‘cāttaṉatu mutal’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>oruvaḻi yuṟuppu:</p>
+      <lg xml:id="TolC080-Ilam-cit17">
+        <l>‘yāṉaiyatu kōṭu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>kuḻūu:</p>
+      <lg xml:id="TolC080-Ilam-cit18">
+        <l>‘paṭaiyatu kuḻūu’</l>
+      </lg>
+      <p>eṉpatu.</p>
+      <p>terintumoḻicceyti:</p>
+      <lg xml:id="TolC080-Ilam-cit19">
+      <l>‘kapilaratu pāṭṭu’</l>
+    </lg>
+      <p>eṉpatu.</p>
+      <p>nilai:</p>
+      <lg xml:id="TolC080-Ilam-cit20">
+      <l>‘cāttaṉatu nilai’</l>
+    </lg>
+      <p>eṉpatu.</p>
+      <p>vāḻcci:</p>
+      <lg xml:id="TolC080-Ilam-cit21">
+      <l>‘cāttaṉatu vāḻcci’</l>
+    </lg>
+      <p>eṉpatu.</p>
+      <p>tirintu vēṟupaṭṭatu:</p>
+      <lg xml:id="TolC080-Ilam-cit22">
+      <l>‘eḷḷiṉatu cāntu’</l>
+    </lg>
+      <p>eṉpatu.</p>
+      <lg xml:id="TolC080-Ilam-cit23">
+      <l>‘cāttaṉatu col’</l>
+    </lg>
+      <p>eṉpatum atu.</p>
+      <p>piṟavum eṉpatu puṟaṉaṭai.</p>
+      <p>kūṟiya maruṅkiṟ ṟōṉṟum kiḷavi āṟaṉpāla eṉpatu irukiḻamaiyumpaṟṟi varuvaṉavum piṟavum ataṉpāla eṉṟavāṟu.  (14)</p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -150,10 +269,156 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
-      
-      <lg xml:id="TolC250-Nacc-cit1">
-      </lg>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n126/mode/1up">98</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n127/mode/1up">99</ref>.</p>
+      <p>itu, ataṉai muṭikka varum poruḷ vēṟupāṭu kūṟukiṉṟatu.</p>
+      <p>(i-ḷ) iyaṟkai............vāḻcciyiṉ ― iyaṟkkai mutalāka vāḻcci yīṟākac collap paṭṭaṉavum, tirintu vēṟu paṭūu maṉṉa piṟavum ― orucāraṉa tirintu vēṟupaṭu mavai pōlavaṉa piṟavumākiya, kūṟiya maruṅkiṟ ṟōṉṟuṅ kiḷavi - muṟkūṟiya kiḻamaip poruṭkaṭ ṭōṉṟuñ collellām, āṟaṉ pāla veṉmaṉār pulavar - āṟām vēṟṟumait tiṟattaṉa veṉṟu kūṟuvar pulavareṉṟa vāṟu.</p>
+      <p>(u-m)</p>
+        <lg xml:id="TolC080-Nacc-cit1">
+        <l><note xml:lang="en">1</note> eṇṇatu kuppai ―</l>
+        </lg>
+        <p>iḵtu, oṉṟupala kuḻī iyataṟ kiḻamai.</p>
+        <lg xml:id="TolC080-Nacc-cit2">
+        <l><note xml:lang="en">3</note> paṭaiyatu kuḻām ―</l>
+        </lg>
+        <p>itu vēṟu pala kuḻī iyataṟ kiḻamai.</p>
+        <lg xml:id="TolC080-Nacc-cit3">
+          <l>cāttaṉa tiyaṟkai.</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit4">
+          <l>nilattu akalam ―</l>
+        </lg>
+        <p>ivai yiyaṟkaik kiḻamai.</p>
+        <lg xml:id="TolC080-Nacc-cit5">
+          <l>cāttaṉatu nilaimai</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit6">
+          <l>cāttaṉa tillāmai</l>
+        </lg>
+        <p>ivai nilaikkiḻamai</p>
+        <p>innāṉku moṉṟiyaṟ kiḻamai.</p>
+      <p>uṟuppāvatu, oruporuḷi ṉēkatēca meṉpa taṟivittaṟ koruvaḻi yuṟuppeṉṟār. avai,</p>
+        <lg xml:id="TolC080-Nacc-cit7">
+          <l>yāṉaiyatu kōṭu</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit8">
+          <l>puliyatukir</l>
+        </lg>
+        <p>ivai yuṟuppiṉ kiḻamai</p>
+        <p>ceyaṟkaiyāvatu taṉṟaṉmai tirintu vēṟōr taṉmaiyātal avai</p>
+        <lg xml:id="TolC080-Nacc-cit9">
+          <l>cāttaṉatu ceyaṟkai.</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit10">
+          <l>cāttaṉatu kaṟṟaṟivu.</l>
+        </lg>
+        <p>mutumaik kiḻamai.</p>
+        <lg xml:id="TolC080-Nacc-cit11">
+          <l>aracaṉatu mutumai.</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit12">
+          <l>aracaṉatu mutirvu.</l>
+        </lg>
+        <p>itu, aṟiviṉ mutircci yeṉpa taṟivittaṟ kiḷamai kūṟāyiṉār.</p>
+        <p>viṉaikkiḻamai.</p>
+        <lg xml:id="TolC080-Nacc-cit13">
+          <l>cāttaṉatu viṉai.</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit14">
+          <l>cāttaṉatu celavu.</l>
+        </lg>
+        <p>ivai meytirintāya taṟkiḻamai.</p>
+        <p>uṭaimaik kiḻamai,</p>
+        <lg xml:id="TolC080-Nacc-cit15">
+          <l>cāttaṉa tuṭaimai</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit16">
+          <l>cāttaṉatu tōṭṭam</l>
+        </lg>
+        <p>muṟaimaik kiḻamai</p>
+        <lg xml:id="TolC080-Nacc-cit17">
+          <l>maṟiyatu tāy</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit18">
+          <l>maṟiyatu tantai</l>
+        </lg>
+        <p>karuvik kiḻamai,</p>
+        <lg xml:id="TolC080-Nacc-cit19">
+          <l>icaiyatu karuvi</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit20">
+          <l>viṉaikkālattatu tikiri</l>
+        </lg>
+        <p>tuṇaikkiḻamai,</p>
+        <lg xml:id="TolC080-Nacc-cit21">
+          <l>avaṉatu tuṇai</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit22">
+          <l>avaṉa tiṇaṅku</l>
+        </lg>
+        <p>kālamāva tōlai.</p>
+        <lg xml:id="TolC080-Nacc-cit23">
+          <l>nilatta toṟṟik kalam</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit24">
+          <l>cāttaṉatu vilait tīṭṭu.</l>
+        </lg>
+        <p>iḵtu iru poruṭkurimai yuṭaimaiyiṉ, uṭaimaiyiṉ vēṟāyiṟṟu.</p>
+        <p>mutaṟ kiḻamai,</p>
+        <lg xml:id="TolC080-Nacc-cit25">
+          <l>oṟṟiyatu mutal</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit26">
+          <l>oṟṟiyatu poruḷ</l>
+        </lg>
+        <p>terintu moḻicceyti terintu moḻiyāṉ ceyyappaṭutaliṟ ṟerintu moḻic ceytiyāyiṟṟu.</p>
+        <lg xml:id="TolC080-Nacc-cit27">
+          <l>kapilaratu pāṭṭu</l>
+        </lg>
+        <p>itu ‘pāriyatu pāṭṭueṉa’ niṟṟali ṉiruporuṭ kuriyatām</p>
+        <lg xml:id="TolC080-Nacc-cit28">
+        <l>paraṇaratu pāṭṭiyal</l>
+        </lg>
+        <p>ituvumatu. ivaiporuṭ piṟitiṉ kiḻamai</p>
+        <p>kiḻamaikkiḻamai</p>
+        <lg xml:id="TolC080-Nacc-cit29">
+          <l>murukaṉatu kuṟiñcinilam</l>
+        </lg>
+        <p>itu nilappiṟitiṉ kiḻamai</p>
+        <lg xml:id="TolC080-Nacc-cit30">
+          <l>veḷḷiyatu āṭci</l>
+        </lg>
+        <p>itu kālap piṟitiṉ kiḻamai</p>
+        <p>vāḻcci</p>
+        <lg xml:id="TolC080-Nacc-cit31">
+          <l>kāṭṭatu yāṉai</l>
+        </lg>
+        <p>itu poruṭpiṟitiṉ kiḻamai</p>
+        <lg xml:id="TolC080-Nacc-cit32">
+          <l>yāṉaiyatu kāṭu</l>
+        </lg>
+        <p>itu nilappiṟitiṉ kiḻamai</p>
+        <p>vāḻcci, vāḻtalai yuṇarttuṅ kāl taṟkiḻamaiyumām.</p>
+        <p>aṉṉapiṟavu meṉṟatu</p>
+        <lg xml:id="TolC080-Nacc-cit33">
+          <l>eṭcāntu</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit34">
+          <l>kōṭṭu nūṟu</l>
+        </lg>
+        <p>ivai muḻutun tirintaṉa</p>
+        <lg xml:id="TolC080-Nacc-cit35">
+          <l>cāttaṉa toppu</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit36">
+          <l>tokaiyatu viri</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit37">
+          <l>poruḷatu kēṭu,</l>
+        </lg>
+        <lg xml:id="TolC080-Nacc-cit38">
+          <l>collatu poruḷ,</l>
+        </lg>
+        <p>ivai ciṟitu tirintaṉa <num xml:lang="en">(19)</num></p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
