@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +61,19 @@
     <body>
       <head>Nacciṉārkkiṉiyar</head>
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
-      
+      <p>itu, muṟaiyāṉē āṟāvatu ipporuṭkaṇ varum eṉkiṉṟatu.</p>
+<p>(i-ḷ.)atu eṉap peyariya vēṟṟumaik kiḷavi āṟākuvatē- mēl atu eṉap peyar koṭuttuōtappaṭṭa vēṟṟumaiccol āṟāvatām; atu- avvēṟṟumaiccol, taṉṉiṉum- oru poruḷiṉatu uṭaimaip poruḷāki niṟkum taṉṉōṭu oṟṟumaiyuṭaiya poruḷāṉum, piṟitiṉum- oruporuṉiṉatu uṭaimaip poruḷāy niṟkum taṉṉiṉ vēṟākiya poruḷāṉum, `itaṉatu itu' eṉṉum-`ipporuḷiṉuṭaiyatu ipporuḷ' eṉpatu paṭa niṟkum, aṉṉa kiḷavik kiḻamaittu- aṉṉa poruḷāl tōṉṟum kiḻamaiyaip poruḷāka uṭaittu(e-ṟu.)</p>
+<p>īṇṭut `taṉ' eṉṟatu, urupu ēṟkum poruḷai.`aṉṉa'eṉṟār, `itaṉa ivai' eṉṉum paṉmai uṟupum, `ātu' eṉṉum orumai urupum aṭaṅkutaṟku.</p>
+<p>(u-m.)cāttaṉa āṭai</p>
+<p>taṉātu veḷvēl</p>
+<p>(`yāṉai vaḷavaṉ kolli mīmicai')</p>
+<p>eṉa varum.</p>
+<p>oṉṟu pala kuḻīiyatum, vēṟu pala kuḻīiyatum,</p>
+<p>oṉṟiyaṟkiḻamaiyum, uṟuppiṉ kiḻamaiyum,</p>
+<p>mey tirintu āyatum eṉat taṟkiḻamai aintu vakaippaṭum,</p>
+<p>`aimpāl urimaiyum ataṉtaṟ kiḻamai.'</p>
+<p>eṉpatu akattiyam ātaliṉ.</p>
+<p>poruḷiṉ kiḻamaiyum, nilattiṉ kiḻamaiyum, kālattiṉ kiḻamaiyum eṉap piṟitiṉ kiḻamai mūva kappaṭum.</p>
       <lg xml:id="TolC250-Nacc-cit1">
       </lg>
     </body>
@@ -87,4 +98,121 @@
       </lg>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC079" type="wordsplit">
+<interp type="alignment" select="0">2MG6M2G39MG9MG8MG28MG3MG3M,12MG92MG</interp>
+<entry>
+<form>āṟ<c type="elided">u</c></form>
+<def>six</def>
+<form type="sandhi">āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākuvat<c type="elided">u</c>-ē</form>
+<def>become-it</def>
+<form type="simple">ākuvatu</form>
+<form type="sandhi">ākuvat</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyariya</form>
+<def>that which has the term</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟṟumai<c type="geminated">k</c></form>
+<def>case ending</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉṉiṉ-um</form>
+<def>self</def>
+<form type="simple">taṉṉiṉ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piṟitiṉ-um</form>
+<def>other</def>
+<form type="simple">piṟitiṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>itaṉat<c type="elided">u</c></form>
+<form type="sandhi">itaṉat</form>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉum</form>
+<def>what</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavi<c type="geminated">k</c></form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻamaitt<c type="elided">u</c></form>
+<form type="sandhi">kiḻamaitt</form>
+</entry>
+<entry>
+<form>atu-<c type="glide">v</c>ē</form>
+<def>that</def>
+<form type="simple">atu</form>
+<gramGrp>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
