@@ -112,18 +112,19 @@
 </entry>
 <entry>
 <form>ākuvat<c type="elided">u</c>-ē</form>
-<def>become-it</def>
+<def>becoming</def>
 <form type="simple">ākuvatu</form>
 <form type="sandhi">ākuvat</form>
 <gramGrp>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>atu</form>
-<def>that</def>
+<def>genitive marker 'atu'</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -135,7 +136,7 @@
 </entry>
 <entry>
 <form>peyariya</form>
-<def>that which has the term</def>
+<def>named</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -149,7 +150,7 @@
 </entry>
 <entry>
 <form>kiḷavi</form>
-<def>word</def>
+<def>term</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -160,6 +161,7 @@
 <form type="simple">taṉṉiṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -177,17 +179,23 @@
 </entry>
 <entry>
 <form>itaṉat<c type="elided">u</c></form>
+<def>of this</def>
 <form type="sandhi">itaṉat</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">genitive</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>itu</form>
 <def>this</def>
 <gramGrp>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>eṉum</form>
-<def>what</def>
+<def>say</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -195,25 +203,30 @@
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>kiḷavi<c type="geminated">k</c></form>
-<def>word</def>
+<def>term</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kiḻamaitt<c type="elided">u</c></form>
+<def>relationship</def>
 <form type="sandhi">kiḻamaitt</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>atu-<c type="glide">v</c>ē</form>
 <def>that</def>
 <form type="simple">atu</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
