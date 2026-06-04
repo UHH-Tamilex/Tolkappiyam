@@ -174,15 +174,25 @@
         <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n85/mode/1up">82</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n87/mode/1up">84</ref>.</p>
       <p>i - ḷ. iyaṟkai mutalāka vāḻcciyīṟākac collappaṭṭaṉavum tirintu vēṟupaṭūumaṉṉapiṟavumākiya mēṟkūṟappaṭṭa kiḻamaipporuṭkaṭ ṭōṉṟuñ collellām āṟāmvēṟṟumaittiṟattaṉaveṉṟu colluvar pulavar. e-ṟu.</p>
 <p>tirintu vēṟupaṭūumaṉṉapiṟavumeṉṟārēṉum, tirintu vēṟupaṭutal aṉṉapiṟavumeṉṟataṉāṟṟaḻuvappaṭuvaṉavaṟṟuḷ orucāraṉavaṟṟiṟkē koḷka.</p>
-<p>u - m. eḷḷatu kuppai; paṭaiyatu kuḻām eṉpaṉa kuḻūukkiḻamai. avai muṟaiyāṉē oṉṟu pala kuḻīiyatum vēṟu pala kuḻīiyatumām.</p>
+<p>u - m.</p>
+<lg xml:id="TolC080-Cena-cit"> 
+  eḷḷatu kuppai; 
+    </lg>
+  <p>paṭaiyatu kuḻām eṉpaṉa kuḻūukkiḻamai. avai muṟaiyāṉē oṉṟu pala kuḻīiyatum vēṟu pala kuḻīiyatumām.</p>
   <lg xml:id="TolC080-Cena-cit1">
     cāttaṉatiyaṟkai;
   </lg>
-  <p>nilattatakalam eṉpaṉa iyaṟkaikkiḻamai.</p>
+<lg xml:id="TolC080-Cena-cit">
+  nilattatakalam 
+</lg>
+  <p>eṉpaṉa iyaṟkaikkiḻamai.</p>
     <lg xml:id="TolC080-Cena-cit2">
     cāttaṉatu nilaimai;
     </lg>
-    <p>cāttaṉatillāmai eṉpaṉa nilaikkiḻamai. ivaiyoṉṟiyaṟkiḻamai.</p>
+      <lg xml:id="TolC080-Cena-cit1">
+      cāttaṉatillāmai
+      </lg>
+      <p>eṉpaṉa nilaikkiḻamai. ivaiyoṉṟiyaṟkiḻamai.</p>
       <lg xml:id="TolC080-Cena-cit3">
       yāṉaiyatu kōṭu;
       </lg>
@@ -812,6 +822,28 @@
 <def>poet-scholar</def>
 <gramGrp>
   <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC080-Cena-cit" type="wordsplit">
+<interp type="alignment" select="0">13M,12MG</interp>
+<entry>
+<form>eḷ<c type="geminated">ḷ</c></form>
+<def>sesame</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>kuppai</form>
+<def>heap</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
