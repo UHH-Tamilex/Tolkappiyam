@@ -866,29 +866,8 @@
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC080-Cena-cit" type="wordsplit">
-<interp type="alignment" select="0">13M,12MG</interp>
-<entry>
-<form>eḷ<c type="geminated">ḷ</c></form>
-<def>sesame</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>atu</form>
-<def>that</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>kuppai</form>
-<def>heap</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-</standOff><standOff corresp="#TolC080-Cena-cit3" type="wordsplit">
+</standOff>
+<standOff corresp="#TolC080-Cena-cit3" type="wordsplit">
 <interp type="alignment" select="0">8MG8M,16MG</interp>
 <entry>
 <form>cāttaṉat<c type="elided">u</c></form>
