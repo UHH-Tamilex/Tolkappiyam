@@ -240,4 +240,51 @@ aintām vēṟṟumai yāmāṟu uṇarttutal nutaliṟṟu.
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
+</standOff><standOff corresp="#TolC077-Nacc-cit1" type="wordsplit">
+<interp type="alignment" select="0">15MG5M,21M</interp>
+<entry>
+<form>karuvūriṉ</form>
+<def>Karuvūr place</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻakk<c type="elided">u</c></form>
+<def>east</def>
+<form type="sandhi">kiḻakk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">v</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ūr</form>
+<def>village</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC077-Nacc-cit2" type="wordsplit">
+<interp type="alignment" select="0">10M,10M</interp>
+<entry>
+<form>itaṉiṉ</form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūṅku</form>
+<def>beyond</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 </standOff></TEI>
