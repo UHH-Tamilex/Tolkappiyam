@@ -610,12 +610,13 @@
     </body>
   </text>
 <standOff corresp="#TolC080" type="wordsplit">
-<interp type="alignment" select="0">152M2G17ML20MG22ML36M,251MG</interp>
+<interp type="alignment" select="0">152ML37MG58M,248MG</interp>
 <entry>
 <form>iyaṟkaiyiṉ</form>
 <def>nature</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -623,22 +624,25 @@
 <def>possession</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>muṟaimaiyiṉ</form>
-<def>manner</def>
+<def>family relation</def>
 <form type="sandhi">muṟaimaiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kiḻamaiyiṉ</form>
-<def>right</def>
+<def>relation</def>
 <form type="sandhi">kiḻamaiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -646,20 +650,23 @@
 <def>artificial</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>mutumaiyiṉ</form>
-<def>old</def>
+<def>oldness</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>viṉaiyiṉ</form>
-<def>karma</def>
+<def>action</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -675,26 +682,29 @@
 <form type="sandhi">karuviyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tuṇaiyiṉ</form>
-<def>mate</def>
+<def>companion</def>
 <form type="sandhi">ṟuṇaiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kalattiṉ</form>
-<def>pot</def>
+<def>documents</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>mutaliṉ</form>
-<def>base</def>
+<def>capital amount</def>
 <gramGrp>
   <gram type="role">noun</gram>
   <gram type="role">oblique</gram>
@@ -703,9 +713,6 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp>
-  <gram type="role">adjective</gram>
-</gramGrp>
 </entry>
 <entry>
 <form>vaḻi</form>
@@ -720,13 +727,15 @@
 <form type="sandhi"><c type="glide">y</c>uṟuppiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kuḻuviṉ</form>
-<def>crowd</def>
+<def>group</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -738,7 +747,7 @@
 </entry>
 <entry>
 <form>terintu</form>
-<def>investigated</def>
+<def>made clear</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -751,29 +760,34 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ceytiyiṉ<c type="elided">u</c></form>
-<def>news</def>
-<form type="sandhi">ceytiyiṉ</form>
+<form>ceytiyiṉ</form>
+<def>making</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nilaiyiṉ</form>
-<def>proper place</def>
-<form type="sandhi">ilaiyiṉ</form>
+<def>state</def>
+<form type="sandhi">ṉilaiyiṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vāḻcciyiṉ<c type="geminated">ṟ</c></form>
-<form type="sandhi">vāḻcciyiṟ<c type="geminated">ṟ</c></form>
+<form>vāḻcciyiṉ</form>
+<def>habitat</def>
+<form type="sandhi">vāḻcciyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tirintu</form>
-<def>turned</def>
+<def>modified</def>
 <form type="sandhi">ṟirintu</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -795,7 +809,7 @@
 </entry>
 <entry>
 <form>piṟa-<c type="glide">v</c>um</form>
-<def>other.they</def>
+<def>other-they</def>
 <form type="simple">piṟa</form>
 <gramGrp>
   <gram type="role">plural</gram>
@@ -808,18 +822,19 @@
 </entry>
 <entry>
 <form>kūṟiya</form>
-<def>spoken</def>
+<def>pointing out</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>maruṅkiṉ<c type="geminated">ṟ</c></form>
-<def>side</def>
-<form type="sandhi">maruṅkiṟ<c type="geminated">ṟ</c></form>
+<form>maruṅkiṉ</form>
+<def>in the place</def>
+<form type="sandhi">maruṅkiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1094,7 +1109,7 @@
 </entry>
 <entry>
 <form>toḻil</form>
-<def>work</def>
+<def>action</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1208,8 +1223,15 @@
 </standOff><standOff corresp="#TolC080-Cena-cit20" type="wordsplit">
 <interp type="alignment" select="0">20M,20M</interp>
 <entry>
-<form>vaṉaikalattatu</form>
-<def>nets</def>
+<form>vaṉai</form>
+<def>to shape</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kalattatu</form>
+<def>pot</def>
 <gramGrp>
   <gram type="role">genitive</gram>
   <gram type="role">noun</gram>
@@ -1254,9 +1276,9 @@
 </entry>
 <entry>
 <form>iṇaṅku</form>
-<def>consent</def>
+<def>friend</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC080-Cena-cit23" type="wordsplit">
@@ -1271,7 +1293,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form>oṟṟikkalam</form>
+<form>oṟṟi<c type="geminated">k</c></form>
+<def>mortgage</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kalam</form>
+<def>document</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC080-Cena-cit24" type="wordsplit">
 <interp type="alignment" select="0">20M,20M</interp>
@@ -1285,8 +1318,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vilaittīṭṭu</form>
-<def>deeds</def>
+<form>vilai<c type="geminated">t</c></form>
+<def>price/sale</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīṭṭu</form>
+<def>receipt</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1295,14 +1335,15 @@
 <interp type="alignment" select="0">14M,13MG</interp>
 <entry>
 <form>oṟṟiyatu</form>
-<def>unified</def>
+<def>mortgage</def>
 <gramGrp>
   <gram type="role">genitive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>mutal</form>
-<def>primary</def>
+<def>captial amount</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1311,14 +1352,15 @@
 <interp type="alignment" select="0">13M,13M</interp>
 <entry>
 <form>oṟṟiyatu</form>
-<def>unified</def>
+<def>mortgage</def>
 <gramGrp>
   <gram type="role">genitive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>poruḷ</form>
-<def>wealth</def>
+<def>thing</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1370,8 +1412,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟiñcinilam</form>
-<def>kuṟiñci land</def>
+<form>kuṟiñci</form>
+<def>kuṟiñci</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilam</form>
+<def>land</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1384,6 +1433,8 @@
 <form type="sandhi">veḷḷiyat</form>
 <gramGrp>
   <gram type="role">genitive</gram>
+  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1394,17 +1445,18 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC080-Cena-cit31" type="wordsplit">
-<interp type="alignment" select="0">6MG7M,13MG</interp>
+<interp type="alignment" select="0">13M,12MG</interp>
 <entry>
-<form>kāṭṭat<c type="elided">u</c></form>
-<def>wilderness</def>
-<form type="sandhi">kāṭṭat</form>
+<form>kāṭṭatu</form>
+<def>forest</def>
+<form type="sandhi">kāṭṭati</form>
 <gramGrp>
   <gram type="role">genitive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iyāṉai</form>
+<form>yāṉai</form>
 <def>elephant</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1428,10 +1480,23 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC080-Cena-cit33" type="wordsplit">
-<interp type="alignment" select="0">30M,29MG</interp>
+<interp type="alignment" select="0">5MG25M,30MG</interp>
 <entry>
-<form>avaṟṟuṇ</form>
-<def>that</def>
+<form>avaṟṟ<c type="elided">u</c></form>
+<def>those</def>
+<form type="sandhi">avaṟṟ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>among</def>
+<form type="sandhi">uṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>murukaṉatu</form>
@@ -1443,8 +1508,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kuṟiñcinilam</form>
-<def>kuṟiñci land</def>
+<form>kuṟiñci</form>
+<def>Kuṟiñci</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilam</form>
+<def>land</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
