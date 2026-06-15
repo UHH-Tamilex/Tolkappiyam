@@ -1,0 +1,91 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 82.
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <lg xml:id="TolC082">
+          <l>kaṇkāl puṟamakam uḷḷuḻai kīḻmēl</l>
+	<l>piṉcār ayalpuṭai tēvakai yeṉāa</l>
+	<l>muṉṉiṭai kaṭaitalai valamiṭa meṉāa</l>
+	<l>aṉṉa piṟavum ataṉpāla eṉmaṉār.</l>
+        </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Iḷampūraṇar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC250-Ilam-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <head>Cēṉāvaraiyar</head>
+        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n87/mode/1up">84</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n89/mode/1up">86</ref>.</p>
+      <p>i - ḷ. kaṇ mutalāka iṭamīṟākac collappaṭṭa pattoṉpatuporuḷum avaipōlvaṉa piṟavum ēḻāvataṉ ṟiṟattaṉa. e-ṟu.</p>
+<p>kaṇṇeṉṉum poruḷāvatu <lg xml:id="TolC082-Cena-cit1"><l>'kaṇṇiṉṟu kūṟutalāṟṟāṉavaṉāyiṉ.'</l></lg> e-m. <lg xml:id="TolC082-Cena-cit2"><l>'kaṇṇakaṉñālam.'</l></lg> e-m. kaṇṇeṉṉumiṭaiccollāṉuṇarttappaṭum iṭapporuṇmai. tēvakaiyeṉpatu ticaikkūṟu. kaṇkālpuṟamakamuḷḷeṉpaṉa mutalāyiṉavaṟṟatu poruḷvēṟṟumai vaḻakku nōkki yuṇarntukoḷka.</p>
+<p>kaṇṇiṉṟu colliyāṉai eṉkaṇṇiṉṟivaicollaṟpālaiyallai eṉṟum, ūrkkāṟceyyai ūrkkaṭcey eṉṟum, ūrppuṟattu niṉṟa marattai ūrkkaṇmaram eṉṟum, eyilakattup pukkāṉai eyiṟkaṭpukkāṉ eṉṟum, illuḷiruntāṉai iṟkaṇiruntāṉ eṉṟum, aracaṉuḻaiyiruntāṉai aracaṉkaṇiruntāṉ eṉṟum, āliṉkīḻkkiṭantavāvai āliṉkaṭkiṭantatu eṉṟum, marattiṉmēlirunta kuraṅkai marattiṉkaṇiruntatu eṉṟum, ērppiṉceṉṟāṉai ērkkaṭceṉṟāṉ eṉṟum, kāṭṭuccārōṭuvataṉaik kāṭṭiṉkaṇōṭum eṉṟum, uṟaiyūrkkayaṉiṉṟa cirāppaḷḷikkuṉṟai uṟaiyūrkkaṭkuṉṟu eṉṟum, eyiṟpuṭainiṉṟārai eyiṟkaṇiṉṟār eṉṟum, vaṭapālvēṅkaṭam teṉpāṟkumari eṉpaṉavaṟṟai vaṭakkaṇvēṅkaṭam teṟkaṭkumari eṉṟum, pulimuṉpaṭṭāṉaip pulikkaṭpaṭṭāṉ eṉṟum, nūliṉiṭaiyuṅkaṭaiyuntalaiyuniṉṟa maṅkalattai nūṟkaṇmaṅkalam eṉṟum, kaivalattuḷḷataṉaik kaikkaṇuḷḷatu eṉṟum, taṉṉiṭattu nikaḻvataṉait taṉkaṇikaḻvatu eṉṟum, av viṭapporuḷpaṟṟi ēḻāmvēṟṟumai vantavāṟu kaṇṭu koḷka.</p>
+<p>eṉāaveṉpatu eṇṇiṭaiccol.</p>
+<p>kaṇ mutalāyiṉavellām urupeṉṟārāl uraiyāciriyareṉiṉ;-urupāyiṉ, ēḻāvataṟkuk kaṇṇeṉpatu urupātal mēlē peṟappaṭṭamaiyāṟ peyarttuṅ kaṇkāleṉṟal kūṟiyatu kūṟiṟṟāmākalāṉum, ūrppuṟattiruntāṉ, ūrakattiruntāṉ, kaivalattuḷḷatu koṭukkum eṉap puṟam akam valameṉpaṉavaṟṟuvaḻi attuccāriyai koṭuttutāraṇaṅkāṭṭiṉamaiyāṉum, avarkkatu karuttaṉṟeṉka. urupallavēl, eṉṉuḻai, eṉmuṉ eṉa nilaimoḻi urupiṟkōtiya ceykai peṟṟavāṟeṉṉaiyeṉiṉ:-  'ataṟporuṭṭākaliṉ' eṉavum 'tammuṭaiya taṇṇaḷiyun tāmum' eṉavum urupiṉporuḷpaṭa varum piṟamoḻi vantuḻiyum nilaimoḻi acceykai peṟṟu niṟṟaliṉ; acceykai urupupuṇarccikkēyeṉṉum yāppuṟaviṉṟeṉka.</p>
+<p>aṉṉapiṟavumeṉṟataṉāl, poruṭkaṇuṇarvu, eṉkaṇaṉpuṭaiyaṉ, malarkkaṇāṟṟam, ākāyattukkaṭparuntu eṉṉuntoṭakkattaṉa koḷka.	(21)</p>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Nacciṉārkkiṉiyar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC250-Nacc-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Teyvaccilaiyār</head>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC250-Tey-cit1">
+      </lg>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <head>Kallāṭaṉār</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AC/mode/1up">196</ref>-<ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AD/mode/1up">197</ref>.</p>
+      <p>
+      </p>
+      <lg xml:id="TolC250-Kal-cit1">
+      </lg>
+    </body>
+  </text>
+</TEI>
