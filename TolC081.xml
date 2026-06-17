@@ -97,7 +97,7 @@
     </body>
   </text>
 <standOff corresp="#TolC081" type="wordsplit">
-<interp type="alignment" select="0">2MG6M2G92MG2M,12MG92MG</interp>
+<interp type="alignment" select="0">2MG6M2G49ML43MG2M,12MG93MG</interp>
 <entry>
 <form>ēḻ<c type="elided">u</c></form>
 <def>seven</def>
@@ -159,7 +159,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iṭattiṉ</form>
+<form><c type="geminated">y</c>iṭattiṉ</form>
 <def>place</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
@@ -167,8 +167,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ilattiṟ</form>
-<def>house</def>
+<form>nilattiṉ</form>
+<def>space/land</def>
+<form type="sandhi">ṉilattiṟ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">oblique</gram>
@@ -214,5 +215,63 @@
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC081-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">15M,15M</interp>
+<entry>
+<form>kūtirkkaṇ</form>
+<def>cold season</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he-came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC081-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">19M,18MG</interp>
+<entry>
+<form>māṭattiṉkaṇ</form>
+<def>storied house</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iruntāṉ</form>
+<def>sat-he</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC081-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">22M,21MG</interp>
+<entry>
+<form>taṭṭuppuṭaikkaṇ</form>
+<def>action place</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantāṉ</form>
+<def>he-came</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry>
 </standOff></TEI>
