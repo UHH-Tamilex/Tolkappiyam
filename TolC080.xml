@@ -1517,16 +1517,8 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC080-Cena-cit35" type="wordsplit">
-<interp type="alignment" select="0">11M,11M</interp>
-<entry>
-<form>aṉṉapiṟavum</form>
-<def>same kind</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-</standOff><standOff corresp="#TolC080-Cena-cit36" type="wordsplit">
+</standOff>
+<standOff corresp="#TolC080-Cena-cit36" type="wordsplit">
 <interp type="alignment" select="0">8M,7MG</interp>
 <entry>
 <form>eḷ</form>
