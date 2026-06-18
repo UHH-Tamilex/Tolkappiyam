@@ -285,19 +285,15 @@
       <lg xml:id="TolC080-Cena-cit32">
       <l>yāṉaiyatu kāṭu</l> 
       </lg>
-        <p>eṉpaṉa vāḻccikkiḻamai.</p> 
+        <p>eṉpaṉa vāḻccikkiḻamai. avaṟṟuṇ</p> 
       <lg xml:id="TolC080-Cena-cit33">
-      <l>avaṟṟuṇ murukaṉatu kuṟiñcinilam;</l>
+      <l>murukaṉatu kuṟiñcinilam;</l>
       </lg>
       <lg xml:id="TolC080-Cena-cit34">
       <l>yāṉaiyatu kāṭu</l> 
         </lg>
         <p>eṉpaṉa nilappiṟitiṉkiḻamai. kāṭṭatiyāṉai eṉpatu poruṭpiṟitiṉkiḻamai. ēṉaiyatu kālappiṟitiṉkiḻamai.</p>
-<p>tirintu vēṟupaṭūum</p>
-  <lg xml:id="TolC080-Cena-cit35">
-  <l>aṉṉapiṟavum</l>
-  </lg>
-  <p>eṉṟataṉāl,</p>
+<p>tirintu vēṟupaṭūum aṉṉapiṟavum eṉṟataṉāl,</p>
   <lg xml:id="TolC080-Cena-cit36">
   <l>eṭcāntu;</l> 
   </lg>
@@ -1480,24 +1476,7 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#TolC080-Cena-cit33" type="wordsplit">
-<interp type="alignment" select="0">5MG25M,30MG</interp>
-<entry>
-<form>avaṟṟ<c type="elided">u</c></form>
-<def>those</def>
-<form type="sandhi">avaṟṟ</form>
-<gramGrp>
-  <gram type="role">pronoun</gram>
-  <gram type="role">oblique</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>uḷ</form>
-<def>among</def>
-<form type="sandhi">uṇ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
+<interp type="alignment" select="0">23M,22MG</interp>
 <entry>
 <form>murukaṉatu</form>
 <def>murukaṉ</def>
@@ -1538,16 +1517,8 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC080-Cena-cit35" type="wordsplit">
-<interp type="alignment" select="0">11M,11M</interp>
-<entry>
-<form>aṉṉapiṟavum</form>
-<def>same kind</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-</standOff><standOff corresp="#TolC080-Cena-cit36" type="wordsplit">
+</standOff>
+<standOff corresp="#TolC080-Cena-cit36" type="wordsplit">
 <interp type="alignment" select="0">8M,7MG</interp>
 <entry>
 <form>eḷ</form>

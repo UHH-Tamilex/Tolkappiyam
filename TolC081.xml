@@ -110,7 +110,7 @@
     </body>
   </text>
 <standOff corresp="#TolC081" type="wordsplit">
-<interp type="alignment" select="0">2MG6M2G49ML43MG2M,12MG93MG</interp>
+<interp type="alignment" select="0">2MG6M2G49ML42MG3M,12MG93MG</interp>
 <entry>
 <form>ēḻ<c type="elided">u</c></form>
 <def>seven</def>
@@ -130,14 +130,14 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>kaṇ<c type="geminated">ṇ</c></form>
+<form>kaṇ</form>
 <def>locative marker 'kaṇ'</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>eṉa<c type="geminated">p</c></form>
+<form><c type="geminated">ṇ</c>eṉa<c type="geminated">p</c></form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -165,8 +165,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>viṉaicey</form>
-<def>action-doing</def>
+<form>viṉai</form>
+<def>action</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cey</form>
+<def>doing</def>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -196,8 +203,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aṉaivakai<c type="geminated">k</c></form>
-<def>all-kind</def>
+<form>aṉai</form>
+<def>all</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vakai<c type="geminated">k</c></form>
+<def>kind</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -219,10 +233,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>atu<c type="glide">v</c>-ē</form>
+<form>atu-<c type="glide">v</c>ē</form>
 <def>that</def>
 <form type="simple">atu</form>
-<form type="sandhi">atu<c type="glide">v</c></form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
@@ -271,11 +284,16 @@
 </standOff><standOff corresp="#TolC081-Cena-cit1" type="wordsplit">
 <interp type="alignment" select="0">22M,21MG</interp>
 <entry>
-<form>taṭṭuppuṭaikkaṇ</form>
-<def>action place</def>
+<form>taṭṭu<c type="geminated">p</c></form>
+</entry>
+<entry>
+<form>puṭai<c type="geminated">k</c></form>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>in</def>
 <gramGrp>
-  <gram type="role">locative</gram>
-  <gram type="role">oblique</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
