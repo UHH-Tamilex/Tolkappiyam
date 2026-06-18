@@ -31,7 +31,7 @@
           <l>kaṇkāl puṟamakam uḷḷuḻai kīḻmēl</l>
 	<l>piṉcār ayalpuṭai tēvakai yeṉāa</l>
 	<l>muṉṉiṭai kaṭaitalai valamiṭa meṉāa</l>
-	<l>aṉṉa piṟavum ataṉpāla eṉmaṉār.</l>
+	<l>aṉṉa piṟavum ataṉpāla veṉmaṉār.</l>
         </lg>
     </body>
   </text>
@@ -61,44 +61,44 @@
       <lg xml:id="TolC082-Ilam-cit4">
       <l>ūrkkaṇṇiruntāṉ,</l>
       </lg> 
-      <lg xml:id="TolC082-Ilam-cit5"></lg>
+      <lg xml:id="TolC082-Ilam-cit5"/>
       <l>ūrkkāliruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit6"></lg>
+      <lg xml:id="TolC082-Ilam-cit6"/>
       <l>ūrppuṟat tiruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit7"></lg>
+      <lg xml:id="TolC082-Ilam-cit7"/>
       <l>ūrakattiruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit8"></lg>
+      <lg xml:id="TolC082-Ilam-cit8"/>
       <l>ūruḷiruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit9"></lg>
+      <lg xml:id="TolC082-Ilam-cit9"/>
       <l>cāṉṟōruḻaic ceṉṟāṉ,</l>
-      <lg xml:id="TolC082-Ilam-cit10"></lg>
+      <lg xml:id="TolC082-Ilam-cit10"/>
       <l>māṭattiṉ kīḻiruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit11"></lg>
+      <lg xml:id="TolC082-Ilam-cit11"/>
       <l>māṭattiṉ mēliruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit12"></lg>
+      <lg xml:id="TolC082-Ilam-cit12"/>
       <l>ērppiṉ ceṉṟāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit13"></lg>
+      <lg xml:id="TolC082-Ilam-cit13"/>
       <l>'kāṭṭuccā rōṭum',</l> 
-      <lg xml:id="TolC082-Ilam-cit14"></lg>
+      <lg xml:id="TolC082-Ilam-cit14"/>
       <l>ūraya liruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit15"></lg>
+      <lg xml:id="TolC082-Ilam-cit15"/>
       <l>ūrppuṭai yiruntāṉ.</l>
       <p>tēvakai eṉpatu ticaikkūṟṟu: atu,</p> 
-      <lg xml:id="TolC082-Ilam-cit16"></lg>
+      <lg xml:id="TolC082-Ilam-cit16"/>
       <l>'vaṭakkaṇ vēṅkaṭam, teṟkaṇ kumari'</l> 
       <p>eṉa varum.</p>
       <p>eṉāa eṉpatu iṭaiccol.</p>
-      <lg xml:id="TolC082-Ilam-cit17"></lg>
+      <lg xml:id="TolC082-Ilam-cit17"/>
       <l>tērmuṉ ceṉṟāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit18"></lg>
+      <lg xml:id="TolC082-Ilam-cit18"/>
       <l>cāṉṟōriṭaiyiruntāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit19"></lg>
+      <lg xml:id="TolC082-Ilam-cit19"/>
       <l>kōyiṟ kaṭaic ceṉṟāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit20"></lg>
+      <lg xml:id="TolC082-Ilam-cit20"/>
       <l>tantaitalaic ceṉṟāṉ,</l> 
-      <lg xml:id="TolC082-Ilam-cit21"></lg>
+      <lg xml:id="TolC082-Ilam-cit21"/>
       <l>kaivalattuḷḷatu koṭukkum,</l> 
-      <lg xml:id="TolC082-Ilam-cit22"></lg>
+      <lg xml:id="TolC082-Ilam-cit22"/>
       <l>kaiyiṭattiruntāṉ</l> 
       <p>eṉavum varum.</p>
       <p>'aṉṉa piṟavum' eṉṟataṉāl 'kiḻavō ṭēttu' eṉṉun toṭakkattaṉa koḷka.	(15)
@@ -278,7 +278,7 @@
     </body>
   </text>
 <standOff corresp="#TolC082" type="wordsplit">
-<interp type="alignment" select="0">94MG19M,113MG</interp>
+<interp type="alignment" select="0">94MG20M,114MG</interp>
 <entry>
 <form>kaṇ</form>
 <def>locative marker 'kaṇ'</def>
@@ -364,15 +364,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tē</form>
-<def>direction</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vakai</form>
-<def>manner</def>
+<form>tēvakai</form>
+<def>direction manner</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -436,8 +429,6 @@
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>piṟa-<c type="glide">v</c>um</form>
@@ -464,7 +455,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉmaṉār</form>
+<form><c type="glide">v</c>eṉmaṉār</form>
 <def>they say</def>
 <gramGrp>
   <gram type="role">plural</gram>
