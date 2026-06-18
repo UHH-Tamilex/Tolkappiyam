@@ -168,14 +168,14 @@
 <form>viṉai</form>
 <def>action</def>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>cey</form>
 <def>doing</def>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -188,7 +188,7 @@
 </entry>
 <entry>
 <form>nilattiṉ</form>
-<def>space/land</def>
+<def>land/location</def>
 <form type="sandhi">ṉilattiṟ</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
