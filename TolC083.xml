@@ -160,7 +160,7 @@
 </entry>
 <entry>
 <form>iyalum</form>
-<def>moving forward</def>
+<def>connected with</def>
 <form type="sandhi">iyalun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -168,7 +168,7 @@
 </entry>
 <entry>
 <form>tokai</form>
-<def>collection</def>
+<def>compound</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -190,16 +190,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pal<c type="geminated">l</c></form>
+<form>pal</form>
 <def>many</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āṟ<c type="elided">u</c></form>
+<form><c type="geminated">l</c>āṟ<c type="elided">u</c></form>
 <def>way</def>
-<form type="sandhi">āṟ</form>
+<form type="sandhi"><c type="geminated">l</c>āṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
