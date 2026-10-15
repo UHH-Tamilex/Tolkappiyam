@@ -36,12 +36,34 @@
   </text>
   <text xml:lang="ta" type="edition">
     <body>
-        <head>Iḷampūraṇar</head>
-        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
+      <head>Iḷampūraṇar</head>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/68/mode/1up">68</ref>.</p>
       <p>
+eṉpatu cūttiram.
       </p>
-      <lg xml:id="TolC250-Ilam-cit1">
+      <p>
+ivvōttu eṉṉa peyarttōveṉiṉ, vēṟṟumai tammiṉ mayaṅkiṉamai uṇarttiṉamaiyiṉ, <hi rend="bold">vēṟṟumai mayaṅkiyal</hi> eṉṉum peyarttu.
+      </p>
+      <p>
+it talaic cūttiram eṉnutaliṟṟō veṉiṉ, iraṇṭāvataṉoṭu ēḻāvatu mayaṅkumāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+urai: iraṇṭāvatu karumaccārpum karumamallāc cārpum eṉa iruporuḷ uṭaittu: tūṇaic cārntāṉ eṉpatu; karumac cārpāvatu ataṉaiyuṟac cārumātalāl. iṉi, aracaraic cārntāṉ eṉpatu karumamil cārpu. ak karumamil cārccip poruṇmaikkaṇ ēḻāvatu varutal urimai yuṭaittu eṉpatu.
+      </p>
+      <p>
+        varalāṟu:
+      </p>
+      <lg xml:id="TolC084-Ilam-cit1">
+        <l>aracaraic cārntāṉ</l>
       </lg>
+      <p>
+        eṉpuḻi
+      </p>
+      <lg xml:id="TolC084-Ilam-cit2">
+        <l>aracarkaṭ cārntāṉ</l>
+      </lg>
+      <p>eṉpatum āka eṉpatu. (1)
+      </p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -71,31 +93,119 @@
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n137/mode/1up">109</ref>.</p>
       <p>
+eṉpatu cūttiram
       </p>
-      <lg xml:id="TolC250-Nacc-cit1">
+      <p>
+itu, taṉporuḷiṟ ṟīrātu piṟitoṉṟaṉ poruṭkaṭ cellum poruṇ mayakkamuṅ, taṉ poruḷiṟ ṟīrntu cellu murupu mayakkamum eṉṉumiru vakai mayakkamu muṇarttaliṉ vēṟṟumai mayaṅkiyaleṉṉum peyarttatāyiṟṟu.
+      </p>
+      <p>
+iccūttira miraṇṭāvataṉ poruḷu matikārat tāṉiṉṟa vēḻāvataṉ poruḷum mayaṅkum mayakkaṅ kūṟukiṉṟatu.
+      </p>
+      <p>
+(i-ḷ) karuma mallāc cārpeṉ kiḷavikku - karumac cārcci yallāta ‘aracaraic cārntā’ ṉeṉavarum cārpeṉṉum poruṇmaikku, kaṇṇeṉ vēṟṟumai yurimaiyuṭaittu ― ēḻām vēṟṟumai yurittāy varutalu muṭaittueṉṟavāṟu.
+      </p>
+      <p>
+(u-m)
+      </p>
+      <lg xml:id="TolC084-Nacc-cit1">
+        <l>‘tūṇiṉaic cārntāṉ’</l>
       </lg>
+      <p>
+eṉṟāṟ pōla meyyuṟa liṉṟi
+      </p>
+       <lg xml:id="TolC084-Nacc-cit2">
+        <l>aracarkaṇ cārntāṉ</l>
+      </lg>
+      <p>
+eṉa varum.
+      </p>
+      <p>
+itaṉu ḷaracaratu cārtaṟ kiṭamākiya varu ṭaṉ poruḷa taṉi ṉīṅkātē piṟitiṉ poruḷākiya ceyappaṭuporuṭkaṭ ceṉṟa tēḻāvatu.
+        </p>
+      <lg xml:id="TolC084-Nacc-cit3">
+       <l>tūṇiṉkaṭ cārntāṉ</l>
+      </lg>
+        <p>
+eṉpatu vaḻakkamiṉṟu, āciriyar maṟuttaliṉ. <num xml:lang="en">(1)</num>
+      </p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Teyvaccilaiyār</head>
-      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n171/mode/1up">164</ref>.</p>
+      <p xml:lang="en">1929, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZU1k0My.TVA_BOK_0007188/page/n78/mode/1up">71</ref>.</p>
       <p>
+        ivvōttu eṉṉa peyarttō eṉiṉ, vēṟṟumai mayaṅkiyal eṉṉum peyarttu : oṉṟaṟku uriya urupu oṉṟaṉoṭu mayaṅkutalum, oṉṟaṟku uriya poruḷ oṉṟaṉōṭu mayaṅkutalum kūṟiṉamaiyāṟ peṟṟapeyar.
       </p>
-      <lg xml:id="TolC250-Tey-cit1">
+      <p>
+itaṉuḷ iccūttiram eṉ nutaliṟṟō eṉiṉ,
+      </p>
+      <p>
+iraṇṭāvatu ēḻāvataṉoṭu mayaṅkumāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+karumam eṉpatu vaṭamoḻic citaivu. ceyappaṭu poruḷai avar karumam eṉṟu vaḻaṅkupa.
+      </p>
+      <p>
+i-ḷ:― ceyappaṭu poruḷ allāta cārpu eṉṉuñ coṟku ēḻāmvēṟṟumai urimaiyātalum urittu. e-ṟu.
+      </p>
+      <p>
+        ummai etirmaṟaiyātalāl iraṇṭām vēṟṟumai urittātal perumpāṉmai.
+      </p>
+      <p>
+        u-m:―
+      </p>
+      <lg xml:id="TolC084-Tey-cit1">
+        <l>maṉaiyaic cārntāṉ-</l>
       </lg>
+      <lg xml:id="TolC084-Tey-cit2">
+        <l>maṉaikkaṭ cārntāṉ</l>
+      </lg>
+      <p>
+        eṉa varum.
+      </p>
+      <lg xml:id="TolC084-Tey-cit2">
+        <l>tūṇaiccārntāṉ</l>
+      </lg>
+      <p>
+eṉṟāṟpōlac cārappaṭṭaporuḷ tōṉṟātu iṭam tōṉṟuvataṟkum, po(ruḷ) tōṉṟuvataṟkum urittāvatāyiṟṟu.
+oruporuḷ iraṇṭu urupiṟkum urittāki varutaliṉ urupu mayakkam āyiṟṟu.	[1]
+      </p>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Kallāṭaṉār</head>
-      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AC/mode/1up">196</ref>-<ref target="https://archive.org/details/TVG27Tolkappiyam/page/%E0%AF%A7%E0%AF%AF%E0%AF%AD/mode/1up">197</ref>.</p>
+      <p xml:lang="en">ed. <persName xml:lang="ta">Cuntaramūrtti</persName> 1964, <ref target="https://archive.org/details/TVG27Tolkappiyam/page/82/mode/1up">82</ref>.</p>
       <p>
+eṉpatu cūttiram.
       </p>
-      <lg xml:id="TolC250-Kal-cit1">
+      <p>
+iṉi, ivvōttu eṉṉa peyarttō eṉiṉ, urupum poruḷum uṭaṉ mayaṅkutalum, oruvaḻi urupē mayaṅkutalum, oṉṟaṟkuriyataṉōṭu oṉṟu mayaṅkutalum, iraṇṭum ottu mayaṅkutalum, oru poruṇmai oṉṟaṟkē uriyatākātu palavaṟṟōṭu mayaṅkutalum, oṉṟaṉatu oru poruḷōṭu oṉṟu mayaṅkutalum, oṉṟaṉatu pala poruḷōṭu oṉṟu mayaṅkutalum, oṉṟaṟkurimai pūṇṭu eṭuttōtiṉa poruḷvaḻi mayaṅkutalum, ōtātaporuḷvaḻi mayaṅkutalum, oṉṟu taṉ marapāy mayaṅkutalum, ilakkaṇa vaḻakkuḷvaḻi mayaṅkutalum, ilakkaṇamilvaḻi mayaṅkutalum, mayakkavakaiyāṉ mayaṅkutalum, oṉṟaṉōṭu poruḷ muṭintu toṭarntaṭukki mayaṅkutalum, oṉṟaṉōṭu poruṇ muṭiyātu toṭarntaṭukki mayaṅkutalum, tokaiyuḷ mayaṅkutalum, tokaiyil mayaṅkutalum, urupu vēṟṟumaiyāy mayaṅkutalum, urupum urupum mayaṅkutalum, eṉṟiṉṉōraṉṉa vēṟṟumai mayakkam pala kūṟaliṉ vēṟṟumaimayaṅkiyal eṉṉum peyarttāyiṟṟu.
+      </p>
+      <p>
+iccūttiram eṉṉutaliṟṟō eṉiṉ, niṟutta muṟaiyāṉē iraṇṭāvatu, atikārattāṉē niṉṟa ēḻāvataṉoṭum mayaṅkumāṟu uṇarttutal nutaliṟṟu.
+      </p>
+      <p>
+(i-ḷ) karumaccārcciyallāta cārtal eṉṉum poruṇmaikku urittātalaiyuṭaittuk kaṇ eṉṉum vāypāṭṭatākiya ēḻām vēṟṟumai, (e-ṟu.)
+      </p>
+      <p>
+        (e-ṭu.)
+      </p>
+      <lg xml:id="TolC084-Kal-cit1">
+        <l>aracaraic cārntār,</l>
       </lg>
+      <lg xml:id="TolC084-Kal-cit2">
+        <l>aracarkaṭ cārntār</l>
+      </lg>
+      <p>
+       eṉavarum.
+      </p>
+      <p>
+karumaccārccikkaṇ aracarkaṇ cārntār eṉiṉ, aracar iṭamāka, cārappaṭṭatu piṟitāvāṉ cellaliṉ karumamallāc cārpu eṉṟu ōtappaṭṭatu.	[1]
+      </p>
     </body>
   </text>
 </TEI>
