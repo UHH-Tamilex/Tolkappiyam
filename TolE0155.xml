@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,7 +35,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0155"><interp type="alignment" select="0">25MG6MG2M,35M</interp>
+<standOff type="wordsplit" corresp="#TolE0155">
+<interp type="alignment" select="0">24M2G7MG2M,36M</interp>
 <entry>
 <form>aḵṟiṇai</form>
 <def>irrational class</def>
@@ -56,20 +59,23 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iyalpu-mār</form>
+<form>iyalp<c type="elided">u</c>-umār</form>
 <def>nature</def>
-<form type="sandhi">iyalpumār</form>
+<form type="simple">iyalpu</form>
+<form type="sandhi">iyalp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>uḷa-<c type="glide">v</c>ē</form>
-<def>they-are</def>
+<def>they are</def>
 <form type="simple">uḷa</form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
