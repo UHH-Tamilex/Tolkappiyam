@@ -70,7 +70,7 @@ eṉa varum.
       <l>kōṭṭiṉkaṭkuṟaittāṉ</l> 
       </lg>
       <p>eṉa varum.</p>
-      <p>viṉaikkuṟippai nīkkutaṟku viṇaiyeṉṟār.</p>
+      <p>viṉaikkuṟippai nīkkutaṟku viṉaiyeṉṟār.</p>
       <p>viṉainilaiyokkumeṉṟārēṉum, pukaḻtal paḻittaleṉṉuntoṭakkattaṉavoḻittu mayaṅkutaṟkēṟkum aṟuttal kuṟaittaṉmutalāyiṉa viṉaiyē koḷḷappaṭum.</p>
       <p>iraṇṭāvataṉporuṭkaṇ eḻāvatu ceṉṟatāyiṉum, ciṟuvaraviṟṟaṉṟi iraṉṭāvatupōla eḻāvatu vaḻakkiṉ kaṭpayiṉṟu varutaliṉ, okkumeṉṟār; atu kāraṇattāl, 
         karumamallāccārccikkuñ ciṉaikkiḷavikkum eḻāvatu urimaiyuṭaitteṉa uṭaṉkūṟātu, vēṟu kūṟiṉāreṉpatu.</p> 
@@ -161,4 +161,80 @@ ciṉaikkaṇ ivviraṇṭum varum eṉṟatu eṉṉai, piṟavum varumāl eṉ
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC085" type="wordsplit">
+<interp type="alignment" select="0">19MG2MG6MG34M,63MG</interp>
+<entry>
+<form>ciṉai</form>
+<def>part</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai<c type="geminated">k</c></form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷavikk<c type="elided">u</c></form>
+<def>to the word</def>
+<form type="sandhi">kiḷavikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ai-<c type="glide">y</c>uṅ</form>
+<def>accusative case marker</def>
+<form type="sandhi">ai<c type="glide">y</c>uṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ-<c type="geminated">ṇ</c>um</form>
+<def>locative case marker</def>
+<form type="simple">kaṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>verb</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilai</form>
+<def>standing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>okkum</form>
+<def>equals</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉmaṉār</form>
+<def>they say</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulavar</form>
+<def>poet-scholar</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
