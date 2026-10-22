@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,7 +29,7 @@
     <body>
         <lg xml:id="TolC084">
           <l>karuma mallāc cārpeṉ kiḷavik</l>
-	<l>kurimaiyu muṭaittēkaṇṇeṉvēṟṟumai.</l>
+	        <l>kurimaiyu muṭaittē kaṇṇeṉ vēṟṟumai.</l>
         </lg>
     </body>
   </text>
@@ -166,7 +165,7 @@ i-ḷ:― ceyappaṭu poruḷ allāta cārpu eṉṉuñ coṟku ēḻāmvēṟ�
       <p>
         eṉa varum.
       </p>
-      <lg xml:id="TolC084-Tey-cit2">
+      <lg xml:id="TolC084-Tey-cit3">
         <l>tūṇaiccārntāṉ</l>
       </lg>
       <p>
@@ -208,4 +207,168 @@ karumaccārccikkaṇ aracarkaṇ cārntār eṉiṉ, aracar iṭamāka, cārappa
       </p>
     </body>
   </text>
-</TEI>
+<standOff corresp="#TolC084-Cena-cit1" type="wordsplit">
+<interp type="alignment" select="0">13M,13M</interp>
+<entry>
+<form>tūṇai<c type="geminated">c</c></form>
+<def>pillar</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārntāṉ</form>
+<def>he leaned</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC084-Cena-cit2" type="wordsplit">
+<interp type="alignment" select="0">16M,16M</interp>
+<entry>
+<form>aracarai<c type="geminated">c</c></form>
+<def>king/ruler</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārntāṉ</form>
+<def>he depended</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC084-Cena-cit3" type="wordsplit">
+<interp type="alignment" select="0">16M,16M</interp>
+<entry>
+<form>aracar</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>on</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārntāṉ</form>
+<def>he depended</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC084-Nacc-cit3" type="wordsplit">
+<interp type="alignment" select="0">15M,15M</interp>
+<entry>
+<form>tūṇiṉ</form>
+<def>pillar</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>on</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cārntāṉ</form>
+<def>he leaned</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC084" type="wordsplit">
+<interp type="alignment" select="0">16MG10MG6MG9M2G16M,61MG</interp>
+<entry>
+<form>karumam</form>
+<def>action</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>allā<c type="geminated">c</c></form>
+<def>not-so</def>
+</entry>
+<entry>
+<form>cārp<c type="elided">u</c></form>
+<def>support/auxiliary</def>
+<form type="sandhi">cārp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>called as</def>
+</entry>
+<entry>
+<form>kiḷavikk<c type="elided">u</c></form>
+<def>to the word</def>
+<form type="sandhi">kiḷavikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>urimai-<c type="glide">y</c>um</form>
+<def>right/relevance</def>
+<form type="simple">urimai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaitt<c type="elided">u</c>-ē</form>
+<def>possess-it</def>
+<form type="simple">uṭaittu</form>
+<form type="sandhi">uṭaitt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>on</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ṇ</c>eṉ</form>
+<def>called as</def>
+</entry>
+<entry>
+<form>vēṟṟumai</form>
+<def>case ending</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
