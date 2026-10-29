@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,7 +31,7 @@
 <l>meyyiṟu coṉmuṉ meyvaru vaḻiyumeṉ</l>
 <l>ṟivveṉa vaṟiyak kiḷakkuṅ kālai</l>
 <l>niṟutta collē kuṟittuvaru kiḷaviyeṉ</l>
-<l>ṟāyī riyal puṇarnilaic cuṭṭē</l>
+<l>ṟāyī riyala puṇarnilaic cuṭṭē</l>
       </lg>
       <lg xml:lang="en">
 <l>When [one] defines [rules] in the combination [of sounds]<note place="foot"><foreign xml:lang="ta">puṇarnilai.</foreign></note></l>
@@ -44,7 +46,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0107"><interp type="alignment" select="0">25MG27MG3ML12MG12MG3ML23MG6MG36MG23MG8MG15M2GM,207M</interp>
+<standOff type="wordsplit" corresp="#TolE0107">
+<interp type="alignment" select="0">25MG27MG3ML24MG3ML23MG6MG36MG23MG24M2GM,206M</interp>
 <entry>
 <form>uyir</form>
 <def>vowel</def>
@@ -54,17 +57,24 @@
 </entry>
 <entry>
 <form>iṟu</form>
-<def> bring to an end</def>
+<def>ending</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>colmuṉ</form>
-<def>in front of the word</def>
-<form type="sandhi">coṉmuṉ</form>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>in front of</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -99,17 +109,24 @@
 </entry>
 <entry>
 <form>iṟu</form>
-<def>bring to an end</def>
+<def>ending</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>colmuṉ</form>
-<def>in front of the word</def>
-<form type="sandhi">coṉmuṉ</form>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>in front of</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -144,21 +161,28 @@
 </entry>
 <entry>
 <form><c type="geminated">y</c>iṟu</form>
-<def>bring to an end</def>
+<def>ending</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>colmuṉ</form>
-<def>in front of the word</def>
-<form type="sandhi">coṉmuṉ</form>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated"/>uyir</form>
+<form>muṉ</form>
+<def>in front of</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uyir</form>
 <def>vowel</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -189,17 +213,24 @@
 </entry>
 <entry>
 <form><c type="geminated">y</c>iṟu</form>
-<def>bring to an end</def>
+<def>ending</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>colmuṉ</form>
-<def>in front of the word</def>
-<form type="sandhi">coṉmuṉ</form>
+<form>col</form>
+<def>word</def>
+<form type="sandhi">coṉ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>in front of</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -316,14 +347,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ā</form>
-<def>that</def>
+<form>āy</form>
+<def>become</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>īr</form>
+<form>īr</form>
 <def>two</def>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -331,8 +362,7 @@
 </entry>
 <entry>
 <form>iyala</form>
-<def>they are of nature</def>
-<form type="sandhi">iyal</form>
+<def>they are of the nature</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
@@ -361,5 +391,6 @@
   <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
