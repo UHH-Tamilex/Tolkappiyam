@@ -136,17 +136,18 @@ eṉa varum. (4)
     </body>
   </text>
 <standOff corresp="#TolC087" type="wordsplit">
-<interp type="alignment" select="0">19MG2MG6MG34M,63MG</interp>
+<interp type="alignment" select="0">19MG3MG32MG9M,65MG</interp>
 <entry>
-<form>ciṉai</form>
-<def>part</def>
+<form>mutal</form>
+<def>first</def>
+<form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilai<c type="geminated">k</c></form>
-<def>standing</def>
+<form>ciṉai<c type="geminated">k</c></form>
+<def>part</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -160,55 +161,62 @@ eṉa varum. (4)
 </gramGrp>
 </entry>
 <entry>
-<form>ai-<c type="glide">y</c>uṅ</form>
-<def>accusative case marker</def>
-<form type="sandhi">ai<c type="glide">y</c>uṅ</form>
+<form>atu-<c type="glide">v</c>eṉ</form>
+<def>sixth case marker</def>
+<form type="sandhi">atu<c type="glide">v</c>eṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇ-<c type="geminated">ṇ</c>um</form>
-<def>locative case marker</def>
-<form type="simple">kaṇ</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
-<entry>
-<form>viṉai</form>
-<def>verb</def>
+<form>vēṟṟumai</form>
+<def>case ending</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilai</form>
-<def>standing</def>
+<form>mutal</form>
+<def>first</def>
+<form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>okkum</form>
-<def>equals</def>
+<form>kaṇ</form>
+<def>seventh case marker</def>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>eṉmaṉār</form>
-<def>they say</def>
+<form>varinē</form>
+<def>if it comes</def>
 <gramGrp>
-  <gram type="role">third person</gram>
+  <gram type="role">conditional</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>pulavar</form>
-<def>poet-scholar</def>
+<form>ciṉaikk<c type="elided">u</c></form>
+<def>part</def>
+<form type="sandhi">ciṉaikk</form>
 <gramGrp>
-  <gram type="role">third person</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ai</form>
+<def>lord</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varumē</form>
+<def>comes</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
