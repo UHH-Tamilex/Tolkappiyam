@@ -266,9 +266,9 @@
 </entry>
 <entry>
 <form>i<c type="geminated">v</c></form>
-<def>this-adj.</def>
+<def>this</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -305,7 +305,7 @@
 <form>niṟutta</form>
 <def>standing</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -321,7 +321,7 @@
 <form>kuṟittu</form>
 <def>towards</def>
 <gramGrp>
-  <gram type="role">adverb</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
