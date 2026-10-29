@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +24,8 @@
   <body>
     <div rend="parallel">
       <lg xml:id="TolE0214">
-<l/>
+          <l>toṭara liṟuti tammuṟ ṟāmvariṉ</l>
+          <l>lakaram ṟakaravoṟ ṟākalu murittē.</l>
       </lg>
       <lg xml:lang="en">
 <l><foreign xml:lang="ta">La</foreign> of the standing words may be changed to <foreign xml:lang="ta">ṟ,</foreign></l>
@@ -32,11 +35,11 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#TolE0214"><interp type="alignment" select="0">60G,60M</interp>
+<standOff type="wordsplit" corresp="#TolE0214">
+<interp type="alignment" select="0">43MG4MG7M2G2M,59MG</interp>
 <entry>
 <form>toṭar</form>
 <def>link</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -44,15 +47,13 @@
 <entry>
 <form>al</form>
 <def>not</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṟuti<c type="geminated"/></form>
+<form>iṟuti</form>
 <def>end</def>
-<form type="sandhi"><c type="geminated"/></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -60,7 +61,6 @@
 <entry>
 <form>tam</form>
 <def>self</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">oblique</gram>
@@ -70,7 +70,7 @@
 <entry>
 <form>muṉ</form>
 <def>before</def>
-<form type="sandhi"/>
+<form type="sandhi">muṟ</form>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
@@ -78,7 +78,7 @@
 <entry>
 <form>tām</form>
 <def>self</def>
-<form type="sandhi"/>
+<form type="sandhi">ṟām</form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
@@ -87,7 +87,6 @@
 <entry>
 <form>variṉ</form>
 <def>come-if-even</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
@@ -95,7 +94,6 @@
 <entry>
 <form>lakaram</form>
 <def>consonant 'l'</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -103,15 +101,14 @@
 <entry>
 <form>ṟakara</form>
 <def>consonant 'r'</def>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>oṟṟ<c type="elided">u</c></form>
+<form><c type="glide">v</c>oṟṟ<c type="elided">u</c></form>
 <def>consonant</def>
-<form type="sandhi"><c type="glide"/></form>
+<form type="sandhi"><c type="glide">v</c>oṟṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -120,7 +117,6 @@
 <form>ākal-um</form>
 <def>becoming</def>
 <form type="simple">ākal</form>
-<form type="sandhi"/>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -130,11 +126,12 @@
 <form>uritt<c type="elided">u</c>-ē</form>
 <def>right-it</def>
 <form type="simple">urittu</form>
-<form type="sandhi"/>
+<form type="sandhi">uritt</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
