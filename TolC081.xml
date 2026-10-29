@@ -1,18 +1,10 @@
-<<<<<<< Updated upstream
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-=======
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
->>>>>>> Stashed changes
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-<<<<<<< Updated upstream
           <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 81.
-=======
-          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 250.
->>>>>>> Stashed changes
         </title>
       </titleStmt>
       <publicationStmt>

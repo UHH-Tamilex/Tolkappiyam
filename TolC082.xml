@@ -1,18 +1,10 @@
-<<<<<<< Updated upstream
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-=======
 <?xml-stylesheet type="text/xsl" href="edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
->>>>>>> Stashed changes
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-<<<<<<< Updated upstream
           <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 82.
-=======
-          <title xml:lang="ta">Tolkāppiyam Collatikāram</title> 250.
->>>>>>> Stashed changes
         </title>
       </titleStmt>
       <publicationStmt>
@@ -36,23 +28,17 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-<<<<<<< Updated upstream
         <lg xml:id="TolC082">
           <l>kaṇkāl puṟamakam uḷḷuḻai kīḻmēl</l>
 	<l>piṉcār ayalpuṭai tēvakai yeṉāa</l>
 	<l>muṉṉiṭai kaṭaitalai valamiṭa meṉāa</l>
 	<l>aṉṉa piṟavum ataṉpāla veṉmaṉār.</l>
-=======
-        <lg xml:id="TolC">
-          <l></l>
->>>>>>> Stashed changes
         </lg>
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
         <head>Iḷampūraṇar</head>
-<<<<<<< Updated upstream
         <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/65/mode/1up">65</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/66/mode/1up">66</ref>.</p>
       <p>ic cūttiram eṉnutaliṟṟō veṉiṉ, muṟaiyāṉē ēḻām vēṟṟumai yuṇarttutal nutaliṟṟu.</p>
       <p>urai: ēḻām eṇṇu muṟaimaikkaṇṇatu kaṇ eṉṉum peyaraiyuṭaiya vēṟṟumaic col, viṉaicey yiṭamum nilamum kālamum eṉpaṉa mūṉṟu poruṭkaṇṇum varum atu eṉṟavāṟu</p>
@@ -118,19 +104,11 @@
       <p>eṉavum varum.</p>
       <p>'aṉṉa piṟavum' eṉṟataṉāl 'kiḻavō ṭēttu' eṉṉun toṭakkattaṉa koḷka.	(15)
       </p>
-=======
-        <p xml:lang="en">ed. <persName xml:lang="ta">Namaccivāya Mutaliyār</persName> 1931, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZMelJhy.TVA_BOK_0007521/page/156/mode/1up">156</ref>.</p>
-      <p>
-      </p>
-      <lg xml:id="TolC250-Ilam-cit1">
-      </lg>
->>>>>>> Stashed changes
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
         <head>Cēṉāvaraiyar</head>
-<<<<<<< Updated upstream
         <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n87/mode/1up">84</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n89/mode/1up">86</ref>.</p>
       <p>i - ḷ. kaṇ mutalāka iṭamīṟākac collappaṭṭa pattoṉpatuporuḷum avaipōlvaṉa piṟavum ēḻāvataṉ ṟiṟattaṉa. e-ṟu.</p>
 <p>kaṇṇeṉṉum poruḷāvatu <lg xml:id="TolC082-Cena-cit1"><l>'kaṇṇiṉṟu kūṟutalāṟṟāṉavaṉāyiṉ.'</l></lg> e-m. <lg xml:id="TolC082-Cena-cit2"><l>'kaṇṇakaṉñālam.'</l></lg> e-m. kaṇṇeṉṉumiṭaiccollāṉuṇarttappaṭum iṭapporuṇmai. tēvakaiyeṉpatu ticaikkūṟu. kaṇkālpuṟamakamuḷḷeṉpaṉa mutalāyiṉavaṟṟatu poruḷvēṟṟumai vaḻakku nōkki yuṇarntukoḷka.</p>
@@ -171,19 +149,11 @@
 <p>eṉāaveṉpatu eṇṇiṭaiccol.</p>
 <p>kaṇ mutalāyiṉavellām urupeṉṟārāl uraiyāciriyareṉiṉ;-urupāyiṉ, ēḻāvataṟkuk kaṇṇeṉpatu urupātal mēlē peṟappaṭṭamaiyāṟ peyarttuṅ kaṇkāleṉṟal kūṟiyatu kūṟiṟṟāmākalāṉum, ūrppuṟattiruntāṉ, ūrakattiruntāṉ, kaivalattuḷḷatu koṭukkum eṉap puṟam akam valameṉpaṉavaṟṟuvaḻi attuccāriyai koṭuttutāraṇaṅkāṭṭiṉamaiyāṉum, avarkkatu karuttaṉṟeṉka. urupallavēl, eṉṉuḻai, eṉmuṉ eṉa nilaimoḻi urupiṟkōtiya ceykai peṟṟavāṟeṉṉaiyeṉiṉ:-  'ataṟporuṭṭākaliṉ' eṉavum 'tammuṭaiya taṇṇaḷiyun tāmum' eṉavum urupiṉporuḷpaṭa varum piṟamoḻi vantuḻiyum nilaimoḻi acceykai peṟṟu niṟṟaliṉ; acceykai urupupuṇarccikkēyeṉṉum yāppuṟaviṉṟeṉka.</p>
 <p>aṉṉapiṟavumeṉṟataṉāl, poruṭkaṇuṇarvu, eṉkaṇaṉpuṭaiyaṉ, malarkkaṇāṟṟam, ākāyattukkaṭparuntu eṉṉuntoṭakkattaṉa koḷka.	(21)</p>
-=======
-        <p xml:lang="en">ed. <persName xml:lang="ta">Ci. Vai. Tamōtarampiḷḷai</persName> 1868, <ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n205/mode/1up">202</ref>–<ref target="https://archive.org/details/tolkppiyamcollat00unse/page/n206/mode/1up">203</ref>.</p>
-      <p>
-      </p>
-      <lg xml:id="TolC250-Cena-cit1">
-      </lg>
->>>>>>> Stashed changes
     </body>
   </text>
   <text xml:lang="ta" type="edition">
     <body>
       <head>Nacciṉārkkiṉiyar</head>
-<<<<<<< Updated upstream
       <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n132/mode/1up">104</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/n135/mode/1up">107</ref>.</p>
       <p>iḵtu, ivvēḻāvataṟku muṭikka varum poruḷ vēṟupāṭu iṉṟi urupiṉ pākupāṭē uṭaimaiyiṉ, urupiṉ pākupāṭē kūṟukiṉṟatu.</p>
 <p>(i-ḷ.)kaṇ- kaṇ eṉṉum poruḷum, kāl.....puṭai- kāl mutalākap puṭai īṟākac collappaṭṭa urupukaḷum, tē vakai eṉā- tē vakai eṉṉum ticaikkūṟṟup poruṇmaiyum, muṉ.....iṭam eṉā- muṉ mutalāka iṭam īṟāka ōtappaṭṭa urupukaḷum, aṉṉa piṟavum- avai pōlvaṉa piṟa uṟupukaḷum, ataṉpāla eṉmaṉār- ēḻāvataṉ kūṟṟaṉa eṉṟu kūṟuvar pulavar(e-ṟu.)</p>
@@ -286,13 +256,6 @@
 <l>āṭaṟkaṇ aḻaku</l>
 </lg>
 <p>eṉak kiḻamaiyum ciṉaiyum paṇpum viṉaippeyarum paṟṟi varum.</p>
-=======
-      <p xml:lang="en">ed. <persName xml:lang="ta">Irāma. Kōvintacāmipiḷḷai</persName> 1997, <ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/279/mode/1up">279</ref>–<ref target="https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM3kZpy.TVA_BOK_0008472/page/280/mode/1up">280</ref>.</p>
-      <p>
-      </p>
-      <lg xml:id="TolC250-Nacc-cit1">
-      </lg>
->>>>>>> Stashed changes
     </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -315,7 +278,6 @@
       </lg>
     </body>
   </text>
-<<<<<<< Updated upstream
 <standOff corresp="#TolC082" type="wordsplit">
 <interp type="alignment" select="0">94MG20M,114MG</interp>
 <entry>
@@ -502,6 +464,3 @@
 </gramGrp>
 </entry>
 </standOff></TEI>
-=======
-</TEI>
->>>>>>> Stashed changes
