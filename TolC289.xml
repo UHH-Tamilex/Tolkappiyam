@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,7 +268,7 @@ eṉpataṉuḷ eṉṟu eṉpatu āvoṭu kūṭi eṇṇuk kuṟittavāṟu ka
 <form>iru</form>
 <def>two</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>kiḷavi-<c type="glide">y</c>um</form>

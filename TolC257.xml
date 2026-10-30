@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -352,7 +351,7 @@ iṉi īṟṟacai -
 <form type="sandhi"><c type="glide">v</c>aint</form>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>ēkāram-<c type="geminated">m</c>ē</form>

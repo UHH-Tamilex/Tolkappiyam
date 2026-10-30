@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,9 +26,7 @@
       </lg>
       <lg xml:lang="en">
 <l>But if <foreign xml:lang="ta">āyiram</foreign> ' thousand ' occurs, the above-mentioned rule [i.e.</l>
-<l>that of 434] will not change.<note
-              place="foot">I.e. the same change takes place as that set up in aphorism 434 :<foreign
-                xml:lang="ta">pattu + āyiram &gt; patiṉāyiram</foreign> ' ten thousand '.</note></l>
+<l>that of 434] will not change.<note place="foot">I.e. the same change takes place as that set up in aphorism 434 :<foreign xml:lang="ta">pattu + āyiram &gt; patiṉāyiram</foreign> ' ten thousand '.</note></l>
       </lg>
     </div>
   </body>

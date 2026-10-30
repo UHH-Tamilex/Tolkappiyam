@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,8 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>The final <foreign xml:lang="ta">ya</foreign> of the optative <foreign xml:lang="ta">vāḻiya</foreign></l>
-<l>is optionally dropped.<note
-              place="foot">E.g. <foreign xml:lang="ta">vāḻiya koṟṟā &gt; vāḻikoṟṟā.</foreign></note></l>
+<l>is optionally dropped.<note place="foot">E.g. <foreign xml:lang="ta">vāḻiya koṟṟā &gt; vāḻikoṟṟā.</foreign></note></l>
       </lg>
     </div>
   </body>

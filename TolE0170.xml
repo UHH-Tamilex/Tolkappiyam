@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,10 +36,8 @@
 <l>they are</l>
 <l><foreign xml:lang="ta">k, c, t, p,</foreign> and <foreign xml:lang="ta">n, m, v,</foreign></l>
 <l>and also <foreign xml:lang="ta">a</foreign> and <foreign xml:lang="ta">u</foreign> ;</l>
-<l>so it is said.<note
-              place="foot">Exx. :<foreign xml:lang="ta"> kalam, kaḻañcu, cāṭi, cīrakam, tūtai, toṭi,
-          palam, pāṉai, nāḻi, nirai, maṇṭai, mā, vaṭṭil, varai, akal, antai, uḻakku.</foreign> It is interesting that obviously no item was available to Iḷampūranar with initial <foreign
-                xml:lang="ta">u-</foreign> denoting weight. On the other hand, he quotes words denoting measurement and beginning with other phonemes, viz. <foreign xml:lang="ta">immi, ōraṭai, ōrātai.</foreign></note></l>
+<l>so it is said.<note place="foot">Exx. :<foreign xml:lang="ta"> kalam, kaḻañcu, cāṭi, cīrakam, tūtai, toṭi,
+          palam, pāṉai, nāḻi, nirai, maṇṭai, mā, vaṭṭil, varai, akal, antai, uḻakku.</foreign> It is interesting that obviously no item was available to Iḷampūranar with initial <foreign xml:lang="ta">u-</foreign> denoting weight. On the other hand, he quotes words denoting measurement and beginning with other phonemes, viz. <foreign xml:lang="ta">immi, ōraṭai, ōrātai.</foreign></note></l>
       </lg>
     </div>
   </body>

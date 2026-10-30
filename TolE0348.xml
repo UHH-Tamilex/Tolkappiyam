@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,8 +29,7 @@
 <l><foreign xml:lang="ta">Ātaṉ</foreign> and <foreign xml:lang="ta">pūtaṉ,</foreign> besides the above-described changes,</l>
 <l>will also discard [their] consonants and the sound <foreign xml:lang="ta">a</foreign></l>
 <l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
-<l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note
-              place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
+<l>[of <foreign xml:lang="ta">tantai</foreign>] completely.<note place="foot">i.e. <foreign xml:lang="ta">ātaṉ + tantai &gt; āntai ; pūtaṉ + tantai &gt; pūntai.</foreign></note></l>
       </lg>
     </div>
   </body>

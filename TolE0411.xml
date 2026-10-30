@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +31,7 @@
 <l>are in case-relationship, a related voiceless plosive</l>
 <l>is inserted [after shortened <foreign xml:lang="ta">u</foreign>] and the voiceless plosive</l>
 <l>in the middle [that precedes the <foreign xml:lang="ta">u</foreign>] is doubled [when</l>
-<l>followed by a word with an initial voiceless plosive].<note
-              place="foot">E.g., <foreign xml:lang="ta">kayiru + puṟam &gt; kayiṟṟuppuṟam ;</foreign> or <foreign xml:lang="ta">yāṭu + kāl &gt; yāṭṭukkāl.</foreign></note></l>
+<l>followed by a word with an initial voiceless plosive].<note place="foot">E.g., <foreign xml:lang="ta">kayiru + puṟam &gt; kayiṟṟuppuṟam ;</foreign> or <foreign xml:lang="ta">yāṭu + kāl &gt; yāṭṭukkāl.</foreign></note></l>
       </lg>
     </div>
   </body>
