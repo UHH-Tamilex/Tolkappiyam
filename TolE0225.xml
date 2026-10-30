@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +25,7 @@
 <l>vēṟṟumaik kaṇṇu mataṉō raṟṟē</l>
       </lg>
       <lg xml:lang="en">
-<l>In case-relationship, too, the same rule applies.<note
-              place="foot">E.g. <foreign xml:lang="ta">tārā + kāl &gt; tārākkāl.</foreign></note></l>
+<l>In case-relationship, too, the same rule applies.<note place="foot">E.g. <foreign xml:lang="ta">tārā + kāl &gt; tārākkāl.</foreign></note></l>
       </lg>
     </div>
   </body>

@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,8 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>It is said : if <foreign xml:lang="ta">iraṇṭu</foreign> ' two ' occurs, <foreign xml:lang="ta">-ttu</foreign> in <foreign xml:lang="ta">pattu</foreign> disappears, and <foreign xml:lang="ta">ṉṉ</foreign></l>
-<l>is inserted.<note
-              place="foot">I.e. <foreign xml:lang="ta">pattu + iraṇṭu &gt; paṉṉiraṇṭu</foreign> ' twelve '.</note></l>
+<l>is inserted.<note place="foot">I.e. <foreign xml:lang="ta">pattu + iraṇṭu &gt; paṉṉiraṇṭu</foreign> ' twelve '.</note></l>
       </lg>
     </div>
   </body>
@@ -92,7 +91,7 @@
 <def>two</def>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>varu</form>

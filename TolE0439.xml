@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,8 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>The middle sound <foreign xml:lang="ta">ra</foreign> in the number <foreign xml:lang="ta">iraṇṭu</foreign> ' two ' will not remain</l>
-<l>there in combination.<note
-              place="foot">Eg. <foreign xml:lang="ta">iraṇṭu + pattu &gt; iraṇ + pahtu &gt; * irarupahtu irupahtu.</foreign></note></l>
+<l>there in combination.<note place="foot">Eg. <foreign xml:lang="ta">iraṇṭu + pattu &gt; iraṇ + pahtu &gt; * irarupahtu irupahtu.</foreign></note></l>
       </lg>
     </div>
   </body>
@@ -61,7 +60,7 @@
 <form type="sandhi">iraṇṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>eṉ</form>

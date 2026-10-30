@@ -1,4 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,8 +27,7 @@
       </lg>
       <lg xml:lang="en">
 <l>The word <foreign xml:lang="ta">pattu</foreign> ' ten ' loses [its] middle consonant</l>
-<l>[and] <foreign xml:lang="ta">āytam</foreign> [in the shape of] dot[s] must occur.<note
-              place="foot">e.g. <foreign xml:lang="ta">eḻu + pattu &gt; eḻupaḵtu</foreign> ' seventy '.</note></l>
+<l>[and] <foreign xml:lang="ta">āytam</foreign> [in the shape of] dot[s] must occur.<note place="foot">e.g. <foreign xml:lang="ta">eḻu + pattu &gt; eḻupaḵtu</foreign> ' seventy '.</note></l>
       </lg>
     </div>
   </body>
