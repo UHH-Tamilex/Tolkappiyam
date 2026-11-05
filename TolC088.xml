@@ -72,7 +72,7 @@ eṉalumām. (5)
       </lg>
       <p>eṉa varum.</p>
       <p>teḷḷiteṉṟataṉāṉ, yāṉaiyaik kōṭṭaik kuṟaittāṉ eṉac ciṟupāṉmai aikāravēṟṟumaiyum varumeṉpatām.</p>
-      <p>ciṉaikkiḷavikkaṇ mayakkamuṇarttukiṉṟa cūttirattiṭaik "kaṉṟaluñcelavum" eṉṉuñcūttiram vaittateṉṉaiyeṉiṉ;- aiyuṅkaṇṇumeṉpatu atikārattāṉ varac cūttirañcuruṅkumākaliṉ, "ciṉainilaikkiḷavikku" eṉṉuñcūttirattiṉpiṉ ataṉai vaittāreṉpatu.</p>
+      <p>ciṉaikkiḷavikkaṇ mayakkamuṇarttukiṇṟa cūttirattiṭaik "kaṉṟaluñcelavum" eṉṉuñcūttiram vaittateṉṉaiyeṉiṉ;- aiyuṅkaṇṇumeṉpatu atikārattāṉ varac cūttirañcuruṅkumākaliṉ, "ciṉainilaikkiḷavikku" eṉṉñcūttirattiṉpiṉ ataṉai vaittāreṉpatu.</p>
       </body>
   </text>
   <text xml:lang="ta" type="edition">
@@ -335,24 +335,26 @@ mutaṟkaṇṇē iraṇṭām vēṟṟumai variṉ ēḻām vēṟṟumai ci�
 </standOff><standOff corresp="#TolC088-Cena-cit1" type="wordsplit">
 <interp type="alignment" select="0">27M,27M</interp>
 <entry>
-<form>yāṉai</form>
+<form>yāṉaiyai<c type="geminated">k</c></form>
 <def>elephant</def>
 <gramGrp>
+  <gram type="role">accusative</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ai<c type="geminated">k</c></form>
-<def>second case marker</def>
+<form>kōṭṭiṉ</form>
+<def>horn</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kōṭṭiṉkaṭ</form>
-<def>tusk</def>
+<form>kaṇ</form>
+<def>in</def>
+<form type="sandhi">kaṭ</form>
 <gramGrp>
-  <gram type="role">locative</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -360,6 +362,67 @@ mutaṟkaṇṇē iraṇṭām vēṟṟumai variṉ ēḻām vēṟṟumai ci�
 <def>he reduced</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC088-Ilam-cit1" type="wordsplit">
+<interp type="alignment" select="0">28M,27MG</interp>
+<entry>
+<form>yāṉaiyai<c type="geminated">k</c></form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭṭu<c type="geminated">k</c></form>
+<def>horn</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>in</def>
+<form type="sandhi">kaṭ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟaittāṉ</form>
+<def>he reduced</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#TolC088-Ilam-cit2" type="wordsplit">
+<interp type="alignment" select="0">27M,G25MG</interp>
+<entry>
+<form>yāṉaiyai<c type="geminated">k</c></form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭṭai<c type="geminated">k</c></form>
+<def>horn</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟaittāṉ</form>
+<def>he reduced</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
