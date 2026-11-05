@@ -136,10 +136,10 @@ eṉa varum. (4)
     </body>
   </text>
 <standOff corresp="#TolC087" type="wordsplit">
-<interp type="alignment" select="0">19MG3MG32MG9M,65MG</interp>
+<interp type="alignment" select="0">19MG27MG8MG7MG2M,66MG</interp>
 <entry>
 <form>mutal</form>
-<def>first</def>
+<def>whole</def>
 <form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -154,18 +154,24 @@ eṉa varum. (4)
 </entry>
 <entry>
 <form>kiḷavikk<c type="elided">u</c></form>
-<def>to the word</def>
+<def>for a sentence</def>
 <form type="sandhi">kiḷavikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>atu-<c type="glide">v</c>eṉ</form>
+<form>atu</form>
 <def>sixth case marker</def>
-<form type="sandhi">atu<c type="glide">v</c>eṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉ</form>
+<def>called</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -177,7 +183,7 @@ eṉa varum. (4)
 </entry>
 <entry>
 <form>mutal</form>
-<def>first</def>
+<def>whole</def>
 <form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -185,17 +191,20 @@ eṉa varum. (4)
 </entry>
 <entry>
 <form>kaṇ</form>
-<def>seventh case marker</def>
+<def>on</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>varinē</form>
+<form>variṉ-ē</form>
 <def>if it comes</def>
+<form type="simple">variṉ</form>
+<form type="sandhi">varin</form>
 <gramGrp>
   <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>ciṉaikk<c type="elided">u</c></form>
@@ -213,10 +222,12 @@ eṉa varum. (4)
 </gramGrp>
 </entry>
 <entry>
-<form>varumē</form>
+<form>varum-ē</form>
 <def>comes</def>
+<form type="simple">varum</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">habitual future</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff></TEI>
