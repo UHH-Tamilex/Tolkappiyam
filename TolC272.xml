@@ -158,29 +158,29 @@ i–ḷ: — ē eṉṉum collum, kurai eṉṉum collum icai niṟaittalākiyum
       <p>
 icai niṟaiyāvatu icai niṟaittaṟporuṭṭu orucollōṭu oṭṭivarum. acai nilaiyāvatu taṉi varum. 
       </p>
-      <lg xml:id="TolC270-Tey-cit1">
+      <lg xml:id="TolC272-Tey-cit1">
         <l>ē ē ivaḷorutti pēṭiyō veṉṟār<app><note>(cīvaka. 652)</note></app></l>
       </lg>
       <p> 
 eṉṟavaḻi, ē eṉpatu icai niṟaiyāyiṟṟu.
       </p>
-      <lg xml:id="TolC270-Tey-cit2">
+      <lg xml:id="TolC272-Tey-cit2">
         <l>ē teḷintēmyām</l>
       </lg>
       <p>
 eṉpatu acainilaiyāyiṟṟu.
       </p>
-      <lg xml:id="TolC270-Tey-cit3">
+      <lg xml:id="TolC272-Tey-cit3">
         <l>aḷitō tāṉēyatu peṟalaruṅ kuraittē</l>
         <trailer>(puṟam. 5)</trailer>
       </lg>
-      <lg xml:id="TolC270-Tey-cit4">
+      <lg xml:id="TolC272-Tey-cit4">
         <l>cērnta ciṉaiyiḷaṅ kuraiya vāyiṉum</l>
       </lg>
       <p>
 eṉpaṉa icainiṟai.
       </p>
-      <lg xml:id="TolC270-Tey-cit5">
+      <lg xml:id="TolC272-Tey-cit5">
         <l>nalkura veṉṉu miṭumpaiyuṭ palkurait</l>
         <l>tuṉpaṅkaḷ ceṉṟu paṭum.</l>
         <trailer>(kuṟaḷ – <g ref="#āyiram">10</g>45)</trailer>
@@ -693,7 +693,7 @@ itu acainilai.	[23]
   <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit1" type="wordsplit">
+</standOff><standOff corresp="#TolC272-Tey-cit1" type="wordsplit">
 <interp type="alignment" select="0">16MG8M,25M</interp>
 <entry>
 <form>ēē</form>
@@ -720,7 +720,7 @@ itu acainilai.	[23]
 </entry>
 <entry>
 <form>pēṭi-<c type="glide">y</c>ō</form>
-<def>Pēṭi dance</def>
+<def>man performing a woman</def>
 <form type="simple">pēṭi</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -736,7 +736,7 @@ itu acainilai.	[23]
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit2" type="wordsplit">
+</standOff><standOff corresp="#TolC272-Tey-cit2" type="wordsplit">
 <interp type="alignment" select="0">12M,12M</interp>
 <entry>
 <form>ē</form>
@@ -764,7 +764,7 @@ itu acainilai.	[23]
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit3" type="wordsplit">
+</standOff><standOff corresp="#TolC272-Tey-cit3" type="wordsplit">
 <interp type="alignment" select="0">4M2G4MG21M2GM,35M</interp>
 <entry>
 <form>aḷit<c type="elided">u</c>-ō</form>
@@ -820,7 +820,7 @@ itu acainilai.	[23]
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit4" type="wordsplit">
+</standOff><standOff corresp="#TolC272-Tey-cit4" type="wordsplit">
 <interp type="alignment" select="0">28MG2M,31M</interp>
 <entry>
 <form>cērnta</form>
@@ -855,7 +855,7 @@ itu acainilai.	[23]
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-</standOff><standOff corresp="#TolC270-Tey-cit5" type="wordsplit">
+</standOff><standOff corresp="#TolC272-Tey-cit5" type="wordsplit">
 <interp type="alignment" select="0">8MG44M,52MG</interp>
 <entry>
 <form>nalkurav<c type="elided">u</c></form>
