@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +28,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <lg xml:id="TolC454">
-        <l>iṭaiccollellāmvēṟṟumaiccollē.</l>
+        <l>iṭaiccol lellām vēṟṟumaic collē.</l>
             </lg>
     </body>
   </text>
@@ -65,40 +66,39 @@
   </text>
   
 <standOff corresp="#TolC454" type="wordsplit">
-<interp type="alignment" select="0">29M,28MG</interp>
+<interp type="alignment" select="0">26MG3M,29MG</interp>
 <entry>
-<form>iṭai</form>
+<form>iṭai<c type="geminated">c</c></form>
 <def>middle</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">c</c>col</form>
+<form>col</form>
 <def>word</def>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">l</c>ellām</form>
+<form><c type="geminated">l</c>ellām</form>
 <def>all</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vēṟṟumai</form>
+<form>vēṟṟumai<c type="geminated">c</c></form>
 <def>case ending</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">c</c>col-ē</form>
+<form>col-<c type="geminated">l</c>ē</form>
 <def>word</def>
 <form type="simple">col</form>
-<form type="sandhi"><c type="glide">c</c>col</form>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
