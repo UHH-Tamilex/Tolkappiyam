@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +36,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#TolE062">
-<interp type="alignment" select="0">13MG8MG5M2G11ML12MG2M,57M</interp>
+<interp type="alignment" select="0">13MG8MG5M2G11ML3MG9MG2M,58M</interp>
 <entry>
 <form>cakara<c type="geminated">k</c></form>
 <def>consonant 'c'</def>
@@ -105,9 +107,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mūṉṟ</form>
+<form>mūṉṟ<c type="elided">u</c></form>
 <def>three</def>
+<form type="sandhi">mūṉṟ</form>
 <gramGrp>
+  <gram type="role">numeral</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
